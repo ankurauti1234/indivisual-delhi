@@ -29731,7 +29731,7 @@ export const epgData = [
     "id": "ITEM-01ED4C21",
     "program": "Ad:Aurvedic Medicine,Patanjali,Patanjali,Healthcare Products",
     "region": "Delhi",
-    "start": "14:18:53",
+    "start": "14:59:53",
     "type": "advertisement"
   },
   {
@@ -50358,7 +50358,7 @@ export const epgData = [
     "id": "ITEM-3DFA9E75",
     "program": "Ad:Educatus Expo,Education & Career Guidance,Higher Education & Professional Training,Education & Academia",
     "region": "Delhi",
-    "start": "14:24:31",
+    "start": "14:34:31",
     "type": "advertisement"
   },
   {
@@ -57827,7 +57827,7 @@ export const epgData = [
     "id": "ITEM-3160B47C",
     "program": "Ad:Federal Bank,Credit Card Discounts & Cashback Offers,Banking & Financial Services,Finance & Retail",
     "region": "Delhi",
-    "start": "20:41:32",
+    "start": "21:41:32",
     "type": "advertisement"
   },
   {
