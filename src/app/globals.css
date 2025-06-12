@@ -1,19 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: Nunito;
-  src: url("/fonts/Nunito.ttf");
-}
-
-@font-face {
-  font-family: Sora;
-  src: url("/fonts/Sora.ttf");
-}
-
 body {
-  font-family: Sora, Nunito, Arial, Helvetica, sans-serif;
+  font-family: 'Lexend', Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+/* Numbers styling */
+.font-mono, 
+[data-type="number"],
+.number,
+input[type="number"],
+.tabular-nums {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
 }
 
 @layer base {
@@ -42,6 +48,11 @@ body {
     --chart-3: 300 50% 70%; /* Muted pink */
     --chart-4: 45 100% 60%; /* Kept pastel yellow */
     --chart-5: 275 45% 65%; /* Dusty lavender */
+    --chart-6: 10 65% 60%;  /* Soft coral */
+    --chart-7: 190 50% 60%; /* Gentle teal */
+    --chart-8: 95 40% 65%;  /* Subdued lime */
+    --chart-9: 330 45% 68%; /* Light mauve */
+    --chart-10: 240 40% 60%; /* Calm indigo */
 
     --radius: 0.5rem;
   }
@@ -66,14 +77,8 @@ body {
     --destructive: 0 80% 50%; /* Bold, bright red */
     --destructive-foreground: 0 0% 100%; /* Pure white for contrast */
     --ring: 240 50% 50%; /* Soft muted blue */
-    --chart-1: 220 40% 60%; /* Muted soft blue */
-    --chart-2: 140 40% 50%; /* Dark muted green */
-    --chart-3: 300 40% 65%; /* Subdued pink */
-    --chart-4: 45 90% 50%; /* Slightly deeper pastel yellow */
-    --chart-5: 275 35% 60%; /* Dark lavender */
   }
 }
-
 
 @layer base {
   * {

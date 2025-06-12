@@ -268,38 +268,27 @@ export const radio_broad_reports = [
   {
     id: 1,
     image: "/images/program-grid.png",
-    title: "Program Grid Delhi",
+    title: "Program Grid",
     description:
       "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
     lastUpdated: "May 1, 2024",
     page: "radio",
     subpage: "broadcasters",
-    slug: "program-grid-delhi",
+    slug: "program-grid",
   },
 
   {
     id: 2,
-    image: "/images/program-grid.png",
-    title: "Program Grid Patna",
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis",
     description:
-      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
-    lastUpdated: "May 1, 2024",
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
     page: "radio",
     subpage: "broadcasters",
-    slug: "program-grid-patna",
+    slug: "weekly-analysis",
   },
 
-  // {
-  //   id: 2,
-  //   image: "/images/daily-analysis.png",
-  //   title: "Weekly Analysis",
-  //   description:
-  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-  //   lastUpdated: "May 2, 2024",
-  //   page: "radio",
-  //   subpage: "broadcasters",
-  //   slug: "weekly-analysis",
-  // },
 ];
 
 export const radio_ads_reports = [
