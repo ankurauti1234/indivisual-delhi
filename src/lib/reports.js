@@ -278,7 +278,7 @@ export const radio_broad_reports = [
   },
 
     {
-    id: 1,
+    id: 2,
     image: "/images/program-grid.png",
     title: "Program Grid Patna",
     description:
