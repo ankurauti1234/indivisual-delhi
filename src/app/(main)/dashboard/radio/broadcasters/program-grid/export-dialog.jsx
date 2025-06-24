@@ -38,8 +38,8 @@ const ExportDialog = ({ selectedDate, epgData, availableData }) => {
   const { toast } = useToast();
 
   // Available regions and stations for report mode
-  const regions = ["Kochi"];
-  const reportStations = ["Radio Mirchi", "Club FM", "Mango FM", "Red FM"];
+  const regions = ["Delhi"];
+  const reportStations = ["radio-mirchi", "radio-city", "radio-one", "red-fm"];
 
   // Available stations for EPG export based on selected date
   const availableStations = Object.keys(availableData).filter((station) =>
