@@ -1,5 +1,5 @@
 export const sectorSecondsData = {
-  week16: {
+  week19: {
     "Radio City": {
       ACCESSORIES: {
         

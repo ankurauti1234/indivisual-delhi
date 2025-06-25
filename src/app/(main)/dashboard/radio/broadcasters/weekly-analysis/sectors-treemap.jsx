@@ -19,7 +19,7 @@ const COLORS = [
 ];
 
 const TVChannelTreemap = () => {
-  const [selectedWeek, setSelectedWeek] = useState("week16");
+  const [selectedWeek, setSelectedWeek] = useState("week19");
   const [selectedStation, setSelectedStation] = useState("Radio City");
   const [selectedChannel, setSelectedChannel] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState(null);
@@ -38,7 +38,7 @@ const TVChannelTreemap = () => {
   };
 
   const getTitle = () => {
-    const weekDisplay = selectedWeek === "week16" ? "Week 16" : "Week 17";
+    const weekDisplay = selectedWeek ===  "week19" ? "Week 19" : "Week 19";
     const metric = dataType === "plays" ? "Plays" : "Seconds";
     if (selectedBrand) {
       return `${selectedBrand} Products ${metric} (${weekDisplay} - ${selectedStation})`;
@@ -232,7 +232,7 @@ const TVChannelTreemap = () => {
             >
               {weeks.map((week) => (
                 <option key={week} value={week}>
-                  {week === "week16" ? "Week 16" : "Week 17"}
+                  {week ===  "week19" ? "Week 19" : "Week 19"}
                 </option>
               ))}
             </select>

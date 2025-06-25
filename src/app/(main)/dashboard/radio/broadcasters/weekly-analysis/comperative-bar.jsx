@@ -206,7 +206,7 @@ const RadioSectorAnalysis = () => {
 
   // Define weeks
   const weeks = [
-    { value: "week_1", label: "Week 1 (May 7-14, 2025)", shortLabel: "Week 1" },
+    { value: "week_1", label: "Week 19 (May 7-14, 2025)", shortLabel: "Week 19" },
   ];
 
   // Define stations

@@ -80,7 +80,7 @@ const StatCards = () => {
   ];
 
   const weeks = [
-    { value: "week_1", label: "Week 1 (May 7-14, 2025)" },
+    { value: "week_1", label: "Week 19 (May 7-14, 2025)" },
   ];
 
   const renderTrend = (trend, isPositive) => {

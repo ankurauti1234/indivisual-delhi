@@ -8,7 +8,7 @@ import TVChannelTreemap from './sectors-treemap'
 import SharedAdvertisers from './shared-advertizers'
 import UntappedLeads from './untapped-leads'
 import DailyAdsLineChart from './daily-ads-line-chart'
-// import { Table, AlertTriangle } from 'lucide-react'
+import { Table, AlertTriangle } from 'lucide-react'
 // import { Button } from '@/components/ui/button'
 // import Link from 'next/link'
 
