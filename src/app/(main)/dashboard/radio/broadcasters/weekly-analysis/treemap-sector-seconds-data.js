@@ -1,5345 +1,2399 @@
 export const sectorSecondsData = {
   week16: {
-    "Radio Mango": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 9410,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 9410,
-        "brands": {
-          "Arabian Gold&Diamonds Jewelry": {
-            "sum": 2060,
-            "products": [
-              {
-                "name": "Arabian Gold&Diamonds",
-                "sum": 280
+    "Radio City": {
+      ACCESSORIES: {
+        
+        sum: 6442,
+        categories: {
+          "JEWELLERY-RETAIL": {
+            
+            sum: 6442,
+            brands: {
+              JOYALUKKAS: {
+                sum: 1680,
+                products: [],
               },
-              {
-                "name": "Gold & Diamond",
-                "sum": 1200
+              "KUNDAN&POLKI JEWELRY": {
+                sum: 604,
+                products: [],
               },
-              {
-                "name": "Gold&Diamonds",
-                "sum": 580
-              }
-            ]
-          },
-          "Bhima Gold&Diamonds": {
-            "sum": 940,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 940
-              }
-            ]
-          },
-          "Josco Jewellers": {
-            "sum": 610,
-            "products": [
-              {
-                "name": "Josco Jewellers Kochi Showroom",
-                "sum": 610
-              }
-            ]
-          },
-          "Joyalukkas Gold& Diamonds": {
-            "sum": 1175,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1175
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 3218,
-            "products": [
-              {
-                "name": "Gold & Diamond",
-                "sum": 2318
+              "UNISON JEWELS": {
+                sum: 4158,
+                products: [],
               },
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 900
-              }
-            ]
+            },
           },
-          "TBZ Original": {
-            "sum": 1407,
-            "products": [
-              {
-                "name": "Diamond Jewellery",
-                "sum": 1407
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 7136,
-    "categories": {
-      "Automobile - Car": {
-        "color": "#4ECDC4",
-        "sum": 7136,
-        "brands": {
-          "Hyundai": {
-            "sum": 1240,
-            "products": [
-              {
-                "name": "Hyundai Cars",
-                "sum": 1240
-              }
-            ]
-          },
-          "MG Motor India": {
-            "sum": 2646,
-            "products": [
-              {
-                "name": "MG Hector",
-                "sum": 1313
-              },
-              {
-                "name": "MG Midnight Carnival",
-                "sum": 1333
-              }
-            ]
-          },
-          "Skoda": {
-            "sum": 2420,
-            "products": [
-              {
-                "name": "Skoda Kylaq",
-                "sum": 2420
-              }
-            ]
-          },
-          "Volkswagen": {
-            "sum": 830,
-            "products": [
-              {
-                "name": "Taigun",
-                "sum": 830
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Constructions": {
-    "color": "#E74C3C",
-    "sum": 1260,
-    "categories": {
-      "Building Materials": {
-        "color": "#4ECDC4",
-        "sum": 1260,
-        "brands": {
-          "Chettinad Construction": {
-            "sum": 1260,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 1260
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#3498DB",
-    "sum": 4515,
-    "categories": {
-      "Consumer Durables": {
-        "color": "#4ECDC4",
-        "sum": 385,
-        "brands": {
-          "MyG Future": {
-            "sum": 385,
-            "products": [
-              {
-                "name": "Electronics&Home Appliances",
-                "sum": 385
-              }
-            ]
-          }
-        }
+        },
       },
-      "Consumer Durables - Air Conditioner": {
-        "color": "#9B59B6",
-        "sum": 530,
-        "brands": {
-          "BPL": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 300
-              }
-            ]
+      AUTOMOBILE: {
+        
+        sum: 10747,
+        categories: {
+          "AUTOMOBILE-CARS": {
+            
+            sum: 10747,
+            brands: {
+              HONDA: {
+                sum: 1645,
+                products: [],
+              },
+              "HONDA ELEVATE": {
+                sum: 554,
+                products: [],
+              },
+              KIA: {
+                sum: 2130,
+                products: [],
+              },
+              "MARUTI SUZUKI": {
+                sum: 1920,
+                products: [],
+              },
+              NISSAN: {
+                sum: 3238,
+                products: [],
+              },
+              TOYOTA: {
+                sum: 1260,
+                products: [],
+              },
+            },
           },
-          "Kelvinator": {
-            "sum": 230,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 230
-              }
-            ]
-          }
-        }
+        },
       },
-      "Consumer Durables - Refrigerator": {
-        "color": "#3498DB",
-        "sum": 3600,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 3600,
-            "products": [
-              {
-                "name": "Laptops",
-                "sum": 900
+      "CONSUMER DURABLES": {
+        
+        sum: 7112,
+        categories: {
+          "HOME APPLIANCES": {
+            
+            sum: 6743,
+            brands: {
+              KELVINATOR: {
+                sum: 814,
+                products: [],
               },
-              {
-                "name": "LED TV",
-                "sum": 450
+              LG: {
+                sum: 3699,
+                products: [],
               },
-              {
-                "name": "Refrigerator",
-                "sum": 2085
+              PANASONIC: {
+                sum: 1201,
+                products: [],
               },
-              {
-                "name": "Smart Phone",
-                "sum": 165
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Education": {
-    "color": "#9B59B6",
-    "sum": 1852,
-    "categories": {
-      "Education": {
-        "color": "#4ECDC4",
-        "sum": 1852,
-        "brands": {
-          "Hindusthan Institute of Techonology": {
-            "sum": 378,
-            "products": [
-              {
-                "name": "Aviation Programs",
-                "sum": 126
+              VOLTAS: {
+                sum: 1029,
+                products: [],
               },
-              {
-                "name": "Courses",
-                "sum": 252
-              }
-            ]
+            },
           },
-          "KCG College of Techonology": {
-            "sum": 124,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 124
-              }
-            ]
+          TOYS: {
+            
+            sum: 369,
+            brands: {
+              KIDZANIA: {
+                sum: 369,
+                products: [],
+              },
+            },
           },
-          "UPES": {
-            "sum": 1350,
-            "products": [
-              {
-                "name": "Educational Programs",
-                "sum": 1350
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#1ABC9C",
-    "sum": 12434,
-    "categories": {
-      "Contest": {
-        "color": "#4ECDC4",
-        "sum": 600,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 600,
-            "products": [
-              {
-                "name": "Short Video Contest",
-                "sum": 600
-              }
-            ]
-          }
-        }
+        },
       },
-      "Entertainment": {
-        "color": "#9B59B6",
-        "sum": 564,
-        "brands": {
-          "Malayala Manorama": {
-            "sum": 564,
-            "products": [
-              {
-                "name": "Pet Show",
-                "sum": 564
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Amusement Park": {
-        "color": "#3498DB",
-        "sum": 2140,
-        "brands": {
-          "Funtura": {
-            "sum": 1760,
-            "products": [
-              {
-                "name": "Amusement Park",
-                "sum": 1760
-              }
-            ]
+      "E-COMMERCE": {
+        
+        sum: 1408,
+        categories: {
+          "USED CAR MARKETPLACE": {
+            
+            sum: 1408,
+            brands: {
+              SPINNY: {
+                sum: 1408,
+                products: [],
+              },
+            },
           },
-          "Silver Storm": {
-            "sum": 380,
-            "products": [
-              {
-                "name": "Slides&Rides",
-                "sum": 380
-              }
-            ]
-          }
-        }
+        },
       },
-      "Entertainment - Movie": {
-        "color": "#F1C40F",
-        "sum": 100,
-        "brands": {
-          "Alappuzha Gymkhana": {
-            "sum": 100,
-            "products": [
-              {
-                "name": "Alappuzha Gymkhana",
-                "sum": 100
-              }
-            ]
-          }
-        }
+      EDUCATION: {
+        
+        sum: 19335,
+        categories: {
+          COACHING: {
+            
+            sum: 4595,
+            brands: {
+              "AAKASH INSTITUTE": {
+                sum: 4227,
+                products: [],
+              },
+              "VIDYAMANDIR CLASSES": {
+                sum: 368,
+                products: [],
+              },
+            },
+          },
+          "DIGITAL EDUCATION": {
+            
+            sum: 3812,
+            brands: {
+              "SANSKAR SHIKSHA SANGH": {
+                sum: 3812,
+                products: [],
+              },
+            },
+          },
+          EDUCATION: {
+            
+            sum: 2688,
+            brands: {
+              "PRATAP SPORTS SCHOOL": {
+                sum: 2688,
+                products: [],
+              },
+            },
+          },
+          "HIGHER EDUCATION": {
+            
+            sum: 3149,
+            brands: {
+              "GRAPHIC ERA UNIVERSITY": {
+                sum: 1625,
+                products: [],
+              },
+              "UNIVERSITY OF STIRLING": {
+                sum: 1524,
+                products: [],
+              },
+            },
+          },
+          "INTERNATIONAL EDUCATION": {
+            
+            sum: 580,
+            brands: {
+              "IDP EDUCATION": {
+                sum: 580,
+                products: [],
+              },
+            },
+          },
+          UNIVERSITY: {
+            
+            sum: 4511,
+            brands: {
+              "HRIT UNIVERSITY": {
+                sum: 416,
+                products: [],
+              },
+              "LINGAYA'S VIDYAPEETH": {
+                sum: 407,
+                products: [],
+              },
+              NFSU: {
+                sum: 860,
+                products: [],
+              },
+              "NIIT UNIVERSITY": {
+                sum: 1253,
+                products: [],
+              },
+              "SUBHARTI UNIVERSITY": {
+                sum: 1575,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Entertainment-Sports": {
-        "color": "#4ECDC4",
-        "sum": 24,
-        "brands": {
-          "Maharaja's College": {
-            "sum": 24,
-            "products": [
-              {
-                "name": "Sports  Events",
-                "sum": 24
-              }
-            ]
-          }
-        }
+      ENTERTAINMENT: {
+        
+        sum: 16806,
+        categories: {
+          "CORPORATE EVENTS": {
+            
+            sum: 689,
+            brands: {
+              "FOREVER INDIA EVENTS": {
+                sum: 689,
+                products: [],
+              },
+            },
+          },
+          "DIGITAL MEDIA": {
+            
+            sum: 3355,
+            brands: {
+              "RC SWAPPR": {
+                sum: 3355,
+                products: [],
+              },
+            },
+          },
+          ENTERTAINMENT: {
+            
+            sum: 610,
+            brands: {
+              "MUZAD DISCO": {
+                sum: 610,
+                products: [],
+              },
+            },
+          },
+          "ENTERTAINMENT-AMUSEMENT PARK": {
+            
+            sum: 7816,
+            brands: {
+              "ATLANTIC WATER WORLD": {
+                sum: 5332,
+                products: [],
+              },
+              "FUN N FOOD WATER PARK": {
+                sum: 748,
+                products: [],
+              },
+              "WORLDS OF WONDER (WOW)": {
+                sum: 1736,
+                products: [],
+              },
+            },
+          },
+          "ENTERTAINMENT-SPORTS": {
+            
+            sum: 1463,
+            brands: {
+              "CRICKET BLOCKBUSTER": {
+                sum: 1463,
+                products: [],
+              },
+            },
+          },
+          JOURNALISM: {
+            
+            sum: 598,
+            brands: {
+              "ZEE NEWS": {
+                sum: 598,
+                products: [],
+              },
+            },
+          },
+          "OTT PLATFORM": {
+            
+            sum: 180,
+            brands: {
+              JIOTV: {
+                sum: 180,
+                products: [],
+              },
+            },
+          },
+          "OTT STREAMING": {
+            
+            sum: 195,
+            brands: {
+              "JIO HOTSTAR": {
+                sum: 195,
+                products: [],
+              },
+            },
+          },
+          RADIO: {
+            
+            sum: 1900,
+            brands: {
+              "RADIO CITY": {
+                sum: 616,
+                products: [],
+              },
+              "RADIO CITY – LOVE GURU SHOW": {
+                sum: 1284,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Lottery Ticket": {
-        "color": "#9B59B6",
-        "sum": 830,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 830,
-            "products": [
-              {
-                "name": "Vishu Bumper",
-                "sum": 830
-              }
-            ]
-          }
-        }
+      EVENTS: {
+        
+        sum: 2807,
+        categories: {
+          CONFERENCE: {
+            
+            sum: 1607,
+            brands: {
+              "POLITICAL SCIENCE CONFERENCE": {
+                sum: 1607,
+                products: [],
+              },
+            },
+          },
+          "TRADE SHOW": {
+            
+            sum: 1200,
+            brands: {
+              "FRANCHISE INDIA EXPO 2025": {
+                sum: 1200,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Publications": {
-        "color": "#3498DB",
-        "sum": 2714,
-        "brands": {
-          "Karshakasree": {
-            "sum": 1470,
-            "products": [
-              {
-                "name": "Magazine",
-                "sum": 1470
-              }
-            ]
+      FINANCE: {
+        
+        sum: 9052,
+        categories: {
+          "BANKING SERVICES": {
+            
+            sum: 698,
+            brands: {
+              "CANARA BANK": {
+                sum: 698,
+                products: [],
+              },
+            },
           },
-          "Manorama": {
-            "sum": 944,
-            "products": [
-              {
-                "name": "Fast Track - Magazine",
-                "sum": 944
-              }
-            ]
+          "BANKING&FINANCE": {
+            
+            sum: 2730,
+            brands: {
+              "MUTUAL FUND": {
+                sum: 2730,
+                products: [],
+              },
+            },
           },
-          "Vanitha - Magazine": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Vanitha Easter Special",
-                "sum": 300
-              }
-            ]
-          }
-        }
+          "FINANCIAL AWARENESS": {
+            
+            sum: 1646,
+            brands: {
+              "KYC RBI AWARENESS CAMPAIGN": {
+                sum: 656,
+                products: [],
+              },
+              "KYC UPDATE SERVICE": {
+                sum: 990,
+                products: [],
+              },
+            },
+          },
+          "FINANCIAL SERVICES": {
+            
+            sum: 1669,
+            brands: {
+              "MUTUAL FUND": {
+                sum: 1669,
+                products: [],
+              },
+            },
+          },
+          INSURANCE: {
+            
+            sum: 2015,
+            brands: {
+              "GENERAL INSURANCE": {
+                sum: 820,
+                products: [],
+              },
+              LIC: {
+                sum: 1195,
+                products: [],
+              },
+            },
+          },
+          LOANS: {
+            
+            sum: 294,
+            brands: {
+              "MANAPPURAM FINANCE": {
+                sum: 294,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Radio": {
-        "color": "#F1C40F",
-        "sum": 5462,
-        "brands": {
-          "Mango FM": {
-            "sum": 5462,
-            "products": [
-              {
-                "name": "Auto Expert Vivek Venugopal",
-                "sum": 40
+      FMCG: {
+        
+        sum: 13706,
+        categories: {
+          "FOOD&BEVERAGES": {
+            
+            sum: 11034,
+            brands: {
+              "BINGE CENTRAL": {
+                sum: 4284,
+                products: [],
               },
-              {
-                "name": "Bits Top",
-                "sum": 564
+              DAAWAT: {
+                sum: 2550,
+                products: [],
               },
-              {
-                "name": "Celebrity Playlist",
-                "sum": 2221
+              "DOUBLE CHABI": {
+                sum: 835,
+                products: [],
               },
-              {
-                "name": "Kochi Twist",
-                "sum": 232
+              "MC DONALD'S": {
+                sum: 1950,
+                products: [],
               },
-              {
-                "name": "Mr.Mouse",
-                "sum": 1191
+              RAJDHANI: {
+                sum: 1415,
+                products: [],
               },
-              {
-                "name": "Spotlight",
-                "sum": 1214
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "FMCG": {
-    "color": "#34495E",
-    "sum": 475,
-    "categories": {
-      "Food&Beverages": {
-        "color": "#4ECDC4",
-        "sum": 475,
-        "brands": {
-          "Palat Foods": {
-            "sum": 475,
-            "products": [
-              {
-                "name": "Instant Palappam Mix",
-                "sum": 15
+            },
+          },
+          "HEALTH&WELLNESS": {
+            
+            sum: 580,
+            brands: {
+              "MUGLI GHUTTI": {
+                sum: 580,
+                products: [],
               },
-              {
-                "name": "Steamed White Palappam Podi",
-                "sum": 331
+            },
+          },
+          "MOUTH FRESHENER": {
+            
+            sum: 2092,
+            brands: {
+              VIMAL: {
+                sum: 2092,
+                products: [],
               },
-              {
-                "name": "Steamed White PuttuPodi",
-                "sum": 129
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Finance": {
-    "color": "#D35400",
-    "sum": 216,
-    "categories": {
-      "Financial Services": {
-        "color": "#4ECDC4",
-        "sum": 216,
-        "brands": {
-          "Muthoot Finance": {
-            "sum": 216,
-            "products": [
-              {
-                "name": "Investment,\nMicrofinance",
-                "sum": 216
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Internet Services": {
-    "color": "#F1C40F",
-    "sum": 1026,
-    "categories": {
-      "Cable Service Provider": {
-        "color": "#4ECDC4",
-        "sum": 1026,
-        "brands": {
-          "Asianet": {
-            "sum": 1026,
-            "products": [
-              {
-                "name": "Asianet Fiber Connection",
-                "sum": 1026
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#FF6B6B",
-    "sum": 1930,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 1930,
-        "brands": {
-          "Euro Guard": {
-            "sum": 1930,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1930
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Petroleum Products": {
-    "color": "#2ECC71",
-    "sum": 1072,
-    "categories": {
-      "Petroleum Products": {
-        "color": "#4ECDC4",
-        "sum": 1072,
-        "brands": {
-          "Nayara Energy Petrol Pump": {
-            "sum": 1072,
-            "products": [
-              {
-                "name": "Petrol/Diesel",
-                "sum": 1072
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Property": {
-    "color": "#E74C3C",
-    "sum": 3768,
-    "categories": {
-      "Property - Housing": {
-        "color": "#4ECDC4",
-        "sum": 3768,
-        "brands": {
-          "Varma Homes": {
-            "sum": 3768,
-            "products": [
-              {
-                "name": "Real Estate",
-                "sum": 3768
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#3498DB",
-    "sum": 9493,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 36,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 36,
-            "products": [
-              {
-                "name": "KIIFB",
-                "sum": 36
-              }
-            ]
-          }
-        }
+            },
+          },
+        },
       },
-      "Public Service Ads": {
-        "color": "#9B59B6",
-        "sum": 9457,
-        "brands": {
-          "Food Safety Department Kerala": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Food Safety",
-                "sum": 300
-              }
-            ]
-          },
-          "Govt of India": {
-            "sum": 600,
-            "products": [
-              {
-                "name": "Food Safety",
-                "sum": 600
-              }
-            ]
-          },
-          "Govt of Kerala": {
-            "sum": 3607,
-            "products": [
-              {
-                "name": "KIIFB Infrastructure Development",
-                "sum": 312
+      HEALTHCARE: {
+        
+        sum: 15943,
+        categories: {
+          "AYURVEDIC PRODUCTS": {
+            
+            sum: 2931,
+            brands: {
+              PATANJALI: {
+                sum: 2931,
+                products: [],
               },
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 1375
-              },
-              {
-                "name": "Sahakarana Expo 2025",
-                "sum": 1920
-              }
-            ]
+            },
           },
-          "Information&Public Relation Departmemt": {
-            "sum": 4140,
-            "products": [
-              {
-                "name": "Ente Keralam 2025",
-                "sum": 4140
-              }
-            ]
-          },
-          "RBI": {
-            "sum": 810,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 270
+          "ELECTROLYTE DRINK": {
+            
+            sum: 160,
+            brands: {
+              ORS: {
+                sum: 160,
+                products: [],
               },
-              {
-                "name": "Money Saving Initiative",
-                "sum": 540
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Retail": {
-    "color": "#9B59B6",
-    "sum": 810,
-    "categories": {
-      "Retail Garments": {
-        "color": "#4ECDC4",
-        "sum": 810,
-        "brands": {
-          "Cotton Fab": {
-            "sum": 810,
-            "products": [
-              {
-                "name": "Cotton Fab",
-                "sum": 810
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
+            },
+          },
+          "HERBAL REMEDIES": {
+            
+            sum: 2520,
+            brands: {
+              HAMDARD: {
+                sum: 2520,
+                products: [],
+              },
+            },
+          },
+          "SERVICES-MEDICAL": {
+            
+            sum: 10332,
+            brands: {
+              "DR CHANDRAKANT KAR": {
+                sum: 142,
+                products: [],
+              },
+              "DR. AGI G PILLAI HOSPITAL": {
+                sum: 71,
+                products: [],
+              },
+              "DR. LAL": {
+                sum: 2008,
+                products: [],
+              },
+              "DR. MANDIP YADAV DENTAL&IMPLANT CENTER": {
+                sum: 259,
+                products: [],
+              },
+              "DR. SAMEENA KHALIL": {
+                sum: 61,
+                products: [],
+              },
+              "DR. VIKAS CHOPRA": {
+                sum: 118,
+                products: [],
+              },
+              "FORTIS HOSPITAL": {
+                sum: 6403,
+                products: [],
+              },
+              "HOLY FAMILY HOSPITAL": {
+                sum: 122,
+                products: [],
+              },
+              "MEDANTA‑MOOLCHAND HEART CENTRE": {
+                sum: 120,
+                products: [],
+              },
+              "PSRI HOSPITAL": {
+                sum: 866,
+                products: [],
+              },
+              "SIR GANGA RAM HOSPITAL": {
+                sum: 162,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      MANUFACTURING: {
+        
+        sum: 108,
+        categories: {
+          "SAFETY COMPLIANCE": {
+            
+            sum: 108,
+            brands: {
+              ISI: {
+                sum: 108,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      PROPERTY: {
+        
+        sum: 3172,
+        categories: {
+          "PROPERTY-COMMERCIAL": {
+            
+            sum: 1272,
+            brands: {
+              "KAVERI BUILDTECH": {
+                sum: 1272,
+                products: [],
+              },
+            },
+          },
+          "PROPERTY-HOUSING": {
+            
+            sum: 1900,
+            brands: {
+              "NAVRAJ GROUP": {
+                sum: 1246,
+                products: [],
+              },
+              "SHANTA HOLDINGS": {
+                sum: 654,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "PUBLIC INTEREST": {
+        
+        sum: 561,
+        categories: {
+          "PUBLIC SERVICE ADS": {
+            
+            sum: 561,
+            brands: {
+              "BIS APP": {
+                sum: 121,
+                products: [],
+              },
+              "JAGRAN PRASARAN": {
+                sum: 440,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "TEXTILES AND RETAIL": {
+        
+        sum: 740,
+        categories: {
+          "INNERWEAR&LINGERIE": {
+            
+            sum: 740,
+            brands: {
+              "INGRID BRA": {
+                sum: 740,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "TRAVEL&TOURISM": {
+        
+        sum: 300,
+        categories: {
+          AIRLINES: {
+            
+            sum: 300,
+            brands: {
+              "VIETJET AIR": {
+                sum: 300,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+    },
+
     "Radio Mirchi": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 4995,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 4995,
-        "brands": {
-          "Bhima Gold&Diamonds": {
-            "sum": 360,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 360
-              }
-            ]
-          },
-          "Chungam Jewellers": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Gold & Diamond - Ernakulam Showroom",
-                "sum": 300
-              }
-            ]
-          },
-          "Ernakulam Jewellery": {
-            "sum": 40,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 40
-              }
-            ]
-          },
-          "Josco Jewellers": {
-            "sum": 590,
-            "products": [
-              {
-                "name": "Josco Jewellers Kochi Showroom",
-                "sum": 590
-              }
-            ]
-          },
-          "Jothkut Gold&Diamonds Jewellery": {
-            "sum": 40,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 40
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 3000,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 3000
-              }
-            ]
-          },
-          "Nakshathra Gold&Diamonds Jewellry": {
-            "sum": 665,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 665
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 2530,
-    "categories": {
-      "Automobile - Car": {
-        "color": "#4ECDC4",
-        "sum": 2530,
-        "brands": {
-          "Kia": {
-            "sum": 950,
-            "products": [
-              {
-                "name": "Kia Motors",
-                "sum": 825
+      ACCESSORIES: {
+        
+        sum: 1720,
+        categories: {
+          "ACCESSORIES-RETAIL": {
+            
+            sum: 1720,
+            brands: {
+              TITAN: {
+                sum: 1720,
+                products: [],
               },
-              {
-                "name": "Syros",
-                "sum": 125
-              }
-            ]
+            },
           },
-          "Skoda": {
-            "sum": 1580,
-            "products": [
-              {
-                "name": "Skoda Kylaq",
-                "sum": 1580
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#E74C3C",
-    "sum": 6485,
-    "categories": {
-      "Consumer Durables": {
-        "color": "#4ECDC4",
-        "sum": 300,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Electronics Appliances \nOffer",
-                "sum": 90
+        },
+      },
+      AUTOMOBILE: {
+        
+        sum: 18295,
+        categories: {
+          "AUTOMOBILE-CARS": {
+            
+            sum: 13564,
+            brands: {
+              HONDA: {
+                sum: 1545,
+                products: [],
               },
-              {
-                "name": "Summer Cool Mega Sale",
-                "sum": 210
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Air Conditioner": {
-        "color": "#9B59B6",
-        "sum": 1520,
-        "brands": {
-          "Kelvinator": {
-            "sum": 240,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 240
-              }
-            ]
-          },
-          "LG": {
-            "sum": 540,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 540
-              }
-            ]
-          },
-          "Panasonic": {
-            "sum": 620,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 620
-              }
-            ]
-          },
-          "Pittapillil Agencies": {
-            "sum": 120,
-            "products": [
-              {
-                "name": "Air Conditioner & Fan",
-                "sum": 120
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - LED TV": {
-        "color": "#3498DB",
-        "sum": 675,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 675,
-            "products": [
-              {
-                "name": "LED Tv",
-                "sum": 675
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Laptop": {
-        "color": "#F1C40F",
-        "sum": 660,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 660,
-            "products": [
-              {
-                "name": "Laptop",
-                "sum": 660
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Refrigerator": {
-        "color": "#4ECDC4",
-        "sum": 1145,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 645,
-            "products": [
-              {
-                "name": "Refrigerator",
-                "sum": 645
-              }
-            ]
-          },
-          "LG": {
-            "sum": 500,
-            "products": [
-              {
-                "name": "Wi-Fi Refrigerator",
-                "sum": 500
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Smart Phone": {
-        "color": "#9B59B6",
-        "sum": 1305,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 1305,
-            "products": [
-              {
-                "name": "Smart Phone",
-                "sum": 1305
-              }
-            ]
-          }
-        }
-      },
-      "Consumer durables - Solar Panels": {
-        "color": "#3498DB",
-        "sum": 880,
-        "brands": {
-          "Rayzon Solar": {
-            "sum": 880,
-            "products": [
-              {
-                "name": "Solar Panel",
-                "sum": 880
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#3498DB",
-    "sum": 1577,
-    "categories": {
-      "Contest": {
-        "color": "#4ECDC4",
-        "sum": 302,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 270,
-            "products": [
-              {
-                "name": "Mizhiv Photo Contest",
-                "sum": 270
-              }
-            ]
-          },
-          "Kerala": {
-            "sum": 32,
-            "products": [
-              {
-                "name": "Photography Contest",
-                "sum": 32
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment": {
-        "color": "#9B59B6",
-        "sum": 660,
-        "brands": {
-          "Mirchi FM": {
-            "sum": 380,
-            "products": [
-              {
-                "name": "Low point",
-                "sum": 60
+              "HONDA AMAZE": {
+                sum: 225,
+                products: [],
               },
-              {
-                "name": "Money Matter",
-                "sum": 320
-              }
-            ]
+              HYUNDAI: {
+                sum: 1830,
+                products: [],
+              },
+              KIA: {
+                sum: 2100,
+                products: [],
+              },
+              "MARUTI SUZUKI": {
+                sum: 3159,
+                products: [],
+              },
+              MG: {
+                sum: 2885,
+                products: [],
+              },
+              "MG MOTOR": {
+                sum: 620,
+                products: [],
+              },
+              TOYOTA: {
+                sum: 1200,
+                products: [],
+              },
+            },
           },
-          "Parimatch": {
-            "sum": 280,
-            "products": [
-              {
-                "name": "Cricket Festival Box",
-                "sum": 280
-              }
-            ]
-          }
-        }
+          "AUTOMOBILE-LUBRICANTS": {
+            
+            sum: 3528,
+            brands: {
+              "GOLDEN CRUISER": {
+                sum: 3222,
+                products: [],
+              },
+              VEEDOL: {
+                sum: 306,
+                products: [],
+              },
+            },
+          },
+          "AUTOMOBILE-SCOOTERS&MOTORCYCLES": {
+            
+            sum: 75,
+            brands: {
+              HONDA: {
+                sum: 75,
+                products: [],
+              },
+            },
+          },
+          "AUTOMOBILE-USED CARS": {
+            
+            sum: 1128,
+            brands: {
+              SPINNY: {
+                sum: 1128,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Lottery Ticket": {
-        "color": "#3498DB",
-        "sum": 580,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 580,
-            "products": [
-              {
-                "name": "Vishu Bumper",
-                "sum": 580
-              }
-            ]
-          }
-        }
+      "CONSUMER DURABLES": {
+        
+        sum: 9171,
+        categories: {
+          "CONSUMER DURABLES-AIR CONDITIONER": {
+            
+            sum: 4791,
+            brands: {
+              "BPL AIR CONDITIONER": {
+                sum: 885,
+                products: [],
+              },
+              DAIKIN: {
+                sum: 2420,
+                products: [],
+              },
+              KELVINATOR: {
+                sum: 690,
+                products: [],
+              },
+              PANASONIC: {
+                sum: 796,
+                products: [],
+              },
+            },
+          },
+          "CONSUMER DURABLES-WASHING MACHINE": {
+            
+            sum: 1920,
+            brands: {
+              LG: {
+                sum: 1920,
+                products: [],
+              },
+            },
+          },
+          "CONSUMER DURABLES-WI-FI CONVERTIBLE REFRIGERATOR": {
+            
+            sum: 1460,
+            brands: {
+              LG: {
+                sum: 1460,
+                products: [],
+              },
+            },
+          },
+          "HOME APPLIANCES": {
+            
+            sum: 1000,
+            brands: {
+              VOLTAS: {
+                sum: 1000,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Radio": {
-        "color": "#F1C40F",
-        "sum": 35,
-        "brands": {
-          "Radio Mirchi FM": {
-            "sum": 35,
-            "products": [
-              {
-                "name": "RJ Paro Program",
-                "sum": 35
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Finance": {
-    "color": "#9B59B6",
-    "sum": 1860,
-    "categories": {
-      "Banking and Financial Services": {
-        "color": "#4ECDC4",
-        "sum": 640,
-        "brands": {
-          "Canara Bank": {
-            "sum": 130,
-            "products": [
-              {
-                "name": "Banking and Financial Services",
-                "sum": 130
-              }
-            ]
-          },
-          "SBI": {
-            "sum": 510,
-            "products": [
-              {
-                "name": "APK App",
-                "sum": 120
+      "E-COMMERCE": {
+        
+        sum: 1285,
+        categories: {
+          "FOOD DELIVERY APPS": {
+            
+            sum: 140,
+            brands: {
+              "FOOD&DELIVERY": {
+                sum: 140,
+                products: [],
               },
-              {
-                "name": "SBI YONO",
-                "sum": 390
-              }
-            ]
-          }
-        }
+            },
+          },
+          "ONLINE GROCERY": {
+            
+            sum: 985,
+            brands: {
+              BIGBASKET: {
+                sum: 985,
+                products: [],
+              },
+            },
+          },
+          "ONLINE SHOPPING": {
+            
+            sum: 160,
+            brands: {
+              "MULTIPLE BRANDS PARTICIPATING IN THE SALE": {
+                sum: 160,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Finance - Application": {
-        "color": "#9B59B6",
-        "sum": 665,
-        "brands": {
-          "BHIM": {
-            "sum": 280,
-            "products": [
-              {
-                "name": "Payment App",
-                "sum": 280
-              }
-            ]
+      EDUCATION: {
+        
+        sum: 16817,
+        categories: {
+          "CABIN CREW TRAINING": {
+            
+            sum: 20,
+            brands: {
+              "TOP CREW AVIATION": {
+                sum: 20,
+                products: [],
+              },
+            },
           },
-          "Canara Bank": {
-            "sum": 385,
-            "products": [
-              {
-                "name": "Paymet Apps",
-                "sum": 385
-              }
-            ]
-          }
-        }
+          "COACHING CENTRE": {
+            
+            sum: 377,
+            brands: {
+              "VIDYA MANDIR": {
+                sum: 111,
+                products: [],
+              },
+              "VIDYAMANDIR CLASSES": {
+                sum: 266,
+                products: [],
+              },
+            },
+          },
+          EDUCATION: {
+            
+            sum: 4360,
+            brands: {
+              "EDUCATION EXPO": {
+                sum: 1960,
+                products: [],
+              },
+              "GRAPHIC ERA UNIVERSITY": {
+                sum: 2400,
+                products: [],
+              },
+            },
+          },
+          "HIGHER EDUCATION&PROFESSIONAL TRAINING": {
+            
+            sum: 8400,
+            brands: {
+              "EDUCATION EXPO": {
+                sum: 8400,
+                products: [],
+              },
+            },
+          },
+          UNIVERSITY: {
+            
+            sum: 3660,
+            brands: {
+              "K.R. MANGALAM UNIVERSITY": {
+                sum: 2100,
+                products: [],
+              },
+              "SUBHARTI UNIVERSITY": {
+                sum: 1560,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Finance - Insurance": {
-        "color": "#3498DB",
-        "sum": 555,
-        "brands": {
-          "LIC": {
-            "sum": 360,
-            "products": [
-              {
-                "name": "Jeevan Labh Insurance",
-                "sum": 360
-              }
-            ]
+      ENTERTAINMENT: {
+        
+        sum: 3515,
+        categories: {
+          "DIGITAL MUSIC SERVICE": {
+            
+            sum: 104,
+            brands: {
+              GAANA: {
+                sum: 104,
+                products: [],
+              },
+            },
           },
-          "Vietjet": {
-            "sum": 195,
-            "products": [
-              {
-                "name": "Sky Care Fly world wide",
-                "sum": 195
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Home Furnishing": {
-    "color": "#1ABC9C",
-    "sum": 135,
-    "categories": {
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 135,
-        "brands": {
-          "Pittapillil Agencies": {
-            "sum": 135,
-            "products": [
-              {
-                "name": "Home and Kitchen Appliances",
-                "sum": 135
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#34495E",
-    "sum": 1530,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 1530,
-        "brands": {
-          "Euro Guard": {
-            "sum": 1530,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1530
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#D35400",
-    "sum": 1680,
-    "categories": {
-      "Medicine - Pharmaceuticals": {
-        "color": "#4ECDC4",
-        "sum": 1260,
-        "brands": {
-          "MSD Pharmaceuticals Pvt Ltd.": {
-            "sum": 1200,
-            "products": [
-              {
-                "name": "MSD Pharmaceuticals Pvt Ltd.",
-                "sum": 1200
-              }
-            ]
+          "ENTERTAINMENT-AMUSEMENT PARK": {
+            
+            sum: 2621,
+            brands: {
+              "ATLANTIC WATER WORLD": {
+                sum: 2621,
+                products: [],
+              },
+            },
           },
-          "NSP Pharmaceuticals Pvt Ltd.": {
-            "sum": 60,
-            "products": [
-              {
-                "name": "NSP Pharmaceuticals Pvt Ltd.",
-                "sum": 60
-              }
-            ]
-          }
-        }
+          "ENTERTAINMENT-MOVIE": {
+            
+            sum: 180,
+            brands: {
+              "NADIADWALA GRANDSON ENTERTAINMENT": {
+                sum: 180,
+                products: [],
+              },
+            },
+          },
+          "ENTERTAINMENT-SPORTS": {
+            
+            sum: 280,
+            brands: {
+              "CRICKET BLOCKBUSTER": {
+                sum: 280,
+                products: [],
+              },
+            },
+          },
+          GAMBLING: {
+            
+            sum: 65,
+            brands: {
+              PARIMATCH: {
+                sum: 65,
+                products: [],
+              },
+            },
+          },
+          "MUSIC PROMOTION": {
+            
+            sum: 66,
+            brands: {
+              "LAAL PARI": {
+                sum: 66,
+                products: [],
+              },
+            },
+          },
+          "OTT PLATFORMS": {
+            
+            sum: 60,
+            brands: {
+              "DISNEY+ HOTSTAR": {
+                sum: 60,
+                products: [],
+              },
+            },
+          },
+          "OTT STREAMING": {
+            
+            sum: 139,
+            brands: {
+              "JIO HOTSTAR": {
+                sum: 139,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Services - Medical": {
-        "color": "#9B59B6",
-        "sum": 420,
-        "brands": {
-          "Aster Medicity": {
-            "sum": 420,
-            "products": [
-              {
-                "name": "Integrated Liver Care",
-                "sum": 420
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Personal Care": {
-    "color": "#F1C40F",
-    "sum": 525,
-    "categories": {
-      "Skincare": {
-        "color": "#4ECDC4",
-        "sum": 525,
-        "brands": {
-          "Saibon": {
-            "sum": 525,
-            "products": [
-              {
-                "name": "Saibon Cream",
-                "sum": 525
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Property": {
-    "color": "#FF6B6B",
-    "sum": 420,
-    "categories": {
-      "Property - Commercial": {
-        "color": "#4ECDC4",
-        "sum": 420,
-        "brands": {
-          "Chittilappilly": {
-            "sum": 420,
-            "products": [
-              {
-                "name": "Chittilappilly Square",
-                "sum": 420
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#2ECC71",
-    "sum": 10060,
-    "categories": {
-      "Public Service Ads": {
-        "color": "#4ECDC4",
-        "sum": 10060,
-        "brands": {
-          "Govt of India": {
-            "sum": 90,
-            "products": [
-              {
-                "name": "Food Safety",
-                "sum": 90
-              }
-            ]
+      EVENTS: {
+        
+        sum: 1365,
+        categories: {
+          "TRADE SHOW": {
+            
+            sum: 1365,
+            brands: {
+              "FRANCHISE INDIA EXPO 2025": {
+                sum: 1365,
+                products: [],
+              },
+            },
           },
-          "Govt of Kerala": {
-            "sum": 4660,
-            "products": [
-              {
-                "name": "Bakshya Suraksha Bhavan",
-                "sum": 1050
+        },
+      },
+      FINANCE: {
+        
+        sum: 9015,
+        categories: {
+          "BANKING&FINANCE": {
+            
+            sum: 2390,
+            brands: {
+              SBI: {
+                sum: 2390,
+                products: [],
               },
-              {
-                "name": "Drushya-Avishkaram - Jalchitr Campaigns",
-                "sum": 840
-              },
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 750
-              },
-              {
-                "name": "Sahakarana Expo 2025",
-                "sum": 1880
-              },
-              {
-                "name": "Vishwavidambar Bhagyakuri",
-                "sum": 100
-              },
-              {
-                "name": "Vizhinjam International Seaport Inaugration",
-                "sum": 40
-              }
-            ]
+            },
           },
-          "Information&Public Relation Departmemt": {
-            "sum": 3360,
-            "products": [
-              {
-                "name": "Ente Keralam 2025",
-                "sum": 3360
-              }
-            ]
-          },
-          "RBI": {
-            "sum": 510,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 510
-              }
-            ]
-          },
-          "SBI": {
-            "sum": 1440,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 1165
+          "BANKING&FINANCIAL SERVICES": {
+            
+            sum: 52,
+            brands: {
+              BHIM: {
+                sum: 52,
+                products: [],
               },
-              {
-                "name": "KYC Update",
-                "sum": 275
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Technology": {
-    "color": "#E74C3C",
-    "sum": 60,
-    "categories": {
-      "Technology - App": {
-        "color": "#4ECDC4",
-        "sum": 60,
-        "brands": {
-          "VA Chat": {
-            "sum": 60,
-            "products": [
-              {
-                "name": "VA Chat",
-                "sum": 60
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
+            },
+          },
+          "FINANCE-BANKING SERVICES": {
+            
+            sum: 170,
+            brands: {
+              "CANARA BANK": {
+                sum: 170,
+                products: [],
+              },
+            },
+          },
+          "FINANCE-INSURANCE": {
+            
+            sum: 1192,
+            brands: {
+              "GENERAL INSURANCE COUNCIL": {
+                sum: 1127,
+                products: [],
+              },
+              LIC: {
+                sum: 65,
+                products: [],
+              },
+            },
+          },
+          "FINANCIAL AWARENESS": {
+            
+            sum: 373,
+            brands: {
+              RBI: {
+                sum: 373,
+                products: [],
+              },
+            },
+          },
+          "FINANCIAL SERVICES": {
+            
+            sum: 3960,
+            brands: {
+              "HDFC BANK": {
+                sum: 1420,
+                products: [],
+              },
+              "MUTUAL FUND": {
+                sum: 2240,
+                products: [],
+              },
+              SBI: {
+                sum: 300,
+                products: [],
+              },
+            },
+          },
+          FINTECH: {
+            
+            sum: 140,
+            brands: {
+              "ACQUIRED CRED": {
+                sum: 140,
+                products: [],
+              },
+            },
+          },
+          "GENERAL INSURANCE": {
+            
+            sum: 48,
+            brands: {
+              ZUNO: {
+                sum: 48,
+                products: [],
+              },
+            },
+          },
+          INSURANCE: {
+            
+            sum: 690,
+            brands: {
+              "D.I.Y HEALTH": {
+                sum: 660,
+                products: [],
+              },
+              "GENERALI HEALTH INSURANCE": {
+                sum: 30,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      FMCG: {
+        
+        sum: 14036,
+        categories: {
+          "AYURVEDIC SKINCARE": {
+            
+            sum: 252,
+            brands: {
+              "ROOP MANTRA": {
+                sum: 252,
+                products: [],
+              },
+            },
+          },
+          BEVERAGES: {
+            
+            sum: 3562,
+            brands: {
+              ELECTRO: {
+                sum: 1560,
+                products: [],
+              },
+              RAJDHANI: {
+                sum: 1560,
+                products: [],
+              },
+              SPRITE: {
+                sum: 442,
+                products: [],
+              },
+            },
+          },
+          CONFECTIONARY: {
+            
+            sum: 5526,
+            brands: {
+              NIC: {
+                sum: 1920,
+                products: [],
+              },
+              VADILAAL: {
+                sum: 1510,
+                products: [],
+              },
+              VIMAL: {
+                sum: 2096,
+                products: [],
+              },
+            },
+          },
+          "FOOD PRODUCTS": {
+            
+            sum: 1710,
+            brands: {
+              "MCDONALD'S": {
+                sum: 1710,
+                products: [],
+              },
+            },
+          },
+          "FOOD&BEVERAGE": {
+            
+            sum: 285,
+            brands: {
+              "EXHIBITION DELHI 17TH-18TH MAY 2025": {
+                sum: 285,
+                products: [],
+              },
+            },
+          },
+          "MEDICINAL PRODUCTS": {
+            
+            sum: 291,
+            brands: {
+              "SACHI SAHELI": {
+                sum: 291,
+                products: [],
+              },
+            },
+          },
+          "PACKAGED FOOD": {
+            
+            sum: 2410,
+            brands: {
+              "SHAKTI AATA": {
+                sum: 210,
+                products: [],
+              },
+              "VIKRAM MILLS FRESH CHAKKI ATTA": {
+                sum: 2200,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      HEALTHCARE: {
+        
+        sum: 6766,
+        categories: {
+          AYURVEDA: {
+            
+            sum: 240,
+            brands: {
+              "SHUDDHI AYURVEDA": {
+                sum: 240,
+                products: [],
+              },
+            },
+          },
+          "DIGESTIVE HEALTH": {
+            
+            sum: 755,
+            brands: {
+              "PET SAFFA": {
+                sum: 755,
+                products: [],
+              },
+            },
+          },
+          "HEALTHCARE PRODUCT": {
+            
+            sum: 723,
+            brands: {
+              "DR ARTHO SPRAY": {
+                sum: 206,
+                products: [],
+              },
+              "PAIN RELIEF OIL": {
+                sum: 517,
+                products: [],
+              },
+            },
+          },
+          "HEALTHCARE PRODUCTS": {
+            
+            sum: 647,
+            brands: {
+              PATANJALI: {
+                sum: 647,
+                products: [],
+              },
+            },
+          },
+          PHARMACEUTICALS: {
+            
+            sum: 1410,
+            brands: {
+              HAMDARD: {
+                sum: 1260,
+                products: [],
+              },
+              "MUGLI GHUTTI 555": {
+                sum: 150,
+                products: [],
+              },
+            },
+          },
+          "SERVICES – MEDICAL": {
+            
+            sum: 471,
+            brands: {
+              "YATHARTH HOSPITAL": {
+                sum: 471,
+                products: [],
+              },
+            },
+          },
+          "SERVICES-MEDICAL": {
+            
+            sum: 2520,
+            brands: {
+              "FORTIS HOSPITAL": {
+                sum: 360,
+                products: [],
+              },
+              "JEENA SIKHO HOSPITAL": {
+                sum: 2160,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "HOME FURNISHING": {
+        
+        sum: 1934,
+        categories: {
+          "AIR FRESHNERS": {
+            
+            sum: 1480,
+            brands: {
+              "CAMPHOR-BASED AIR FRESHENER": {
+                sum: 1480,
+                products: [],
+              },
+            },
+          },
+          "FLOOR COVERINGS": {
+            
+            sum: 454,
+            brands: {
+              ARNEJA: {
+                sum: 454,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "PERSONAL CARE": {
+        
+        sum: 480,
+        categories: {
+          "HAIR CARE": {
+            
+            sum: 480,
+            brands: {
+              "DABUR COOL KING THANDA TEL": {
+                sum: 480,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "PETROLEUM PRODUCTS": {
+        
+        sum: 150,
+        categories: {
+          "PETROLEUM PRODUCTS": {
+            
+            sum: 150,
+            brands: {
+              "NAYARA ENERGY": {
+                sum: 150,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      PROPERTY: {
+        
+        sum: 6433,
+        categories: {
+          "PROPERTY-COMMERCIAL": {
+            
+            sum: 1580,
+            brands: {
+              "KAVERI BUILDTECH": {
+                sum: 1580,
+                products: [],
+              },
+            },
+          },
+          "PROPERTY-HOUSING": {
+            
+            sum: 4853,
+            brands: {
+              "ABHINANDAN LODHA – GOLDEN TRIANGLE": {
+                sum: 320,
+                products: [],
+              },
+              "BRICK&BOLT": {
+                sum: 1680,
+                products: [],
+              },
+              DPXPO: {
+                sum: 82,
+                products: [],
+              },
+              "HL CITY": {
+                sum: 2000,
+                products: [],
+              },
+              "TATHASTU REALTIES": {
+                sum: 771,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "PUBLIC INTEREST": {
+        
+        sum: 2969,
+        categories: {
+          "PUBLIC SERVICE ADS": {
+            
+            sum: 2969,
+            brands: {
+              NDMC: {
+                sum: 595,
+                products: [],
+              },
+              SBI: {
+                sum: 1279,
+                products: [],
+              },
+              "TATA IPL": {
+                sum: 1095,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      TECHNOLOGY: {
+        
+        sum: 700,
+        categories: {
+          "CYBERSECURITY SOFTWARE": {
+            
+            sum: 700,
+            brands: {
+              SIYANO: {
+                sum: 700,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "TEXTILES&APPARELS": {
+        
+        sum: 360,
+        categories: {
+          "RETAIL – APPAREL": {
+            
+            sum: 360,
+            brands: {
+              "AMBIENCE MALL – LOUIS PHILIPPE": {
+                sum: 360,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+    },
+
+    "Radio One": {
+      AUTOMOBILE: {
+        
+        sum: 5871,
+        categories: {
+          "AUTOMOBILE-CARS": {
+            
+            sum: 4260,
+            brands: {
+              "MARUTI SUZUKI": {
+                sum: 4260,
+                products: [],
+              },
+            },
+          },
+          "AUTOMOBILE-USED CARS": {
+            
+            sum: 1611,
+            brands: {
+              SPINNY: {
+                sum: 1611,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      BUSINESS: {
+        
+        sum: 2211,
+        categories: {
+          "BUSINESS EVENTS": {
+            
+            sum: 2211,
+            brands: {
+              "FRANCHISE INDIA 2025": {
+                sum: 2211,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "CONSUMER DURABLES": {
+        
+        sum: 2967,
+        categories: {
+          "CONSUMER DURABLES-AIR CONDITIONER": {
+            
+            sum: 1161,
+            brands: {
+              VOLTAS: {
+                sum: 1161,
+                products: [],
+              },
+            },
+          },
+          "CONSUMER DURABLES-REFRIGERATOR": {
+            
+            sum: 1806,
+            brands: {
+              LG: {
+                sum: 1806,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      EDUCATION: {
+        
+        sum: 660,
+        categories: {
+          "COACHING CENTRE": {
+            
+            sum: 660,
+            brands: {
+              "VIDYA MANDIR CLASSES": {
+                sum: 660,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      ENTERTAINMENT: {
+        
+        sum: 11307,
+        categories: {
+          ENTERTAINMENT: {
+            
+            sum: 1547,
+            brands: {
+              "ANIME JUNCTION": {
+                sum: 1402,
+                products: [],
+              },
+              MAHINDRA: {
+                sum: 145,
+                products: [],
+              },
+            },
+          },
+          "ENTERTAINMENT&SPORTS PROMOTION": {
+            
+            sum: 648,
+            brands: {
+              "DELHI CAPITALS": {
+                sum: 648,
+                products: [],
+              },
+            },
+          },
+          "ENTERTAINMENT-APP": {
+            
+            sum: 8292,
+            brands: {
+              BOOKMYSHOW: {
+                sum: 5124,
+                products: [],
+              },
+              "DC FAN SABHA APP": {
+                sum: 3168,
+                products: [],
+              },
+            },
+          },
+          "ENTERTAINMENT-SPORTS LEAGUE": {
+            
+            sum: 260,
+            brands: {
+              "TATA IPL": {
+                sum: 260,
+                products: [],
+              },
+            },
+          },
+          RADIO: {
+            
+            sum: 560,
+            brands: {
+              "FEVER FM": {
+                sum: 560,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      FINANCE: {
+        
+        sum: 7360,
+        categories: {
+          "BANKING&FINANCE": {
+            
+            sum: 2356,
+            brands: {
+              SBI: {
+                sum: 2356,
+                products: [],
+              },
+            },
+          },
+          "BANKING&FINANCIAL SERVICES": {
+            
+            sum: 1400,
+            brands: {
+              SBI: {
+                sum: 1400,
+                products: [],
+              },
+            },
+          },
+          "FINANCE-INSURANCE": {
+            
+            sum: 937,
+            brands: {
+              "ICICI LOMBARD": {
+                sum: 631,
+                products: [],
+              },
+              LIC: {
+                sum: 306,
+                products: [],
+              },
+            },
+          },
+          "FINANCIAL SERVICES": {
+            
+            sum: 1519,
+            brands: {
+              "MUTUAL FUND": {
+                sum: 1519,
+                products: [],
+              },
+            },
+          },
+          FINTECH: {
+            
+            sum: 1148,
+            brands: {
+              STOCKGRO: {
+                sum: 1148,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      FMCG: {
+        
+        sum: 8079,
+        categories: {
+          BEVERAGES: {
+            
+            sum: 2780,
+            brands: {
+              "JACK DANIELS": {
+                sum: 2780,
+                products: [],
+              },
+            },
+          },
+          CONFECTIONARY: {
+            
+            sum: 2364,
+            brands: {
+              PULSE: {
+                sum: 768,
+                products: [],
+              },
+              VIMAL: {
+                sum: 1596,
+                products: [],
+              },
+            },
+          },
+          "FOOD PRODUCTS": {
+            
+            sum: 2935,
+            brands: {
+              "MCDONALD'S": {
+                sum: 1980,
+                products: [],
+              },
+              NUTRELA: {
+                sum: 955,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      HEALTHCARE: {
+        
+        sum: 3240,
+        categories: {
+          "SERVICES-MEDICAL": {
+            
+            sum: 3240,
+            brands: {
+              "JEENA SIKHO HOSPITAL": {
+                sum: 3240,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      PROPERTY: {
+        
+        sum: 1939,
+        categories: {
+          "PROPERTY-COMMERCIAL": {
+            
+            sum: 1939,
+            brands: {
+              "SPECTRUM METRO SECTOR 75": {
+                sum: 1939,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "PUBLIC INTEREST": {
+        
+        sum: 2340,
+        categories: {
+          "PUBLIC SERVICE ADS": {
+            
+            sum: 2340,
+            brands: {
+              RBI: {
+                sum: 494,
+                products: [],
+              },
+              SBI: {
+                sum: 1846,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      RETAIL: {
+        
+        sum: 1155,
+        categories: {
+          GIFTING: {
+            
+            sum: 975,
+            brands: {
+              ARCHIES: {
+                sum: 975,
+                products: [],
+              },
+            },
+          },
+          MALL: {
+            
+            sum: 180,
+            brands: {
+              "DLF MALL OF INDIA": {
+                sum: 180,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "TRAVEL&TOURISM": {
+        
+        sum: 3049,
+        categories: {
+          "TRAVEL AWARENESS": {
+            
+            sum: 3049,
+            brands: {
+              "ICICI LOMBARD": {
+                sum: 3049,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+    },
+
     "Red FM": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 11385,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 11385,
-        "brands": {
-          "Anaswara Jewellers": {
-            "sum": 2275,
-            "products": [
-              {
-                "name": "Gold & Diamond",
-                "sum": 2275
-              }
-            ]
-          },
-          "Bhima Gold&Diamonds": {
-            "sum": 1140,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1140
-              }
-            ]
-          },
-          "Chungam Jewellers": {
-            "sum": 820,
-            "products": [
-              {
-                "name": "Gold & Diamond - Ernakulam Showroom",
-                "sum": 820
-              }
-            ]
-          },
-          "JK Jewellery": {
-            "sum": 1020,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 1020
-              }
-            ]
-          },
-          "Josco Jewellers": {
-            "sum": 530,
-            "products": [
-              {
-                "name": "Josco Jewellers Kochi Showroom",
-                "sum": 530
-              }
-            ]
-          },
-          "Jothkut Gold&Diamonds Jewellery": {
-            "sum": 70,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 70
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 3500,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 3500
-              }
-            ]
-          },
-          "Nakshathra Gold&Diamonds Jewellry": {
-            "sum": 1940,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 1940
-              }
-            ]
-          },
-          "Vanitha Jewellery": {
-            "sum": 90,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 90
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 9549,
-    "categories": {
-      "Automobile - Car": {
-        "color": "#4ECDC4",
-        "sum": 7639,
-        "brands": {
-          "Ford India": {
-            "sum": 480,
-            "products": [
-              {
-                "name": "Summer Service Camp",
-                "sum": 480
-              }
-            ]
-          },
-          "Hero showroom": {
-            "sum": 19,
-            "products": [
-              {
-                "name": "Hero Cars",
-                "sum": 19
-              }
-            ]
-          },
-          "Honda": {
-            "sum": 2700,
-            "products": [
-              {
-                "name": "Honda Amaze",
-                "sum": 2700
-              }
-            ]
-          },
-          "Hyundai": {
-            "sum": 1400,
-            "products": [
-              {
-                "name": "Hyundai Cars",
-                "sum": 1400
-              }
-            ]
-          },
-          "Kairali Toyota": {
-            "sum": 1080,
-            "products": [
-              {
-                "name": "Toyota Cars- SUV",
-                "sum": 1080
-              }
-            ]
-          },
-          "Skoda": {
-            "sum": 1960,
-            "products": [
-              {
-                "name": "Skoda kylaq",
-                "sum": 1960
-              }
-            ]
-          }
-        }
-      },
-      "Automobile-Accessories": {
-        "color": "#9B59B6",
-        "sum": 1910,
-        "brands": {
-          "Big Wheels": {
-            "sum": 470,
-            "products": [
-              {
-                "name": "Tyre Services",
-                "sum": 470
-              }
-            ]
-          },
-          "Global Tyres": {
-            "sum": 1440,
-            "products": [
-              {
-                "name": "Yukohama Tyres",
-                "sum": 1440
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Building Materials": {
-    "color": "#E74C3C",
-    "sum": 180,
-    "categories": {
-      "Building Materials": {
-        "color": "#4ECDC4",
-        "sum": 180,
-        "brands": {
-          "Chettinad Construction": {
-            "sum": 180,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 180
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Constructions": {
-    "color": "#3498DB",
-    "sum": 1214,
-    "categories": {
-      "Building Materials": {
-        "color": "#4ECDC4",
-        "sum": 1214,
-        "brands": {
-          "Bharthi Cement": {
-            "sum": 134,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 134
-              }
-            ]
-          },
-          "Chettinad Construction": {
-            "sum": 1080,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 1080
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#9B59B6",
-    "sum": 14862,
-    "categories": {
-      "Consumer Durables": {
-        "color": "#4ECDC4",
-        "sum": 1782,
-        "brands": {
-          "MyG Future": {
-            "sum": 1782,
-            "products": [
-              {
-                "name": "Electronics&Home Appliances",
-                "sum": 1782
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Air Conditioner": {
-        "color": "#9B59B6",
-        "sum": 3425,
-        "brands": {
-          "BPL": {
-            "sum": 285,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 285
-              }
-            ]
-          },
-          "Kelvinator": {
-            "sum": 240,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 240
-              }
-            ]
-          },
-          "Panasonic": {
-            "sum": 1000,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 1000
-              }
-            ]
-          },
-          "Pittapillil Agencies": {
-            "sum": 1900,
-            "products": [
-              {
-                "name": "Air Conditioner & Fan",
-                "sum": 1900
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Electronics": {
-        "color": "#3498DB",
-        "sum": 4000,
-        "brands": {
-          "Gopu Nandilath G Mart": {
-            "sum": 4000,
-            "products": [
-              {
-                "name": "Festival Offer",
-                "sum": 4000
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - LED TV": {
-        "color": "#F1C40F",
-        "sum": 135,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 135,
-            "products": [
-              {
-                "name": "LED Tv",
-                "sum": 135
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Refrigerator": {
-        "color": "#4ECDC4",
-        "sum": 1515,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 1515,
-            "products": [
-              {
-                "name": "Refrigerator",
-                "sum": 1515
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Smart Phone": {
-        "color": "#9B59B6",
-        "sum": 2955,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 2955,
-            "products": [
-              {
-                "name": "Smart Phone",
-                "sum": 2955
-              }
-            ]
-          }
-        }
-      },
-      "Consumer durables - Solar Panels": {
-        "color": "#3498DB",
-        "sum": 1050,
-        "brands": {
-          "Rayzon Solar": {
-            "sum": 1050,
-            "products": [
-              {
-                "name": "Solar Panel",
-                "sum": 1050
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Education": {
-    "color": "#1ABC9C",
-    "sum": 2000,
-    "categories": {
-      "Education": {
-        "color": "#4ECDC4",
-        "sum": 2000,
-        "brands": {
-          "Dr.Ambedkar International Centre": {
-            "sum": 440,
-            "products": [
-              {
-                "name": "Constitution Day With Pride",
-                "sum": 440
-              }
-            ]
-          },
-          "UPES": {
-            "sum": 1560,
-            "products": [
-              {
-                "name": "Educational Programs & World Class Education",
-                "sum": 1560
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#34495E",
-    "sum": 14499,
-    "categories": {
-      "Contest": {
-        "color": "#4ECDC4",
-        "sum": 600,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 600,
-            "products": [
-              {
-                "name": "Mizhiv Photo Contest",
-                "sum": 600
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment": {
-        "color": "#9B59B6",
-        "sum": 420,
-        "brands": {
-          "Cake Story": {
-            "sum": 130,
-            "products": [
-              {
-                "name": "Movie",
-                "sum": 130
-              }
-            ]
-          },
-          "Red FM": {
-            "sum": 290,
-            "products": [
-              {
-                "name": "Radio Broadcasting",
-                "sum": 290
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Amusement Park": {
-        "color": "#3498DB",
-        "sum": 1728,
-        "brands": {
-          "Silver Storm": {
-            "sum": 1248,
-            "products": [
-              {
-                "name": "Slides&Rides",
-                "sum": 1248
-              }
-            ]
-          },
-          "Wonderla": {
-            "sum": 480,
-            "products": [
-              {
-                "name": "Rap Concert",
-                "sum": 480
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Movie": {
-        "color": "#F1C40F",
-        "sum": 100,
-        "brands": {
-          "Alappuzha Gymkhana": {
-            "sum": 100,
-            "products": [
-              {
-                "name": "Alappuzha Gymkhana",
-                "sum": 100
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment-Ticket Platform": {
-        "color": "#4ECDC4",
-        "sum": 36,
-        "brands": {
-          "Book My Show": {
-            "sum": 36,
-            "products": [
-              {
-                "name": "Online Ticket Booking",
-                "sum": 36
-              }
-            ]
-          }
-        }
-      },
-      "Lottery Ticket": {
-        "color": "#9B59B6",
-        "sum": 700,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 700,
-            "products": [
-              {
-                "name": "Vishu Bumper",
-                "sum": 700
-              }
-            ]
-          }
-        }
-      },
-      "Play Areas": {
-        "color": "#3498DB",
-        "sum": 600,
-        "brands": {
-          "Sim & Sam's": {
-            "sum": 600,
-            "products": [
-              {
-                "name": "Indoor Playground",
-                "sum": 600
-              }
-            ]
-          }
-        }
-      },
-      "Radio": {
-        "color": "#F1C40F",
-        "sum": 10315,
-        "brands": {
-          "Red FM": {
-            "sum": 10265,
-            "products": [
-              {
-                "name": "All Rounder",
-                "sum": 3192
+      ACCESSORIES: {
+        
+        sum: 5830,
+        categories: {
+          "ACCESSORIES-JEWELLERY": {
+            
+            sum: 4190,
+            brands: {
+              "UNISON JEWELS": {
+                sum: 4190,
+                products: [],
               },
-              {
-                "name": "Hello My Dear Wrong Number Broadcasting",
-                "sum": 924
+            },
+          },
+          "ACCESSORIES-RETAIL": {
+            
+            sum: 1640,
+            brands: {
+              TITAN: {
+                sum: 1640,
+                products: [],
               },
-              {
-                "name": "Howsthat cricket league",
-                "sum": 29
+            },
+          },
+        },
+      },
+      AGRICULTURE: {
+        
+        sum: 18,
+        categories: {
+          AGRIBUSINESS: {
+            
+            sum: 18,
+            brands: {
+              GODREJ: {
+                sum: 18,
+                products: [],
               },
-              {
-                "name": "KL 935",
-                "sum": 216
+            },
+          },
+        },
+      },
+      AUTOMOBILE: {
+        
+        sum: 15476,
+        categories: {
+          "AUTOMOBILE-CARS": {
+            
+            sum: 14457,
+            brands: {
+              HONDA: {
+                sum: 2398,
+                products: [],
               },
-              {
-                "name": "Konjjum Personal",
-                "sum": 106
+              HYUNDAI: {
+                sum: 990,
+                products: [],
               },
-              {
-                "name": "Morning No 1",
-                "sum": 310
+              KIA: {
+                sum: 1350,
+                products: [],
               },
-              {
-                "name": "Radio Broadcasting",
-                "sum": 4784
+              "MARUTI SUZUKI": {
+                sum: 5785,
+                products: [],
               },
-              {
-                "name": "Red Carpet",
-                "sum": 704
-              }
-            ]
-          },
-          "Red Fm": {
-            "sum": 50,
-            "products": [
-              {
-                "name": "RJ Sneha-Proadcast",
-                "sum": 50
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "FMCG": {
-    "color": "#D35400",
-    "sum": 2914,
-    "categories": {
-      "Food Products": {
-        "color": "#4ECDC4",
-        "sum": 1704,
-        "brands": {
-          "Pavizham": {
-            "sum": 1704,
-            "products": [
-              {
-                "name": "Cookoff Curry Powder",
-                "sum": 1704
-              }
-            ]
-          }
-        }
-      },
-      "Food&Beverages": {
-        "color": "#9B59B6",
-        "sum": 1210,
-        "brands": {
-          "Healthy Grocer": {
-            "sum": 1210,
-            "products": [
-              {
-                "name": "Kayam",
-                "sum": 1210
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Finance": {
-    "color": "#F1C40F",
-    "sum": 3476,
-    "categories": {
-      "Banking and Financial Services": {
-        "color": "#4ECDC4",
-        "sum": 1010,
-        "brands": {
-          "Canara Bank": {
-            "sum": 560,
-            "products": [
-              {
-                "name": "Banking and Financial Services",
-                "sum": 560
-              }
-            ]
-          },
-          "Federal Bank": {
-            "sum": 450,
-            "products": [
-              {
-                "name": "NRE Prospera Saving account",
-                "sum": 450
-              }
-            ]
-          }
-        }
-      },
-      "Finance - Application": {
-        "color": "#9B59B6",
-        "sum": 1800,
-        "brands": {
-          "BHIM": {
-            "sum": 1800,
-            "products": [
-              {
-                "name": "Payment App",
-                "sum": 1800
-              }
-            ]
-          }
-        }
-      },
-      "Financial Services": {
-        "color": "#3498DB",
-        "sum": 666,
-        "brands": {
-          "Unimoni": {
-            "sum": 666,
-            "products": [
-              {
-                "name": "Money Transfer Services",
-                "sum": 666
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Home Furnishing": {
-    "color": "#FF6B6B",
-    "sum": 5708,
-    "categories": {
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 4748,
-        "brands": {
-          "Ammini Traders": {
-            "sum": 1458,
-            "products": [
-              {
-                "name": "Home Appliances",
-                "sum": 1458
-              }
-            ]
-          },
-          "Emma Mattress": {
-            "sum": 450,
-            "products": [
-              {
-                "name": "Mattress",
-                "sum": 450
-              }
-            ]
-          },
-          "Pittapillil Agencies": {
-            "sum": 2840,
-            "products": [
-              {
-                "name": "Home and Kitchen Appliances",
-                "sum": 2840
-              }
-            ]
-          }
-        }
-      },
-      "Sanitary Fittings": {
-        "color": "#9B59B6",
-        "sum": 720,
-        "brands": {
-          "Kartar Bar Fittings": {
-            "sum": 720,
-            "products": [
-              {
-                "name": "Bar Fittings",
-                "sum": 720
-              }
-            ]
-          }
-        }
-      },
-      "Spiritual Products": {
-        "color": "#3498DB",
-        "sum": 240,
-        "brands": {
-          "DevDarshan Dhoop": {
-            "sum": 240,
-            "products": [
-              {
-                "name": "Agarbatti,Perfume & Pooja Products",
-                "sum": 240
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#2ECC71",
-    "sum": 2840,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 2840,
-        "brands": {
-          "Euro Guard": {
-            "sum": 1730,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1730
-              }
-            ]
-          },
-          "Varsha": {
-            "sum": 660,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 660
-              }
-            ]
-          },
-          "WellWorth": {
-            "sum": 396,
-            "products": [
-              {
-                "name": "MFT Pipes",
-                "sum": 396
-              }
-            ]
-          },
-          "Wellmax": {
-            "sum": 54,
-            "products": [
-              {
-                "name": "MFT Pipes",
-                "sum": 54
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#E74C3C",
-    "sum": 3155,
-    "categories": {
-      "Services - Medical": {
-        "color": "#4ECDC4",
-        "sum": 3155,
-        "brands": {
-          "City Hospital": {
-            "sum": 156,
-            "products": [
-              {
-                "name": "IBS Treatment",
-                "sum": 156
-              }
-            ]
-          },
-          "K P Pathrose Vaidyan's": {
-            "sum": 618,
-            "products": [
-              {
-                "name": "Ayurvedic Medicines",
-                "sum": 618
-              }
-            ]
-          },
-          "Saroj Diagnostic Laboratory": {
-            "sum": 666,
-            "products": [
-              {
-                "name": "Diagnostic Services",
-                "sum": 666
-              }
-            ]
-          },
-          "SunAct Cancer Institute": {
-            "sum": 1715,
-            "products": [
-              {
-                "name": "Advanced Cancer Therapies",
-                "sum": 1715
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Petroleum Products": {
-    "color": "#3498DB",
-    "sum": 1080,
-    "categories": {
-      "Petroleum Products": {
-        "color": "#4ECDC4",
-        "sum": 1080,
-        "brands": {
-          "Nayara Energy Petrol Pump": {
-            "sum": 1080,
-            "products": [
-              {
-                "name": "Petrol/Diesel",
-                "sum": 1080
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Property": {
-    "color": "#9B59B6",
-    "sum": 540,
-    "categories": {
-      "Property - Commercial": {
-        "color": "#4ECDC4",
-        "sum": 540,
-        "brands": {
-          "Chittilappilly": {
-            "sum": 540,
-            "products": [
-              {
-                "name": "Chittilappilly Square",
-                "sum": 540
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#1ABC9C",
-    "sum": 13608,
-    "categories": {
-      "Public Service Ads": {
-        "color": "#4ECDC4",
-        "sum": 13608,
-        "brands": {
-          "Govt of India": {
-            "sum": 630,
-            "products": [
-              {
-                "name": "Food Safety",
-                "sum": 630
-              }
-            ]
-          },
-          "Govt of Kerala": {
-            "sum": 7200,
-            "products": [
-              {
-                "name": "Bakshya Suraksha Bhavan",
-                "sum": 390
+              MG: {
+                sum: 3934,
+                products: [],
               },
-              {
-                "name": "Drushya Avishkaram - Jalchitr Campaigns",
-                "sum": 600
+            },
+          },
+          "AUTOMOBILE-USED CARS": {
+            
+            sum: 1019,
+            brands: {
+              SPINNY: {
+                sum: 1019,
+                products: [],
               },
-              {
-                "name": "KIIFB Infrastructure Development",
-                "sum": 150
+            },
+          },
+        },
+      },
+      "CONSUMER DURABLES": {
+        
+        sum: 8700,
+        categories: {
+          "CONSUMER DURABLES-AIR CONDITIONER": {
+            
+            sum: 7820,
+            brands: {
+              BPL: {
+                sum: 870,
+                products: [],
               },
-              {
-                "name": "Obesity Awareness",
-                "sum": 2170
+              DAIKIN: {
+                sum: 2400,
+                products: [],
               },
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 1050
+              HARIOM: {
+                sum: 3580,
+                products: [],
               },
-              {
-                "name": "Sahakarana Expo 2025",
-                "sum": 2840
-              }
-            ]
-          },
-          "Information&Public Relation Departmemt": {
-            "sum": 2808,
-            "products": [
-              {
-                "name": "Ente Keralam 2025",
-                "sum": 2808
-              }
-            ]
-          },
-          "RBI": {
-            "sum": 780,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 780
-              }
-            ]
-          },
-          "SBI": {
-            "sum": 2190,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 2190
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Retail": {
-    "color": "#34495E",
-    "sum": 1395,
-    "categories": {
-      "Retail Garments": {
-        "color": "#4ECDC4",
-        "sum": 1395,
-        "brands": {
-          "Cotton Fab": {
-            "sum": 1395,
-            "products": [
-              {
-                "name": "Cotton Fab",
-                "sum": 1395
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
-    "Club FM": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 7635,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 7635,
-        "brands": {
-          "AGD Gold&Diamonds": {
-            "sum": 980,
-            "products": [
-              {
-                "name": "Gold & Diamond",
-                "sum": 980
-              }
-            ]
-          },
-          "Bhima Gold&Diamonds": {
-            "sum": 1120,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1120
-              }
-            ]
-          },
-          "Josco Jewellers": {
-            "sum": 450,
-            "products": [
-              {
-                "name": "Josco Jewellers Kochi Showroom",
-                "sum": 450
-              }
-            ]
-          },
-          "Joyalukkas Gold& Diamonds": {
-            "sum": 900,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 900
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 3525,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 3525
-              }
-            ]
-          },
-          "Nakshathra Gold&Diamonds Jewellry": {
-            "sum": 660,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 660
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 1900,
-    "categories": {
-      "Automobile - Dealers": {
-        "color": "#4ECDC4",
-        "sum": 1900,
-        "brands": {
-          "MG Motor India": {
-            "sum": 1900,
-            "products": [
-              {
-                "name": "MG Midnight Carnival",
-                "sum": 1900
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#E74C3C",
-    "sum": 13695,
-    "categories": {
-      "Consumer Durables - Air Conditioner": {
-        "color": "#4ECDC4",
-        "sum": 5160,
-        "brands": {
-          "BPL": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 300
-              }
-            ]
-          },
-          "Daikin": {
-            "sum": 3880,
-            "products": [
-              {
-                "name": "Air Conditioner & Fan",
-                "sum": 3880
-              }
-            ]
-          },
-          "Kelvinator": {
-            "sum": 230,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 230
-              }
-            ]
-          },
-          "Pittapillil Agencies": {
-            "sum": 750,
-            "products": [
-              {
-                "name": "Air Conditioner & Fan",
-                "sum": 750
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Electronics": {
-        "color": "#9B59B6",
-        "sum": 3840,
-        "brands": {
-          "Gopu Nandilath G Mart": {
-            "sum": 3580,
-            "products": [
-              {
-                "name": "Festival Offer",
-                "sum": 3580
-              }
-            ]
-          },
-          "Image\n Mobiles&Computers": {
-            "sum": 260,
-            "products": [
-              {
-                "name": "Electronics",
-                "sum": 260
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - LED TV": {
-        "color": "#3498DB",
-        "sum": 1170,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 1170,
-            "products": [
-              {
-                "name": "LED Tv",
-                "sum": 1170
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Laptop": {
-        "color": "#F1C40F",
-        "sum": 1170,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 1170,
-            "products": [
-              {
-                "name": "Laptop",
-                "sum": 1170
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Refrigerator": {
-        "color": "#4ECDC4",
-        "sum": 1200,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 1200,
-            "products": [
-              {
-                "name": "Refrigerator",
-                "sum": 1200
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Smart Phone": {
-        "color": "#9B59B6",
-        "sum": 1155,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 1155,
-            "products": [
-              {
-                "name": "Smart Phone",
-                "sum": 1155
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Education": {
-    "color": "#3498DB",
-    "sum": 2184,
-    "categories": {
-      "Bookshop": {
-        "color": "#4ECDC4",
-        "sum": 1160,
-        "brands": {
-          "Madrubhoomi Books": {
-            "sum": 1160,
-            "products": [
-              {
-                "name": "World Book Day,April 23,\nReading",
-                "sum": 1160
-              }
-            ]
-          }
-        }
-      },
-      "Education": {
-        "color": "#9B59B6",
-        "sum": 1024,
-        "brands": {
-          "Dr.Ambedkar International Centre": {
-            "sum": 544,
-            "products": [
-              {
-                "name": "Constitution Day With Pride",
-                "sum": 544
-              }
-            ]
-          },
-          "Hindusthan Institute of Techonology": {
-            "sum": 400,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 400
-              }
-            ]
-          },
-          "KCG College of Techonology": {
-            "sum": 80,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 80
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#9B59B6",
-    "sum": 9304,
-    "categories": {
-      "Contest": {
-        "color": "#4ECDC4",
-        "sum": 7056,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 570,
-            "products": [
-              {
-                "name": "Short Video Contest",
-                "sum": 570
-              }
-            ]
-          },
-          "Image\n Mobiles&Computers": {
-            "sum": 6486,
-            "products": [
-              {
-                "name": "Photography Contest",
-                "sum": 6486
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Cricket": {
-        "color": "#9B59B6",
-        "sum": 600,
-        "brands": {
-          "Celebrity Cricketers Fraternity": {
-            "sum": 600,
-            "products": [
-              {
-                "name": "CCF Premier League",
-                "sum": 600
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Movie": {
-        "color": "#3498DB",
-        "sum": 100,
-        "brands": {
-          "Alappuzha Gymkhana": {
-            "sum": 100,
-            "products": [
-              {
-                "name": "Alappuzha Gymkhana",
-                "sum": 100
-              }
-            ]
-          }
-        }
-      },
-      "Lottery Ticket": {
-        "color": "#F1C40F",
-        "sum": 780,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 780,
-            "products": [
-              {
-                "name": "Vishu Bumper",
-                "sum": 780
-              }
-            ]
-          }
-        }
-      },
-      "Program": {
-        "color": "#4ECDC4",
-        "sum": 768,
-        "brands": {
-          "Club FM": {
-            "sum": 768,
-            "products": [
-              {
-                "name": "Program",
-                "sum": 768
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "FMCG": {
-    "color": "#1ABC9C",
-    "sum": 1740,
-    "categories": {
-      "Dairy Products": {
-        "color": "#4ECDC4",
-        "sum": 1080,
-        "brands": {
-          "Muralya Dairy": {
-            "sum": 1080,
-            "products": [
-              {
-                "name": "Muralya Ghee",
-                "sum": 1080
-              }
-            ]
-          }
-        }
-      },
-      "Food & Beverages": {
-        "color": "#9B59B6",
-        "sum": 660,
-        "brands": {
-          "Hotel Presidency Kochi": {
-            "sum": 660,
-            "products": [
-              {
-                "name": "Theen Mura",
-                "sum": 660
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Home Furnishing": {
-    "color": "#34495E",
-    "sum": 1520,
-    "categories": {
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 1520,
-        "brands": {
-          "Pittapillil Agencies": {
-            "sum": 1520,
-            "products": [
-              {
-                "name": "Home and Kitchen Appliances",
-                "sum": 1520
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Internet Services": {
-    "color": "#D35400",
-    "sum": 1440,
-    "categories": {
-      "Cable Service Provider": {
-        "color": "#4ECDC4",
-        "sum": 1440,
-        "brands": {
-          "Asianet": {
-            "sum": 1440,
-            "products": [
-              {
-                "name": "Asianet Fiber Connection",
-                "sum": 1440
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#F1C40F",
-    "sum": 1710,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 1710,
-        "brands": {
-          "Euro Guard": {
-            "sum": 1710,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1710
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#FF6B6B",
-    "sum": 2375,
-    "categories": {
-      "Medical Equipments & Supplies": {
-        "color": "#4ECDC4",
-        "sum": 225,
-        "brands": {
-          "DDRC Agilus": {
-            "sum": 225,
-            "products": [
-              {
-                "name": "Lab Reports",
-                "sum": 225
-              }
-            ]
-          }
-        }
-      },
-      "Services - Medical": {
-        "color": "#9B59B6",
-        "sum": 2150,
-        "brands": {
-          "Apollo Atlas Hospital": {
-            "sum": 350,
-            "products": [
-              {
-                "name": "Center Of Excellence",
-                "sum": 350
-              }
-            ]
-          },
-          "Aster Medicity": {
-            "sum": 1800,
-            "products": [
-              {
-                "name": "Integrated Liver Care",
-                "sum": 1800
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#2ECC71",
-    "sum": 11687,
-    "categories": {
-      "Public Service Ads": {
-        "color": "#4ECDC4",
-        "sum": 11587,
-        "brands": {
-          "Govt of India": {
-            "sum": 2310,
-            "products": [
-              {
-                "name": "Food Safety",
-                "sum": 2310
-              }
-            ]
-          },
-          "Govt of Kerala": {
-            "sum": 4237,
-            "products": [
-              {
-                "name": "Bakshya Suraksha Bhavan",
-                "sum": 240
+              VOLTAS: {
+                sum: 970,
+                products: [],
               },
-              {
-                "name": "KIIFB Infrastructure Development",
-                "sum": 310
+            },
+          },
+          "CONSUMER DURABLES-REFRIGERATOR": {
+            
+            sum: 880,
+            brands: {
+              LG: {
+                sum: 880,
+                products: [],
               },
-              {
-                "name": "Obesity Awareness",
-                "sum": 297
+            },
+          },
+        },
+      },
+      EDUCATION: {
+        
+        sum: 18979,
+        categories: {
+          "COACHING CENTRE": {
+            
+            sum: 4680,
+            brands: {
+              AAKASH: {
+                sum: 3960,
+                products: [],
               },
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 1050
+              "VIDYA MANDIR CLASSES": {
+                sum: 720,
+                products: [],
               },
-              {
-                "name": "Sahakarana Expo 2025",
-                "sum": 2240
+            },
+          },
+          COLLEGE: {
+            
+            sum: 924,
+            brands: {
+              "IIMT GROUP OF COLLEGES": {
+                sum: 924,
+                products: [],
               },
-              {
-                "name": "Skill Development Programs",
-                "sum": 100
-              }
-            ]
+            },
           },
-          "Information&Public Relation Departmemt": {
-            "sum": 4260,
-            "products": [
-              {
-                "name": "Ente Keralam 2025",
-                "sum": 4260
-              }
-            ]
-          },
-          "RBI": {
-            "sum": 780,
-            "products": [
-              {
-                "name": "Money Saving Initiative",
-                "sum": 780
-              }
-            ]
-          }
-        }
-      },
-      "Skill Development Programs": {
-        "color": "#9B59B6",
-        "sum": 100,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 100,
-            "products": [
-              {
-                "name": "ASAP Kerala",
-                "sum": 100
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Retail": {
-    "color": "#E74C3C",
-    "sum": 2970,
-    "categories": {
-      "Clothing": {
-        "color": "#4ECDC4",
-        "sum": 1080,
-        "brands": {
-          "Pulimoottil Silks": {
-            "sum": 1080,
-            "products": [
-              {
-                "name": "Almarah - New Showroom",
-                "sum": 1080
-              }
-            ]
-          }
-        }
-      },
-      "Retail Garments": {
-        "color": "#9B59B6",
-        "sum": 1050,
-        "brands": {
-          "Cotton Fab": {
-            "sum": 1050,
-            "products": [
-              {
-                "name": "Cotton Fab",
-                "sum": 1050
-              }
-            ]
-          }
-        }
-      },
-      "Textiles & Apparels": {
-        "color": "#3498DB",
-        "sum": 840,
-        "brands": {
-          "Brida": {
-            "sum": 840,
-            "products": [
-              {
-                "name": "Brida Innerwear",
-                "sum": 840
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
-  },
-  week17: {
-    "Radio Mango": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 12317,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 12317,
-        "brands": {
-          "Arabian Gold&Diamonds Jewelry": {
-            "sum": 2701,
-            "products": [
-              {
-                "name": "Gold & Diamond",
-                "sum": 2701
-              }
-            ]
-          },
-          "Bhima Gold&Diamonds": {
-            "sum": 2120,
-            "products": [
-              {
-                "name": "Akshaya Thrithiya Offer",
-                "sum": 240
+          EDUCATION: {
+            
+            sum: 11050,
+            brands: {
+              "EDUCATION EXPO": {
+                sum: 9010,
+                products: [],
               },
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1880
-              }
-            ]
-          },
-          "Joyalukkas Gold& Diamonds": {
-            "sum": 2125,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 2125
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 3283,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 3283
-              }
-            ]
-          },
-          "TBZ Original": {
-            "sum": 1988,
-            "products": [
-              {
-                "name": "Diamond Jewellery",
-                "sum": 1988
-              }
-            ]
-          },
-          "Vanitha Jewellery": {
-            "sum": 100,
-            "products": [
-              {
-                "name": "Gold Jewelry",
-                "sum": 100
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 3166,
-    "categories": {
-      "Automobile - Car": {
-        "color": "#4ECDC4",
-        "sum": 3166,
-        "brands": {
-          "Hyundai": {
-            "sum": 1726,
-            "products": [
-              {
-                "name": "Hyundai Cars",
-                "sum": 1726
-              }
-            ]
-          },
-          "MG Motor India": {
-            "sum": 1440,
-            "products": [
-              {
-                "name": "MG Midnight Carnival",
-                "sum": 1440
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Constructions": {
-    "color": "#E74C3C",
-    "sum": 1240,
-    "categories": {
-      "Building Materials": {
-        "color": "#4ECDC4",
-        "sum": 1240,
-        "brands": {
-          "Chettinad Construction": {
-            "sum": 1240,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 1240
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#3498DB",
-    "sum": 2324,
-    "categories": {
-      "Consumer Durables": {
-        "color": "#4ECDC4",
-        "sum": 1782,
-        "brands": {
-          "MyG Future": {
-            "sum": 1782,
-            "products": [
-              {
-                "name": "Electronics&Home Appliances",
-                "sum": 976
+              "K.R. MANGALAM UNIVERSITY": {
+                sum: 2040,
+                products: [],
               },
-              {
-                "name": "Laptop",
-                "sum": 64
+            },
+          },
+          UNIVERSITY: {
+            
+            sum: 2325,
+            brands: {
+              "GRAPHIC ERA UNIVERSITY": {
+                sum: 2325,
+                products: [],
               },
-              {
-                "name": "Laptop,AC",
-                "sum": 119
+            },
+          },
+        },
+      },
+      ENTERTAINMENT: {
+        
+        sum: 7208,
+        categories: {
+          "ENTERTAINMENT-AMUSEMENT PARK": {
+            
+            sum: 4110,
+            brands: {
+              "OSHAN WATER PARK": {
+                sum: 490,
+                products: [],
               },
-              {
-                "name": "Refrigerator\n",
-                "sum": 15
+              "WORLDS OF WONDER (WOW)": {
+                sum: 3620,
+                products: [],
               },
-              {
-                "name": "Smart Phone",
-                "sum": 592
+            },
+          },
+          "ENTERTAINMENT-OTT": {
+            
+            sum: 1230,
+            brands: {
+              "ZEE 5": {
+                sum: 1230,
+                products: [],
               },
-              {
-                "name": "Washing Machine",
-                "sum": 16
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Air Conditioner": {
-        "color": "#9B59B6",
-        "sum": 510,
-        "brands": {
-          "BPL": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 300
-              }
-            ]
+            },
           },
-          "Kelvinator": {
-            "sum": 210,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 210
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Electronics": {
-        "color": "#3498DB",
-        "sum": 32,
-        "brands": {
-          "MyG Future": {
-            "sum": 32,
-            "products": [
-              {
-                "name": "Smart Phone",
-                "sum": 32
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Education": {
-    "color": "#9B59B6",
-    "sum": 2971,
-    "categories": {
-      "Education": {
-        "color": "#4ECDC4",
-        "sum": 2971,
-        "brands": {
-          "Hindusthan Institute of Techonology": {
-            "sum": 975,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 975
-              }
-            ]
-          },
-          "KCG College of Techonology": {
-            "sum": 554,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 554
-              }
-            ]
-          },
-          "NISAU & Edroots": {
-            "sum": 400,
-            "products": [
-              {
-                "name": "UK Students Educators Meet Conference",
-                "sum": 400
-              }
-            ]
-          },
-          "UPES": {
-            "sum": 1042,
-            "products": [
-              {
-                "name": "Educational Programs",
-                "sum": 1042
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#1ABC9C",
-    "sum": 6125,
-    "categories": {
-      "Entertainment": {
-        "color": "#4ECDC4",
-        "sum": 1430,
-        "brands": {
-          "Center Squre Mall": {
-            "sum": 144,
-            "products": [
-              {
-                "name": "Dinosaur World,",
-                "sum": 144
-              }
-            ]
-          },
-          "Malayala Manorama": {
-            "sum": 1286,
-            "products": [
-              {
-                "name": "Pet Show",
-                "sum": 1286
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Amusement Park": {
-        "color": "#9B59B6",
-        "sum": 1795,
-        "brands": {
-          "Funtura": {
-            "sum": 1265,
-            "products": [
-              {
-                "name": "Amusement Park",
-                "sum": 1265
-              }
-            ]
-          },
-          "Silver Storm": {
-            "sum": 530,
-            "products": [
-              {
-                "name": "Slides&Rides",
-                "sum": 530
-              }
-            ]
-          }
-        }
-      },
-      "Publications": {
-        "color": "#3498DB",
-        "sum": 763,
-        "brands": {
-          "Karshakasree": {
-            "sum": 182,
-            "products": [
-              {
-                "name": "Magazine",
-                "sum": 182
-              }
-            ]
-          },
-          "Manorama": {
-            "sum": 581,
-            "products": [
-              {
-                "name": "Fast Track - Magazine",
-                "sum": 581
-              }
-            ]
-          }
-        }
-      },
-      "Radio": {
-        "color": "#F1C40F",
-        "sum": 2137,
-        "brands": {
-          "Mango FM": {
-            "sum": 2137,
-            "products": [
-              {
-                "name": "Bits Top",
-                "sum": 630
+          "ENTERTAINMENT-SPORTS": {
+            
+            sum: 860,
+            brands: {
+              "HERO CYCLES": {
+                sum: 860,
+                products: [],
               },
-              {
-                "name": "Celebrity Playlist",
-                "sum": 505
+            },
+          },
+          "OTT STREAMING": {
+            
+            sum: 198,
+            brands: {
+              "JIO HOTSTAR": {
+                sum: 198,
+                products: [],
               },
-              {
-                "name": "Mr.Mouse",
-                "sum": 672
+            },
+          },
+          RADIO: {
+            
+            sum: 810,
+            brands: {
+              "RED FM": {
+                sum: 810,
+                products: [],
               },
-              {
-                "name": "Spotlight",
-                "sum": 330
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "FMCG": {
-    "color": "#34495E",
-    "sum": 568,
-    "categories": {
-      "Food&Beverages": {
-        "color": "#4ECDC4",
-        "sum": 568,
-        "brands": {
-          "Palat Foods": {
-            "sum": 568,
-            "products": [
-              {
-                "name": "Instant Palappam Mix",
-                "sum": 121
+            },
+          },
+        },
+      },
+      FINANCE: {
+        
+        sum: 14891,
+        categories: {
+          "BANKING AND FINANCIAL SERVICES": {
+            
+            sum: 60,
+            brands: {
+              "BANK OF BARODA": {
+                sum: 24,
+                products: [],
               },
-              {
-                "name": "Steamed White Palappam Podi",
-                "sum": 352
+              "CANARA BANK": {
+                sum: 36,
+                products: [],
               },
-              {
-                "name": "Steamed White PalappamPodi",
-                "sum": 95
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Finance": {
-    "color": "#D35400",
-    "sum": 1134,
-    "categories": {
-      "Financial Services": {
-        "color": "#4ECDC4",
-        "sum": 1134,
-        "brands": {
-          "Muthoot Finance": {
-            "sum": 1134,
-            "products": [
-              {
-                "name": "Investment,\nMicrofinance",
-                "sum": 1134
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#F1C40F",
-    "sum": 2555,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 2555,
-        "brands": {
-          "Aqua Star": {
-            "sum": 880,
-            "products": [
-              {
-                "name": "Rain Water Gutter",
-                "sum": 880
-              }
-            ]
+            },
           },
-          "Euro Guard": {
-            "sum": 1675,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1675
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#FF6B6B",
-    "sum": 660,
-    "categories": {
-      "Services - Medical": {
-        "color": "#4ECDC4",
-        "sum": 660,
-        "brands": {
-          "Futureace Hospital": {
-            "sum": 210,
-            "products": [
-              {
-                "name": "Free Medical Camp",
-                "sum": 210
-              }
-            ]
-          },
-          "Malayala Manorama": {
-            "sum": 30,
-            "products": [
-              {
-                "name": "Free Knee Check-Up Camp",
-                "sum": 30
-              }
-            ]
-          },
-          "Welcare Hospital": {
-            "sum": 420,
-            "products": [
-              {
-                "name": "Multispeciality Hospital",
-                "sum": 420
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Petroleum Products": {
-    "color": "#2ECC71",
-    "sum": 1601,
-    "categories": {
-      "Petroleum Products": {
-        "color": "#4ECDC4",
-        "sum": 1601,
-        "brands": {
-          "Nayara Energy Petrol Pump": {
-            "sum": 1601,
-            "products": [
-              {
-                "name": "Petrol/Diesel",
-                "sum": 1601
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#E74C3C",
-    "sum": 3185,
-    "categories": {
-      "Awareness": {
-        "color": "#4ECDC4",
-        "sum": 90,
-        "brands": {
-          "RBI": {
-            "sum": 90,
-            "products": [
-              {
-                "name": "KYC Update",
-                "sum": 90
-              }
-            ]
-          }
-        }
-      },
-      "Inauguration": {
-        "color": "#9B59B6",
-        "sum": 1800,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 1800,
-            "products": [
-              {
-                "name": "Vizhinjam International Seaport",
-                "sum": 1800
-              }
-            ]
-          }
-        }
-      },
-      "Public Service Ads": {
-        "color": "#3498DB",
-        "sum": 1295,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 1145,
-            "products": [
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 1145
-              }
-            ]
-          },
-          "RBI": {
-            "sum": 150,
-            "products": [
-              {
-                "name": "Money Saving Initiative",
-                "sum": 150
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Retail": {
-    "color": "#3498DB",
-    "sum": 285,
-    "categories": {
-      "Retail Garments": {
-        "color": "#4ECDC4",
-        "sum": 285,
-        "brands": {
-          "Cotton Fab": {
-            "sum": 285,
-            "products": [
-              {
-                "name": "Cotton Fab",
-                "sum": 285
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
-    "Radio Mirchi": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 4495,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 4495,
-        "brands": {
-          "Bhima Gold&Diamonds": {
-            "sum": 1340,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1340
-              }
-            ]
-          },
-          "Chungam Jewellers": {
-            "sum": 740,
-            "products": [
-              {
-                "name": "Gold & Diamond - Ernakulam Showroom",
-                "sum": 740
-              }
-            ]
-          },
-          "Ernakulam Jewellery": {
-            "sum": 20,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 20
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 1925,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1925
-              }
-            ]
-          },
-          "Nakshathra Gold&Diamonds Jewellry": {
-            "sum": 470,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 470
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Airline": {
-    "color": "#2ECC71",
-    "sum": 60,
-    "categories": {
-      "Airline": {
-        "color": "#4ECDC4",
-        "sum": 60,
-        "brands": {
-          "Vietjet": {
-            "sum": 60,
-            "products": [
-              {
-                "name": "Low cost Airline",
-                "sum": 60
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#E74C3C",
-    "sum": 300,
-    "categories": {
-      "Automobile - Car": {
-        "color": "#4ECDC4",
-        "sum": 300,
-        "brands": {
-          "Kia": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Kia Motors",
-                "sum": 300
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#3498DB",
-    "sum": 2170,
-    "categories": {
-      "Consumer Durables - Air Conditioner": {
-        "color": "#4ECDC4",
-        "sum": 1100,
-        "brands": {
-          "Kelvinator": {
-            "sum": 660,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 660
-              }
-            ]
-          },
-          "Panasonic": {
-            "sum": 440,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 440
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Refrigerator": {
-        "color": "#9B59B6",
-        "sum": 460,
-        "brands": {
-          "LG": {
-            "sum": 460,
-            "products": [
-              {
-                "name": "Refrigerator",
-                "sum": 460
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Smart Phone": {
-        "color": "#3498DB",
-        "sum": 30,
-        "brands": {
-          "WHF": {
-            "sum": 30,
-            "products": [
-              {
-                "name": "Mobile",
-                "sum": 30
-              }
-            ]
-          }
-        }
-      },
-      "Consumer durables - Solar Panels": {
-        "color": "#F1C40F",
-        "sum": 580,
-        "brands": {
-          "Rayzon Solar": {
-            "sum": 580,
-            "products": [
-              {
-                "name": "Solar Panel",
-                "sum": 580
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#9B59B6",
-    "sum": 560,
-    "categories": {
-      "Contest": {
-        "color": "#4ECDC4",
-        "sum": 330,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 330,
-            "products": [
-              {
-                "name": "Mizhiv Photo Contest",
-                "sum": 60
+          "BANKING&FINANCE": {
+            
+            sum: 6765,
+            brands: {
+              "FEDERAL BANK": {
+                sum: 750,
+                products: [],
               },
-              {
-                "name": "Short Video Contest",
-                "sum": 270
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment": {
-        "color": "#9B59B6",
-        "sum": 230,
-        "brands": {
-          "Mirchi FM": {
-            "sum": 40,
-            "products": [
-              {
-                "name": "Money Matter",
-                "sum": 40
-              }
-            ]
-          },
-          "Parimatch": {
-            "sum": 190,
-            "products": [
-              {
-                "name": "Cricket Festival Box",
-                "sum": 190
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Finance": {
-    "color": "#1ABC9C",
-    "sum": 700,
-    "categories": {
-      "Finance - Application": {
-        "color": "#4ECDC4",
-        "sum": 480,
-        "brands": {
-          "BHIM": {
-            "sum": 190,
-            "products": [
-              {
-                "name": "Payment App",
-                "sum": 190
-              }
-            ]
-          },
-          "Canara Bank": {
-            "sum": 290,
-            "products": [
-              {
-                "name": "Paymet Apps",
-                "sum": 290
-              }
-            ]
-          }
-        }
-      },
-      "Finance - Insurance": {
-        "color": "#9B59B6",
-        "sum": 220,
-        "brands": {
-          "LIC": {
-            "sum": 220,
-            "products": [
-              {
-                "name": "Jeevan Labh Insurance",
-                "sum": 220
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Health Drink": {
-    "color": "#34495E",
-    "sum": 645,
-    "categories": {
-      "Health Drink": {
-        "color": "#4ECDC4",
-        "sum": 645,
-        "brands": {
-          "ORS": {
-            "sum": 645,
-            "products": [
-              {
-                "name": "Electrolyte",
-                "sum": 645
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Home Furnishing": {
-    "color": "#D35400",
-    "sum": 160,
-    "categories": {
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 160,
-        "brands": {
-          "Pittapillil Agencies": {
-            "sum": 160,
-            "products": [
-              {
-                "name": "Home and Kitchen Appliances",
-                "sum": 160
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Household Products": {
-    "color": "#F1C40F",
-    "sum": 310,
-    "categories": {
-      "Cleaning products": {
-        "color": "#4ECDC4",
-        "sum": 310,
-        "brands": {
-          "Veto": {
-            "sum": 310,
-            "products": [
-              {
-                "name": "Car Cleaner",
-                "sum": 80
+              SBI: {
+                sum: 6015,
+                products: [],
               },
-              {
-                "name": "Dish Wash",
-                "sum": 60
+            },
+          },
+          "BANKING&FINANCE SERVICES": {
+            
+            sum: 1760,
+            brands: {
+              "HDFC BANK": {
+                sum: 1760,
+                products: [],
               },
-              {
-                "name": "Hand Wash",
-                "sum": 60
+            },
+          },
+          "FINANCE-INSURANCE": {
+            
+            sum: 800,
+            brands: {
+              "GENERAL INSURANCE COUNCIL": {
+                sum: 800,
+                products: [],
               },
-              {
-                "name": "Toilet Cleaner",
-                "sum": 50
+            },
+          },
+          "FINANCE-LOANS": {
+            
+            sum: 4214,
+            brands: {
+              CGTMSE: {
+                sum: 294,
+                products: [],
               },
-              {
-                "name": "Wash Max Cleaner",
-                "sum": 40
+              ROF: {
+                sum: 3920,
+                products: [],
               },
-              {
-                "name": "Washing Powder",
-                "sum": 20
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#FF6B6B",
-    "sum": 1030,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 1030,
-        "brands": {
-          "Euro Guard": {
-            "sum": 1030,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1030
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#2ECC71",
-    "sum": 150,
-    "categories": {
-      "Services-Medical": {
-        "color": "#4ECDC4",
-        "sum": 150,
-        "brands": {
-          "Rajagiri Hospital": {
-            "sum": 150,
-            "products": [
-              {
-                "name": "Cardiology",
-                "sum": 150
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Personal Care": {
-    "color": "#E74C3C",
-    "sum": 345,
-    "categories": {
-      "Skincare": {
-        "color": "#4ECDC4",
-        "sum": 345,
-        "brands": {
-          "Saibon": {
-            "sum": 345,
-            "products": [
-              {
-                "name": "Saibon Cream",
-                "sum": 345
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#3498DB",
-    "sum": 3210,
-    "categories": {
-      "Public Service Ads": {
-        "color": "#4ECDC4",
-        "sum": 3210,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 660,
-            "products": [
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 660
-              }
-            ]
+            },
           },
-          "RBI": {
-            "sum": 510,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 510
-              }
-            ]
-          },
-          "SBI": {
-            "sum": 2040,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 990
+          INSURANCE: {
+            
+            sum: 1292,
+            brands: {
+              "GENERALI HEALTH INSURANCE": {
+                sum: 1292,
+                products: [],
               },
-              {
-                "name": "KYC Update",
-                "sum": 1050
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Travel & Tourism": {
-    "color": "#9B59B6",
-    "sum": 900,
-    "categories": {
-      "Travel & Tourism": {
-        "color": "#4ECDC4",
-        "sum": 900,
-        "brands": {
-          "Govt of Uttarakhand": {
-            "sum": 900,
-            "products": [
-              {
-                "name": "Chardham Yathra",
-                "sum": 900
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
-    "Red FM": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 12611,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 12611,
-        "brands": {
-          "Anaswara Jewellers": {
-            "sum": 2640,
-            "products": [
-              {
-                "name": "Gold & Diamond",
-                "sum": 2640
-              }
-            ]
+            },
           },
-          "Bhima Gold&Diamonds": {
-            "sum": 1480,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 1480
-              }
-            ]
-          },
-          "Chungam Jewellers": {
-            "sum": 1180,
-            "products": [
-              {
-                "name": "Gold & Diamond - Ernakulam Showroom",
-                "sum": 1180
-              }
-            ]
-          },
-          "JK Jewellery": {
-            "sum": 1005,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 1005
-              }
-            ]
-          },
-          "Malabar Gold & Diamonds": {
-            "sum": 3500,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 3500
-              }
-            ]
-          },
-          "Nakshathra Gold&Diamonds Jewellry": {
-            "sum": 2346,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 2346
-              }
-            ]
-          },
-          "Vanitha Jewellery": {
-            "sum": 460,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 460
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 6450,
-    "categories": {
-      "Automobile - Car": {
-        "color": "#4ECDC4",
-        "sum": 3300,
-        "brands": {
-          "Ford India": {
-            "sum": 1200,
-            "products": [
-              {
-                "name": "Summer Service Camp",
-                "sum": 1200
-              }
-            ]
-          },
-          "Hyundai": {
-            "sum": 2100,
-            "products": [
-              {
-                "name": "Hyundai Cars",
-                "sum": 2100
-              }
-            ]
-          }
-        }
+        },
       },
-      "Automobile-Accessories": {
-        "color": "#9B59B6",
-        "sum": 3150,
-        "brands": {
-          "Big Wheels": {
-            "sum": 1770,
-            "products": [
-              {
-                "name": "Tyre Services",
-                "sum": 1770
-              }
-            ]
-          },
-          "Global Tyres": {
-            "sum": 1380,
-            "products": [
-              {
-                "name": "Yukohama Tyres",
-                "sum": 1380
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Constructions": {
-    "color": "#E74C3C",
-    "sum": 1836,
-    "categories": {
-      "Building Materials": {
-        "color": "#4ECDC4",
-        "sum": 1836,
-        "brands": {
-          "Bharthi Cement": {
-            "sum": 456,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 456
-              }
-            ]
-          },
-          "Chettinad Construction": {
-            "sum": 1380,
-            "products": [
-              {
-                "name": "Cement",
-                "sum": 1380
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#3498DB",
-    "sum": 9505,
-    "categories": {
-      "Consumer Durables - Air Conditioner": {
-        "color": "#4ECDC4",
-        "sum": 3135,
-        "brands": {
-          "BPL": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 300
-              }
-            ]
-          },
-          "Kelvinator": {
-            "sum": 250,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 250
-              }
-            ]
-          },
-          "MyG Future": {
-            "sum": 170,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 170
-              }
-            ]
-          },
-          "Panasonic": {
-            "sum": 1080,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 1080
-              }
-            ]
-          },
-          "Pittapillil Agencies": {
-            "sum": 1335,
-            "products": [
-              {
-                "name": "Air Conditioner & Fan",
-                "sum": 1335
-              }
-            ]
-          }
-        }
-      },
-      "Consumer Durables - Electronics": {
-        "color": "#9B59B6",
-        "sum": 5340,
-        "brands": {
-          "MyG Future": {
-            "sum": 5340,
-            "products": [
-              {
-                "name": "Electronics&Home Appliances",
-                "sum": 5340
-              }
-            ]
-          }
-        }
-      },
-      "Consumer durables - Solar Panels": {
-        "color": "#3498DB",
-        "sum": 1030,
-        "brands": {
-          "Rayzon Solar": {
-            "sum": 1030,
-            "products": [
-              {
-                "name": "Solar Panel",
-                "sum": 1030
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Education": {
-    "color": "#9B59B6",
-    "sum": 880,
-    "categories": {
-      "Education": {
-        "color": "#4ECDC4",
-        "sum": 880,
-        "brands": {
-          "NISAU & Edroots": {
-            "sum": 400,
-            "products": [
-              {
-                "name": "UK Students Educators Meet Conference",
-                "sum": 400
-              }
-            ]
-          },
-          "UPES": {
-            "sum": 480,
-            "products": [
-              {
-                "name": "Educational Programs & World Class Education",
-                "sum": 480
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#1ABC9C",
-    "sum": 10752,
-    "categories": {
-      "Entertainment": {
-        "color": "#4ECDC4",
-        "sum": 221,
-        "brands": {
-          "Cake Story": {
-            "sum": 200,
-            "products": [
-              {
-                "name": "Movie",
-                "sum": 200
-              }
-            ]
-          },
-          "Chattambipparu": {
-            "sum": 21,
-            "products": [
-              {
-                "name": "Program",
-                "sum": 21
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - Amusement Park": {
-        "color": "#9B59B6",
-        "sum": 1390,
-        "brands": {
-          "Inter Square Mall": {
-            "sum": 160,
-            "products": [
-              {
-                "name": "Dinosour World",
-                "sum": 160
-              }
-            ]
-          },
-          "Silver Storm": {
-            "sum": 1170,
-            "products": [
-              {
-                "name": "Slides&Rides",
-                "sum": 1170
-              }
-            ]
-          },
-          "Wonderla": {
-            "sum": 60,
-            "products": [
-              {
-                "name": "Rap Concert",
-                "sum": 60
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment - TV serial": {
-        "color": "#3498DB",
-        "sum": 20,
-        "brands": {
-          "Sun NXT": {
-            "sum": 20,
-            "products": [
-              {
-                "name": "Chattambipaaru",
-                "sum": 20
-              }
-            ]
-          }
-        }
-      },
-      "Radio": {
-        "color": "#F1C40F",
-        "sum": 8261,
-        "brands": {
-          "Red FM": {
-            "sum": 8261,
-            "products": [
-              {
-                "name": "All Rounder",
-                "sum": 588
+      FMCG: {
+        
+        sum: 9387,
+        categories: {
+          CONFECTIONARY: {
+            
+            sum: 3082,
+            brands: {
+              VALIDAAL: {
+                sum: 1050,
+                products: [],
               },
-              {
-                "name": "Cheriya Lokavum Valiya Karyangalum",
-                "sum": 282
+              VIMAL: {
+                sum: 2032,
+                products: [],
               },
-              {
-                "name": "Hello My Dear Wrong Number Broadcasting",
-                "sum": 336
+            },
+          },
+          "DAIRY PRODUCTS": {
+            
+            sum: 35,
+            brands: {
+              "MOTHER DAIRY": {
+                sum: 35,
+                products: [],
               },
-              {
-                "name": "Konjjum Personal",
-                "sum": 52
+            },
+          },
+          "DELIVERY APPS": {
+            
+            sum: 2430,
+            brands: {
+              "SWIGGY&ZOMATO": {
+                sum: 2430,
+                products: [],
               },
-              {
-                "name": "Morning No.1",
-                "sum": 88
+            },
+          },
+          "FOOD PRODUCTS": {
+            
+            sum: 3840,
+            brands: {
+              DAAWAT: {
+                sum: 2440,
+                products: [],
               },
-              {
-                "name": "Radio Broadcasting",
-                "sum": 6235
+              RAJDHANI: {
+                sum: 1400,
+                products: [],
               },
-              {
-                "name": "Red Carpet",
-                "sum": 473
+            },
+          },
+        },
+      },
+      HEALTHCARE: {
+        
+        sum: 9106,
+        categories: {
+          HEALTHCARE: {
+            
+            sum: 4920,
+            brands: {
+              "JEENA SIKHO": {
+                sum: 4920,
+                products: [],
               },
-              {
-                "name": "RJ vivek &RJ soumya Broadcast",
-                "sum": 207
-              }
-            ]
-          }
-        }
-      },
-      "Television": {
-        "color": "#4ECDC4",
-        "sum": 860,
-        "brands": {
-          "Surya TV": {
-            "sum": 860,
-            "products": [
-              {
-                "name": "TV Serial",
-                "sum": 860
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "FMCG": {
-    "color": "#34495E",
-    "sum": 3590,
-    "categories": {
-      "Food Products": {
-        "color": "#4ECDC4",
-        "sum": 2430,
-        "brands": {
-          "Pavizham": {
-            "sum": 2430,
-            "products": [
-              {
-                "name": "Cookoff Curry Powder",
-                "sum": 2430
-              }
-            ]
-          }
-        }
-      },
-      "Food&Beverages": {
-        "color": "#9B59B6",
-        "sum": 1160,
-        "brands": {
-          "Healthy Grocer": {
-            "sum": 1160,
-            "products": [
-              {
-                "name": "Kayam",
-                "sum": 1160
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Finance": {
-    "color": "#D35400",
-    "sum": 3924,
-    "categories": {
-      "Banking and Financial Services": {
-        "color": "#4ECDC4",
-        "sum": 1615,
-        "brands": {
-          "Canara Bank": {
-            "sum": 540,
-            "products": [
-              {
-                "name": "Banking and Financial Services",
-                "sum": 540
-              }
-            ]
+            },
           },
-          "Federal Bank": {
-            "sum": 1075,
-            "products": [
-              {
-                "name": "NRE Prospera Saving account",
-                "sum": 1075
-              }
-            ]
-          }
-        }
-      },
-      "Finance - Application": {
-        "color": "#9B59B6",
-        "sum": 1680,
-        "brands": {
-          "BHIM": {
-            "sum": 1680,
-            "products": [
-              {
-                "name": "Payment App",
-                "sum": 1680
-              }
-            ]
-          }
-        }
-      },
-      "Financial Services": {
-        "color": "#3498DB",
-        "sum": 629,
-        "brands": {
-          "Unimoni": {
-            "sum": 629,
-            "products": [
-              {
-                "name": "Gold Loan",
-                "sum": 5
+          PHARMACEUTICALS: {
+            
+            sum: 2960,
+            brands: {
+              HAMDARD: {
+                sum: 2370,
+                products: [],
               },
-              {
-                "name": "Money Transfer Services",
-                "sum": 624
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Home Furnishing": {
-    "color": "#F1C40F",
-    "sum": 2793,
-    "categories": {
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 1668,
-        "brands": {
-          "Ammini Traders": {
-            "sum": 948,
-            "products": [
-              {
-                "name": "Home Appliances",
-                "sum": 948
-              }
-            ]
-          },
-          "Emma Mattress": {
-            "sum": 720,
-            "products": [
-              {
-                "name": "Mattress",
-                "sum": 720
-              }
-            ]
-          }
-        }
-      },
-      "Sanitary Fittings": {
-        "color": "#9B59B6",
-        "sum": 945,
-        "brands": {
-          "Kartar Bar Fittings": {
-            "sum": 945,
-            "products": [
-              {
-                "name": "Bar Fittings",
-                "sum": 945
-              }
-            ]
-          }
-        }
-      },
-      "Spirituality Products": {
-        "color": "#3498DB",
-        "sum": 180,
-        "brands": {
-          "DevDarshan Dhoop": {
-            "sum": 180,
-            "products": [
-              {
-                "name": "Agarbatti,Perfume & Pooja Products",
-                "sum": 180
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#FF6B6B",
-    "sum": 3691,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 3691,
-        "brands": {
-          "Aqua Star": {
-            "sum": 800,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 800
-              }
-            ]
-          },
-          "Euro Guard": {
-            "sum": 1670,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1670
-              }
-            ]
-          },
-          "Varsha": {
-            "sum": 636,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 636
-              }
-            ]
-          },
-          "WellWorth": {
-            "sum": 585,
-            "products": [
-              {
-                "name": "MFT Pipes",
-                "sum": 585
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#2ECC71",
-    "sum": 3432,
-    "categories": {
-      "Services - Medical": {
-        "color": "#4ECDC4",
-        "sum": 3432,
-        "brands": {
-          "K P Pathrose Vaidyan's": {
-            "sum": 975,
-            "products": [
-              {
-                "name": "Ayurvedic Medicines",
-                "sum": 975
-              }
-            ]
-          },
-          "Rajagiri Hospital": {
-            "sum": 135,
-            "products": [
-              {
-                "name": "Cardiology",
-                "sum": 135
-              }
-            ]
-          },
-          "Saroj Diagnostic Laboratory": {
-            "sum": 642,
-            "products": [
-              {
-                "name": "Diagnostic Services",
-                "sum": 642
-              }
-            ]
-          },
-          "SunAct Cancer Institute": {
-            "sum": 1680,
-            "products": [
-              {
-                "name": "Advanced Cancer Therapies",
-                "sum": 1680
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Petroleum Products": {
-    "color": "#E74C3C",
-    "sum": 1035,
-    "categories": {
-      "Petroleum Products": {
-        "color": "#4ECDC4",
-        "sum": 1035,
-        "brands": {
-          "Nayara Energy Petrol Pump": {
-            "sum": 1035,
-            "products": [
-              {
-                "name": "Petrol/Diesel",
-                "sum": 1035
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Property": {
-    "color": "#3498DB",
-    "sum": 1200,
-    "categories": {
-      "Property - Commercial": {
-        "color": "#4ECDC4",
-        "sum": 1200,
-        "brands": {
-          "Chittilappilly": {
-            "sum": 1200,
-            "products": [
-              {
-                "name": "Chittilappilly Square",
-                "sum": 1200
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#9B59B6",
-    "sum": 6630,
-    "categories": {
-      "Inauguration": {
-        "color": "#4ECDC4",
-        "sum": 1800,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 1800,
-            "products": [
-              {
-                "name": "Vizhinjam International Seaport",
-                "sum": 1800
-              }
-            ]
-          }
-        }
-      },
-      "Public Service Ads": {
-        "color": "#9B59B6",
-        "sum": 4830,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 1050,
-            "products": [
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 1050
-              }
-            ]
-          },
-          "RBI": {
-            "sum": 570,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 510
+              "MUGLI GHUTTI 555": {
+                sum: 590,
+                products: [],
               },
-              {
-                "name": "KYC Update",
-                "sum": 60
-              }
-            ]
+            },
           },
-          "SBI": {
-            "sum": 3210,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 1710
+          "SERVICES-MEDICAL": {
+            
+            sum: 1226,
+            brands: {
+              "BRIJ MEDICAL CENTRE": {
+                sum: 461,
+                products: [],
               },
-              {
-                "name": "KYC Update",
-                "sum": 1500
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Travel and tourism": {
-    "color": "#1ABC9C",
-    "sum": 18,
-    "categories": {
-      "Travel Services": {
-        "color": "#4ECDC4",
-        "sum": 18,
-        "brands": {
-          "Unimoni": {
-            "sum": 18,
-            "products": [
-              {
-                "name": "Travel & Holidays",
-                "sum": 18
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
-    "Club FM": {
-  "Accessories": {
-    "color": "#FF6B6B",
-    "sum": 8162,
-    "categories": {
-      "Accessories - Jewellery": {
-        "color": "#4ECDC4",
-        "sum": 8162,
-        "brands": {
-          "AGD Gold&Diamonds": {
-            "sum": 686,
-            "products": [
-              {
-                "name": "Gold & Diamond",
-                "sum": 686
-              }
-            ]
+              "DAYAL EYE CENTRE": {
+                sum: 765,
+                products: [],
+              },
+            },
           },
-          "Bhima Gold&Diamonds": {
-            "sum": 2100,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 2100
-              }
-            ]
+        },
+      },
+      "HOME FURNISHING": {
+        
+        sum: 3025,
+        categories: {
+          "AIR FRESHNERS": {
+            
+            sum: 2320,
+            brands: {
+              "CAMPHOR-BASED AIR FRESHENER": {
+                sum: 2320,
+                products: [],
+              },
+            },
           },
-          "Joyalukkas Gold& Diamonds": {
-            "sum": 2225,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 2225
-              }
-            ]
+          "FLOOR COVERINGS": {
+            
+            sum: 465,
+            brands: {
+              ARNEJA: {
+                sum: 465,
+                products: [],
+              },
+            },
           },
-          "Malabar Gold & Diamonds": {
-            "sum": 2875,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellery",
-                "sum": 2875
-              }
-            ]
+          "SPIRITUAL ESSENTIALS": {
+            
+            sum: 240,
+            brands: {
+              "DEV DARSHAN DHOOP&AGARBATTI": {
+                sum: 240,
+                products: [],
+              },
+            },
           },
-          "Nakshathra Gold&Diamonds Jewellry": {
-            "sum": 276,
-            "products": [
-              {
-                "name": "Gold & Diamonds\nJewellry",
-                "sum": 276
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Automobile": {
-    "color": "#2ECC71",
-    "sum": 1860,
-    "categories": {
-      "Automobile - Dealers": {
-        "color": "#4ECDC4",
-        "sum": 1860,
-        "brands": {
-          "MG Motor India": {
-            "sum": 1860,
-            "products": [
-              {
-                "name": "MG Midnight Carnival",
-                "sum": 1860
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Consumer Durables": {
-    "color": "#E74C3C",
-    "sum": 4075,
-    "categories": {
-      "Consumer Durables": {
-        "color": "#4ECDC4",
-        "sum": 1680,
-        "brands": {
-          "MyG Future": {
-            "sum": 1680,
-            "products": [
-              {
-                "name": "Electronics&Home Appliances",
-                "sum": 1680
-              }
-            ]
-          }
-        }
+        },
       },
-      "Consumer Durables - Air Conditioner": {
-        "color": "#9B59B6",
-        "sum": 1380,
-        "brands": {
-          "Daikin": {
-            "sum": 1140,
-            "products": [
-              {
-                "name": "Air Conditioner & Fan",
-                "sum": 1140
-              }
-            ]
+      "PETROLEUM PRODUCTS": {
+        
+        sum: 270,
+        categories: {
+          "PETROLEUM PRODUCTS": {
+            
+            sum: 270,
+            brands: {
+              "NAYARA PETROL PUMP": {
+                sum: 270,
+                products: [],
+              },
+            },
           },
-          "Kelvinator": {
-            "sum": 240,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 240
-              }
-            ]
-          }
-        }
+        },
       },
-      "Consumer Durables - Refrigerator": {
-        "color": "#3498DB",
-        "sum": 15,
-        "brands": {
-          "Ajmal Bismi": {
-            "sum": 15,
-            "products": [
-              {
-                "name": "Refrigerator",
-                "sum": 15
-              }
-            ]
-          }
-        }
-      },
-      "Consumer durables - Air Conditioner": {
-        "color": "#F1C40F",
-        "sum": 300,
-        "brands": {
-          "BPL": {
-            "sum": 300,
-            "products": [
-              {
-                "name": "Air Conditioner",
-                "sum": 300
-              }
-            ]
-          }
-        }
-      },
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 700,
-        "brands": {
-          "Nolta": {
-            "sum": 700,
-            "products": [
-              {
-                "name": "Home Appliances",
-                "sum": 700
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Education": {
-    "color": "#3498DB",
-    "sum": 2560,
-    "categories": {
-      "Bookshop": {
-        "color": "#4ECDC4",
-        "sum": 1620,
-        "brands": {
-          "Madrubhoomi Books": {
-            "sum": 1620,
-            "products": [
-              {
-                "name": "World Book Day,April 23,\nReading",
-                "sum": 1620
-              }
-            ]
-          }
-        }
-      },
-      "Education": {
-        "color": "#9B59B6",
-        "sum": 940,
-        "brands": {
-          "Hindusthan Institute of Techonology": {
-            "sum": 700,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 700
-              }
-            ]
+      PROPERTY: {
+        
+        sum: 10059,
+        categories: {
+          "PROPERTY-COMMERCIAL": {
+            
+            sum: 1449,
+            brands: {
+              AURUM: {
+                sum: 400,
+                products: [],
+              },
+              "KAVERI BUILDTECH": {
+                sum: 844,
+                products: [],
+              },
+              "NAVRAJ GROUP": {
+                sum: 84,
+                products: [],
+              },
+              "OMNIS THE ELYSIUM": {
+                sum: 40,
+                products: [],
+              },
+              RENOX: {
+                sum: 9,
+                products: [],
+              },
+              "SHARDA UPTOWN": {
+                sum: 72,
+                products: [],
+              },
+            },
           },
-          "KCG College of Technology": {
-            "sum": 240,
-            "products": [
-              {
-                "name": "Courses",
-                "sum": 240
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Entertainment": {
-    "color": "#9B59B6",
-    "sum": 10748,
-    "categories": {
-      "Contest": {
-        "color": "#4ECDC4",
-        "sum": 8560,
-        "brands": {
-          "Image\n Mobiles&Computers": {
-            "sum": 8560,
-            "products": [
-              {
-                "name": "Photography Contest",
-                "sum": 8560
-              }
-            ]
-          }
-        }
-      },
-      "Entertainment-Amusement Park": {
-        "color": "#9B59B6",
-        "sum": 160,
-        "brands": {
-          "Inter Square Mall": {
-            "sum": 160,
-            "products": [
-              {
-                "name": "Dinosour World",
-                "sum": 160
-              }
-            ]
-          }
-        }
-      },
-      "Program": {
-        "color": "#3498DB",
-        "sum": 2028,
-        "brands": {
-          "Club FM": {
-            "sum": 2028,
-            "products": [
-              {
-                "name": "Program",
-                "sum": 2028
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "FMCG": {
-    "color": "#1ABC9C",
-    "sum": 260,
-    "categories": {
-      "Dairy Products": {
-        "color": "#4ECDC4",
-        "sum": 260,
-        "brands": {
-          "Muralya Dairy": {
-            "sum": 260,
-            "products": [
-              {
-                "name": "Muralya Ghee",
-                "sum": 260
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Home Furnishing": {
-    "color": "#34495E",
-    "sum": 1300,
-    "categories": {
-      "Household Products": {
-        "color": "#4ECDC4",
-        "sum": 1300,
-        "brands": {
-          "Pittapillil Agencies": {
-            "sum": 1300,
-            "products": [
-              {
-                "name": "Home and Kitchen Appliances",
-                "sum": 1300
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Internet Services": {
-    "color": "#D35400",
-    "sum": 1050,
-    "categories": {
-      "Cable Service Provider": {
-        "color": "#4ECDC4",
-        "sum": 1050,
-        "brands": {
-          "Asianet": {
-            "sum": 1050,
-            "products": [
-              {
-                "name": "Asianet Fiber Connection",
-                "sum": 1050
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Manufacturing": {
-    "color": "#F1C40F",
-    "sum": 2450,
-    "categories": {
-      "Industrial & Manufacturing Services": {
-        "color": "#4ECDC4",
-        "sum": 2450,
-        "brands": {
-          "Aqua Star": {
-            "sum": 920,
-            "products": [
-              {
-                "name": "Rain Water Gutter",
-                "sum": 920
-              }
-            ]
+          "PROPERTY-HOUSING": {
+            
+            sum: 8610,
+            brands: {
+              AURUM: {
+                sum: 200,
+                products: [],
+              },
+              "DWARKA EXPRESSWAY": {
+                sum: 1646,
+                products: [],
+              },
+              "HL CITY": {
+                sum: 1999,
+                products: [],
+              },
+              "KAVERI BUILDTECH": {
+                sum: 660,
+                products: [],
+              },
+              "VINRA GROUP": {
+                sum: 3885,
+                products: [],
+              },
+              "YAMUNA EXPRESSWAY": {
+                sum: 220,
+                products: [],
+              },
+            },
           },
-          "Euro Guard": {
-            "sum": 1530,
-            "products": [
-              {
-                "name": "UPVC Rain Water Gutters",
-                "sum": 1530
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Medicine": {
-    "color": "#FF6B6B",
-    "sum": 655,
-    "categories": {
-      "Medical Equipments & Supplies": {
-        "color": "#4ECDC4",
-        "sum": 280,
-        "brands": {
-          "DDRC Agilus": {
-            "sum": 280,
-            "products": [
-              {
-                "name": "Lab Reports",
-                "sum": 280
-              }
-            ]
-          }
-        }
+        },
       },
-      "Service-Medical": {
-        "color": "#9B59B6",
-        "sum": 375,
-        "brands": {
-          "Rajagiri Hospital": {
-            "sum": 375,
-            "products": [
-              {
-                "name": "Cardiology",
-                "sum": 375
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Public Interest": {
-    "color": "#2ECC71",
-    "sum": 3561,
-    "categories": {
-      "Inauguration": {
-        "color": "#4ECDC4",
-        "sum": 1800,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 1800,
-            "products": [
-              {
-                "name": "Vizhinjam International Seaport",
-                "sum": 1800
-              }
-            ]
-          }
-        }
-      },
-      "Public Service Ads": {
-        "color": "#9B59B6",
-        "sum": 1467,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 870,
-            "products": [
-              {
-                "name": "Road Safety is Life Safety",
-                "sum": 870
-              }
-            ]
+      "PUBLIC INTEREST": {
+        
+        sum: 3585,
+        categories: {
+          "PUBLIC SERVICE ADS": {
+            
+            sum: 3585,
+            brands: {
+              NDMC: {
+                sum: 624,
+                products: [],
+              },
+              RBI: {
+                sum: 59,
+                products: [],
+              },
+              SBI: {
+                sum: 2902,
+                products: [],
+              },
+            },
           },
-          "RBI": {
-            "sum": 510,
-            "products": [
-              {
-                "name": "Money Saving Initiative",
-                "sum": 510
-              }
-            ]
+        },
+      },
+      "TEXTILES&APPARELS": {
+        
+        sum: 920,
+        categories: {
+          "BRANDED CLOTHING": {
+            
+            sum: 180,
+            brands: {
+              "LOUIS PHILIPPE-AMBIENCE MALL": {
+                sum: 180,
+                products: [],
+              },
+            },
           },
-          "SBI": {
-            "sum": 87,
-            "products": [
-              {
-                "name": "Awareness",
-                "sum": 87
-              }
-            ]
-          }
-        }
+          CLOTHING: {
+            
+            sum: 740,
+            brands: {
+              "SILK MARK": {
+                sum: 740,
+                products: [],
+              },
+            },
+          },
+        },
       },
-      "Skill Development Programs": {
-        "color": "#3498DB",
-        "sum": 294,
-        "brands": {
-          "Govt of Kerala": {
-            "sum": 294,
-            "products": [
-              {
-                "name": "ASAP Kerala",
-                "sum": 294
-              }
-            ]
-          }
-        }
-      }
-    }
-  },
-  "Retail": {
-    "color": "#E74C3C",
-    "sum": 1920,
-    "categories": {
-      "Clothing": {
-        "color": "#4ECDC4",
-        "sum": 1050,
-        "brands": {
-          "Pulimoottil Silks": {
-            "sum": 1050,
-            "products": [
-              {
-                "name": "Almarah - New Showroom",
-                "sum": 1050
-              }
-            ]
-          }
-        }
-      },
-      "Retail Garments": {
-        "color": "#9B59B6",
-        "sum": 150,
-        "brands": {
-          "Cotton Fab": {
-            "sum": 150,
-            "products": [
-              {
-                "name": "Cotton Fab",
-                "sum": 150
-              }
-            ]
-          }
-        }
-      },
-      "Textiles & Apparels": {
-        "color": "#3498DB",
-        "sum": 720,
-        "brands": {
-          "Brida": {
-            "sum": 720,
-            "products": [
-              {
-                "name": "Brida Innerwear",
-                "sum": 720
-              }
-            ]
-          }
-        }
-      }
-    }
-  }
-},
+    },
   },
 };

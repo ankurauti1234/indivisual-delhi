@@ -11,66 +11,38 @@ import {
 } from "@/components/ui/select";
 
 const StatCards = () => {
-  const [selectedWeek, setSelectedWeek] = useState("week_16");
+  const [selectedWeek, setSelectedWeek] = useState("week_1");
 
-  // Data for Week 16 (April 14-20, 2025)
-  const week16Data = {
+  // Data for Week 1 (May 7-14, 2025)
+  const week1Data = {
     topAdvertisersByCount: [
-      { name: "Ajmal Bismi", value: 1200 },
-      { name: "Govt. of Kerala", value: 843 },
-      { name: "Euro Gaurd", value: 593 },
-      { name: "Malabar Golds & Diamonds", value: 455 },
+      { name: "EDUCATION EXPO", value: 1238 },
+      { name: "ATLANTIC WATER WORLD", value: 1101 },
+      { name: "UNISON JEWELS", value: 797 },
+      { name: "SBI", value: 757 },
     ],
     topAdvertisersBySeconds: [
-      { name: "Govt. of Kerala", value: 21148 },
-      { name: "Ajmal Bismi", value: 17851 },
-      { name: "Info & Public Relations Dept.", value: 11601 },
-      { name: "Malabar Golds & Diamonds", value: 11218 },
+      { name: "EDUCATION EXPO", value: 19370.0 },
+      { name: "SBI", value: 18488.0 },
+      { name: "MARUTI SUZUKI", value: 15124.0 },
+      { name: "LG", value: 9765.0 },
     ],
     topStationsByCount: [
-      { name: "Red FM", value: 5666 },
-      { name: "Club FM", value: 2300 },
-      { name: "Mango", value: 2152 },
-      { name: "Mirchi", value: 1523 },
+      { name: "Radio City", value: 7269 },
+      { name: "Red FM", value: 5965 },
+      { name: "Radio Mirchi", value: 5476 },
+      { name: "Radio One", value: 2664 },
     ],
     topStationsBySeconds: [
-      { name: "Red FM", value: 74254 },
-      { name: "Club FM", value: 48240 },
-      { name: "Mango", value: 45678 },
-      { name: "Mirchi", value: 27525 },
+      { name: "Radio City", value: 108239.0 },
+      { name: "Red FM", value: 107454.0 },
+      { name: "Radio Mirchi", value: 95011.0 },
+      { name: "Radio One", value: 50178.0 },
     ],
   };
 
-  // Data for Week 17 (April 21-27, 2025)
-  const week17Data = {
-    topAdvertisersByCount: [
-      { name: "MYG Future", value: 677 },
-      { name: "Euro Guard", value: 710 },
-      { name: "Anaswara Jewellers", value: 628 },
-      { name: "Nakshatra Gold & Diamonds", value: 534 },
-    ],
-    topAdvertisersBySeconds: [
-      { name: "Malabar Gold & Diamonds", value: 13350 }, // Converted to seconds
-      { name: "Govt. of Kerala", value: 16985 },
-      { name: "MYG Future", value: 10155 },
-      { name: "Image Mobiles & Computers", value: 9960 },
-    ],
-    topStationsByCount: [
-      { name: "Club FM", value: 2335 },
-      { name: "Mango", value: 2417 },
-      { name: "Mirchi", value: 1258 },
-      { name: "Red FM", value: 6424 },
-    ],
-    topStationsBySeconds: [
-      { name: "Club FM", value: 49600 },
-      { name: "Mango", value: 46424 },
-      { name: "Mirchi", value: 19693 },
-      { name: "Red FM", value: 80425 },
-    ],
-  };
-
-  // Select data based on the current week
-  const currentData = selectedWeek === "week_16" ? week16Data : week17Data;
+  // Select data (only one week available)
+  const currentData = week1Data;
 
   const sections = [
     {
@@ -79,7 +51,6 @@ const StatCards = () => {
       description: "Advertisers with the highest number of ad plays",
       icon: <ScrollText className="text-gray-600" size={20} />,
       formatValue: (value) => `${value} plays`,
-      // trend: selectedWeek === "week_16" ? "+2.1%" : "+2.5%",
       isPositive: true,
     },
     {
@@ -88,8 +59,7 @@ const StatCards = () => {
       description: "Advertisers with the most accumulated ad seconds",
       icon: <BarChart className="text-gray-600" size={20} />,
       formatValue: (value) => `${Math.round(value / 60)} mins`,
-      // trend: selectedWeek === "week_16" ? "+1.5%" : "-0.8%",
-      isPositive: selectedWeek === "week_16",
+      isPositive: true,
     },
     {
       title: "Top Stations by Ad Count",
@@ -97,7 +67,6 @@ const StatCards = () => {
       description: "Radio stations with the highest number of ad plays",
       icon: <CheckSquare className="text-gray-600" size={20} />,
       formatValue: (value) => `${value} plays`,
-      // trend: selectedWeek === "week_16" ? "+1.8%" : "+2.3%",
       isPositive: true,
     },
     {
@@ -106,14 +75,12 @@ const StatCards = () => {
       description: "Radio stations with the most accumulated ad seconds",
       icon: <Users className="text-gray-600" size={20} />,
       formatValue: (value) => `${Math.round(value / 60)} mins`,
-      // trend: selectedWeek === "week_16" ? "+1.2%" : "-0.5%",
-      isPositive: selectedWeek === "week_16",
+      isPositive: true,
     },
   ];
 
   const weeks = [
-    { value: "week_16", label: "Week 16 (Apr 14-20, 2025)" },
-    { value: "week_17", label: "Week 17 (Apr 21-27, 2025)" },
+    { value: "week_1", label: "Week 1 (May 7-14, 2025)" },
   ];
 
   const renderTrend = (trend, isPositive) => {

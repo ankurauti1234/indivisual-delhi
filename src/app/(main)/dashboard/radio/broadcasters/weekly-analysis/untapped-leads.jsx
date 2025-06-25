@@ -10,68 +10,38 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import ChartCard from "@/components/card/charts-card";
-import { week16, week17 } from "./top-ad-data"; // Import the JSON data
+import { week19 } from "./top-ad-data"; // Import the JSON data
 import { Button } from "@/components/ui/button";
 
-// Derive station data from week16 and week17
+// Derive station data from week19
 const stationDataByWeek = {
-  week16: {
-    mangofm: {
-      name: "Mango FM",
-      advertisers: week16.map((item) => ({
+  week19: {
+    radiocity: {
+      name: "Radio City",
+      advertisers: week19.map((item) => ({
         brand: item.Brand,
-        ads: item["Mango FM"] || 0,
-      })).filter((item) => item.ads > 0),
-    },
-    redfm: {
-      name: "Red FM",
-      advertisers: week16.map((item) => ({
-        brand: item.Brand,
-        ads: item["Red FM"] || 0,
-      })).filter((item) => item.ads > 0),
-    },
-    clubfm: {
-      name: "Club FM",
-      advertisers: week16.map((item) => ({
-        brand: item.Brand,
-        ads: item["Club FM"] || 0,
+        ads: item["Radio City"] || 0,
       })).filter((item) => item.ads > 0),
     },
     radiomirchi: {
       name: "Radio Mirchi",
-      advertisers: week16.map((item) => ({
+      advertisers: week19.map((item) => ({
         brand: item.Brand,
         ads: item["Radio Mirchi"] || 0,
       })).filter((item) => item.ads > 0),
     },
-  },
-  week17: {
-    mangofm: {
-      name: "Mango FM",
-      advertisers: week17.map((item) => ({
+    radioone: {
+      name: "Radio One",
+      advertisers: week19.map((item) => ({
         brand: item.Brand,
-        ads: item["Mango FM"] || 0,
+        ads: item["Radio One"] || 0,
       })).filter((item) => item.ads > 0),
     },
     redfm: {
       name: "Red FM",
-      advertisers: week17.map((item) => ({
+      advertisers: week19.map((item) => ({
         brand: item.Brand,
         ads: item["Red FM"] || 0,
-      })).filter((item) => item.ads > 0),
-    },
-    clubfm: {
-      name: "Club FM",
-      advertisers: week17.map((item) => ({
-        brand: item.Brand,
-        ads: item["Club FM"] || 0,
-      })).filter((item) => item.ads > 0),
-    },
-    radiomirchi: {
-      name: "Radio Mirchi",
-      advertisers: week17.map((item) => ({
-        brand: item.Brand,
-        ads: item["Radio Mirchi"] || 0,
       })).filter((item) => item.ads > 0),
     },
   },
@@ -79,15 +49,15 @@ const stationDataByWeek = {
 
 // List of stations
 const stationOptions = [
-  { value: "mangofm", label: "Mango FM" },
-  { value: "redfm", label: "Red FM" },
-  { value: "clubfm", label: "Club FM" },
+  { value: "radiocity", label: "Radio City" },
   { value: "radiomirchi", label: "Radio Mirchi" },
+  { value: "radioone", label: "Radio One" },
+  { value: "redfm", label: "Red FM" },
 ];
 
 export default function UntappedLeads() {
-  const [selectedStation, setSelectedStation] = useState("mangofm");
-  const [selectedWeek, setSelectedWeek] = useState("week16");
+  const [selectedStation, setSelectedStation] = useState("radiocity");
+  const [selectedWeek, setSelectedWeek] = useState("week19");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
 
@@ -160,21 +130,18 @@ export default function UntappedLeads() {
     <ChartCard
       icon={<Target className="w-6 h-6" />}
       title="Competitor Advertisers NOT on Your Station"
-      description={`Untapped Leads Advertising on Competitors - ${
-        selectedWeek === "week16" ? "Week 16" : "Week 17"
-      } (2024)`}
+      description="Untapped Leads Advertising on Competitors - Week 19 (May 7-14, 2025)"
       action={
         <div className="flex justify-end gap-2">
-          <Select onValueChange={handleWeekChange} defaultValue="week16">
+          <Select onValueChange={handleWeekChange} value="week19">
             <SelectTrigger className="w-32">
               <SelectValue placeholder="Select week" />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="week16">Week 16</SelectItem>
-              <SelectItem value="week17">Week 17</SelectItem>
+              <SelectItem value="week19">Week 19</SelectItem>
             </SelectContent>
           </Select>
-          <Select onValueChange={handleStationChange} defaultValue="mangofm">
+          <Select onValueChange={handleStationChange} value={selectedStation}>
             <SelectTrigger className="w-48">
               <SelectValue placeholder="Select station" />
             </SelectTrigger>
@@ -214,7 +181,7 @@ export default function UntappedLeads() {
               ) : (
                 <tr>
                   <td colSpan={3} className="px-6 py-4 text-center text-gray-400">
-                    No untapped leads found for {currentWeekData[selectedStation].name} in {selectedWeek === 'week16' ? 'Week 16' : 'Week 17'}.
+                    No untapped leads found for {currentWeekData[selectedStation].name} in Week 19.
                   </td>
                 </tr>
               )}
@@ -225,7 +192,7 @@ export default function UntappedLeads() {
       footer={
         <div className="flex w-full justify-between items-center text-sm text-gray-500">
           <p>
-            Showing {paginatedLeads.length} of {totalItems} untapped leads not advertising on {currentWeekData[selectedStation].name} in {selectedWeek === "week16" ? "Week 16" : "Week 17"}
+            Showing {paginatedLeads.length} of {totalItems} untapped leads not advertising on {currentWeekData[selectedStation].name} in Week 19
           </p>
           {totalItems > itemsPerPage && (
             <div className="flex gap-2">

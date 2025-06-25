@@ -16,15 +16,15 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { radio_mirchi, club_fm, radio_mango, red_fm } from "./heatmap-data.js";
+import { radio_city, red_fm, radio_mirchi, radio_one } from "./heatmap-data.js";
 
 const RadioAdHeatmap = () => {
-  const [selectedDate, setSelectedDate] = useState("2025-04-16");
+  const [selectedDate, setSelectedDate] = useState("2025-05-07");
   const [hoveredCell, setHoveredCell] = useState(null);
   const [hoveredRow, setHoveredRow] = useState(null);
 
   // Check if data is missing
-  if (!radio_mirchi || !club_fm || !radio_mango || !red_fm) {
+  if (!radio_city || !red_fm || !radio_mirchi || !radio_one) {
     return (
       <Card>
         <CardHeader>
@@ -38,15 +38,15 @@ const RadioAdHeatmap = () => {
   }
 
   const allData = {
-    radio_mirchi: radio_mirchi || {},
-    club_fm: club_fm || {},
-    radio_mango: radio_mango || {},
+    radio_city: radio_city || {},
     red_fm: red_fm || {},
+    radio_mirchi: radio_mirchi || {},
+    radio_one: radio_one || {},
   };
 
   const dates = [];
-  const startDate = new Date("2025-04-16");
-  const endDate = new Date("2025-04-30");
+  const startDate = new Date("2025-05-07");
+  const endDate = new Date("2025-05-14");
   for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
     dates.push({
       value: d.toISOString().split("T")[0],
@@ -60,12 +60,12 @@ const RadioAdHeatmap = () => {
 
   const processData = (date) => {
     const hours = Array.from({ length: 24 }, (_, i) => `${i}`);
-    const stations = ["RED FM", "Club FM", "Mango", "Mirchi"];
+    const stations = ["Radio City", "Red FM", "Radio Mirchi", "Radio One"];
     const stationKeys = {
-      "RED FM": "red_fm",
-      "Club FM": "club_fm",
-      "Mango": "radio_mango",
-      "Mirchi": "radio_mirchi",
+      "Radio City": "radio_city",
+      "Red FM": "red_fm",
+      "Radio Mirchi": "radio_mirchi",
+      "Radio One": "radio_one",
     };
 
     const matrix = stations.map((station) => {
@@ -176,7 +176,7 @@ const RadioAdHeatmap = () => {
                   <div className="absolute -top-12 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-sm py-2 px-3 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity z-10 shadow-lg max-w-[200px]">
                     <p className="font-semibold">{hour}</p>
                     <p>{getTimeOfDay(hour.split(":")[0])}</p>
-                    <p className="text-xs text-gray-300">Date: {formatDate(selectedDate)}</p>
+                    <p className="text-xs text-gray-400">Date: {formatDate(selectedDate)}</p>
                   </div>
                 </div>
               ))}
@@ -204,7 +204,7 @@ const RadioAdHeatmap = () => {
                     className="col-span-24 h-12 flex items-center justify-center bg-gray-100 text-sm text-gray-500 italic"
                     style={{ gridColumn: "2 / -1" }}
                   >
-                    No data for this date for {row.station}
+                    No data for {row.station} on this date
                   </div>
                 ) : (
                   hours.map((hour) => (
@@ -212,32 +212,31 @@ const RadioAdHeatmap = () => {
                       key={hour}
                       className="relative group"
                       style={{
-                        backgroundColor: getColor(row[hour.split(":")[0]]),
+                        backgroundColor: getColor(row[hour.split(':')[0]])
                       }}
                     >
                       <div className="h-12 flex items-center justify-center">
-                        <span className="text-xs font-medium text-gray-800">
-                          {row[hour.split(":")[0]].toFixed(1)}
+                        <span className="text-xs font-medium text-gray-700">
+                          {row[hour.split(":")[0]].toFixed(0)}
                         </span>
                       </div>
-                      <div className="absolute -top-12 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-sm py-2 px-3 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity z-10 shadow-lg max-w-[200px]">
-                        <p className="font-semibold">{row.station}</p>
-                        <p>Time: {hour}</p>
-                        <p>Duration: {row[hour.split(":")[0]].toFixed(1)} mins</p>
-                        <p className="text-xs text-gray-300">Date: {formatDate(selectedDate)}</p>
+                      <div className="absolute -top-50 left-1/2 transform -translate-x-1/2 bg-gray-900 text-white text-sm py-2 px-4 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-50 shadow-lg max-w-[220px] pointer-events-none">
+                        <p className="font-semibold text-gray-700">{row.station}</p>
+                        <p className="text-sm text-gray-600">Time: {hour}</p>
+                        <p className="text-sm text-gray-600">Duration: {row[hour.split(":")[0]].toFixed(0)} seconds</p>
+                        <p className="text-xs text-gray-400">Date: {formatDate(selectedDate)}</p>
                       </div>
                     </div>
-                  ))
-                )}
+                )))}
               </div>
             ))}
           </div>
 
           <div className="mt-6 flex items-center justify-between">
             <div className="flex items-center gap-3 bg-gray-50 rounded-lg p-3">
-              <span className="text-sm text-gray-600">Ad Duration:</span>
+              <span className="text-sm text-gray-700">Ad Duration:</span>
               <div className="h-4 w-48 rounded-md bg-gradient-to-r from-[#F2643233] to-[#F26430]" />
-              <span className="text-sm text-gray-600">Higher</span>
+              <span className="text-sm text-gray-700">Higher</span>
             </div>
             <div className="flex items-center gap-2">
               <Info className="h-4 w-4 text-gray-400" />

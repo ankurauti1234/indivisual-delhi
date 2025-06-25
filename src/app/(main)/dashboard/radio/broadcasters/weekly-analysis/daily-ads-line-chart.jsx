@@ -19,149 +19,90 @@ import {
 import ChartCard from "@/components/card/charts-card";
 import { Switch } from "@/components/ui/switch";
 import { Label } from "@/components/ui/label";
-import { Checkbox } from "@/components/ui/checkbox"; // Assuming you have a Checkbox component
+import { Checkbox } from "@/components/ui/checkbox";
 
 // Data from previous conversation
 const dailyAdsData = {
-  week16: [
+  "week19": [
     {
-      date: "Thu 17 Apr",
-      day: "Thursday",
-      mangofm: { count: 461, seconds: 10111 },
-      redfm: { count: 1112, seconds: 15172 },
-      clubfm: { count: 440, seconds: 8702 },
-      radiomirchi: { count: 347, seconds: 6472 },
+      "date": "Mon 07 May",
+      "day": "Monday",
+      "radio_city": { "count": 1019, "seconds": 14617 },
+      "radio_mirchi": { "count": 1096, "seconds": 16509 },
+      "radio_one": { "count": 433, "seconds": 7899 },
+      "red_fm": { "count": 1055, "seconds": 18022 }
     },
     {
-      date: "Fri 18 Apr",
-      day: "Friday",
-      mangofm: { count: 479, seconds: 10344 },
-      redfm: { count: 1011, seconds: 12686 },
-      clubfm: { count: 407, seconds: 8452 },
-      radiomirchi: { count: 355, seconds: 6162 },
+      "date": "Tue 08 May",
+      "day": "Tuesday",
+      "radio_city": { "count": 1004, "seconds": 15736 },
+      "radio_mirchi": { "count": 1038, "seconds": 19072 },
+      "radio_one": { "count": 464, "seconds": 8859 },
+      "red_fm": { "count": 1121, "seconds": 20125 }
     },
     {
-      date: "Sat 19 Apr",
-      day: "Saturday",
-      mangofm: { count: 353, seconds: 7151 },
-      redfm: { count: 929, seconds: 12163 },
-      clubfm: { count: 483, seconds: 11049 },
-      radiomirchi: { count: 351, seconds: 5767 },
+      "date": "Wed 09 May",
+      "day": "Wednesday",
+      "radio_city": { "count": 1315, "seconds": 19779 },
+      "radio_mirchi": { "count": 1202, "seconds": 22045 },
+      "radio_one": { "count": 434, "seconds": 7311 },
+      "red_fm": { "count": 1323, "seconds": 25480 }
     },
     {
-      date: "Sun 20 Apr",
-      day: "Sunday",
-      mangofm: { count: 293, seconds: 5698 },
-      redfm: { count: 813, seconds: 11136 },
-      clubfm: { count: 427, seconds: 7477 },
-      radiomirchi: { count: 220, seconds: 4948 },
+      "date": "Thu 10 May",
+      "day": "Thursday",
+      "radio_city": { "count": 1015, "seconds": 12579 },
+      "radio_mirchi": { "count": 293, "seconds": 5189 },
+      "radio_one": { "count": 170, "seconds": 4105 },
+      "red_fm": { "count": 537, "seconds": 9000 }
     },
     {
-      date: "Mon 21 Apr",
-      day: "Monday",
-      mangofm: { count: 280, seconds: 6167 },
-      redfm: { count: 896, seconds: 11833 },
-      clubfm: { count: 281, seconds: 6556 },
-      radiomirchi: { count: 0, seconds: 0 },
+      "date": "Fri 11 May",
+      "day": "Friday",
+      "radio_city": { "count": 857, "seconds": 9170 },
+      "radio_mirchi": { "count": 259, "seconds": 4944 },
+      "red_fm": { "count": 421, "seconds": 7378 }
     },
     {
-      date: "Tue 22 Apr",
-      day: "Tuesday",
-      mangofm: { count: 286, seconds: 6207 },
-      redfm: { count: 905, seconds: 11264 },
-      clubfm: { count: 262, seconds: 6004 },
-      radiomirchi: { count: 250, seconds: 4176 },
+      "date": "Sat 12 May",
+      "day": "Saturday",
+      "radio_city": { "count": 999, "seconds": 17911 },
+      "radio_mirchi": { "count": 755, "seconds": 12744 },
+      "radio_one": { "count": 341, "seconds": 6667 },
+      "red_fm": { "count": 740, "seconds": 13541 }
     },
     {
-      date: "Wed 23 Apr",
-      day: "Wednesday",
-      mangofm: { count: 353, seconds: 7110 },
-      redfm: { count: 956, seconds: 12611 },
-      clubfm: { count: 387, seconds: 8326 },
-      radiomirchi: { count: 287, seconds: 5060 },
-    },
-  ],
-  week17: [
-    {
-      date: "Thu 24 Apr",
-      day: "Thursday",
-      mangofm: { count: 412, seconds: 8221 },
-      redfm: { count: 928, seconds: 11535 },
-      clubfm: { count: 383, seconds: 7090 },
-      radiomirchi: { count: 251, seconds: 3894 },
-    },
-    {
-      date: "Fri 25 Apr",
-      day: "Friday",
-      mangofm: { count: 299, seconds: 5658 },
-      redfm: { count: 767, seconds: 9612 },
-      clubfm: { count: 298, seconds: 6123 },
-      radiomirchi: { count: 242, seconds: 3741 },
-    },
-    {
-      date: "Sat 26 Apr",
-      day: "Saturday",
-      mangofm: { count: 271, seconds: 5050 },
-      redfm: { count: 737, seconds: 7603 },
-      clubfm: { count: 309, seconds: 6444 },
-      radiomirchi: { count: 213, seconds: 2851 },
-    },
-    {
-      date: "Sun 27 Apr",
-      day: "Sunday",
-      mangofm: { count: 192, seconds: 3501 },
-      redfm: { count: 531, seconds: 6662 },
-      clubfm: { count: 0, seconds: 0 },
-      radiomirchi: { count: 0, seconds: 0 },
-    },
-    {
-      date: "Mon 28 Apr",
-      day: "Monday",
-      mangofm: { count: 274, seconds: 4970 },
-      redfm: { count: 771, seconds: 8704 },
-      clubfm: { count: 282, seconds: 6076 },
-      radiomirchi: { count: 265, seconds: 4378 },
-    },
-    {
-      date: "Tue 29 Apr",
-      day: "Tuesday",
-      mangofm: { count: 300, seconds: 5884 },
-      redfm: { count: 843, seconds: 10893 },
-      clubfm: { count: 326, seconds: 7370 },
-      radiomirchi: { count: 0, seconds: 0 },
-    },
-    {
-      date: "Wed 30 Apr",
-      day: "Wednesday",
-      mangofm: { count: 316, seconds: 6386 },
-      redfm: { count: 891, seconds: 12039 },
-      clubfm: { count: 350, seconds: 8200 },
-      radiomirchi: { count: 0, seconds: 0 },
-    },
-  ],
+      "date": "Sun 13 May",
+      "day": "Sunday",
+      "radio_city": { "count": 1060, "seconds": 18447 },
+      "radio_mirchi": { "count": 833, "seconds": 14508 },
+      "radio_one": { "count": 395, "seconds": 7088 },
+      "red_fm": { "count": 768, "seconds": 13908 }
+    }
+  ]
 };
 
 const chartConfig = {
-  mangofm: {
-    label: "Mango FM",
+  radio_city: {
+    label: "Radio City",
     color: "hsl(var(--chart-1))",
   },
-  redfm: {
+  red_fm: {
     label: "Red FM",
     color: "hsl(var(--chart-2))",
   },
-  clubfm: {
-    label: "Club FM",
+  radio_one: {
+    label: "Radio One",
     color: "hsl(var(--chart-3))",
   },
-  radiomirchi: {
+  radio_mirchi: {
     label: "Radio Mirchi",
     color: "hsl(var(--chart-4))",
   },
 };
 
 export default function DailyAdsLineChart() {
-  const [selectedWeeks, setSelectedWeeks] = useState(["week16"]);
+  const [selectedWeeks, setSelectedWeeks] = useState(["week19"]);
   const [showSeconds, setShowSeconds] = useState(false);
 
   // Combine data from selected weeks
@@ -171,15 +112,15 @@ export default function DailyAdsLineChart() {
         date: item.date,
         day: item.day,
         week: week,
-        mangofm: item.mangofm[showSeconds ? "seconds" : "count"],
-        redfm: item.redfm[showSeconds ? "seconds" : "count"],
-        clubfm: item.clubfm[showSeconds ? "seconds" : "count"],
-        radiomirchi: item.radiomirchi[showSeconds ? "seconds" : "count"],
+        radio_city: item.radio_city[showSeconds ? "seconds" : "count"],
+        red_fm: item.red_fm[showSeconds ? "seconds" : "count"],
+        radio_one: item.radio_one ? item.radio_one[showSeconds ? "seconds" : "count"] : 0, // Handle missing radio_one data
+        radio_mirchi: item.radio_mirchi[showSeconds ? "seconds" : "count"],
       }))
     )
-    .sort((a, b) => new Date(a.date) - new Date(b.date));
+    .sort((a, b) => new Date(`2025 ${a.date}`) - new Date(`2025 ${b.date}`));
 
-  // Get boundary dates between weeks for visual separation
+  // Get boundary dates between weeks for visual separation (not needed for single week)
   const weekBoundaries = chartData
     .reduce((acc, item, index) => {
       if (index > 0 && item.week !== chartData[index - 1].week) {
@@ -221,7 +162,7 @@ export default function DailyAdsLineChart() {
           fill={chartConfig[dataKey]?.color}
           fontWeight="600"
         >
- {payload[dataKey]}
+          {payload[dataKey]}
         </text>
       </g>
     );
@@ -234,14 +175,10 @@ export default function DailyAdsLineChart() {
   // Generate description based on selected weeks
   const getDescription = () => {
     if (selectedWeeks.length === 1) {
-      return `${showSeconds ? "Total Ad Duration (seconds)" : "Total Ad Counts"} per Day - ${
-        selectedWeeks[0] === "week16" ? "Week 16 (Apr 17-23)" : "Week 17 (Apr 24-30)"
-      } 2024`;
+      return `${showSeconds ? "Total Ad Duration (seconds)" : "Total Ad Counts"} per Day - Week 19 (May 7-13) 2025`;
     }
-    const weekNames = selectedWeeks.map((week) =>
-      week === "week16" ? "Week 16 (Apr 17-23)" : "Week 17 (Apr 24-30)"
-    );
-    return `${showSeconds ? "Total Ad Duration (seconds)" : "Total Ad Counts"} per Day - ${weekNames.join(" and ")} 2024`;
+    const weekNames = selectedWeeks.map((week) => `Week ${week.replace("week", "")} (May 7-13)`);
+    return `${showSeconds ? "Total Ad Duration (seconds)" : "Total Ad Counts"} per Day - ${weekNames.join(" and ")} 2025`;
   };
 
   return (
@@ -263,20 +200,13 @@ export default function DailyAdsLineChart() {
               <div className="flex flex-col gap-2 p-2">
                 <div className="flex items-center gap-2">
                   <Checkbox
-                    id="week16"
-                    checked={selectedWeeks.includes("week16")}
-                    onCheckedChange={() => handleWeekChange("week16")}
+                    id="week19"
+                    checked={selectedWeeks.includes("week19")}
+                    onCheckedChange={() => handleWeekChange("week19")}
                   />
-                  <Label htmlFor="week16">Week 16 (Apr 17-23)</Label>
+                  <Label htmlFor="week19">Week 19 (May 7-13)</Label>
                 </div>
-                <div className="flex items-center gap-2">
-                  <Checkbox
-                    id="week17"
-                    checked={selectedWeeks.includes("week17")}
-                    onCheckedChange={() => handleWeekChange("week17")}
-                  />
-                  <Label htmlFor="week17">Week 17 (Apr 24-30)</Label>
-                </div>
+                {/* Add more weeks here if additional data is provided */}
               </div>
             </SelectContent>
           </Select>
@@ -335,7 +265,7 @@ export default function DailyAdsLineChart() {
                 strokeDasharray="3 3"
                 strokeWidth={2}
                 label={{
-                  value: `End of ${selectedWeeks[index] === "week16" ? "Week 16" : "Week 17"}`,
+                  value: `End of Week ${selectedWeeks[index].replace("week", "")}`,
                   position: "top",
                   fill: "hsl(var(--muted-foreground))",
                   fontSize: 10,
@@ -344,35 +274,35 @@ export default function DailyAdsLineChart() {
             ))}
             <Line
               type="linear"
-              dataKey="mangofm"
-              stroke={chartConfig.mangofm.color}
+              dataKey="radio_city"
+              stroke={chartConfig.radio_city.color}
               strokeWidth={3}
-              dot={<CustomDot dataKey="mangofm" />}
-              activeDot={{ r: 6, stroke: chartConfig.mangofm.color, strokeWidth: 4, fill: "#fff" }}
+              dot={<CustomDot dataKey="radio_city" />}
+              activeDot={{ r: 6, stroke: chartConfig.radio_city.color, strokeWidth: 4, fill: "#fff" }}
             />
             <Line
               type="linear"
-              dataKey="redfm"
-              stroke={chartConfig.redfm.color}
+              dataKey="red_fm"
+              stroke={chartConfig.red_fm.color}
               strokeWidth={3}
-              dot={<CustomDot dataKey="redfm" />}
-              activeDot={{ r: 6, stroke: chartConfig.redfm.color, strokeWidth: 4, fill: "#fff" }}
+              dot={<CustomDot dataKey="red_fm" />}
+              activeDot={{ r: 6, stroke: chartConfig.red_fm.color,strokeWidth: 4, fill: "#fff" }}
             />
             <Line
               type="linear"
-              dataKey="clubfm"
-              stroke={chartConfig.clubfm.color}
+              dataKey="radio_one"
+              stroke={chartConfig.radio_one.color}
               strokeWidth={3}
-              dot={<CustomDot dataKey="clubfm" />}
-              activeDot={{ r: 6, stroke: chartConfig.clubfm.color, strokeWidth: 4, fill: "#fff" }}
+              dot={<CustomDot dataKey="radio_one" />}
+              activeDot={{ r: 6, stroke: chartConfig.radio_one.color, strokeWidth: 4, fill: "#fff" }}
             />
             <Line
               type="linear"
-              dataKey="radiomirchi"
-              stroke={chartConfig.radiomirchi.color}
+              dataKey="radio_mirchi"
+              stroke={chartConfig.radio_mirchi.color}
               strokeWidth={3}
-              dot={<CustomDot dataKey="radiomirchi" />}
-              activeDot={{ r: 6, stroke: chartConfig.radiomirchi.color, strokeWidth: 4, fill: "#fff" }}
+              dot={<CustomDot dataKey="radio_mirchi" />}
+              activeDot={{ r: 6, stroke: chartConfig.radio_mirchi.color, strokeWidth: 4, fill: "#fff" }}
             />
           </LineChart>
         </ChartContainer>
@@ -392,7 +322,7 @@ export default function DailyAdsLineChart() {
           </div>
           <p className="text-sm text-gray-500">
             Daily ad {showSeconds ? "duration" : "count"} trends for {selectedWeeks
-              .map((week) => (week === "week16" ? "Week 16 (Apr 17-23)" : "Week 17 (Apr 24-30)"))
+              .map((week) => `Week ${week.replace("week", "")} (May 7-13)`)
               .join(" and ")} showing all radio stations
           </p>
         </div>

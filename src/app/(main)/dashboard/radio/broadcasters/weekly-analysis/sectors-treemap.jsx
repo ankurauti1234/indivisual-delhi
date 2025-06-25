@@ -20,15 +20,15 @@ const COLORS = [
 
 const TVChannelTreemap = () => {
   const [selectedWeek, setSelectedWeek] = useState("week16");
-  const [selectedStation, setSelectedStation] = useState("Radio Mango");
+  const [selectedStation, setSelectedStation] = useState("Radio City");
   const [selectedChannel, setSelectedChannel] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [selectedBrand, setSelectedBrand] = useState(null);
   const [hoveredItem, setHoveredItem] = useState(null);
   const [dataType, setDataType] = useState("plays"); // Toggle between "plays" and "seconds"
 
-  const weeks = ["week16", "week17"];
-  const stations = ["Radio Mango", "Radio Mirchi", "Red FM", "Club FM"];
+  const weeks = ["week19"];
+  const stations = ["Radio City", "Radio Mirchi", "Red FM", "Radio One"];
 
   const getCurrentLevel = () => {
     if (selectedBrand) return "products";

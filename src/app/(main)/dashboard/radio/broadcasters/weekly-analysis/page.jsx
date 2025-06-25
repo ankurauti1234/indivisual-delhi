@@ -3,24 +3,30 @@ import React from 'react'
 import StatCards from './stat-cards'
 import RadioAdHeatmap from './ad-count-heatmap'
 import RadioSectorAnalysis from './comperative-bar'
-import IndustryAdSpend from './industry-ad-spend'
 import TopAdvertisersComparison from './top-advertisers-comparison'
-import AdDurationAnalysis from './ad-duration-analysis'
-import AdvertiserChurn from './advertiser-chrun'
 import TVChannelTreemap from './sectors-treemap'
-import NewAdvertisersAlerts from './new-advertisers-alerts'
 import SharedAdvertisers from './shared-advertizers'
-import WhyUsBattleCards from './whu-us-battle-cards'
 import UntappedLeads from './untapped-leads'
 import DailyAdsLineChart from './daily-ads-line-chart'
-import DailyAdCount from './daily-ad-count'
-import { Table } from 'lucide-react'
+import { Table, AlertTriangle } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import Link from 'next/link'
 
 const RadioDashboard = () => {
   return (
     <div className='space-y-6'>
+<div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-md flex items-start gap-3">
+  <AlertTriangle className="w-5 h-5 text-yellow-600 mt-0.5" />
+  <div>
+    <p className="text-sm font-medium text-yellow-800">
+      Disclaimer: Some data is missing
+    </p>
+    <p className="text-sm text-yellow-700">
+      The analysis covers a 7-day period, from 7th May to 13th May, 2025.
+      Data for Radio One on 11th May and Radio Mirchi on 14th May at 10:00 hour data is currently missing.
+    </p>
+  </div>
+</div>
       <div className="flex justify-end">
         <Link href="/dashboard/radio/broadcasters/weekly-analysis/table">
           <Button variant="outline" className="flex items-center gap-2">
@@ -33,19 +39,10 @@ const RadioDashboard = () => {
       <RadioAdHeatmap />
       <RadioSectorAnalysis />
       <TVChannelTreemap />
-
-
-      {/* <IndustryAdSpend/> */}
-      <DailyAdsLineChart/>
+      <DailyAdsLineChart />
       <TopAdvertisersComparison />
       <UntappedLeads />
-      {/* <DailyAdCount/> */}
-      {/* <AdDurationAnalysis /> */}
       <SharedAdvertisers />
-      <NewAdvertisersAlerts />
-      {/* <AdvertiserChurn />
-      <WhyUsBattleCards/> */}
-  
     </div>
   );
 }

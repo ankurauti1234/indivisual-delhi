@@ -99,7 +99,7 @@ const ExportDialog = ({ selectedDate, epgData, availableData }) => {
       if (exportType === "report") {
         const formattedDate = new Date(date).toISOString().split("T")[0];
         const fileName = `${station}_${formattedDate}_report.csv`;
-        const fileUrl = `https://radio-playback-files.s3.ap-south-1.amazonaws.com/reports/${region}/${encodeURIComponent(station)}/${formattedDate}/report.csv`;
+        const fileUrl = `https://radio-playback-files.s3.ap-south-1.amazonaws.com/reports/${region}/${encodeURIComponent(station)}/${formattedDate}.csv`;
 
         const response = await fetch(fileUrl);
         if (!response.ok) {
