@@ -120,7 +120,7 @@ const RadioAdHeatmap = () => {
   };
 
   return (
-    <Card className="w-full bg-white shadow-lg rounded-xl overflow-hidden">
+    <Card className="w-full bg-white shadow-lg rounded-xl ">
       <CardHeader className="p-6 bg-gray-50">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
@@ -152,8 +152,8 @@ const RadioAdHeatmap = () => {
       </CardHeader>
 
       <CardContent className="p-6">
-        <div className="overflow-x-auto">
-          <div className="min-w-[800px]">
+        <div>
+          <div className="">
             <div
               className="grid gap-px bg-gray-200"
               style={{
@@ -173,7 +173,7 @@ const RadioAdHeatmap = () => {
                   <div className="text-xs font-medium text-gray-600">
                     {hour}
                   </div>
-                  <div className="absolute -top-12 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-sm py-2 px-3 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity z-10 shadow-lg max-w-[200px]">
+                  <div className="absolute -top-12 left-1/2 -translate-x-1/2 bg-card border text-sm py-2 px-3 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity z-10 shadow-lg max-w-[200px]">
                     <p className="font-semibold">{hour}</p>
                     <p>{getTimeOfDay(hour.split(":")[0])}</p>
                     <p className="text-xs text-gray-400">Date: {formatDate(selectedDate)}</p>
@@ -220,7 +220,7 @@ const RadioAdHeatmap = () => {
                           {row[hour.split(":")[0]].toFixed(0)}
                         </span>
                       </div>
-                      <div className="absolute -top-50 left-1/2 transform -translate-x-1/2 bg-gray-900 text-white text-sm py-2 px-4 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-50 shadow-lg max-w-[220px] pointer-events-none">
+                      <div className="absolute -top-50 left-1/2 transform -translate-x-1/2 bg-card border text-sm py-2 px-4 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-50 shadow-lg max-w-[220px] pointer-events-none">
                         <p className="font-semibold text-gray-700">{row.station}</p>
                         <p className="text-sm text-gray-600">Time: {hour}</p>
                         <p className="text-sm text-gray-600">Duration: {row[hour.split(":")[0]].toFixed(0)} seconds</p>

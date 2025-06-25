@@ -109,7 +109,7 @@ export default function UntappedLeads() {
   );
 
   const formatCurrency = (value) => {
-    return `${value} Units`; // Adjust based on what the numbers represent
+    return `${value} Spots`; // Adjust based on what the numbers represent
   };
 
   const handleStationChange = (value) => {
@@ -162,7 +162,7 @@ export default function UntappedLeads() {
               <tr>
                 <th scope="col" className="px-6 py-3">Brand</th>
                 <th scope="col" className="px-6 py-3">Competitor Stations</th>
-                <th scope="col" className="px-6 py-3">Spend (Units)</th>
+                <th scope="col" className="px-6 py-3">Spots</th>
               </tr>
             </thead>
             <tbody>
