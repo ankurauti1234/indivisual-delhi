@@ -18,159 +18,159 @@ import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 
 const RadioCitySectorData = [
   {
-    week: "week_1",
-    seconds: {
-      EDUCATION: 19335,
-      ENTERTAINMENT: 16806,
-      HEALTHCARE: 15943,
-      FMCG: 13706,
-      AUTOMOBILE: 10747,
-      FINANCE: 9052,
+    "week": "week_1",
+    "seconds": {
+      "EDUCATION": 19335,
+      "ENTERTAINMENT": 16943,
+      "HEALTHCARE": 15783,
+      "FMCG": 13866,
+      "AUTOMOBILE": 12155,
+      "FINANCE": 9052,
       "CONSUMER DURABLES": 7112,
-      ACCESSORIES: 6442,
-      PROPERTY: 3172,
-      EVENTS: 2807,
-      "E-COMMERCE": 1408,
-      "TEXTILES AND RETAIL": 740,
-      "PUBLIC INTEREST": 561,
-      "TRAVEL&TOURISM": 300,
-      MANUFACTURING: 108,
+      "ACCESSORIES": 6442,
+      "PROPERTY": 3172,
+      "EVENTS": 2807,
+      "TEXTILES&APPARELS": 740,
+      "PUBLIC INTEREST": 669,
+      "TRAVEL&TOURISM": 300
     },
-    plays: {
-      EDUCATION: 1094,
-      ENTERTAINMENT: 1496,
-      HEALTHCARE: 650,
-      FMCG: 945,
-      AUTOMOBILE: 655,
-      FINANCE: 547,
+    "plays": {
+      "EDUCATION": 1094,
+      "ENTERTAINMENT": 1509,
+      "HEALTHCARE": 620,
+      "FMCG": 975,
+      "AUTOMOBILE": 799,
+      "FINANCE": 547,
       "CONSUMER DURABLES": 501,
-      ACCESSORIES: 573,
-      PROPERTY: 350,
-      EVENTS: 104,
-      "E-COMMERCE": 144,
-      "TEXTILES AND RETAIL": 148,
-      "PUBLIC INTEREST": 33,
-      "TRAVEL&TOURISM": 20,
-      MANUFACTURING: 9,
-    },
-  },
-];
+      "ACCESSORIES": 573,
+      "PROPERTY": 350,
+      "EVENTS": 104,
+      "TEXTILES&APPARELS": 148,
+      "PUBLIC INTEREST": 42,
+      "TRAVEL&TOURISM": 20
+    }
+  }
+]
 
 const RedFMSectorData = [
   {
-    week: "week_1",
-    seconds: {
-      EDUCATION: 18979,
-      AUTOMOBILE: 15476,
-      FINANCE: 14891,
-      PROPERTY: 10059,
-      FMCG: 9387,
-      HEALTHCARE: 9106,
+    "week": "week_1",
+    "seconds": {
+      "EDUCATION": 18979,
+      "AUTOMOBILE": 15476,
+      "FINANCE": 14891,
+      "PROPERTY": 10059,
+      "FMCG": 9387,
+      "HEALTHCARE": 9106,
       "CONSUMER DURABLES": 8700,
-      ENTERTAINMENT: 7208,
-      ACCESSORIES: 5830,
+      "ENTERTAINMENT": 7208,
+      "ACCESSORIES": 5830,
       "PUBLIC INTEREST": 3585,
       "HOME FURNISHING": 3025,
       "TEXTILES&APPARELS": 920,
       "PETROLEUM PRODUCTS": 270,
-      AGRICULTURE: 18,
+      "AGRICULTURE": 18
     },
-    plays: {
-      EDUCATION: 1133,
-      AUTOMOBILE: 795,
-      FINANCE: 718,
-      PROPERTY: 642,
-      FMCG: 569,
-      HEALTHCARE: 364,
+    "plays": {
+      "EDUCATION": 1133,
+      "AUTOMOBILE": 795,
+      "FINANCE": 718,
+      "PROPERTY": 642,
+      "FMCG": 569,
+      "HEALTHCARE": 364,
       "CONSUMER DURABLES": 450,
-      ENTERTAINMENT: 441,
-      ACCESSORIES: 501,
+      "ENTERTAINMENT": 441,
+      "ACCESSORIES": 501,
       "PUBLIC INTEREST": 120,
       "HOME FURNISHING": 166,
       "TEXTILES&APPARELS": 46,
       "PETROLEUM PRODUCTS": 18,
-      AGRICULTURE: 2,
-    },
-  },
-];
+      "AGRICULTURE": 2
+    }
+  }
+]
 
 const RadioOneSectorData = [
   {
-    week: "week_1",
-    seconds: {
-      ENTERTAINMENT: 11307,
-      FMCG: 8079,
-      FINANCE: 7360,
-      AUTOMOBILE: 5871,
-      HEALTHCARE: 3240,
-      "TRAVEL&TOURISM": 3049,
-      "CONSUMER DURABLES": 2967,
-      "PUBLIC INTEREST": 2340,
-      BUSINESS: 2211,
-      PROPERTY: 1939,
-      RETAIL: 1155,
-      EDUCATION: 660,
+    "week": "week_1",
+    "seconds": {
+      "ENTERTAINMENT": 8419,
+      "FINANCE": 6709,
+      "FMCG": 6269,
+      "AUTOMOBILE": 4863,
+      "HEALTHCARE": 3240,
+      "TRAVEL&TOURISM": 2681,
+      "CONSUMER DURABLES": 2515,
+      "PUBLIC INTEREST": 1941,
+      "EVENTS": 1848,
+      "PROPERTY": 1629,
+      "E-COMMERCE": 975,
+      "EDUCATION": 660,
+      "RETAIL": 180
     },
-    plays: {
-      ENTERTAINMENT: 265,
-      FMCG: 786,
-      FINANCE: 383,
-      AUTOMOBILE: 321,
-      HEALTHCARE: 108,
-      "TRAVEL&TOURISM": 101,
-      "CONSUMER DURABLES": 146,
-      "PUBLIC INTEREST": 89,
-      BUSINESS: 201,
-      PROPERTY: 197,
-      RETAIL: 23,
-      EDUCATION: 44,
-    },
-  },
-];
+    "plays": {
+      "ENTERTAINMENT": 211,
+      "FINANCE": 338,
+      "FMCG": 638,
+      "AUTOMOBILE": 265,
+      "HEALTHCARE": 108,
+      "TRAVEL&TOURISM": 78,
+      "CONSUMER DURABLES": 124,
+      "PUBLIC INTEREST": 74,
+      "EVENTS": 168,
+      "PROPERTY": 166,
+      "E-COMMERCE": 14,
+      "EDUCATION": 44,
+      "RETAIL": 9
+    }
+  }
+]
 
 const RadioMirchiSectorData = [
   {
-    week: "week_1",
-    seconds: {
-      AUTOMOBILE: 18295,
-      EDUCATION: 16817,
-      FMCG: 14036,
-      "CONSUMER DURABLES": 9171,
-      FINANCE: 9015,
-      HEALTHCARE: 6766,
-      PROPERTY: 6433,
-      ENTERTAINMENT: 3515,
-      "PUBLIC INTEREST": 2969,
-      "HOME FURNISHING": 1934,
-      ACCESSORIES: 1720,
-      EVENTS: 1365,
-      "E-COMMERCE": 1285,
-      TECHNOLOGY: 700,
-      "PERSONAL CARE": 480,
+    "week": "week_1",
+    "seconds": {
+      "AUTOMOBILE": 21906,
+      "EDUCATION": 18770,
+      "FMCG": 16149,
+      "CONSUMER DURABLES": 10451,
+      "FINANCE": 10402,
+      "HEALTHCARE": 8191,
+      "PROPERTY": 7829,
+      "ENTERTAINMENT": 4180,
+      "PUBLIC INTEREST": 3404,
+      "HOME FURNISHING": 2174,
+      "ACCESSORIES": 2020,
+      "EVENTS": 1680,
+      "E-COMMERCE": 1525,
+      "TECHNOLOGY": 780,
+      "PERSONAL CARE": 775,
       "TEXTILES&APPARELS": 360,
-      "PETROLEUM PRODUCTS": 150,
+      "PETROLEUM PRODUCTS": 270,
+      "BUSINESS": 90
     },
-    plays: {
-      AUTOMOBILE: 897,
-      EDUCATION: 971,
-      FMCG: 843,
-      "CONSUMER DURABLES": 507,
-      FINANCE: 376,
-      HEALTHCARE: 318,
-      PROPERTY: 423,
-      ENTERTAINMENT: 516,
-      "PUBLIC INTEREST": 141,
-      "HOME FURNISHING": 104,
-      ACCESSORIES: 86,
-      EVENTS: 91,
-      "E-COMMERCE": 87,
-      TECHNOLOGY: 69,
-      "PERSONAL CARE": 19,
+    "plays": {
+      "AUTOMOBILE": 1080,
+      "EDUCATION": 1075,
+      "FMCG": 964,
+      "CONSUMER DURABLES": 571,
+      "FINANCE": 416,
+      "HEALTHCARE": 380,
+      "PROPERTY": 500,
+      "ENTERTAINMENT": 627,
+      "PUBLIC INTEREST": 162,
+      "HOME FURNISHING": 116,
+      "ACCESSORIES": 101,
+      "EVENTS": 112,
+      "E-COMMERCE": 99,
+      "TECHNOLOGY": 77,
+      "PERSONAL CARE": 31,
       "TEXTILES&APPARELS": 18,
-      "PETROLEUM PRODUCTS": 10,
-    },
-  },
-];
+      "PETROLEUM PRODUCTS": 18,
+      "BUSINESS": 6
+    }
+  }
+]
 
 const RadioSectorAnalysis = () => {
   const [selectedWeeks, setSelectedWeeks] = useState(["week_1"]);
@@ -178,31 +178,30 @@ const RadioSectorAnalysis = () => {
   const [dataType, setDataType] = useState("seconds");
 
   // Define sectors with colors
-  const sectors = {
-    ACCESSORIES: { name: "Accessories", color: "#34D399" },
-    AGRICULTURE: { name: "Agriculture", color: "#60A5FA" },
-    AUTOMOBILE: { name: "Automobile", color: "#F472B6" },
-    BUSINESS: { name: "Business", color: "#A78BFA" },
-    "CONSUMER DURABLES": { name: "Consumer Durables", color: "#3B82F6" },
-    "E-COMMERCE": { name: "E-Commerce", color: "#4ADE80" },
-    EDUCATION: { name: "Education", color: "#F87171" },
-    ENTERTAINMENT: { name: "Entertainment", color: "#2DD4BF" },
-    EVENTS: { name: "Events", color: "#FB923C" },
-    FINANCE: { name: "Finance", color: "#D946EF" },
-    FMCG: { name: "FMCG", color: "#22D3EE" },
-    HEALTHCARE: { name: "Healthcare", color: "#E879F9" },
-    "HOME FURNISHING": { name: "Home Furnishing", color: "#FCA5A5" },
-    MANUFACTURING: { name: "Manufacturing", color: "#818CF8" },
-    "PERSONAL CARE": { name: "Personal Care", color: "#5EEAD4" },
-    "PETROLEUM PRODUCTS": { name: "Petroleum Products", color: "#EAB308" },
-    PROPERTY: { name: "Property", color: "#EF4444" },
-    "PUBLIC INTEREST": { name: "Public Interest", color: "#38BDF8" },
-    RETAIL: { name: "Retail", color: "#34D399" },
-    TECHNOLOGY: { name: "Technology", color: "#A78BFA" },
-    "TEXTILES AND RETAIL": { name: "Textiles and Retail", color: "#4ADE80" },
-    "TEXTILES&APPARELS": { name: "Textiles & Apparels", color: "#F472B6" },
-    "TRAVEL&TOURISM": { name: "Travel & Tourism", color: "#3B82F6" },
-  };
+const sectors = {
+  ACCESSORIES: { name: "Accessories", color: "#34D399" },
+  AGRICULTURE: { name: "Agriculture", color: "#60A5FA" },
+  AUTOMOBILE: { name: "Automobile", color: "#F472B6" },
+  BUSINESS: { name: "Business", color: "#A78BFA" },
+  "CONSUMER DURABLES": { name: "Consumer Durables", color: "#3B82F6" },
+  "E-COMMERCE": { name: "E-Commerce", color: "#4ADE80" },
+  EDUCATION: { name: "Education", color: "#F87171" },
+  ENTERTAINMENT: { name: "Entertainment", color: "#2DD4BF" },
+  EVENTS: { name: "Events", color: "#FB923C" },
+  FINANCE: { name: "Finance", color: "#D946EF" },
+  FMCG: { name: "FMCG", color: "#22D3EE" },
+  HEALTHCARE: { name: "Healthcare", color: "#E879F9" },
+  "HOME FURNISHING": { name: "Home Furnishing", color: "#FCA5A5" },
+  "PERSONAL CARE": { name: "Personal Care", color: "#5EEAD4" },
+  "PETROLEUM PRODUCTS": { name: "Petroleum Products", color: "#EAB308" },
+  PROPERTY: { name: "Property", color: "#EF4444" },
+  "PUBLIC INTEREST": { name: "Public Interest", color: "#38BDF8" },
+  RETAIL: { name: "Retail", color: "#34D399" },
+  TECHNOLOGY: { name: "Technology", color: "#A78BFA" },
+  "TEXTILES&APPARELS": { name: "Textiles & Apparels", color: "#F472B6" },
+  "TRAVEL&TOURISM": { name: "Travel & Tourism", color: "#3B82F6" },
+};
+
 
   // Define weeks
   const weeks = [

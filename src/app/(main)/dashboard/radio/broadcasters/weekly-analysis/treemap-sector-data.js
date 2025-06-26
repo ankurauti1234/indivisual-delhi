@@ -27,7 +27,7 @@ export const sectorData = {
       },
       AUTOMOBILE: {
         
-        sum: 655,
+        sum: 799,
         categories: {
           "AUTOMOBILE-CARS": {
             
@@ -55,6 +55,16 @@ export const sectorData = {
               },
               TOYOTA: {
                 sum: 60,
+                products: [],
+              },
+            },
+          },
+          "AUTOMOBILE-USED CARS": {
+            
+            sum: 144,
+            brands: {
+              SPINNY: {
+                sum: 144,
                 products: [],
               },
             },
@@ -99,22 +109,6 @@ export const sectorData = {
           },
         },
       },
-      "E-COMMERCE": {
-        
-        sum: 144,
-        categories: {
-          "USED CAR MARKETPLACE": {
-            
-            sum: 144,
-            brands: {
-              SPINNY: {
-                sum: 144,
-                products: [],
-              },
-            },
-          },
-        },
-      },
       EDUCATION: {
         
         sum: 1094,
@@ -145,24 +139,14 @@ export const sectorData = {
           },
           EDUCATION: {
             
-            sum: 168,
+            sum: 270,
             brands: {
               "PRATAP SPORTS SCHOOL": {
                 sum: 168,
                 products: [],
               },
-            },
-          },
-          "HIGHER EDUCATION": {
-            
-            sum: 115,
-            brands: {
-              "GRAPHIC ERA UNIVERSITY": {
-                sum: 65,
-                products: [],
-              },
-              "UNIVERSITY OF STIRLING": {
-                sum: 50,
+              "SUBHARTI UNIVERSITY": {
+                sum: 102,
                 products: [],
               },
             },
@@ -179,8 +163,12 @@ export const sectorData = {
           },
           UNIVERSITY: {
             
-            sum: 270,
+            sum: 283,
             brands: {
+              "GRAPHIC ERA UNIVERSITY": {
+                sum: 65,
+                products: [],
+              },
               "HRIT UNIVERSITY": {
                 sum: 26,
                 products: [],
@@ -197,8 +185,8 @@ export const sectorData = {
                 sum: 77,
                 products: [],
               },
-              "SUBHARTI UNIVERSITY": {
-                sum: 102,
+              "UNIVERSITY OF STIRLING": {
+                sum: 50,
                 products: [],
               },
             },
@@ -207,7 +195,7 @@ export const sectorData = {
       },
       ENTERTAINMENT: {
         
-        sum: 1496,
+        sum: 1509,
         categories: {
           "CORPORATE EVENTS": {
             
@@ -241,10 +229,10 @@ export const sectorData = {
           },
           "ENTERTAINMENT-AMUSEMENT PARK": {
             
-            sum: 994,
+            sum: 996,
             brands: {
               "ATLANTIC WATER WORLD": {
-                sum: 634,
+                sum: 636,
                 products: [],
               },
               "FUN N FOOD WATER PARK": {
@@ -259,10 +247,10 @@ export const sectorData = {
           },
           "ENTERTAINMENT-SPORTS": {
             
-            sum: 109,
+            sum: 118,
             brands: {
               "CRICKET BLOCKBUSTER": {
-                sum: 109,
+                sum: 118,
                 products: [],
               },
             },
@@ -299,14 +287,14 @@ export const sectorData = {
           },
           RADIO: {
             
-            sum: 63,
+            sum: 65,
             brands: {
               "RADIO CITY": {
                 sum: 39,
                 products: [],
               },
               "RADIO CITY – LOVE GURU SHOW": {
-                sum: 24,
+                sum: 26,
                 products: [],
               },
             },
@@ -355,10 +343,24 @@ export const sectorData = {
           },
           "BANKING&FINANCE": {
             
-            sum: 78,
+            sum: 121,
             brands: {
               "MUTUAL FUND": {
+                sum: 43,
+                products: [],
+              },
+              SBI: {
                 sum: 78,
+                products: [],
+              },
+            },
+          },
+          "FINANCE-LOANS": {
+            
+            sum: 14,
+            brands: {
+              "MANAPPURAM FINANCE": {
+                sum: 14,
                 products: [],
               },
             },
@@ -371,18 +373,8 @@ export const sectorData = {
                 sum: 25,
                 products: [],
               },
-              "KYC UPDATE SERVICE": {
+              SBI: {
                 sum: 38,
-                products: [],
-              },
-            },
-          },
-          "FINANCIAL SERVICES": {
-            
-            sum: 43,
-            brands: {
-              "MUTUAL FUND": {
-                sum: 43,
                 products: [],
               },
             },
@@ -401,21 +393,11 @@ export const sectorData = {
               },
             },
           },
-          LOANS: {
-            
-            sum: 14,
-            brands: {
-              "MANAPPURAM FINANCE": {
-                sum: 14,
-                products: [],
-              },
-            },
-          },
         },
       },
       FMCG: {
         
-        sum: 945,
+        sum: 975,
         categories: {
           "FOOD&BEVERAGES": {
             
@@ -439,6 +421,16 @@ export const sectorData = {
               },
               RAJDHANI: {
                 sum: 118,
+                products: [],
+              },
+            },
+          },
+          "HEALTH DRINK": {
+            
+            sum: 30,
+            brands: {
+              ORS: {
+                sum: 30,
                 products: [],
               },
             },
@@ -467,7 +459,7 @@ export const sectorData = {
       },
       HEALTHCARE: {
         
-        sum: 650,
+        sum: 620,
         categories: {
           "AYURVEDIC PRODUCTS": {
             
@@ -475,16 +467,6 @@ export const sectorData = {
             brands: {
               PATANJALI: {
                 sum: 157,
-                products: [],
-              },
-            },
-          },
-          "ELECTROLYTE DRINK": {
-            
-            sum: 30,
-            brands: {
-              ORS: {
-                sum: 30,
                 products: [],
               },
             },
@@ -551,22 +533,6 @@ export const sectorData = {
           },
         },
       },
-      MANUFACTURING: {
-        
-        sum: 9,
-        categories: {
-          "SAFETY COMPLIANCE": {
-            
-            sum: 9,
-            brands: {
-              ISI: {
-                sum: 9,
-                products: [],
-              },
-            },
-          },
-        },
-      },
       PROPERTY: {
         
         sum: 350,
@@ -599,7 +565,7 @@ export const sectorData = {
       },
       "PUBLIC INTEREST": {
         
-        sum: 33,
+        sum: 42,
         categories: {
           "PUBLIC SERVICE ADS": {
             
@@ -615,9 +581,19 @@ export const sectorData = {
               },
             },
           },
+          "PUBLIC SERVICES ADS": {
+            
+            sum: 9,
+            brands: {
+              ISI: {
+                sum: 9,
+                products: [],
+              },
+            },
+          },
         },
       },
-      "TEXTILES AND RETAIL": {
+      "TEXTILES&APPARELS": {
         
         sum: 148,
         categories: {
@@ -654,14 +630,14 @@ export const sectorData = {
     "Radio Mirchi": {
       ACCESSORIES: {
         
-        sum: 86,
+        sum: 101,
         categories: {
           "ACCESSORIES-RETAIL": {
             
-            sum: 86,
+            sum: 101,
             brands: {
               TITAN: {
-                sum: 86,
+                sum: 101,
                 products: [],
               },
             },
@@ -670,52 +646,48 @@ export const sectorData = {
       },
       AUTOMOBILE: {
         
-        sum: 897,
+        sum: 1080,
         categories: {
           "AUTOMOBILE-CARS": {
             
-            sum: 662,
+            sum: 806,
             brands: {
               HONDA: {
-                sum: 103,
-                products: [],
-              },
-              "HONDA AMAZE": {
-                sum: 15,
+                sum: 136,
                 products: [],
               },
               HYUNDAI: {
-                sum: 122,
+                sum: 147,
                 products: [],
               },
               KIA: {
-                sum: 70,
+                sum: 78,
                 products: [],
               },
               "MARUTI SUZUKI": {
-                sum: 116,
+                sum: 147,
                 products: [],
               },
               MG: {
-                sum: 145,
+                sum: 171,
                 products: [],
               },
               "MG MOTOR": {
-                sum: 31,
+                sum: 53,
                 products: [],
               },
               TOYOTA: {
-                sum: 60,
+                sum: 74,
                 products: [],
               },
             },
           },
           "AUTOMOBILE-LUBRICANTS": {
             
-            sum: 114,
+            sum: 126,
             brands: {
               "GOLDEN CRUISER": {
-                sum: 87,
+                sum: 99,
                 products: [],
               },
               VEEDOL: {
@@ -736,10 +708,26 @@ export const sectorData = {
           },
           "AUTOMOBILE-USED CARS": {
             
-            sum: 116,
+            sum: 143,
             brands: {
               SPINNY: {
-                sum: 116,
+                sum: 143,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      BUSINESS: {
+        
+        sum: 6,
+        categories: {
+          "BUSINESS EVENTS": {
+            
+            sum: 6,
+            brands: {
+              "FRANCHISE INDIA EXPO 2025": {
+                sum: 6,
                 products: [],
               },
             },
@@ -748,18 +736,18 @@ export const sectorData = {
       },
       "CONSUMER DURABLES": {
         
-        sum: 507,
+        sum: 571,
         categories: {
           "CONSUMER DURABLES-AIR CONDITIONER": {
             
-            sum: 288,
+            sum: 314,
             brands: {
-              "BPL AIR CONDITIONER": {
+              BPL: {
                 sum: 59,
                 products: [],
               },
               DAIKIN: {
-                sum: 121,
+                sum: 140,
                 products: [],
               },
               KELVINATOR: {
@@ -767,37 +755,37 @@ export const sectorData = {
                 products: [],
               },
               PANASONIC: {
-                sum: 39,
+                sum: 46,
                 products: [],
               },
             },
           },
           "CONSUMER DURABLES-WASHING MACHINE": {
             
-            sum: 96,
+            sum: 114,
             brands: {
               LG: {
-                sum: 96,
+                sum: 114,
                 products: [],
               },
             },
           },
           "CONSUMER DURABLES-WI-FI CONVERTIBLE REFRIGERATOR": {
             
-            sum: 73,
+            sum: 84,
             brands: {
               LG: {
-                sum: 73,
+                sum: 84,
                 products: [],
               },
             },
           },
           "HOME APPLIANCES": {
             
-            sum: 50,
+            sum: 59,
             brands: {
               VOLTAS: {
-                sum: 50,
+                sum: 59,
                 products: [],
               },
             },
@@ -806,7 +794,7 @@ export const sectorData = {
       },
       "E-COMMERCE": {
         
-        sum: 87,
+        sum: 99,
         categories: {
           "FOOD DELIVERY APPS": {
             
@@ -820,10 +808,14 @@ export const sectorData = {
           },
           "ONLINE GROCERY": {
             
-            sum: 65,
+            sum: 77,
             brands: {
               BIGBASKET: {
                 sum: 65,
+                products: [],
+              },
+              JIOMART: {
+                sum: 12,
                 products: [],
               },
             },
@@ -842,7 +834,7 @@ export const sectorData = {
       },
       EDUCATION: {
         
-        sum: 971,
+        sum: 1075,
         categories: {
           "CABIN CREW TRAINING": {
             
@@ -856,52 +848,52 @@ export const sectorData = {
           },
           "COACHING CENTRE": {
             
-            sum: 24,
+            sum: 72,
             brands: {
-              "VIDYA MANDIR": {
-                sum: 7,
+              "ALLEN CAREER INSTITUTE": {
+                sum: 48,
                 products: [],
               },
-              "VIDYAMANDIR CLASSES": {
-                sum: 17,
+              "VIDYA MANDIR": {
+                sum: 24,
                 products: [],
               },
             },
           },
           EDUCATION: {
             
-            sum: 283,
+            sum: 578,
             brands: {
               "EDUCATION EXPO": {
-                sum: 187,
-                products: [],
-              },
-              "GRAPHIC ERA UNIVERSITY": {
-                sum: 96,
+                sum: 578,
                 products: [],
               },
             },
           },
           "HIGHER EDUCATION&PROFESSIONAL TRAINING": {
             
-            sum: 420,
+            sum: 29,
             brands: {
               "EDUCATION EXPO": {
-                sum: 420,
+                sum: 29,
                 products: [],
               },
             },
           },
           UNIVERSITY: {
             
-            sum: 242,
+            sum: 394,
             brands: {
+              "GRAPHIC ERA UNIVERSITY": {
+                sum: 110,
+                products: [],
+              },
               "K.R. MANGALAM UNIVERSITY": {
-                sum: 140,
+                sum: 168,
                 products: [],
               },
               "SUBHARTI UNIVERSITY": {
-                sum: 102,
+                sum: 116,
                 products: [],
               },
             },
@@ -910,7 +902,7 @@ export const sectorData = {
       },
       ENTERTAINMENT: {
         
-        sum: 516,
+        sum: 627,
         categories: {
           "DIGITAL MUSIC SERVICE": {
             
@@ -922,12 +914,22 @@ export const sectorData = {
               },
             },
           },
+          "ENTERTAINMENT-AMUSEMENT": {
+            
+            sum: 22,
+            brands: {
+              "JURASIK PARK INN": {
+                sum: 22,
+                products: [],
+              },
+            },
+          },
           "ENTERTAINMENT-AMUSEMENT PARK": {
             
-            sum: 467,
+            sum: 556,
             brands: {
               "ATLANTIC WATER WORLD": {
-                sum: 467,
+                sum: 556,
                 products: [],
               },
             },
@@ -996,14 +998,14 @@ export const sectorData = {
       },
       EVENTS: {
         
-        sum: 91,
+        sum: 112,
         categories: {
           "TRADE SHOW": {
             
-            sum: 91,
+            sum: 112,
             brands: {
               "FRANCHISE INDIA EXPO 2025": {
-                sum: 91,
+                sum: 112,
                 products: [],
               },
             },
@@ -1012,76 +1014,72 @@ export const sectorData = {
       },
       FINANCE: {
         
-        sum: 376,
+        sum: 416,
         categories: {
           "BANKING&FINANCE": {
             
-            sum: 76,
-            brands: {
-              SBI: {
-                sum: 76,
-                products: [],
-              },
-            },
-          },
-          "BANKING&FINANCIAL SERVICES": {
-            
-            sum: 13,
+            sum: 233,
             brands: {
               BHIM: {
                 sum: 13,
                 products: [],
               },
-            },
-          },
-          "FINANCE-BANKING SERVICES": {
-            
-            sum: 45,
-            brands: {
               "CANARA BANK": {
-                sum: 45,
+                sum: 50,
+                products: [],
+              },
+              "HDFC BANK": {
+                sum: 71,
+                products: [],
+              },
+              SBI: {
+                sum: 99,
                 products: [],
               },
             },
           },
           "FINANCE-INSURANCE": {
             
-            sum: 47,
+            sum: 97,
             brands: {
+              "D.I.Y HEALTH": {
+                sum: 15,
+                products: [],
+              },
               "GENERAL INSURANCE COUNCIL": {
-                sum: 34,
+                sum: 43,
+                products: [],
+              },
+              "GENERALI HEALTH INSURANCE": {
+                sum: 18,
                 products: [],
               },
               LIC: {
                 sum: 13,
                 products: [],
               },
+              ZUNO: {
+                sum: 8,
+                products: [],
+              },
             },
           },
           "FINANCIAL AWARENESS": {
             
-            sum: 14,
+            sum: 16,
             brands: {
               RBI: {
-                sum: 14,
+                sum: 16,
                 products: [],
               },
             },
           },
           "FINANCIAL SERVICES": {
             
-            sum: 139,
+            sum: 56,
             brands: {
-              "HDFC BANK": {
-                sum: 71,
-                products: [],
-              },
               "MUTUAL FUND": {
                 sum: 56,
-                products: [],
-              },
-              SBI: {
-                sum: 12,
                 products: [],
               },
             },
@@ -1096,35 +1094,11 @@ export const sectorData = {
               },
             },
           },
-          "GENERAL INSURANCE": {
-            
-            sum: 8,
-            brands: {
-              ZUNO: {
-                sum: 8,
-                products: [],
-              },
-            },
-          },
-          INSURANCE: {
-            
-            sum: 20,
-            brands: {
-              "D.I.Y HEALTH": {
-                sum: 15,
-                products: [],
-              },
-              "GENERALI HEALTH INSURANCE": {
-                sum: 5,
-                products: [],
-              },
-            },
-          },
         },
       },
       FMCG: {
         
-        sum: 843,
+        sum: 964,
         categories: {
           "AYURVEDIC SKINCARE": {
             
@@ -1138,46 +1112,46 @@ export const sectorData = {
           },
           BEVERAGES: {
             
-            sum: 237,
+            sum: 281,
             brands: {
               ELECTRO: {
-                sum: 104,
+                sum: 118,
                 products: [],
               },
               RAJDHANI: {
-                sum: 110,
+                sum: 127,
                 products: [],
               },
               SPRITE: {
-                sum: 23,
+                sum: 36,
                 products: [],
               },
             },
           },
           CONFECTIONARY: {
             
-            sum: 314,
+            sum: 362,
             brands: {
               NIC: {
-                sum: 64,
+                sum: 79,
                 products: [],
               },
               VADILAAL: {
-                sum: 119,
+                sum: 134,
                 products: [],
               },
               VIMAL: {
-                sum: 131,
+                sum: 149,
                 products: [],
               },
             },
           },
           "FOOD PRODUCTS": {
             
-            sum: 114,
+            sum: 123,
             brands: {
               "MCDONALD'S": {
-                sum: 114,
+                sum: 123,
                 products: [],
               },
             },
@@ -1194,24 +1168,24 @@ export const sectorData = {
           },
           "MEDICINAL PRODUCTS": {
             
-            sum: 19,
+            sum: 20,
             brands: {
               "SACHI SAHELI": {
-                sum: 19,
+                sum: 20,
                 products: [],
               },
             },
           },
           "PACKAGED FOOD": {
             
-            sum: 120,
+            sum: 139,
             brands: {
               "SHAKTI AATA": {
                 sum: 10,
                 products: [],
               },
               "VIKRAM MILLS FRESH CHAKKI ATTA": {
-                sum: 110,
+                sum: 129,
                 products: [],
               },
             },
@@ -1220,7 +1194,7 @@ export const sectorData = {
       },
       HEALTHCARE: {
         
-        sum: 318,
+        sum: 380,
         categories: {
           AYURVEDA: {
             
@@ -1234,20 +1208,20 @@ export const sectorData = {
           },
           "DIGESTIVE HEALTH": {
             
-            sum: 67,
+            sum: 91,
             brands: {
               "PET SAFFA": {
-                sum: 67,
+                sum: 91,
                 products: [],
               },
             },
           },
           "HEALTHCARE PRODUCT": {
             
-            sum: 32,
+            sum: 33,
             brands: {
               "DR ARTHO SPRAY": {
-                sum: 9,
+                sum: 10,
                 products: [],
               },
               "PAIN RELIEF OIL": {
@@ -1258,20 +1232,20 @@ export const sectorData = {
           },
           "HEALTHCARE PRODUCTS": {
             
-            sum: 60,
+            sum: 64,
             brands: {
               PATANJALI: {
-                sum: 60,
+                sum: 64,
                 products: [],
               },
             },
           },
           PHARMACEUTICALS: {
             
-            sum: 47,
+            sum: 65,
             brands: {
               HAMDARD: {
-                sum: 42,
+                sum: 60,
                 products: [],
               },
               "MUGLI GHUTTI 555": {
@@ -1282,20 +1256,20 @@ export const sectorData = {
           },
           "SERVICES – MEDICAL": {
             
-            sum: 24,
+            sum: 35,
             brands: {
               "YATHARTH HOSPITAL": {
-                sum: 24,
+                sum: 35,
                 products: [],
               },
             },
           },
           "SERVICES-MEDICAL": {
             
-            sum: 80,
+            sum: 84,
             brands: {
               "FORTIS HOSPITAL": {
-                sum: 8,
+                sum: 12,
                 products: [],
               },
               "JEENA SIKHO HOSPITAL": {
@@ -1308,14 +1282,14 @@ export const sectorData = {
       },
       "HOME FURNISHING": {
         
-        sum: 104,
+        sum: 116,
         categories: {
           "AIR FRESHNERS": {
             
-            sum: 74,
+            sum: 86,
             brands: {
               "CAMPHOR-BASED AIR FRESHENER": {
-                sum: 74,
+                sum: 86,
                 products: [],
               },
             },
@@ -1334,14 +1308,14 @@ export const sectorData = {
       },
       "PERSONAL CARE": {
         
-        sum: 19,
+        sum: 31,
         categories: {
-          "HAIR CARE": {
+          "HAIR CARE": {
             
-            sum: 19,
+            sum: 31,
             brands: {
-              "DABUR COOL KING THANDA TEL": {
-                sum: 19,
+              DABUR: {
+                sum: 31,
                 products: [],
               },
             },
@@ -1350,14 +1324,14 @@ export const sectorData = {
       },
       "PETROLEUM PRODUCTS": {
         
-        sum: 10,
+        sum: 18,
         categories: {
           "PETROLEUM PRODUCTS": {
             
-            sum: 10,
+            sum: 18,
             brands: {
               "NAYARA ENERGY": {
-                sum: 10,
+                sum: 18,
                 products: [],
               },
             },
@@ -1366,7 +1340,7 @@ export const sectorData = {
       },
       PROPERTY: {
         
-        sum: 423,
+        sum: 500,
         categories: {
           "PROPERTY-COMMERCIAL": {
             
@@ -1380,14 +1354,14 @@ export const sectorData = {
           },
           "PROPERTY-HOUSING": {
             
-            sum: 344,
+            sum: 421,
             brands: {
-              "ABHINANDAN LODHA – GOLDEN TRIANGLE": {
-                sum: 8,
+              "ACE VERDE": {
+                sum: 25,
                 products: [],
               },
               "BRICK&BOLT": {
-                sum: 84,
+                sum: 98,
                 products: [],
               },
               DPXPO: {
@@ -1398,8 +1372,12 @@ export const sectorData = {
                 sum: 100,
                 products: [],
               },
+              "LODHA – GOLDEN TRIANGLE": {
+                sum: 15,
+                products: [],
+              },
               "TATHASTU REALTIES": {
-                sum: 146,
+                sum: 177,
                 products: [],
               },
             },
@@ -1408,22 +1386,22 @@ export const sectorData = {
       },
       "PUBLIC INTEREST": {
         
-        sum: 141,
+        sum: 162,
         categories: {
           "PUBLIC SERVICE ADS": {
             
-            sum: 141,
+            sum: 162,
             brands: {
               NDMC: {
                 sum: 17,
                 products: [],
               },
               SBI: {
-                sum: 51,
+                sum: 63,
                 products: [],
               },
               "TATA IPL": {
-                sum: 73,
+                sum: 82,
                 products: [],
               },
             },
@@ -1432,14 +1410,14 @@ export const sectorData = {
       },
       TECHNOLOGY: {
         
-        sum: 69,
+        sum: 77,
         categories: {
           "CYBERSECURITY SOFTWARE": {
             
-            sum: 69,
+            sum: 77,
             brands: {
               SIYANO: {
-                sum: 69,
+                sum: 77,
                 products: [],
               },
             },
@@ -1467,40 +1445,24 @@ export const sectorData = {
     "Radio One": {
       AUTOMOBILE: {
         
-        sum: 321,
+        sum: 265,
         categories: {
           "AUTOMOBILE-CARS": {
             
-            sum: 142,
+            sum: 118,
             brands: {
               "MARUTI SUZUKI": {
-                sum: 142,
+                sum: 118,
                 products: [],
               },
             },
           },
           "AUTOMOBILE-USED CARS": {
             
-            sum: 179,
+            sum: 147,
             brands: {
               SPINNY: {
-                sum: 179,
-                products: [],
-              },
-            },
-          },
-        },
-      },
-      BUSINESS: {
-        
-        sum: 201,
-        categories: {
-          "BUSINESS EVENTS": {
-            
-            sum: 201,
-            brands: {
-              "FRANCHISE INDIA 2025": {
-                sum: 201,
+                sum: 147,
                 products: [],
               },
             },
@@ -1509,24 +1471,40 @@ export const sectorData = {
       },
       "CONSUMER DURABLES": {
         
-        sum: 146,
+        sum: 124,
         categories: {
           "CONSUMER DURABLES-AIR CONDITIONER": {
             
-            sum: 60,
+            sum: 50,
             brands: {
               VOLTAS: {
-                sum: 60,
+                sum: 50,
                 products: [],
               },
             },
           },
           "CONSUMER DURABLES-REFRIGERATOR": {
             
-            sum: 86,
+            sum: 74,
             brands: {
               LG: {
-                sum: 86,
+                sum: 74,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      "E-COMMERCE": {
+        
+        sum: 14,
+        categories: {
+          GIFTING: {
+            
+            sum: 14,
+            brands: {
+              ARCHIES: {
+                sum: 14,
                 products: [],
               },
             },
@@ -1551,14 +1529,14 @@ export const sectorData = {
       },
       ENTERTAINMENT: {
         
-        sum: 265,
+        sum: 211,
         categories: {
           ENTERTAINMENT: {
             
-            sum: 33,
+            sum: 28,
             brands: {
               "ANIME JUNCTION": {
-                sum: 24,
+                sum: 19,
                 products: [],
               },
               MAHINDRA: {
@@ -1569,24 +1547,24 @@ export const sectorData = {
           },
           "ENTERTAINMENT&SPORTS PROMOTION": {
             
-            sum: 18,
+            sum: 13,
             brands: {
               "DELHI CAPITALS": {
-                sum: 18,
+                sum: 13,
                 products: [],
               },
             },
           },
           "ENTERTAINMENT-APP": {
             
-            sum: 162,
+            sum: 128,
             brands: {
               BOOKMYSHOW: {
-                sum: 79,
+                sum: 56,
                 products: [],
               },
               "DC FAN SABHA APP": {
-                sum: 83,
+                sum: 72,
                 products: [],
               },
             },
@@ -1603,10 +1581,26 @@ export const sectorData = {
           },
           RADIO: {
             
-            sum: 39,
+            sum: 29,
             brands: {
               "FEVER FM": {
-                sum: 39,
+                sum: 29,
+                products: [],
+              },
+            },
+          },
+        },
+      },
+      EVENTS: {
+        
+        sum: 168,
+        categories: {
+          "TRADE SHOW": {
+            
+            sum: 168,
+            brands: {
+              "FRANCHISE INDIA EXPO 2025": {
+                sum: 168,
                 products: [],
               },
             },
@@ -1615,24 +1609,18 @@ export const sectorData = {
       },
       FINANCE: {
         
-        sum: 383,
+        sum: 338,
         categories: {
           "BANKING&FINANCE": {
             
-            sum: 76,
+            sum: 272,
             brands: {
-              SBI: {
-                sum: 76,
+              "MUTUAL FUND": {
+                sum: 40,
                 products: [],
               },
-            },
-          },
-          "BANKING&FINANCIAL SERVICES": {
-            
-            sum: 200,
-            brands: {
               SBI: {
-                sum: 200,
+                sum: 232,
                 products: [],
               },
             },
@@ -1651,16 +1639,6 @@ export const sectorData = {
               },
             },
           },
-          "FINANCIAL SERVICES": {
-            
-            sum: 41,
-            brands: {
-              "MUTUAL FUND": {
-                sum: 41,
-                products: [],
-              },
-            },
-          },
           FINTECH: {
             
             sum: 16,
@@ -1675,42 +1653,42 @@ export const sectorData = {
       },
       FMCG: {
         
-        sum: 786,
+        sum: 638,
         categories: {
           BEVERAGES: {
             
-            sum: 138,
+            sum: 82,
             brands: {
               "JACK DANIELS": {
-                sum: 138,
+                sum: 82,
                 products: [],
               },
             },
           },
           CONFECTIONARY: {
             
-            sum: 325,
+            sum: 275,
             brands: {
               PULSE: {
-                sum: 192,
+                sum: 162,
                 products: [],
               },
               VIMAL: {
-                sum: 133,
+                sum: 113,
                 products: [],
               },
             },
           },
           "FOOD PRODUCTS": {
             
-            sum: 323,
+            sum: 281,
             brands: {
               "MCDONALD'S": {
-                sum: 132,
+                sum: 120,
                 products: [],
               },
               NUTRELA: {
-                sum: 191,
+                sum: 161,
                 products: [],
               },
             },
@@ -1735,14 +1713,14 @@ export const sectorData = {
       },
       PROPERTY: {
         
-        sum: 197,
+        sum: 166,
         categories: {
           "PROPERTY-COMMERCIAL": {
             
-            sum: 197,
+            sum: 166,
             brands: {
               "SPECTRUM METRO SECTOR 75": {
-                sum: 197,
+                sum: 166,
                 products: [],
               },
             },
@@ -1751,18 +1729,18 @@ export const sectorData = {
       },
       "PUBLIC INTEREST": {
         
-        sum: 89,
+        sum: 74,
         categories: {
           "PUBLIC SERVICE ADS": {
             
-            sum: 89,
+            sum: 74,
             brands: {
               RBI: {
-                sum: 18,
+                sum: 15,
                 products: [],
               },
               SBI: {
-                sum: 71,
+                sum: 59,
                 products: [],
               },
             },
@@ -1771,18 +1749,8 @@ export const sectorData = {
       },
       RETAIL: {
         
-        sum: 23,
+        sum: 9,
         categories: {
-          GIFTING: {
-            
-            sum: 14,
-            brands: {
-              ARCHIES: {
-                sum: 14,
-                products: [],
-              },
-            },
-          },
           MALL: {
             
             sum: 9,
@@ -1797,14 +1765,14 @@ export const sectorData = {
       },
       "TRAVEL&TOURISM": {
         
-        sum: 101,
+        sum: 78,
         categories: {
           "TRAVEL AWARENESS": {
             
-            sum: 101,
+            sum: 78,
             brands: {
               "ICICI LOMBARD": {
-                sum: 101,
+                sum: 78,
                 products: [],
               },
             },
@@ -1966,24 +1934,24 @@ export const sectorData = {
           },
           EDUCATION: {
             
-            sum: 767,
+            sum: 631,
             brands: {
               "EDUCATION EXPO": {
                 sum: 631,
-                products: [],
-              },
-              "K.R. MANGALAM UNIVERSITY": {
-                sum: 136,
                 products: [],
               },
             },
           },
           UNIVERSITY: {
             
-            sum: 93,
+            sum: 229,
             brands: {
               "GRAPHIC ERA UNIVERSITY": {
                 sum: 93,
+                products: [],
+              },
+              "K.R. MANGALAM UNIVERSITY": {
+                sum: 136,
                 products: [],
               },
             },
@@ -2054,26 +2022,30 @@ export const sectorData = {
         
         sum: 718,
         categories: {
-          "BANKING AND FINANCIAL SERVICES": {
+          "BANKIN&FINANCE": {
             
-            sum: 20,
+            sum: 8,
             brands: {
               "BANK OF BARODA": {
                 sum: 8,
-                products: [],
-              },
-              "CANARA BANK": {
-                sum: 12,
                 products: [],
               },
             },
           },
           "BANKING&FINANCE": {
             
-            sum: 201,
+            sum: 301,
             brands: {
+              "CANARA BANK": {
+                sum: 12,
+                products: [],
+              },
               "FEDERAL BANK": {
                 sum: 30,
+                products: [],
+              },
+              "HDFC BANK": {
+                sum: 88,
                 products: [],
               },
               SBI: {
@@ -2082,22 +2054,16 @@ export const sectorData = {
               },
             },
           },
-          "BANKING&FINANCE SERVICES": {
-            
-            sum: 88,
-            brands: {
-              "HDFC BANK": {
-                sum: 88,
-                products: [],
-              },
-            },
-          },
           "FINANCE-INSURANCE": {
             
-            sum: 20,
+            sum: 53,
             brands: {
               "GENERAL INSURANCE COUNCIL": {
                 sum: 20,
+                products: [],
+              },
+              "GENERALI HEALTH INSURANCE": {
+                sum: 33,
                 products: [],
               },
             },
@@ -2112,16 +2078,6 @@ export const sectorData = {
               },
               ROF: {
                 sum: 346,
-                products: [],
-              },
-            },
-          },
-          INSURANCE: {
-            
-            sum: 33,
-            brands: {
-              "GENERALI HEALTH INSURANCE": {
-                sum: 33,
                 products: [],
               },
             },
@@ -2376,7 +2332,7 @@ export const sectorData = {
             
             sum: 9,
             brands: {
-              "LOUIS PHILIPPE-AMBIENCE MALL": {
+              "AMBIENCE MALL-LOUIS PHILIPPE": {
                 sum: 9,
                 products: [],
               },
