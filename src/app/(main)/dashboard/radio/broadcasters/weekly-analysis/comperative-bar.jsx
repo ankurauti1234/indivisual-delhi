@@ -176,39 +176,36 @@ const RadioSectorAnalysis = () => {
   const [selectedWeeks, setSelectedWeeks] = useState(["week_1"]);
   const [selectedStations, setSelectedStations] = useState(["all"]);
   const [dataType, setDataType] = useState("seconds");
+  const [highlightedSector, setHighlightedSector] = useState(null);
 
-  // Define sectors with colors
-const sectors = {
-  ACCESSORIES: { name: "Accessories", color: "#34D399" },
-  AGRICULTURE: { name: "Agriculture", color: "#60A5FA" },
-  AUTOMOBILE: { name: "Automobile", color: "#F472B6" },
-  BUSINESS: { name: "Business", color: "#A78BFA" },
-  "CONSUMER DURABLES": { name: "Consumer Durables", color: "#3B82F6" },
-  "E-COMMERCE": { name: "E-Commerce", color: "#4ADE80" },
-  EDUCATION: { name: "Education", color: "#F87171" },
-  ENTERTAINMENT: { name: "Entertainment", color: "#2DD4BF" },
-  EVENTS: { name: "Events", color: "#FB923C" },
-  FINANCE: { name: "Finance", color: "#D946EF" },
-  FMCG: { name: "FMCG", color: "#22D3EE" },
-  HEALTHCARE: { name: "Healthcare", color: "#E879F9" },
-  "HOME FURNISHING": { name: "Home Furnishing", color: "#FCA5A5" },
-  "PERSONAL CARE": { name: "Personal Care", color: "#5EEAD4" },
-  "PETROLEUM PRODUCTS": { name: "Petroleum Products", color: "#EAB308" },
-  PROPERTY: { name: "Property", color: "#EF4444" },
-  "PUBLIC INTEREST": { name: "Public Interest", color: "#38BDF8" },
-  RETAIL: { name: "Retail", color: "#34D399" },
-  TECHNOLOGY: { name: "Technology", color: "#A78BFA" },
-  "TEXTILES&APPARELS": { name: "Textiles & Apparels", color: "#F472B6" },
-  "TRAVEL&TOURISM": { name: "Travel & Tourism", color: "#3B82F6" },
-};
+  const sectors = {
+    ACCESSORIES: { name: "Accessories", color: "#34D399" },
+    AGRICULTURE: { name: "Agriculture", color: "#60A5FA" },
+    AUTOMOBILE: { name: "Automobile", color: "#F472B6" },
+    BUSINESS: { name: "Business", color: "#A78BFA" },
+    "CONSUMER DURABLES": { name: "Consumer Durables", color: "#3B82F6" },
+    "E-COMMERCE": { name: "E-Commerce", color: "#EC4899" },
+    EDUCATION: { name: "Education", color: "#4ADE80" },
+    ENTERTAINMENT: { name: "Entertainment", color: "#F87171" },
+    EVENTS: { name: "Events", color: "#FB923C" },
+    FINANCE: { name: "Finance", color: "#60A5FA" },
+    FMCG: { name: "FMCG", color: "#A78BFA" },
+    HEALTHCARE: { name: "Healthcare", color: "#10B981" },
+    "HOME FURNISHING": { name: "Home Furnishing", color: "#E879F9" },
+    "PERSONAL CARE": { name: "Personal Care", color: "#F87171" },
+    "PETROLEUM PRODUCTS": { name: "Petroleum Products", color: "#6EE7B7" },
+    PROPERTY: { name: "Property", color: "#FBBF24" },
+    "PUBLIC INTEREST": { name: "Public Interest", color: "#93C5FD" },
+    RETAIL: { name: "Retail", color: "#FCA5A5" },
+    TECHNOLOGY: { name: "Technology", color: "#818CF8" },
+    "TEXTILES&APPARELS": { name: "Textiles & Apparels", color: "#F472B6" },
+    "TRAVEL&TOURISM": { name: "Travel & Tourism", color: "#FDBA74" },
+  };
 
-
-  // Define weeks
   const weeks = [
     { value: "week_1", label: "Week 19 (May 7-14, 2025)", shortLabel: "Week 19" },
   ];
 
-  // Define stations
   const stations = [
     { value: "all", label: "All Stations" },
     { value: "radiocity", label: "Radio City" },
@@ -217,7 +214,6 @@ const sectors = {
     { value: "radiomirchi", label: "Radio Mirchi" },
   ];
 
-  // Combine and normalize data
   const rawData = {
     "Radio City": {
       region: "Delhi",
@@ -261,13 +257,11 @@ const sectors = {
     },
   };
 
-  // Convert nested data structure to flat array for filtering
   const flattenedData = Object.entries(rawData).map(([station, data]) => ({
     station,
     ...data,
   }));
 
-  // Filter data based on selected stations and weeks
   const filteredData = useMemo(() => {
     const isAllSelected = selectedStations.includes("all");
     return flattenedData
@@ -285,10 +279,15 @@ const sectors = {
       }));
   }, [selectedWeeks, selectedStations, dataType]);
 
-  const formatSelectedWeeks = () => {
-    if (selectedWeeks.length === 0) return "Select week";
-    return selectedWeeks
+  const formatSelectedWeeks = (selected) => {
+    if (selected.length === 0) return "Select weeks";
+    return selected
       .map((week) => weeks.find((w) => w.value === week)?.shortLabel)
+      .sort(
+        (a, b) =>
+          weeks.findIndex((w) => w.shortLabel === a) -
+          weeks.findIndex((w) => w.shortLabel === b)
+      )
       .join(", ");
   };
 
@@ -318,7 +317,7 @@ const sectors = {
           : [...prev.filter((station) => station !== "all"), value];
         return newSelection.length === 0 ? ["all"] : newSelection;
       });
-    };
+    }
   };
 
   const formatValue = (value) => {
@@ -328,43 +327,47 @@ const sectors = {
     return `${Math.round(value)}`;
   };
 
+  const toggleSectorHighlight = (sectorKey) => {
+    setHighlightedSector((prev) => (prev === sectorKey ? null : sectorKey));
+  };
+
   return (
-    <Card className="w-full bg-white shadow-xl rounded-2xl overflow-hidden">
-      <CardHeader className="bg-gradient-to-r from-gray-50 to-gray-100 p-6">
+    <Card className="w-full bg-card shadow-lg rounded-lg border border-border">
+      <CardHeader className="p-6 border-b">
         <div className="flex flex-col space-y-4">
           <div className="flex items-center justify-between flex-wrap gap-4">
             <div className="flex items-center gap-3">
-              <div className="rounded-full bg-primary/10 p-2 shadow-md">
+              <div className="rounded-full bg-muted p-2 shadow-md">
                 <Radio className="h-5 w-5 text-primary" />
               </div>
               <div>
-                <CardTitle className="text-xl font-bold text-gray-800">
+                <CardTitle className="text-xl font-bold text-foreground">
                   Sector-wise Ad Distribution
                 </CardTitle>
-                <CardDescription className="text-sm text-gray-600 mt-1">
-                  Analyze sector performance for selected stations
+                <CardDescription className="text-sm text-muted-foreground mt-1">
+                  Interactive sector performance across radio stations
                 </CardDescription>
               </div>
             </div>
             <div className="flex items-center gap-3 flex-wrap">
-              <Filter className="h-5 w-5 text-gray-500" />
-              <div className="flex gap-2">
+              <Filter className="h-5 w-5 text-muted-foreground" />
+              <div className="flex gap-2 flex-wrap">
                 <Select value="" onValueChange={handleWeekSelection}>
-                  <SelectTrigger className="w-40 bg-white shadow-sm border-gray-200">
-                    <SelectValue placeholder={formatSelectedWeeks()} />
+                  <SelectTrigger className="w-40 bg-popover shadow-sm border-border rounded-md">
+                    <SelectValue placeholder={formatSelectedWeeks(selectedWeeks)} />
                   </SelectTrigger>
-                  <SelectContent>
+                  <SelectContent className="rounded-md shadow-lg bg-popover">
                     {weeks.map((week) => (
                       <SelectItem
                         key={week.value}
                         value={week.value}
-                        className="flex items-center gap-2"
+                        className="flex items-center gap-2 px-3 py-2"
                       >
                         <input
                           type="checkbox"
                           checked={selectedWeeks.includes(week.value)}
                           onChange={() => handleWeekSelection(week.value)}
-                          className="mr-2"
+                          className="h-4 w-4"
                         />
                         {week.label}
                       </SelectItem>
@@ -372,21 +375,21 @@ const sectors = {
                   </SelectContent>
                 </Select>
                 <Select value="" onValueChange={handleStationSelection}>
-                  <SelectTrigger className="w-48 bg-white shadow-sm border-gray-200">
+                  <SelectTrigger className="w-48 bg-popover shadow-sm border-border rounded-md">
                     <SelectValue placeholder={formatSelectedStations(selectedStations)} />
                   </SelectTrigger>
-                  <SelectContent>
+                  <SelectContent className="rounded-md shadow-lg bg-popover">
                     {stations.map((station) => (
                       <SelectItem
                         key={station.value}
                         value={station.value}
-                        className="flex items-center gap-2"
+                        className="flex items-center gap-2 px-3 py-2"
                       >
                         <input
                           type="checkbox"
                           checked={selectedStations.includes(station.value)}
                           onChange={() => handleStationSelection(station.value)}
-                          className="mr-2"
+                          className="h-4 w-4"
                         />
                         {station.label}
                       </SelectItem>
@@ -401,13 +404,13 @@ const sectors = {
                 >
                   <ToggleGroupItem
                     value="seconds"
-                    className="bg-white shadow-sm border-gray-200 px-4 py-2 rounded-md data-[state=on]:bg-primary data-[state=on]:text-white"
+                    className="bg-popover shadow-sm border-border px-4 py-2 rounded-md text-sm font-medium data-[state=on]:bg-primary data-[state=on]:text-primary-foreground hover:bg-muted"
                   >
                     Seconds
                   </ToggleGroupItem>
                   <ToggleGroupItem
                     value="plays"
-                    className="bg-white shadow-sm border-gray-200 px-4 py-2 rounded-md data-[state=on]:bg-primary data-[state=on]:text-white"
+                    className="bg-popover shadow-sm border-blue-400 px-4 py-2 rounded-md text-sm font-medium data-[state=on]:bg-blue-600 data-[state=on]:text-primary-foreground hover:bg-muted"
                   >
                     Plays
                   </ToggleGroupItem>
@@ -417,39 +420,44 @@ const sectors = {
           </div>
         </div>
       </CardHeader>
-      <CardContent className="p-6">
-        <div className="flex flex-wrap gap-3 justify-center">
+      <CardContent className="p-6 bg-card">
+        <div className="flex flex-wrap gap-2 justify-center mb-6">
           {Object.entries(sectors).map(([key, sector]) => (
-            <div
+            <button
               key={key}
-              className="flex items-center gap-2 bg-white/80 rounded-full px-3 py-1 shadow-sm"
+              onClick={() => toggleSectorHighlight(key)}
+              className={`flex items-center gap-2 rounded-md px-3 py-1.5 shadow-full transition-colors duration-200 ${
+                highlightedSector === key
+                  ? "bg-accent ring-2 ring-blue-400"
+                  : "bg-white hover:bg-gray-100"
+              }`}
             >
               <div
-                className="h-2.5 w-2.5 rounded-full ring-1 ring-white"
+                className="h-2.5 w-2.5 rounded-full ring-1 ring-gray-300"
                 style={{ backgroundColor: sector.color }}
               />
-              <span className="text-xs font-medium text-gray-700">
+              <span className="text-xs font-medium text-gray-800">
                 {sector.name}
               </span>
-            </div>
+            </button>
           ))}
         </div>
         <div className="space-y-6">
           {filteredData.map((station) => (
             <div
               key={station.station}
-              className="bg-gray-50/50 rounded-xl p-4 hover:bg-gray-50 transition-colors"
+              className="bg-card rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow duration-200"
             >
               <div className="flex items-start gap-4">
                 <div className="w-36 flex-shrink-0">
-                  <div className="text-sm font-semibold text-gray-800">
+                  <div className="text-sm font-semibold text-foreground">
                     {station.station}
                   </div>
-                  <div className="text-xs text-gray-500 mt-1">{station.region}</div>
-                  <div className="text-xs text-gray-500">{station.language}</div>
+                  <div className="text-xs text-muted-foreground mt-1">{station.region}</div>
+                  <div className="text-xs text-muted-foreground">{station.language}</div>
                 </div>
                 <div className="flex-1">
-                  <div className="space-y-3">
+                  <div className="space-y-4">
                     {station.weeklyData.map((weekData) => {
                       const totalWeekValue = Object.values(weekData.sectors).reduce(
                         (sum, value) => sum + (value || 0),
@@ -458,10 +466,10 @@ const sectors = {
                       if (totalWeekValue === 0) {
                         return (
                           <div key={weekData.week} className="relative">
-                            <div className="text-xs font-medium text-gray-600 mb-1.5">
+                            <div className="text-md font-medium text-foreground mb-2">
                               {weeks.find((w) => w.value === weekData.week)?.label}
                             </div>
-                            <div className="text-xs text-gray-500">
+                            <div className="text-md text-muted-foreground">
                               No data available
                             </div>
                           </div>
@@ -469,36 +477,48 @@ const sectors = {
                       }
                       return (
                         <div key={weekData.week} className="relative">
-                          <div className="text-xs font-medium text-gray-600 mb-1.5">
-                            {weeks.find((w) => w.value === weekData.week)?.label}
+                          <div className="flex justify-between items-center mb-2">
+                            <div className="text-md font-medium text-foreground">
+                              {weeks.find((w) => w.value === weekData.week)?.label}
+                            </div>
+                            <div className="text-md font-semibold text-foreground">
+                              Total: {formatValue(totalWeekValue)}
+                            </div>
                           </div>
-                          <div className="relative h-8 w-full">
-                            <div className="absolute inset-y-0 w-full bg-gray-200/50 rounded-full" />
+                          <div className="relative h-10 w-full">
+                            <div className="absolute inset-y-0 w-full bg-muted rounded-md shadow-inner" />
                             <div
-                              className="relative h-full rounded-full flex shadow-sm"
+                              className="relative h-full rounded-md flex shadow-sm"
                               style={{ width: "100%" }}
                             >
                               {Object.entries(weekData.sectors)
                                 .filter(([, value]) => value > 0)
+                                .sort(([, a], [, b]) => b - a)
                                 .map(([sectorKey, value]) => {
                                   const barWidth = (value / totalWeekValue) * 100;
+                                  const percentage = ((value / totalWeekValue) * 100).toFixed(1);
+                                  const isHighlighted =
+                                    highlightedSector === null || highlightedSector === sectorKey;
                                   return (
                                     <div
                                       key={sectorKey}
-                                      className="h-full flex items-center justify-center group transition-all duration-200 hover:brightness-110 relative"
+                                      className="h-full flex items-center justify-center group transition-all duration-200 hover:scale-105"
                                       style={{
                                         width: `${barWidth}%`,
-                                        backgroundColor:
-                                          sectors[sectorKey]?.color || "#CCCCCC",
-                                        minWidth: value > 0 ? "20px" : "0px",
+                                        backgroundColor: sectors[sectorKey]?.color || "#CCCCCC",
+                                        minWidth: value > 0 ? "24px" : "0px",
+                                        opacity: isHighlighted ? 1 : 0.1,
+                                        transformOrigin: "center",
+                                        boxShadow: isHighlighted
+                                          ? "inset 0 0 6px rgba(0,0,0,0.15)"
+                                          : "none",
                                       }}
                                     >
-                                      <div className="text-xs font-medium text-white px-1 truncate">
+                                      <div className="text-md font-semibold text-white px-1.5 truncate drop-shadow">
                                         {formatValue(value)}
                                       </div>
-                                      <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 px-2 py-1 bg-gray-900/90 text-white text-xs rounded shadow-lg opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none z-10">
-                                        {sectors[sectorKey]?.name || sectorKey}:{" "}
-                                        {formatValue(value)}
+                                      <div className="absolute -top-10 left-1/2 transform -translate-x-1/2 px-2.5 py-1 bg-background text-foreground text-md rounded-md shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-200 pointer-events-none z-10">
+                                        {sectors[sectorKey]?.name || sectorKey}: {formatValue(value)} ({percentage}%)
                                       </div>
                                     </div>
                                   );

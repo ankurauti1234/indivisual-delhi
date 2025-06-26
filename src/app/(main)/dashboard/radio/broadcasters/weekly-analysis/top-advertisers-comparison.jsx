@@ -20,19 +20,23 @@ import {
 } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
 import ChartCard from "@/components/card/charts-card";
-import { week19 } from "./top-ad-data"; // Import the JSON data for Week 19
+import { week19 } from "./top-ad-data";
 
-// Function to calculate all unique advertisers
 const getTopAdvertisers = (week19Data) => {
   const combinedBrands = new Set();
   week19Data.forEach((item) => combinedBrands.add(item.Brand));
   return Array.from(combinedBrands);
 };
 
-// Get all advertisers
-const topAdvertisers = getTopAdvertisers(week19);
+const getUniqueSectors = (week19Data) => {
+  const combinedSectors = new Set();
+  week19Data.forEach((item) => combinedSectors.add(item.Sector));
+  return Array.from(combinedSectors);
+};
 
-// Create chart configuration for the advertisers
+const topAdvertisers = getTopAdvertisers(week19);
+const uniqueSectors = getUniqueSectors(week19);
+
 const chartConfig = {
   radiocity: { label: "Radio City", color: "hsl(var(--chart-1))" },
   radiomirchi: { label: "Radio Mirchi", color: "hsl(var(--chart-2))" },
@@ -46,7 +50,6 @@ const chartConfig = {
   ),
 };
 
-// Prepare data for the table
 const advertiserDataByWeek = {
   week19: {
     radiocity: {
@@ -54,6 +57,7 @@ const advertiserDataByWeek = {
       data: week19.map((item) => ({
         advertiser: item.Brand,
         spend: item["Radio City"] || 0,
+        sector: item.Sector,
       })),
     },
     radiomirchi: {
@@ -61,6 +65,7 @@ const advertiserDataByWeek = {
       data: week19.map((item) => ({
         advertiser: item.Brand,
         spend: item["Radio Mirchi"] || 0,
+        sector: item.Sector,
       })),
     },
     radioone: {
@@ -68,6 +73,7 @@ const advertiserDataByWeek = {
       data: week19.map((item) => ({
         advertiser: item.Brand,
         spend: item["Radio One"] || 0,
+        sector: item.Sector,
       })),
     },
     redfm: {
@@ -75,23 +81,31 @@ const advertiserDataByWeek = {
       data: week19.map((item) => ({
         advertiser: item.Brand,
         spend: item["Red FM"] || 0,
+        sector: item.Sector,
       })),
     },
   },
 };
 
 export default function TopAdvertisersComparison() {
+  const [selectedAdvertisers, setSelectedAdvertisers] = useState([topAdvertisers[0]]);
   const [selectedWeek, setSelectedWeek] = useState("week19");
+  const [selectedSector, setSelectedSector] = useState("all");
+  const [showTable, setShowTable] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
 
-  // Get current week's data
   const currentWeekData = advertiserDataByWeek[selectedWeek];
 
-  // Prepare data for table
   const tableData = topAdvertisers
-    .filter((adv) => adv.toLowerCase().includes(searchTerm.toLowerCase()))
+    .filter((adv) => {
+      const weekData = week19;
+      const advertiserData = weekData.find((item) => item.Brand === adv);
+      const matchesSector = selectedSector === "all" || advertiserData?.Sector === selectedSector;
+      const matchesSearch = adv.toLowerCase().includes(searchTerm.toLowerCase());
+      return matchesSector && matchesSearch;
+    })
     .map((adv) => ({
       advertiser: adv,
       radiocity: currentWeekData["radiocity"].data.find((d) => d.advertiser === adv)?.spend || 0,
@@ -100,7 +114,6 @@ export default function TopAdvertisersComparison() {
       redfm: currentWeekData["redfm"].data.find((d) => d.advertiser === adv)?.spend || 0,
     }));
 
-  // Pagination logic
   const totalItems = tableData.length;
   const totalPages = Math.ceil(totalItems / itemsPerPage);
   const paginatedData = tableData.slice(
@@ -109,12 +122,33 @@ export default function TopAdvertisersComparison() {
   );
 
   const formatCurrency = (value) => {
-    return `${value} Spots`; // Adjust based on what the numbers represent
+    return `${value.toFixed(0)} Plays`;
+  };
+
+  const handleAdvertiserSelectChange = (value) => {
+    if (value === "all") {
+      setSelectedAdvertisers(topAdvertisers);
+      setSearchTerm("");
+    } else {
+      setSelectedAdvertisers([value]);
+      setSearchTerm("");
+    }
+    setCurrentPage(1);
+  };
+
+  const handleWeekSelectChange = (value) => {
+    setSelectedWeek(value);
+    setCurrentPage(1);
+  };
+
+  const handleSectorSelectChange = (value) => {
+    setSelectedSector(value);
+    setCurrentPage(1);
   };
 
   const handleSearchChange = (e) => {
     setSearchTerm(e.target.value);
-    setCurrentPage(1); // Reset to first page when search changes
+    setCurrentPage(1);
   };
 
   const handlePageChange = (page) => {
@@ -125,10 +159,10 @@ export default function TopAdvertisersComparison() {
     <ChartCard
       icon={<BarChart2 className="w-6 h-6" />}
       title="Top Advertisers Comparison"
-      description="Your Station vs. Competitors - Week 19 (May 7-14, 2025)"
+      description={`Your Station vs. Competitors - Week 19 (May 7-14, 2025)`}
       action={
         <div className="flex gap-2 items-center justify-end">
-          <Select onValueChange={setSelectedWeek} value={selectedWeek}>
+          <Select onValueChange={handleWeekSelectChange} value={selectedWeek}>
             <SelectTrigger className="w-32">
               <SelectValue placeholder="Select week" />
             </SelectTrigger>
@@ -136,12 +170,49 @@ export default function TopAdvertisersComparison() {
               <SelectItem value="week19">Week 19</SelectItem>
             </SelectContent>
           </Select>
-          <Input
-            placeholder="Search advertisers..."
-            value={searchTerm}
-            onChange={handleSearchChange}
-            className="w-48"
-          />
+          <Select onValueChange={handleSectorSelectChange} defaultValue="all">
+            <SelectTrigger className="w-48">
+              <SelectValue placeholder="Select sector" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="all">All Sectors</SelectItem>
+              {uniqueSectors.map((sector) => (
+                <SelectItem key={sector} value={sector}>
+                  {sector}
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+          <Select onValueChange={handleAdvertiserSelectChange}>
+            <SelectTrigger className="w-48">
+              <SelectValue placeholder="Select or search advertiser" />
+            </SelectTrigger>
+            <SelectContent>
+              <div className="p-2">
+                <Input
+                  placeholder="Search advertisers..."
+                  value={searchTerm}
+                  onChange={handleSearchChange}
+                  className="mb-2"
+                />
+              </div>
+              <SelectItem value="all">All Advertisers</SelectItem>
+              {topAdvertisers
+                .filter((adv) => {
+                  const weekData = week19;
+                  const advertiserData = weekData.find((item) => item.Brand === adv);
+                  return (
+                    adv.toLowerCase().includes(searchTerm.toLowerCase()) &&
+                    (selectedSector === "all" || advertiserData?.Sector === selectedSector)
+                  );
+                })
+                .map((adv) => (
+                  <SelectItem key={adv} value={adv}>
+                    {adv}
+                  </SelectItem>
+                ))}
+            </SelectContent>
+          </Select>
         </div>
       }
       chart={
