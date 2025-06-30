@@ -25,7 +25,7 @@ import { Checkbox } from "@/components/ui/checkbox";
 const dailyAdsData = {
   "week19": [
     {
-      "date": "Mon 07 May",
+      "date": "07 May",
       "day": "Monday",
       "radio_city": { "count": 1019, "seconds": 14617 },
       "radio_mirchi": { "count": 1096, "seconds": 16509 },
@@ -33,7 +33,7 @@ const dailyAdsData = {
       "red_fm": { "count": 1055, "seconds": 18022 }
     },
     {
-      "date": "Tue 08 May",
+      "date": "08 May",
       "day": "Tuesday",
       "radio_city": { "count": 1004, "seconds": 15736 },
       "radio_mirchi": { "count": 1038, "seconds": 19072 },
@@ -41,7 +41,7 @@ const dailyAdsData = {
       "red_fm": { "count": 1121, "seconds": 20125 }
     },
     {
-      "date": "Wed 09 May",
+      "date": "09 May",
       "day": "Wednesday",
       "radio_city": { "count": 1315, "seconds": 19779 },
       "radio_mirchi": { "count": 1202, "seconds": 22045 },
@@ -49,7 +49,7 @@ const dailyAdsData = {
       "red_fm": { "count": 1323, "seconds": 25480 }
     },
     {
-      "date": "Thu 10 May",
+      "date": "10 May",
       "day": "Thursday",
       "radio_city": { "count": 1015, "seconds": 12579 },
       "radio_mirchi": { "count": 293, "seconds": 5189 },
@@ -57,14 +57,14 @@ const dailyAdsData = {
       "red_fm": { "count": 537, "seconds": 9000 }
     },
     {
-      "date": "Fri 11 May",
+      "date": "11 May",
       "day": "Friday",
       "radio_city": { "count": 857, "seconds": 9170 },
       "radio_mirchi": { "count": 259, "seconds": 4944 },
       "red_fm": { "count": 421, "seconds": 7378 }
     },
     {
-      "date": "Sat 12 May",
+      "date": "12 May",
       "day": "Saturday",
       "radio_city": { "count": 999, "seconds": 17911 },
       "radio_mirchi": { "count": 755, "seconds": 12744 },
@@ -72,7 +72,7 @@ const dailyAdsData = {
       "red_fm": { "count": 740, "seconds": 13541 }
     },
     {
-      "date": "Sun 13 May",
+      "date": "13 May",
       "day": "Sunday",
       "radio_city": { "count": 1060, "seconds": 18447 },
       "radio_mirchi": { "count": 833, "seconds": 14508 },
