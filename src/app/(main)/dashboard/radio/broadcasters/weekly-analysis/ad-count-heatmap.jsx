@@ -223,7 +223,7 @@ const RadioAdHeatmap = () => {
                       <div className="absolute -top-50 left-1/2 transform -translate-x-1/2 bg-card border text-sm py-2 px-4 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-50 shadow-lg max-w-[220px] pointer-events-none">
                         <p className="font-semibold text-gray-700">{row.station}</p>
                         <p className="text-sm text-gray-600">Time: {hour}</p>
-                        <p className="text-sm text-gray-600">Duration: {row[hour.split(":")[0]].toFixed(0)} seconds</p>
+                        <p className="text-sm text-gray-600">Duration: {row[hour.split(":")[0]].toFixed(0)} minutes</p>
                         <p className="text-xs text-gray-400">Date: {formatDate(selectedDate)}</p>
                       </div>
                     </div>
