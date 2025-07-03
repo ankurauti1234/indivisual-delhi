@@ -5,12 +5,8 @@ import RadioAdHeatmap from './ad-count-heatmap'
 import RadioSectorAnalysis from './comperative-bar'
 import TopAdvertisersComparison from './top-advertisers-comparison'
 import TVChannelTreemap from './sectors-treemap'
-import SharedAdvertisers from './shared-advertizers'
-import UntappedLeads from './untapped-leads'
 import DailyAdsLineChart from './daily-ads-line-chart'
 import { Table, AlertTriangle } from 'lucide-react'
-// import { Button } from '@/components/ui/button'
-// import Link from 'next/link'
 
 const RadioDashboard = () => {
   return (
@@ -27,22 +23,12 @@ const RadioDashboard = () => {
     </p>
   </div>
 </div>
-      {/* <div className="flex justify-end">
-        <Link href="/dashboard/radio/broadcasters/weekly-analysis/table">
-          <Button variant="outline" className="flex items-center gap-2">
-            <Table className="w-4 h-4" />
-            See in Table View
-          </Button>
-        </Link>
-      </div> */}
       <StatCards />
       <RadioAdHeatmap />
       <RadioSectorAnalysis />
       <TVChannelTreemap />
       <DailyAdsLineChart />
       <TopAdvertisersComparison />
-      {/* <UntappedLeads /> */}
-      {/* <SharedAdvertisers /> */}
     </div>
   );
 }
