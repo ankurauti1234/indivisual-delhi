@@ -301,6 +301,30 @@ export const radio_broad_reports = [
     slug: "weekly-analysis",
   },
 
+    {
+    id: 4,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Patna",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-patna",
+  },
+
+    {
+    id: 5,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Fever",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-fever",
+  },
+
 ];
 
 export const radio_ads_reports = [
