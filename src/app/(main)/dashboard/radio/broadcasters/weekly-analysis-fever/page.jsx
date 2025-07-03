@@ -28,7 +28,7 @@ const RadioDashboard = () => {
       <RadioSectorAnalysis />
       <TVChannelTreemap />
       <DailyAdsLineChart />
-      <TopAdvertisersComparison />
+      {/* <TopAdvertisersComparison /> */}
     </div>
   );
 }
