@@ -20,22 +20,24 @@ import {
 } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
 import ChartCard from "@/components/card/charts-card";
-import { week19 } from "./top-ad-data";
+import { week19, week20 } from "./top-ad-data";
 
-const getTopAdvertisers = (week19Data) => {
+const getTopAdvertisers = (week19Data, week20Data) => {
   const combinedBrands = new Set();
   week19Data.forEach((item) => combinedBrands.add(item.Brand));
+  week20Data.forEach((item) => combinedBrands.add(item.Brand));
   return Array.from(combinedBrands);
 };
 
-const getUniqueSectors = (week19Data) => {
+const getUniqueSectors = (week19Data, week20Data) => {
   const combinedSectors = new Set();
   week19Data.forEach((item) => combinedSectors.add(item.Sector));
+  week20Data.forEach((item) => combinedSectors.add(item.Sector));
   return Array.from(combinedSectors);
 };
 
-const topAdvertisers = getTopAdvertisers(week19);
-const uniqueSectors = getUniqueSectors(week19);
+const topAdvertisers = getTopAdvertisers(week19, week20);
+const uniqueSectors = getUniqueSectors(week19, week20);
 
 const chartConfig = {
   radiocity: { label: "Radio City", color: "hsl(var(--chart-1))" },
@@ -85,10 +87,46 @@ const advertiserDataByWeek = {
       })),
     },
   },
+  week20: {
+    radiocity: {
+      name: "Radio City",
+      data: week20.map((item) => ({
+        advertiser: item.Brand,
+        spend: item["Radio City"] || 0,
+        sector: item.Sector,
+      })),
+    },
+    radiomirchi: {
+      name: "Radio Mirchi",
+      data: week20.map((item) => ({
+        advertiser: item.Brand,
+        spend: item["Radio Mirchi"] || 0,
+        sector: item.Sector,
+      })),
+    },
+    radioone: {
+      name: "Radio One",
+      data: week20.map((item) => ({
+        advertiser: item.Brand,
+        spend: item["Radio One"] || 0,
+        sector: item.Sector,
+      })),
+    },
+    redfm: {
+      name: "Red FM",
+      data: week20.map((item) => ({
+        advertiser: item.Brand,
+        spend: item["Red FM"] || 0,
+        sector: item.Sector,
+      })),
+    },
+  },
 };
 
 export default function TopAdvertisersComparison() {
-  const [selectedAdvertisers, setSelectedAdvertisers] = useState([topAdvertisers[0]]);
+  const [selectedAdvertisers, setSelectedAdvertisers] = useState([
+    topAdvertisers[0],
+  ]);
   const [selectedWeek, setSelectedWeek] = useState("week19");
   const [selectedSector, setSelectedSector] = useState("all");
   const [showTable, setShowTable] = useState(false);
@@ -100,18 +138,29 @@ export default function TopAdvertisersComparison() {
 
   const tableData = topAdvertisers
     .filter((adv) => {
-      const weekData = week19;
+      const weekData = selectedWeek === "week19" ? week19 : week20;
       const advertiserData = weekData.find((item) => item.Brand === adv);
-      const matchesSector = selectedSector === "all" || advertiserData?.Sector === selectedSector;
-      const matchesSearch = adv.toLowerCase().includes(searchTerm.toLowerCase());
+      const matchesSector =
+        selectedSector === "all" || advertiserData?.Sector === selectedSector;
+      const matchesSearch = adv
+        .toLowerCase()
+        .includes(searchTerm.toLowerCase());
       return matchesSector && matchesSearch;
     })
     .map((adv) => ({
       advertiser: adv,
-      radiocity: currentWeekData["radiocity"].data.find((d) => d.advertiser === adv)?.spend || 0,
-      radiomirchi: currentWeekData["radiomirchi"].data.find((d) => d.advertiser === adv)?.spend || 0,
-      radioone: currentWeekData["radioone"].data.find((d) => d.advertiser === adv)?.spend || 0,
-      redfm: currentWeekData["redfm"].data.find((d) => d.advertiser === adv)?.spend || 0,
+      radiocity:
+        currentWeekData["radiocity"].data.find((d) => d.advertiser === adv)
+          ?.spend || 0,
+      radiomirchi:
+        currentWeekData["radiomirchi"].data.find((d) => d.advertiser === adv)
+          ?.spend || 0,
+      radioone:
+        currentWeekData["radioone"].data.find((d) => d.advertiser === adv)
+          ?.spend || 0,
+      redfm:
+        currentWeekData["redfm"].data.find((d) => d.advertiser === adv)
+          ?.spend || 0,
     }));
 
   const totalItems = tableData.length;
@@ -159,7 +208,7 @@ export default function TopAdvertisersComparison() {
     <ChartCard
       icon={<BarChart2 className="w-6 h-6" />}
       title="Top Advertisers Comparison"
-      description={`Your Station vs. Competitors - Week 19 (May 7-14, 2025)`}
+      description={`Your Station vs. Competitors for Week ${selectedWeek === "week19" ? "19" : "20"}`}
       action={
         <div className="flex gap-2 items-center justify-end">
           <Select onValueChange={handleWeekSelectChange} value={selectedWeek}>
@@ -168,6 +217,7 @@ export default function TopAdvertisersComparison() {
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="week19">Week 19</SelectItem>
+              <SelectItem value="week20">Week 20</SelectItem>
             </SelectContent>
           </Select>
           <Select onValueChange={handleSectorSelectChange} defaultValue="all">
@@ -199,11 +249,14 @@ export default function TopAdvertisersComparison() {
               <SelectItem value="all">All Advertisers</SelectItem>
               {topAdvertisers
                 .filter((adv) => {
-                  const weekData = week19;
-                  const advertiserData = weekData.find((item) => item.Brand === adv);
+                  const weekData = selectedWeek === "week19" ? week19 : week20;
+                  const advertiserData = weekData.find(
+                    (item) => item.Brand === adv
+                  );
                   return (
                     adv.toLowerCase().includes(searchTerm.toLowerCase()) &&
-                    (selectedSector === "all" || advertiserData?.Sector === selectedSector)
+                    (selectedSector === "all" ||
+                      advertiserData?.Sector === selectedSector)
                   );
                 })
                 .map((adv) => (
@@ -244,7 +297,8 @@ export default function TopAdvertisersComparison() {
       footer={
         <div className="flex w-full justify-between items-center text-sm text-gray-500">
           <p>
-            Showing {paginatedData.length} of {totalItems} advertisers for Week 19
+            Showing {paginatedData.length} of {totalItems} advertisers for Week{" "}
+            {selectedWeek === "week19" ? "19" : "20"}
           </p>
           <div className="flex gap-2">
             <Button

@@ -2,7 +2,6 @@
 
 import { AlertCircle } from "lucide-react";
 import { useState } from "react";
-
 import {
   Select,
   SelectContent,
@@ -10,84 +9,143 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-
 import ChartCard from "@/components/card/charts-card";
 
-// New advertiser data for each station (Week 17: 16-04-2025 to 30-04-2025)
+// New advertiser data for each station
 const newAdvertiserData = {
-  clubfm: {
-    name: "Club FM",
-    advertisers: [
-      "AQUA STAR",
-      "BPL",
-      "Euro Guard",
-      "INTER SQUARE MALL",
-      "KCG COLLEGE OF TECHNOLOGY",
-      "KELVINATOR",
-      "MATHRUBHUMI BOOKS",
-      "NOLTA",
-      "RAJAGIRI HOSPITAL",
-      "SBI"
-    ]
+  week19: {
+    radiocity: { name: "Radio City", advertisers: [] },
+    radiomirchi: { name: "Radio Mirchi", advertisers: [] },
+    radioone: { name: "Radio One", advertisers: [] },
+    redfm: { name: "Red FM", advertisers: [] },
   },
-  mangofm: {
-    name: "Mango FM",
-    advertisers: [
-      "AQUA STAR",
-      "BPL",
-      "CENTER SQURE MALL",
-      "FUTUREACE HOSPITAL",
-      "KELVINATOR",
-      "MUTHOOT FINANCE",
-      "NISAU & EDROOTS",
-      "VANITHA JEWELLERY",
-      "WELCARE HOSPITAL"
-    ]
+  week20: {
+    radiocity: {
+      name: "Radio City",
+      advertisers: [
+        "ACE VERDE",
+        "ALLEN CAREER INSTITUTE",
+        "CAREER LAUNCHER",
+        "DO NOT DISTURB(DND)",
+        "ELECTRONIC MART JANAKPURI",
+        "ENDORSED ORTHODONTICS",
+        "GAUTAM BUDDHA UNIVERSITY(GBU)",
+        "GLA UNIVERSITY",
+        "GMADA",
+        "GO GREEN AND CLEAN BY POWERGRID",
+        "HEALTH MINISTRY OF INDIA",
+        "HSVP",
+        "I.T.S COLLEGE",
+        "JURASIK PARK",
+        "MAHINDRA",
+        "PUNJAB NATIONAL BANK",
+        "RATRA DENTAL CENTER",
+        "SAREGAMA",
+        "SBI",
+        "SHYAM BALRAM",
+        "SKODA",
+      ],
+    },
+    radiomirchi: {
+      name: "Radio Mirchi",
+      advertisers: [
+        "ACE VERDE",
+        "ALLEN CAREER INSTITUTE",
+        "BARBEQUE NATION",
+        "CARATLANE",
+        "CARRER LAUNCHER",
+        "CULT.FIT",
+        "DABUR",
+        "DAVA INDIA",
+        "DO NOT DISTURB(DND)",
+        "ELECTRONICS MART JANAKPURI",
+        "GARWARE",
+        "GLA UNIVERSITY",
+        "GOVERNMENT OF PUNJAB",
+        "HAMDARD ROOHAFZA",
+        "HARYANA SHEHRI VIKAS PRADHIKARAN",
+        "HITACHI",
+        "HOUSEFULL 5 (2025)",
+        "INDIAN SOCIETY FOR CLINICAL RESEARCH (ISCR)",
+        "JIOMART",
+        "JURASIK PARK INN",
+        "LODHA – GOLDEN TRIANGLE",
+        "NARAYANA HOSPITAL",
+        "SKODA",
+        "TATA MOTORS",
+        "V DOT",
+        "VI 5G MOBILE NETWORK",
+        "ZUNO HEALTH INSURANCE",
+      ],
+    },
+    radioone: {
+      name: "Radio One",
+      advertisers: [
+        "CULT.FIT",
+        "FRANCHISE INDIA EXPO 2025",
+        "HT MEDIA",
+        "LOUIS PHILIPPE",
+        "RADIO ONE",
+      ],
+    },
+    redfm: {
+      name: "Red FM",
+      advertisers: [
+        "ALLEN CAREER INSTITUTE",
+        "BASKIN-ROBBINS",
+        "BHARATI VIDYAPEETH DELHI",
+        "BRICK&BOLT",
+        "CRAFT HOMES",
+        "DELHI PUBLIC SCHOOL",
+        "DO NOT DISTURB(DND)",
+        "DR ACHAL GARAK",
+        "DR AJAY BHALLA",
+        "DR. LALIT SHARMA",
+        "DR. RAHUL",
+        "DR. SHARAD MALHOTRA",
+        "DR. ZUBIN DEV SHARMA",
+        "DR.ROHAN",
+        "ELECTRONICS MART JANAKPURI",
+        "GAUTAM BUDDHA UNIVERSITY(GBU)",
+        "HAMDARD ROOHAFZA",
+        "HARYANA SHEHRI VIKAS PRADHIKARAN",
+        "HITACHI",
+        "IILM UNIVERSITY",
+        "IPC INTERNATIONAL EDUCATION",
+        "LIC",
+        "LOUIS PHILIPPE-AMBIENCE MALL",
+        "MINISTRY OF EDUCATION",
+        "MUTUAL FUND",
+        "NIC",
+        "PANDIT JEWELS",
+        "PURAB PREMIUM APARTMENT-SECTOR 88-MOHALI",
+        "SAFAL STORE",
+        "SKODA",
+        "TIMEZONE",
+        "VI 5G MOBILE NETWORK",
+        "VIDYA MANDIR",
+      ],
+    },
   },
-  radiomirchi: {
-    name: "Radio Mirchi",
-    advertisers: [
-      "GOVT OF UTTARAKHAND",
-      "KELVINATOR",
-      "ORS",
-      "RAJAGIRI HOSPITAL",
-      "VETO",
-      "WHF"
-    ]
-  },
-  redfm: {
-    name: "Red FM",
-    advertisers: [
-      "AQUA STAR",
-      "BPL",
-      "CENTER SQURE MALL",
-      "FEDARAL BANK",
-      "KELVINATOR",
-      "NISAU & EDROOTS",
-      "PITTAPPILLIL AGENCIES",
-      "RAJAGIRI HOSPITAL",
-      "SURYA TV"
-    ]
-  }
 };
 
 // Available stations
 const stationOptions = [
-  { value: "clubfm", label: "Club FM" },
-  { value: "mangofm", label: "Mango FM" },
+  { value: "radiocity", label: "Radio City" },
   { value: "radiomirchi", label: "Radio Mirchi" },
-  { value: "redfm", label: "Red FM" }
+  { value: "radioone", label: "Radio One" },
+  { value: "redfm", label: "Red FM" },
 ];
 
 // Available weeks
 const weekOptions = [
-  { value: "week16", label: "Week 16" },
-  { value: "week17", label: "Week 17" }
+  { value: "week19", label: "Week 19 (May 7-14, 2025)" },
+  { value: "week20", label: "Week 20 (May 15-22, 2025)" },
 ];
 
 export default function NewAdvertisersAlerts() {
-  const [selectedStations, setSelectedStations] = useState(["clubfm"]);
-  const [selectedWeek, setSelectedWeek] = useState("week17");
+  const [selectedStations, setSelectedStations] = useState(["radiocity"]);
+  const [selectedWeek, setSelectedWeek] = useState("week20");
 
   // Handle station selection
   const handleStationChange = (station) => {
@@ -106,26 +164,28 @@ export default function NewAdvertisersAlerts() {
   };
 
   // Get data for selected stations
-  const selectedData = selectedWeek === "week17" 
-    ? selectedStations.map(station => ({
-        name: newAdvertiserData[station].name,
-        advertisers: newAdvertiserData[station].advertisers
+  const selectedData = newAdvertiserData[selectedWeek]
+    ? selectedStations.map((station) => ({
+        name: newAdvertiserData[selectedWeek][station].name,
+        advertisers: newAdvertiserData[selectedWeek][station].advertisers,
       }))
     : [];
 
   // Combine advertisers from all selected stations and remove duplicates
   const combinedAdvertisers = Array.from(
-    new Set(selectedData.flatMap(data => data.advertisers))
+    new Set(selectedData.flatMap((data) => data.advertisers))
   );
+
+  const weekLabel = selectedWeek === "week19" ? "19 (May 7-14, 2025)" : "20 (May 15-22, 2025)";
 
   return (
     <ChartCard
       icon={<AlertCircle className="w-6 h-6" />}
       title="New Advertiser Alerts"
-      description="Brands Recently Appearing on Competitors (16-04-2025 to 30-04-2025)"
+      description={`Brands Recently Appearing on Competitors - Week ${weekLabel}`}
       action={
         <div className="flex justify-end space-x-4">
-          <Select onValueChange={handleWeekChange} defaultValue="week17">
+          <Select onValueChange={handleWeekChange} value={selectedWeek}>
             <SelectTrigger className="w-32">
               <SelectValue placeholder="Select week" />
             </SelectTrigger>
@@ -161,9 +221,11 @@ export default function NewAdvertisersAlerts() {
       }
       chart={
         <div className="w-full">
-          {selectedWeek === "week16" ? (
+          {combinedAdvertisers.length === 0 ? (
             <div className="flex items-center justify-center h-48">
-              <p className="text-gray-500 text-lg">No previous week data available</p>
+              <p className="text-gray-500 text-lg">
+                No new advertiser data available for Week {weekLabel}
+              </p>
             </div>
           ) : (
             <div className="overflow-x-auto">
@@ -188,8 +250,8 @@ export default function NewAdvertisersAlerts() {
                       </td>
                       <td className="p-3 text-sm text-gray-600">
                         {selectedData
-                          .filter(data => data.advertisers.includes(advertiser))
-                          .map(data => data.name)
+                          .filter((data) => data.advertisers.includes(advertiser))
+                          .map((data) => data.name)
                           .join(", ")}
                       </td>
                     </tr>
@@ -201,9 +263,9 @@ export default function NewAdvertisersAlerts() {
         </div>
       }
       footer={
-        selectedWeek === "week16" ? null : (
+        combinedAdvertisers.length === 0 ? null : (
           <p className="text-sm text-gray-500">
-            Total: {combinedAdvertisers.length} new advertisers across {selectedStations.length} station(s)
+            Total: {combinedAdvertisers.length} new advertisers across {selectedStations.length} station(s) in Week {weekLabel}
           </p>
         )
       }

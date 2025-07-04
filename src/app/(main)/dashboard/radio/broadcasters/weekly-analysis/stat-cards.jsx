@@ -41,8 +41,36 @@ const StatCards = () => {
     ],
   };
 
-  // Select data (only one week available)
-  const currentData = week1Data;
+  // Data for Week 2 (May 15-22, 2025)
+  const week2Data = {
+    topAdvertisersByCount: [
+      { name: "ATLANTIC WATER WORLD", value: 1224 },
+      { name: "UNISON JEWELS", value: 805 },
+      { name: "SPINNY", value: 709 },
+      { name: "WORLDS OF WONDER (WOW)", value: 708 },
+    ],
+    topAdvertisersBySeconds: [
+      { name: "MARUTI SUZUKI", value: 16772.0 },
+      { name: "SBI", value: 11195.0 },
+      { name: "ATLANTIC WATER WORLD", value: 8837.0 },
+      { name: "HAMDARD", value: 8601.0 },
+    ],
+    topStationsByCount: [
+      { name: "Radio City", value: 9070 },
+      { name: "Radio Mirchi", value: 6499 },
+      { name: "Red FM", value: 6407 },
+      { name: "Radio One", value: 2396 },
+    ],
+    topStationsBySeconds: [
+      { name: "Radio City", value: 126206.0 },
+      { name: "Radio Mirchi", value: 120456.0 },
+      { name: "Red FM", value: 110210.0 },
+      { name: "Radio One", value: 45353.0 },
+    ],
+  };
+
+  // Select data based on selected week
+  const currentData = selectedWeek === "week_1" ? week1Data : week2Data;
 
   const sections = [
     {
@@ -81,6 +109,7 @@ const StatCards = () => {
 
   const weeks = [
     { value: "week_1", label: "Week 19 (May 7-14, 2025)" },
+    { value: "week_2", label: "Week 20 (May 15-22, 2025)" },
   ];
 
   const renderTrend = (trend, isPositive) => {

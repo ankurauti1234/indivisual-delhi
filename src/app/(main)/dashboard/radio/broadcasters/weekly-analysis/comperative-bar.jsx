@@ -18,159 +18,303 @@ import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 
 const RadioCitySectorData = [
   {
-    "week": "week_1",
-    "seconds": {
-      "EDUCATION": 19335,
-      "ENTERTAINMENT": 16943,
-      "HEALTHCARE": 15783,
-      "FMCG": 13866,
-      "AUTOMOBILE": 12155,
-      "FINANCE": 9052,
+    week: "week_1",
+    seconds: {
+      EDUCATION: 19335,
+      ENTERTAINMENT: 16943,
+      HEALTHCARE: 15783,
+      FMCG: 13866,
+      AUTOMOBILE: 12155,
+      FINANCE: 9052,
       "CONSUMER DURABLES": 7112,
-      "ACCESSORIES": 6442,
-      "PROPERTY": 3172,
-      "EVENTS": 2807,
+      ACCESSORIES: 6442,
+      PROPERTY: 3172,
+      EVENTS: 2807,
       "TEXTILES&APPARELS": 740,
       "PUBLIC INTEREST": 669,
-      "TRAVEL&TOURISM": 300
+      "TRAVEL&TOURISM": 300,
     },
-    "plays": {
-      "EDUCATION": 1094,
-      "ENTERTAINMENT": 1509,
-      "HEALTHCARE": 620,
-      "FMCG": 975,
-      "AUTOMOBILE": 799,
-      "FINANCE": 547,
+    plays: {
+      EDUCATION: 1094,
+      ENTERTAINMENT: 1509,
+      HEALTHCARE: 620,
+      FMCG: 975,
+      AUTOMOBILE: 799,
+      FINANCE: 547,
       "CONSUMER DURABLES": 501,
-      "ACCESSORIES": 573,
-      "PROPERTY": 350,
-      "EVENTS": 104,
+      ACCESSORIES: 573,
+      PROPERTY: 350,
+      EVENTS: 104,
       "TEXTILES&APPARELS": 148,
       "PUBLIC INTEREST": 42,
-      "TRAVEL&TOURISM": 20
-    }
-  }
-]
+      "TRAVEL&TOURISM": 20,
+    },
+  },
+  {
+    week: "week_2",
+    seconds: {
+      ENTERTAINMENT: 29757,
+      EDUCATION: 19871,
+      AUTOMOBILE: 14680,
+      FMCG: 12358,
+      FINANCE: 10655,
+      PROPERTY: 9792,
+      HEALTHCARE: 8408,
+      "CONSUMER DURABLES": 8158,
+      ACCESSORIES: 6787,
+      "PUBLIC INTEREST": 4266,
+      "TEXTILES&APPARELS": 1129,
+      "TRAVEL&TOURISM": 345,
+    },
+    plays: {
+      ENTERTAINMENT: 2368,
+      EDUCATION: 1082,
+      AUTOMOBILE: 1063,
+      FMCG: 900,
+      FINANCE: 698,
+      PROPERTY: 821,
+      HEALTHCARE: 434,
+      "CONSUMER DURABLES": 614,
+      ACCESSORIES: 679,
+      "PUBLIC INTEREST": 162,
+      "TEXTILES&APPARELS": 226,
+      "TRAVEL&TOURISM": 23,
+    },
+  },
+];
 
 const RedFMSectorData = [
   {
-    "week": "week_1",
-    "seconds": {
-      "EDUCATION": 18979,
-      "AUTOMOBILE": 15476,
-      "FINANCE": 14891,
-      "PROPERTY": 10059,
-      "FMCG": 9387,
-      "HEALTHCARE": 9106,
+    week: "week_1",
+    seconds: {
+      EDUCATION: 18979,
+      AUTOMOBILE: 15476,
+      FINANCE: 14891,
+      PROPERTY: 10059,
+      FMCG: 9387,
+      HEALTHCARE: 9106,
       "CONSUMER DURABLES": 8700,
-      "ENTERTAINMENT": 7208,
-      "ACCESSORIES": 5830,
+      ENTERTAINMENT: 7208,
+      ACCESSORIES: 5830,
       "PUBLIC INTEREST": 3585,
       "HOME FURNISHING": 3025,
       "TEXTILES&APPARELS": 920,
       "PETROLEUM PRODUCTS": 270,
-      "AGRICULTURE": 18
+      AGRICULTURE: 18,
     },
-    "plays": {
-      "EDUCATION": 1133,
-      "AUTOMOBILE": 795,
-      "FINANCE": 718,
-      "PROPERTY": 642,
-      "FMCG": 569,
-      "HEALTHCARE": 364,
+    plays: {
+      EDUCATION: 1133,
+      AUTOMOBILE: 795,
+      FINANCE: 718,
+      PROPERTY: 642,
+      FMCG: 569,
+      HEALTHCARE: 364,
       "CONSUMER DURABLES": 450,
-      "ENTERTAINMENT": 441,
-      "ACCESSORIES": 501,
+      ENTERTAINMENT: 441,
+      ACCESSORIES: 501,
       "PUBLIC INTEREST": 120,
       "HOME FURNISHING": 166,
       "TEXTILES&APPARELS": 46,
       "PETROLEUM PRODUCTS": 18,
-      "AGRICULTURE": 2
-    }
-  }
-]
+      AGRICULTURE: 2,
+    },
+  },
+  {
+    week: "week_2",
+    seconds: {
+      AUTOMOBILE: 18195,
+      EDUCATION: 17806,
+      FINANCE: 16049,
+      PROPERTY: 13176,
+      FMCG: 11597,
+      HEALTHCARE: 6923,
+      ACCESSORIES: 4875,
+      "PUBLIC INTEREST": 4800,
+      ENTERTAINMENT: 3676,
+      "CONSUMER DURABLES": 2975,
+      "HOME FURNISHING": 2540,
+      RETAIL: 2360,
+      "PETROLEUM PRODUCTS": 2040,
+      TELECOMMUNICATIONS: 1780,
+      "TEXTILES&APPARELS": 1260,
+      "PUBLIC\u00a0INTEREST": 158,
+    },
+    plays: {
+      AUTOMOBILE: 969,
+      EDUCATION: 950,
+      FINANCE: 892,
+      PROPERTY: 961,
+      FMCG: 760,
+      HEALTHCARE: 278,
+      ACCESSORIES: 457,
+      "PUBLIC INTEREST": 156,
+      ENTERTAINMENT: 282,
+      "CONSUMER DURABLES": 158,
+      "HOME FURNISHING": 134,
+      RETAIL: 118,
+      "PETROLEUM PRODUCTS": 136,
+      TELECOMMUNICATIONS: 89,
+      "TEXTILES&APPARELS": 63,
+      "PUBLIC\u00a0INTEREST": 4,
+    },
+  },
+];
 
 const RadioOneSectorData = [
   {
-    "week": "week_1",
-    "seconds": {
-      "ENTERTAINMENT": 8419,
-      "FINANCE": 6709,
-      "FMCG": 6269,
-      "AUTOMOBILE": 4863,
-      "HEALTHCARE": 3240,
+    week: "week_1",
+    seconds: {
+      ENTERTAINMENT: 8419,
+      FINANCE: 6709,
+      FMCG: 6269,
+      AUTOMOBILE: 4863,
+      HEALTHCARE: 3240,
       "TRAVEL&TOURISM": 2681,
       "CONSUMER DURABLES": 2515,
       "PUBLIC INTEREST": 1941,
-      "EVENTS": 1848,
-      "PROPERTY": 1629,
+      EVENTS: 1848,
+      PROPERTY: 1629,
       "E-COMMERCE": 975,
-      "EDUCATION": 660,
-      "RETAIL": 180
+      EDUCATION: 660,
+      RETAIL: 180,
     },
-    "plays": {
-      "ENTERTAINMENT": 211,
-      "FINANCE": 338,
-      "FMCG": 638,
-      "AUTOMOBILE": 265,
-      "HEALTHCARE": 108,
+    plays: {
+      ENTERTAINMENT: 211,
+      FINANCE: 338,
+      FMCG: 638,
+      AUTOMOBILE: 265,
+      HEALTHCARE: 108,
       "TRAVEL&TOURISM": 78,
       "CONSUMER DURABLES": 124,
       "PUBLIC INTEREST": 74,
-      "EVENTS": 168,
-      "PROPERTY": 166,
+      EVENTS: 168,
+      PROPERTY: 166,
       "E-COMMERCE": 14,
-      "EDUCATION": 44,
-      "RETAIL": 9
-    }
-  }
-]
+      EDUCATION: 44,
+      RETAIL: 9,
+    },
+  },
+  {
+    week: "week_2",
+    seconds: {
+      ENTERTAINMENT: 14415,
+      FMCG: 6554,
+      "TRAVEL&TOURISM": 5145,
+      FINANCE: 4957,
+      AUTOMOBILE: 4800,
+      "CONSUMER DURABLES": 2064,
+      "HEALTH&FITNESS": 2027,
+      PROPERTY: 1930,
+      "PUBLIC INTEREST": 1413,
+      "TEXTILES&APPARELS": 980,
+      EDUCATION: 705,
+      EVENTS: 363,
+    },
+    plays: {
+      ENTERTAINMENT: 407,
+      FMCG: 683,
+      "TRAVEL&TOURISM": 82,
+      FINANCE: 342,
+      AUTOMOBILE: 273,
+      "CONSUMER DURABLES": 101,
+      "HEALTH&FITNESS": 132,
+      PROPERTY: 193,
+      "PUBLIC INTEREST": 54,
+      "TEXTILES&APPARELS": 49,
+      EDUCATION: 47,
+      EVENTS: 33,
+    },
+  },
+];
 
 const RadioMirchiSectorData = [
   {
-    "week": "week_1",
-    "seconds": {
-      "AUTOMOBILE": 21906,
-      "EDUCATION": 18770,
-      "FMCG": 16149,
+    week: "week_1",
+    seconds: {
+      AUTOMOBILE: 21906,
+      EDUCATION: 18770,
+      FMCG: 16149,
       "CONSUMER DURABLES": 10451,
-      "FINANCE": 10402,
-      "HEALTHCARE": 8191,
-      "PROPERTY": 7829,
-      "ENTERTAINMENT": 4180,
+      FINANCE: 10402,
+      HEALTHCARE: 8191,
+      PROPERTY: 7829,
+      ENTERTAINMENT: 4180,
       "PUBLIC INTEREST": 3404,
       "HOME FURNISHING": 2174,
-      "ACCESSORIES": 2020,
-      "EVENTS": 1680,
+      ACCESSORIES: 2020,
+      EVENTS: 1680,
       "E-COMMERCE": 1525,
-      "TECHNOLOGY": 780,
+      TECHNOLOGY: 780,
       "PERSONAL CARE": 775,
       "TEXTILES&APPARELS": 360,
       "PETROLEUM PRODUCTS": 270,
-      "BUSINESS": 90
+      BUSINESS: 90,
     },
-    "plays": {
-      "AUTOMOBILE": 1080,
-      "EDUCATION": 1075,
-      "FMCG": 964,
+    plays: {
+      AUTOMOBILE: 1080,
+      EDUCATION: 1075,
+      FMCG: 964,
       "CONSUMER DURABLES": 571,
-      "FINANCE": 416,
-      "HEALTHCARE": 380,
-      "PROPERTY": 500,
-      "ENTERTAINMENT": 627,
+      FINANCE: 416,
+      HEALTHCARE: 380,
+      PROPERTY: 500,
+      ENTERTAINMENT: 627,
       "PUBLIC INTEREST": 162,
       "HOME FURNISHING": 116,
-      "ACCESSORIES": 101,
-      "EVENTS": 112,
+      ACCESSORIES: 101,
+      EVENTS: 112,
       "E-COMMERCE": 99,
-      "TECHNOLOGY": 77,
+      TECHNOLOGY: 77,
       "PERSONAL CARE": 31,
       "TEXTILES&APPARELS": 18,
       "PETROLEUM PRODUCTS": 18,
-      "BUSINESS": 6
-    }
-  }
-]
+      BUSINESS: 6,
+    },
+  },
+  {
+    week: "week_2",
+    seconds: {
+      AUTOMOBILE: 27302,
+      FMCG: 13562,
+      PROPERTY: 11462,
+      FINANCE: 10993,
+      EDUCATION: 10156,
+      HEALTHCARE: 8418,
+      "CONSUMER DURABLES": 8265,
+      ENTERTAINMENT: 7238,
+      "PUBLIC INTEREST": 6412,
+      "PERSONAL CARE": 3425,
+      "E-COMMERCE": 2880,
+      "HEALTH&FITNESS": 2385,
+      TELECOMMUNICATIONS: 1822,
+      ACCESSORIES: 1635,
+      "HOME FURNISHING": 1380,
+      "TEXTILES&APPARELS": 1336,
+      "PETROLEUM PRODUCTS": 1095,
+      TECHNOLOGY: 690,
+    },
+    plays: {
+      AUTOMOBILE: 1310,
+      FMCG: 775,
+      PROPERTY: 568,
+      FINANCE: 456,
+      EDUCATION: 540,
+      HEALTHCARE: 434,
+      "CONSUMER DURABLES": 422,
+      ENTERTAINMENT: 861,
+      "PUBLIC INTEREST": 206,
+      "PERSONAL CARE": 137,
+      "E-COMMERCE": 158,
+      "HEALTH&FITNESS": 159,
+      TELECOMMUNICATIONS: 95,
+      ACCESSORIES: 94,
+      "HOME FURNISHING": 69,
+      "TEXTILES&APPARELS": 74,
+      "PETROLEUM PRODUCTS": 73,
+      TECHNOLOGY: 68,
+    },
+  },
+];
 
 const RadioSectorAnalysis = () => {
   const [selectedWeeks, setSelectedWeeks] = useState(["week_1"]);
@@ -203,7 +347,16 @@ const RadioSectorAnalysis = () => {
   };
 
   const weeks = [
-    { value: "week_1", label: "Week 19 (May 7-14, 2025)", shortLabel: "Week 19" },
+    {
+      value: "week_1",
+      label: "Week 19 (May 7-13, 2025)",
+      shortLabel: "Week 19",
+    },
+        {
+      value: "week_2",
+      label: "Week 20 (May 14-20, 2025)",
+      shortLabel: "Week 12",
+    },
   ];
 
   const stations = [
@@ -265,8 +418,10 @@ const RadioSectorAnalysis = () => {
   const filteredData = useMemo(() => {
     const isAllSelected = selectedStations.includes("all");
     return flattenedData
-      .filter((stationData) =>
-        isAllSelected || selectedStations.includes(stationData.station.toLowerCase())
+      .filter(
+        (stationData) =>
+          isAllSelected ||
+          selectedStations.includes(stationData.station.toLowerCase())
       )
       .map((stationData) => ({
         station: stationData.station,
@@ -295,7 +450,9 @@ const RadioSectorAnalysis = () => {
     if (selected.length === 0) return "Select stations";
     if (selected.includes("all")) return "All Stations";
     return selected
-      .map((station) => stations.find((s) => s.value === station)?.label || station)
+      .map(
+        (station) => stations.find((s) => s.value === station)?.label || station
+      )
       .join(", ");
   };
 
@@ -354,7 +511,9 @@ const RadioSectorAnalysis = () => {
               <div className="flex gap-2 flex-wrap">
                 <Select value="" onValueChange={handleWeekSelection}>
                   <SelectTrigger className="w-40 bg-popover shadow-sm border-border rounded-md">
-                    <SelectValue placeholder={formatSelectedWeeks(selectedWeeks)} />
+                    <SelectValue
+                      placeholder={formatSelectedWeeks(selectedWeeks)}
+                    />
                   </SelectTrigger>
                   <SelectContent className="rounded-md shadow-lg bg-popover">
                     {weeks.map((week) => (
@@ -376,7 +535,9 @@ const RadioSectorAnalysis = () => {
                 </Select>
                 <Select value="" onValueChange={handleStationSelection}>
                   <SelectTrigger className="w-48 bg-popover shadow-sm border-border rounded-md">
-                    <SelectValue placeholder={formatSelectedStations(selectedStations)} />
+                    <SelectValue
+                      placeholder={formatSelectedStations(selectedStations)}
+                    />
                   </SelectTrigger>
                   <SelectContent className="rounded-md shadow-lg bg-popover">
                     {stations.map((station) => (
@@ -453,21 +614,27 @@ const RadioSectorAnalysis = () => {
                   <div className="text-sm font-semibold text-foreground">
                     {station.station}
                   </div>
-                  <div className="text-xs text-muted-foreground mt-1">{station.region}</div>
-                  <div className="text-xs text-muted-foreground">{station.language}</div>
+                  <div className="text-xs text-muted-foreground mt-1">
+                    {station.region}
+                  </div>
+                  <div className="text-xs text-muted-foreground">
+                    {station.language}
+                  </div>
                 </div>
                 <div className="flex-1">
                   <div className="space-y-4">
                     {station.weeklyData.map((weekData) => {
-                      const totalWeekValue = Object.values(weekData.sectors).reduce(
-                        (sum, value) => sum + (value || 0),
-                        0
-                      );
+                      const totalWeekValue = Object.values(
+                        weekData.sectors
+                      ).reduce((sum, value) => sum + (value || 0), 0);
                       if (totalWeekValue === 0) {
                         return (
                           <div key={weekData.week} className="relative">
                             <div className="text-md font-medium text-foreground mb-2">
-                              {weeks.find((w) => w.value === weekData.week)?.label}
+                              {
+                                weeks.find((w) => w.value === weekData.week)
+                                  ?.label
+                              }
                             </div>
                             <div className="text-md text-muted-foreground">
                               No data available
@@ -479,7 +646,10 @@ const RadioSectorAnalysis = () => {
                         <div key={weekData.week} className="relative">
                           <div className="flex justify-between items-center mb-2">
                             <div className="text-md font-medium text-foreground">
-                              {weeks.find((w) => w.value === weekData.week)?.label}
+                              {
+                                weeks.find((w) => w.value === weekData.week)
+                                  ?.label
+                              }
                             </div>
                             <div className="text-md font-semibold text-foreground">
                               Total: {formatValue(totalWeekValue)}
@@ -495,17 +665,24 @@ const RadioSectorAnalysis = () => {
                                 .filter(([, value]) => value > 0)
                                 .sort(([, a], [, b]) => b - a)
                                 .map(([sectorKey, value]) => {
-                                  const barWidth = (value / totalWeekValue) * 100;
-                                  const percentage = ((value / totalWeekValue) * 100).toFixed(1);
+                                  const barWidth =
+                                    (value / totalWeekValue) * 100;
+                                  const percentage = (
+                                    (value / totalWeekValue) *
+                                    100
+                                  ).toFixed(1);
                                   const isHighlighted =
-                                    highlightedSector === null || highlightedSector === sectorKey;
+                                    highlightedSector === null ||
+                                    highlightedSector === sectorKey;
                                   return (
                                     <div
                                       key={sectorKey}
                                       className="h-full flex items-center justify-center group transition-all duration-200 hover:scale-105"
                                       style={{
                                         width: `${barWidth}%`,
-                                        backgroundColor: sectors[sectorKey]?.color || "#CCCCCC",
+                                        backgroundColor:
+                                          sectors[sectorKey]?.color ||
+                                          "#CCCCCC",
                                         minWidth: value > 0 ? "24px" : "0px",
                                         opacity: isHighlighted ? 1 : 0.1,
                                         transformOrigin: "center",
@@ -518,7 +695,8 @@ const RadioSectorAnalysis = () => {
                                         {formatValue(value)}
                                       </div>
                                       <div className="absolute -top-10 left-1/2 transform -translate-x-1/2 px-2.5 py-1 bg-background text-foreground text-md rounded-md shadow-lg opacity-0 group-hover:opacity-100 transition-all duration-200 pointer-events-none z-10">
-                                        {sectors[sectorKey]?.name || sectorKey}: {formatValue(value)} ({percentage}%)
+                                        {sectors[sectorKey]?.name || sectorKey}:{" "}
+                                        {formatValue(value)} ({percentage}%)
                                       </div>
                                     </div>
                                   );

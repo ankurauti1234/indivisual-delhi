@@ -27,7 +27,7 @@ const TVChannelTreemap = () => {
   const [hoveredItem, setHoveredItem] = useState(null);
   const [dataType, setDataType] = useState("plays"); // Toggle between "plays" and "seconds"
 
-  const weeks = ["week19"];
+  const weeks = ["week19", "week20"];
   const stations = ["Radio City", "Radio Mirchi", "Red FM", "Radio One"];
 
   const getCurrentLevel = () => {
@@ -38,7 +38,7 @@ const TVChannelTreemap = () => {
   };
 
   const getTitle = () => {
-    const weekDisplay = selectedWeek ===  "week19" ? "Week 19" : "Week 19";
+    const weekDisplay = selectedWeek ===  "week19" ? "Week 19" : "Week 20";
     const metric = dataType === "plays" ? "Plays" : "Seconds";
     if (selectedBrand) {
       return `${selectedBrand} Products ${metric} (${weekDisplay} - ${selectedStation})`;
@@ -232,7 +232,7 @@ const TVChannelTreemap = () => {
             >
               {weeks.map((week) => (
                 <option key={week} value={week}>
-                  {week ===  "week19" ? "Week 19" : "Week 19"}
+                  {week ===  "week19" ? "Week 19" : "Week 20"}
                 </option>
               ))}
             </select>

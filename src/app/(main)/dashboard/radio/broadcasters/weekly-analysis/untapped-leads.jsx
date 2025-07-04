@@ -10,16 +10,17 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import ChartCard from "@/components/card/charts-card";
-import { week19 } from "./top-ad-data";
+import { week19, week20 } from "./top-ad-data";
 import { Button } from "@/components/ui/button";
 
-const getUniqueSectors = (week19Data) => {
+const getUniqueSectors = (week19Data, week20Data) => {
   const combinedSectors = new Set();
   week19Data.forEach((item) => combinedSectors.add(item.Sector));
+  week20Data.forEach((item) => combinedSectors.add(item.Sector));
   return Array.from(combinedSectors);
 };
 
-const uniqueSectors = getUniqueSectors(week19);
+const uniqueSectors = getUniqueSectors(week19, week20);
 
 const stationDataByWeek = {
   week19: {
@@ -56,6 +57,40 @@ const stationDataByWeek = {
       })).filter((item) => item.ads > 0),
     },
   },
+  week20: {
+    radiocity: {
+      name: "Radio City",
+      advertisers: week20.map((item) => ({
+        brand: item.Brand,
+        ads: item["Radio City"] || 0,
+        sector: item.Sector,
+      })).filter((item) => item.ads > 0),
+    },
+    radiomirchi: {
+      name: "Radio Mirchi",
+      advertisers: week20.map((item) => ({
+        brand: item.Brand,
+        ads: item["Radio Mirchi"] || 0,
+        sector: item.Sector,
+      })).filter((item) => item.ads > 0),
+    },
+    radioone: {
+      name: "Radio One",
+      advertisers: week20.map((item) => ({
+        brand: item.Brand,
+        ads: item["Radio One"] || 0,
+        sector: item.Sector,
+      })).filter((item) => item.ads > 0),
+    },
+    redfm: {
+      name: "Red FM",
+      advertisers: week20.map((item) => ({
+        brand: item.Brand,
+        ads: item["Red FM"] || 0,
+        sector: item.Sector,
+      })).filter((item) => item.ads > 0),
+    },
+  },
 };
 
 const stationOptions = [
@@ -83,8 +118,10 @@ export default function UntappedLeads() {
     Object.keys(currentWeekData).forEach((station) => {
       if (station !== selectedStation) {
         currentWeekData[station].advertisers.forEach((advertiser) => {
-          if (!selectedStationAdvertisers.has(advertiser.brand) &&
-              (selectedSector === "all" || advertiser.sector === selectedSector)) {
+          if (
+            !selectedStationAdvertisers.has(advertiser.brand) &&
+            (selectedSector === "all" || advertiser.sector === selectedSector)
+          ) {
             const existingLead = untappedLeads.find(
               (lead) => lead.brand === advertiser.brand
             );
@@ -139,11 +176,13 @@ export default function UntappedLeads() {
     setCurrentPage(page);
   };
 
+  const weekLabel = selectedWeek === "week19" ? "19 (May 7-14, 2025)" : "20 (May 15-22, 2025)";
+
   return (
     <ChartCard
       icon={<Target className="w-6 h-6" />}
       title="Competitor Advertisers NOT on Your Station"
-      description={`Untapped Leads Advertising on Competitors - Week 19 (May 7-14, 2025)`}
+      description={`Untapped Leads Advertising on Competitors - Week ${weekLabel}`}
       action={
         <div className="flex justify-end gap-2">
           <Select onValueChange={handleWeekChange} value={selectedWeek}>
@@ -152,6 +191,7 @@ export default function UntappedLeads() {
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="week19">Week 19</SelectItem>
+              <SelectItem value="week20">Week 20</SelectItem>
             </SelectContent>
           </Select>
           <Select onValueChange={handleSectorChange} defaultValue="all">
@@ -209,7 +249,7 @@ export default function UntappedLeads() {
               ) : (
                 <tr>
                   <td colSpan={4} className="px-6 py-4 text-center text-gray-400">
-                    No untapped leads found for {currentWeekData[selectedStation].name} in Week 19.
+                    No untapped leads found for {currentWeekData[selectedStation].name} in Week {weekLabel}.
                   </td>
                 </tr>
               )}
@@ -220,7 +260,7 @@ export default function UntappedLeads() {
       footer={
         <div className="flex w-full justify-between items-center text-sm text-gray-500">
           <p>
-            Showing {paginatedLeads.length} of {totalItems} untapped leads not advertising on {currentWeekData[selectedStation].name} in Week 19
+            Showing {paginatedLeads.length} of {totalItems} untapped leads not advertising on {currentWeekData[selectedStation].name} in Week {weekLabel}
           </p>
           {totalItems > itemsPerPage && (
             <div className="flex gap-2">

@@ -18,9 +18,9 @@ import {
 } from "@/components/ui/chart";
 import ChartCard from "@/components/card/charts-card";
 import { Checkbox } from "@/components/ui/checkbox";
-import { week19 } from "./top-ad-data";
+import { week19, week20 } from "./top-ad-data";
 
-// Derive shared advertiser data from week19
+// Derive shared advertiser data from week data
 const deriveSharedAdvertiserData = (weekData) => {
   const brands = new Set(weekData.map((item) => item.Brand));
   const sharedData = {};
@@ -62,13 +62,19 @@ const deriveSharedAdvertiserData = (weekData) => {
   return sharedData;
 };
 
-// Prepare shared advertiser data
+// Prepare shared advertiser data for both weeks
 const sharedAdvertiserData = {
   week19: deriveSharedAdvertiserData(week19),
+  week20: deriveSharedAdvertiserData(week20),
 };
 
-// List of major advertisers (brands advertising on at least two stations)
-const majorAdvertisers = Object.keys(sharedAdvertiserData.week19);
+// List of major advertisers (brands advertising on at least two stations across either week)
+const majorAdvertisers = Array.from(
+  new Set([
+    ...Object.keys(sharedAdvertiserData.week19),
+    ...Object.keys(sharedAdvertiserData.week20),
+  ])
+);
 
 // Chart configuration with distinct colors for each station
 const chartConfig = {
@@ -88,12 +94,13 @@ export default function SharedAdvertisers() {
     .map((adv) => ({
       advertiser: adv,
       ...Object.fromEntries(
-        sharedAdvertiserData[selectedWeek][adv].data.map((d) => [
+        sharedAdvertiserData[selectedWeek][adv]?.data?.map((d) => [
           d.station.toLowerCase().replace(" ", ""),
           d.percentage,
-        ])
+        ]) || []
       ),
-    }));
+    }))
+    .filter((data) => Object.keys(data).length > 1); // Ensure only valid data is included
 
   const formatPercentage = (value) => {
     return value > 0 ? `${value}%` : null; // Return null for 0% to hide label
@@ -127,23 +134,26 @@ export default function SharedAdvertisers() {
   // Truncate and format Y-axis labels
   const truncateLabel = (value) => {
     const maxLength = 15; // Adjust as needed
-    const label = sharedAdvertiserData[selectedWeek][value].name;
+    const label = sharedAdvertiserData[selectedWeek][value]?.name || value;
     return label.length > maxLength ? `${label.substring(0, maxLength)}...` : label;
   };
+
+  const weekLabel = selectedWeek === "week19" ? "19 (May 7-14, 2025)" : "20 (May 15-22, 2025)";
 
   return (
     <ChartCard
       icon={<Users className="w-6 h-6" />}
       title="Shared Advertisers"
-      description="Advertisers Running Spots Across Multiple Stations - Week 19 (May 7-14, 2025)"
+      description={`Advertisers Running Spots Across Multiple Stations - Week ${weekLabel}`}
       action={
         <div className="flex justify-end space-x-4">
-          <Select onValueChange={handleWeekChange} value="week19">
+          <Select onValueChange={handleWeekChange} value={selectedWeek}>
             <SelectTrigger className="w-32">
               <SelectValue placeholder="Select week" />
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="week19">Week 19</SelectItem>
+              <SelectItem value="week20">Week 20</SelectItem>
             </SelectContent>
           </Select>
           <Select value="">
@@ -181,7 +191,7 @@ export default function SharedAdvertisers() {
                     id={adv}
                   />
                   <label htmlFor={adv} className="ml-2 text-sm">
-                    {sharedAdvertiserData[selectedWeek][adv].name}
+                    {sharedAdvertiserData[selectedWeek][adv]?.name || adv}
                   </label>
                 </div>
               ))}
@@ -309,9 +319,9 @@ export default function SharedAdvertisers() {
             : selectedAdvertisers.length === 0
             ? "no advertisers"
             : selectedAdvertisers
-                .map((a) => sharedAdvertiserData[selectedWeek][a].name)
+                .map((a) => sharedAdvertiserData[selectedWeek][a]?.name || a)
                 .join(", ")}{" "}
-          in Week 19
+          in Week {weekLabel}
         </p>
       }
     />

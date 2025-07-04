@@ -46,7 +46,7 @@ const RadioAdHeatmap = () => {
 
   const dates = [];
   const startDate = new Date("2025-05-07");
-  const endDate = new Date("2025-05-14");
+  const endDate = new Date("2025-05-20");
   for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
     dates.push({
       value: d.toISOString().split("T")[0],
