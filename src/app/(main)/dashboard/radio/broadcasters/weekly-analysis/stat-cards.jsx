@@ -108,8 +108,8 @@ const StatCards = () => {
   ];
 
   const weeks = [
-    { value: "week_1", label: "Week 19 (May 7-14, 2025)" },
-    { value: "week_2", label: "Week 20 (May 15-22, 2025)" },
+    { value: "week_1", label: "Week 19 (May 7-13, 2025)" },
+    { value: "week_2", label: "Week 20 (May 13-20, 2025)" },
   ];
 
   const renderTrend = (trend, isPositive) => {
