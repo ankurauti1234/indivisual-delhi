@@ -39,7 +39,7 @@ const ExportDialog = ({ selectedDate, epgData, availableData }) => {
 
   // Available regions and stations for report mode
   const regions = ["Delhi"];
-  const reportStations = ["radio-mirchi", "radio-city", "radio-one", "red-fm"];
+  const reportStations = ["radio-mirchi", "radio-city", "radio-one", "red-fm","fever-fm"];
 
   // Available stations for EPG export based on selected date
   const availableStations = Object.keys(availableData).filter((station) =>
