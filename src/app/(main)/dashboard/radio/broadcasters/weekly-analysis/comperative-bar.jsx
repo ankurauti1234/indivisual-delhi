@@ -322,29 +322,31 @@ const RadioSectorAnalysis = () => {
   const [dataType, setDataType] = useState("seconds");
   const [highlightedSector, setHighlightedSector] = useState(null);
 
-  const sectors = {
-    ACCESSORIES: { name: "Accessories", color: "#34D399" },
-    AGRICULTURE: { name: "Agriculture", color: "#60A5FA" },
-    AUTOMOBILE: { name: "Automobile", color: "#F472B6" },
-    BUSINESS: { name: "Business", color: "#A78BFA" },
-    "CONSUMER DURABLES": { name: "Consumer Durables", color: "#3B82F6" },
-    "E-COMMERCE": { name: "E-Commerce", color: "#EC4899" },
-    EDUCATION: { name: "Education", color: "#4ADE80" },
-    ENTERTAINMENT: { name: "Entertainment", color: "#F87171" },
-    EVENTS: { name: "Events", color: "#FB923C" },
-    FINANCE: { name: "Finance", color: "#60A5FA" },
-    FMCG: { name: "FMCG", color: "#A78BFA" },
-    HEALTHCARE: { name: "Healthcare", color: "#10B981" },
-    "HOME FURNISHING": { name: "Home Furnishing", color: "#E879F9" },
-    "PERSONAL CARE": { name: "Personal Care", color: "#F87171" },
-    "PETROLEUM PRODUCTS": { name: "Petroleum Products", color: "#6EE7B7" },
-    PROPERTY: { name: "Property", color: "#FBBF24" },
-    "PUBLIC INTEREST": { name: "Public Interest", color: "#93C5FD" },
-    RETAIL: { name: "Retail", color: "#FCA5A5" },
-    TECHNOLOGY: { name: "Technology", color: "#818CF8" },
-    "TEXTILES&APPARELS": { name: "Textiles & Apparels", color: "#F472B6" },
-    "TRAVEL&TOURISM": { name: "Travel & Tourism", color: "#FDBA74" },
-  };
+const sectors = {
+  ACCESSORIES: { name: "Accessories", color: "#34D399" },
+  AGRICULTURE: { name: "Agriculture", color: "#60A5FA" },
+  AUTOMOBILE: { name: "Automobile", color: "#F472B6" },
+  BUSINESS: { name: "Business", color: "#A78BFA" },
+  "CONSUMER DURABLES": { name: "Consumer Durables", color: "#3B82F6" },
+  "E-COMMERCE": { name: "E-Commerce", color: "#EC4899" },
+  EDUCATION: { name: "Education", color: "#4ADE80" },
+  ENTERTAINMENT: { name: "Entertainment", color: "#F87171" },
+  EVENTS: { name: "Events", color: "#FB923C" },
+  FINANCE: { name: "Finance", color: "#60A5FA" },
+  FMCG: { name: "FMCG", color: "#A78BFA" },
+  HEALTHCARE: { name: "Healthcare", color: "#10B981" },
+  "HOME FURNISHING": { name: "Home Furnishing", color: "#E879F9" },
+  "PERSONAL CARE": { name: "Personal Care", color: "#F87171" },
+  "PETROLEUM PRODUCTS": { name: "Petroleum Products", color: "#6EE7B7" },
+  PROPERTY: { name: "Property", color: "#FBBF24" },
+  "PUBLIC INTEREST": { name: "Public Interest", color: "#93C5FD" },
+  RETAIL: { name: "Retail", color: "#FCA5A5" },
+  TECHNOLOGY: { name: "Technology", color: "#818CF8" },
+  "TEXTILES&APPARELS": { name: "Textiles & Apparels", color: "#F472B6" },
+  "TRAVEL&TOURISM": { name: "Travel & Tourism", color: "#FDBA74" },
+  "HEALTH&FITNESS": { name: "Health & Fitness", color: "#22D3EE" },
+  TELECOMMUNICATIONS: { name: "Telecommunications", color: "#F59E0B" },
+};
 
   const weeks = [
     {
