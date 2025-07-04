@@ -23,9 +23,8 @@ const RadioDashboard = () => {
             Disclaimer: Some data is missing
           </p>
           <p className="text-sm text-yellow-700">
-            The analysis covers a 7-day period, from 7th May to 13th May, 2025
-            and data for Radio One on 11th May and Radio Mirchi on 14th May at
-            10:00 hour was not avaliable.
+            Data for Radio One on 11th May and Radio Mirchi on 14th May at 10:00
+            hour was not avaliable.
           </p>
         </div>
       </div>

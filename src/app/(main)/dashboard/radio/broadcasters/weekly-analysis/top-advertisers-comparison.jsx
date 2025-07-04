@@ -1,7 +1,7 @@
 "use client";
 
 import { BarChart2 } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Select,
   SelectContent,
@@ -27,6 +27,11 @@ const getTopAdvertisers = (week19Data, week20Data) => {
   week19Data.forEach((item) => combinedBrands.add(item.Brand));
   week20Data.forEach((item) => combinedBrands.add(item.Brand));
   return Array.from(combinedBrands);
+};
+
+// Derive top advertisers dynamically based on selected week
+const getTopAdvertisersForWeek = (weekData) => {
+  return [...new Set(weekData.map((item) => item.Brand))];
 };
 
 const getUniqueSectors = (week19Data, week20Data) => {
@@ -124,21 +129,27 @@ const advertiserDataByWeek = {
 };
 
 export default function TopAdvertisersComparison() {
-  const [selectedAdvertisers, setSelectedAdvertisers] = useState([
-    topAdvertisers[0],
-  ]);
+  const [selectedAdvertisers, setSelectedAdvertisers] = useState([]);
   const [selectedWeek, setSelectedWeek] = useState("week19");
   const [selectedSector, setSelectedSector] = useState("all");
-  const [showTable, setShowTable] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
+
+  // Get advertisers for the selected week
+  const weekData = selectedWeek === "week19" ? week19 : week20;
+  const topAdvertisers = getTopAdvertisersForWeek(weekData);
+
+  // Initialize selectedAdvertisers with the first advertiser of the selected week
+  useEffect(() => {
+    setSelectedAdvertisers(topAdvertisers.length > 0 ? [topAdvertisers[0]] : []);
+    setCurrentPage(1);
+  }, [selectedWeek]);
 
   const currentWeekData = advertiserDataByWeek[selectedWeek];
 
   const tableData = topAdvertisers
     .filter((adv) => {
-      const weekData = selectedWeek === "week19" ? week19 : week20;
       const advertiserData = weekData.find((item) => item.Brand === adv);
       const matchesSector =
         selectedSector === "all" || advertiserData?.Sector === selectedSector;
@@ -187,6 +198,7 @@ export default function TopAdvertisersComparison() {
 
   const handleWeekSelectChange = (value) => {
     setSelectedWeek(value);
+    setSearchTerm("");
     setCurrentPage(1);
   };
 
@@ -233,7 +245,7 @@ export default function TopAdvertisersComparison() {
               ))}
             </SelectContent>
           </Select>
-          <Select onValueChange={handleAdvertiserSelectChange}>
+          <Select onValueChange={handleAdvertiserSelectChange} value={selectedAdvertisers[0] || ""}>
             <SelectTrigger className="w-48">
               <SelectValue placeholder="Select or search advertiser" />
             </SelectTrigger>
@@ -249,7 +261,6 @@ export default function TopAdvertisersComparison() {
               <SelectItem value="all">All Advertisers</SelectItem>
               {topAdvertisers
                 .filter((adv) => {
-                  const weekData = selectedWeek === "week19" ? week19 : week20;
                   const advertiserData = weekData.find(
                     (item) => item.Brand === adv
                   );
