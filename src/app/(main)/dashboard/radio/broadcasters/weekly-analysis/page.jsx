@@ -20,11 +20,13 @@ const RadioDashboard = () => {
         <AlertTriangle className="w-5 h-5 text-yellow-600 mt-0.5" />
         <div>
           <p className="text-sm font-medium text-yellow-800">
-            Disclaimer: Some data is missing
+            Disclaimer: Some data is unavailable
           </p>
           <p className="text-sm text-yellow-700">
-            Data for Radio One on 11th May and Radio Mirchi on 14th May at 10:00
-            hour was not avaliable.
+            For Radio One, data is available on 11th May. For Radio Mirchi, data
+            is available on 14th May at 10:00. For Radio One, data is unavailable on
+            15th May from 10:00 to 20:00. For Radio City, data for the 3rd hour
+            on 17th May is incomplete.
           </p>
         </div>
       </div>
