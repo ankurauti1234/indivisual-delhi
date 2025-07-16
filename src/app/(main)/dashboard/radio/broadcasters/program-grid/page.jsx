@@ -1,6 +1,6 @@
 'use client'
 import React, { Suspense } from 'react'
-import EPG from './epg'
+import EPG from '../../../../../../components/program-grid/EPG'
 
 const Page = () => {
   return (

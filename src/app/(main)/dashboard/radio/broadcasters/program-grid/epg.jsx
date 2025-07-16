@@ -242,7 +242,7 @@ const LoadingState = () => (
 const EPG = () => {
   const router = useRouter();
   const searchParams = useSearchParams();
-const initialDate =
+  const initialDate =
     searchParams.get("date") || new Date().toISOString().split("T")[0];
   const initialStart = parseTimeToMinutes(searchParams.get("start")) || 0;
   const initialEnd =
@@ -257,8 +257,8 @@ const initialDate =
   const [isLoading, setIsLoading] = useState(true);
   const [epgData, setEpgData] = useState([]);
   const [error, setError] = useState(null);
-const [calendarDate, setCalendarDate] = useState(() => {
-    const date = new Date(initialDate + 'T00:00:00Z'); // Explicitly set to UTC midnight
+  const [calendarDate, setCalendarDate] = useState(() => {
+    const date = new Date(initialDate + "T00:00:00Z"); // Explicitly set to UTC midnight
     return date;
   });
 
@@ -363,20 +363,36 @@ const [calendarDate, setCalendarDate] = useState(() => {
     return matchesContentType && matchesRadioStation && matchesRegion;
   });
 
-const handlePrevDate = () => {
+  const handlePrevDate = () => {
     setSelectedDate((prevDate) => {
-      const newDate = new Date(prevDate + 'T00:00:00Z');
+      const newDate = new Date(prevDate + "T00:00:00Z");
       newDate.setUTCDate(newDate.getUTCDate() - 1);
-      setCalendarDate(new Date(Date.UTC(newDate.getUTCFullYear(), newDate.getUTCMonth(), newDate.getUTCDate())));
+      setCalendarDate(
+        new Date(
+          Date.UTC(
+            newDate.getUTCFullYear(),
+            newDate.getUTCMonth(),
+            newDate.getUTCDate()
+          )
+        )
+      );
       return newDate.toISOString().split("T")[0];
     });
   };
 
   const handleNextDate = () => {
     setSelectedDate((prevDate) => {
-      const newDate = new Date(prevDate + 'T00:00:00Z');
+      const newDate = new Date(prevDate + "T00:00:00Z");
       newDate.setUTCDate(newDate.getUTCDate() + 1);
-      setCalendarDate(new Date(Date.UTC(newDate.getUTCFullYear(), newDate.getUTCMonth(), newDate.getUTCDate())));
+      setCalendarDate(
+        new Date(
+          Date.UTC(
+            newDate.getUTCFullYear(),
+            newDate.getUTCMonth(),
+            newDate.getUTCDate()
+          )
+        )
+      );
       return newDate.toISOString().split("T")[0];
     });
   };
@@ -384,7 +400,9 @@ const handlePrevDate = () => {
   const handleCalendarSelect = (date) => {
     if (date) {
       // Normalize selected date to UTC midnight
-      const utcDate = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+      const utcDate = new Date(
+        Date.UTC(date.getFullYear(), date.getMonth(), date.getDate())
+      );
       const formattedDate = utcDate.toISOString().split("T")[0];
       setSelectedDate(formattedDate);
       setCalendarDate(utcDate);
@@ -395,8 +413,16 @@ const handlePrevDate = () => {
     const nearestDate = findNearestDateWithData(selectedDate, datesWithData);
     if (nearestDate) {
       setSelectedDate(nearestDate);
-      const utcDate = new Date(nearestDate + 'T00:00:00Z');
-      setCalendarDate(new Date(Date.UTC(utcDate.getUTCFullYear(), utcDate.getUTCMonth(), utcDate.getUTCDate())));
+      const utcDate = new Date(nearestDate + "T00:00:00Z");
+      setCalendarDate(
+        new Date(
+          Date.UTC(
+            utcDate.getUTCFullYear(),
+            utcDate.getUTCMonth(),
+            utcDate.getUTCDate()
+          )
+        )
+      );
     }
   };
 
@@ -543,9 +569,7 @@ const handlePrevDate = () => {
                     onSelect={handleCalendarSelect}
                     initialFocus
                     disabled={(date) =>
-                      !datesWithData.includes(
-                        date.toISOString().split("T")[0]
-                      )
+                      !datesWithData.includes(date.toISOString().split("T")[0])
                     }
                   />
                 </PopoverContent>
@@ -606,7 +630,9 @@ const handlePrevDate = () => {
                     <SelectItem value="all">All Radio Stations</SelectItem>
                     {Object.keys(availableData).map((station) => (
                       <SelectItem key={station} value={station}>
-                        {station.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                        {station
+                          .replace(/-/g, " ")
+                          .replace(/\b\w/g, (c) => c.toUpperCase())}
                       </SelectItem>
                     ))}
                   </SelectContent>
@@ -671,9 +697,9 @@ const handlePrevDate = () => {
               />
               <div className="flex flex-col">
                 <span className="text-sm font-medium text-zinc-800 dark:text-zinc-200 uppercase">
-                  {channel.replace(/-/g, " ").replace(/\b\w/g, (c) =>
-                    c.toUpperCase()
-                  )}
+                  {channel
+                    .replace(/-/g, " ")
+                    .replace(/\b\w/g, (c) => c.toUpperCase())}
                 </span>
                 {regions && (
                   <span className="text-sm text-muted-foreground">
