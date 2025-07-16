@@ -16,7 +16,7 @@ import { Table, AlertTriangle } from "lucide-react";
 const RadioDashboard = () => {
   return (
     <div className="space-y-6">
-      <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-md flex items-start gap-3">
+      {/* <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-md flex items-start gap-3">
         <AlertTriangle className="w-5 h-5 text-yellow-600 mt-0.5" />
         <div>
           <p className="text-sm font-medium text-yellow-800">
@@ -29,7 +29,7 @@ const RadioDashboard = () => {
             on 17th May is incomplete.
           </p>
         </div>
-      </div>
+      </div> */}
       <StatCards />
       <RadioAdHeatmap />
       <RadioSectorAnalysis />

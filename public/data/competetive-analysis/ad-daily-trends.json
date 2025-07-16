@@ -1,0 +1,358 @@
+{
+  "stations": [
+    {
+      "name": "Fevre Fm",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "Hit Fm",
+      "color": "#43A047"
+    },
+    {
+      "name": "Ishq Fm",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "Punjabi Fm",
+      "color": "#E91E63"
+    },
+    {
+      "name": "Radio City",
+      "color": "#3949AB"
+    },
+    {
+      "name": "Radio Mirchi",
+      "color": "#7CB342"
+    },
+    {
+      "name": "Radio One",
+      "color": "#FFB300"
+    },
+    {
+      "name": "Red Fm",
+      "color": "#D81B60"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-week-25",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 844,
+              "airtime": 287
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 722,
+              "airtime": 201
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 416,
+              "airtime": 88
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 581,
+              "airtime": 126
+            },
+            {
+              "station": "Radio City",
+              "adCount": 945,
+              "airtime": 327
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 635,
+              "airtime": 207
+            },
+            {
+              "station": "Radio One",
+              "adCount": 189,
+              "airtime": 64
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 561,
+              "airtime": 166
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 828,
+              "airtime": 239
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 772,
+              "airtime": 210
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 460,
+              "airtime": 96
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 598,
+              "airtime": 112
+            },
+            {
+              "station": "Radio City",
+              "adCount": 920,
+              "airtime": 295
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 740,
+              "airtime": 237
+            },
+            {
+              "station": "Radio One",
+              "adCount": 266,
+              "airtime": 85
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 627,
+              "airtime": 177
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 806,
+              "airtime": 222
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 776,
+              "airtime": 214
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 443,
+              "airtime": 96
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 574,
+              "airtime": 125
+            },
+            {
+              "station": "Radio City",
+              "adCount": 914,
+              "airtime": 269
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 772,
+              "airtime": 229
+            },
+            {
+              "station": "Radio One",
+              "adCount": 237,
+              "airtime": 68
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 694,
+              "airtime": 193
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 743,
+              "airtime": 215
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 857,
+              "airtime": 227
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 510,
+              "airtime": 113
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 533,
+              "airtime": 175
+            },
+            {
+              "station": "Radio City",
+              "adCount": 830,
+              "airtime": 261
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 769,
+              "airtime": 232
+            },
+            {
+              "station": "Radio One",
+              "adCount": 213,
+              "airtime": 96
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 652,
+              "airtime": 172
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 583,
+              "airtime": 186
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 751,
+              "airtime": 206
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 477,
+              "airtime": 108
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 543,
+              "airtime": 178
+            },
+            {
+              "station": "Radio City",
+              "adCount": 689,
+              "airtime": 210
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 521,
+              "airtime": 164
+            },
+            {
+              "station": "Radio One",
+              "adCount": 123,
+              "airtime": 57
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 541,
+              "airtime": 172
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 565,
+              "airtime": 176
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 696,
+              "airtime": 183
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 459,
+              "airtime": 98
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 518,
+              "airtime": 168
+            },
+            {
+              "station": "Radio City",
+              "adCount": 482,
+              "airtime": 163
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 325,
+              "airtime": 109
+            },
+            {
+              "station": "Radio One",
+              "adCount": 165,
+              "airtime": 76
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 363,
+              "airtime": 110
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "Fevre Fm",
+              "adCount": 702,
+              "airtime": 190
+            },
+            {
+              "station": "Hit Fm",
+              "adCount": 696,
+              "airtime": 195
+            },
+            {
+              "station": "Ishq Fm",
+              "adCount": 337,
+              "airtime": 66
+            },
+            {
+              "station": "Punjabi Fm",
+              "adCount": 457,
+              "airtime": 98
+            },
+            {
+              "station": "Radio City",
+              "adCount": 852,
+              "airtime": 240
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 636,
+              "airtime": 187
+            },
+            {
+              "station": "Radio One",
+              "adCount": 174,
+              "airtime": 64
+            },
+            {
+              "station": "Red Fm",
+              "adCount": 615,
+              "airtime": 147
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

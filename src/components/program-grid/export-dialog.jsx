@@ -23,7 +23,6 @@ import { Input } from "@/components/ui/input";
 import { Alert, AlertDescription } from "@/components/ui/alert";
 import Papa from "papaparse";
 import * as XLSX from "xlsx";
-import { availableData } from "@/data/available_data";
 
 const ExportDialog = ({ selectedDate, epgData, availableData, regions }) => {
   const [open, setOpen] = useState(false);
@@ -223,17 +222,17 @@ const ExportDialog = ({ selectedDate, epgData, availableData, regions }) => {
         <div className="p-6 space-y-6">
           <DialogHeader>
             <DialogTitle className="text-xl font-semibold text-zinc-900 dark:text-zinc-100">
-              {exportType === "report" ? "Download Report" : "Export EPG Data"}
+              {exportType === "report" ? "Download Processed Report" : "Export EPG Data"}
             </DialogTitle>
           </DialogHeader>
 
-          {exportType === "epg" && noDataAlert && (
+          {/* {exportType === "epg" && noDataAlert && (
             <Alert className="bg-red-50 dark:bg-red-900/20 border-red-200 dark:border-red-800 text-red-800 dark:text-red-200 rounded-lg">
               <AlertDescription>
                 No data available for the selected date, time range, channel, or region.
               </AlertDescription>
             </Alert>
-          )}
+          )} */}
 
           <div className="space-y-4">
             {/* Export Type Selection */}
@@ -244,8 +243,8 @@ const ExportDialog = ({ selectedDate, epgData, availableData, regions }) => {
                   <SelectValue placeholder="Select export type" />
                 </SelectTrigger>
                 <SelectContent>
-                  <SelectItem value="report">Report</SelectItem>
-                  <SelectItem value="epg">EPG Export</SelectItem>
+                  <SelectItem value="report">Processed Report</SelectItem>
+                  <SelectItem value="epg">Raw Report</SelectItem>
                 </SelectContent>
               </Select>
             </div>

@@ -1,0 +1,89 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "GYGY GROUP",
+            "BHUTANI GROUP",
+            "RAMAKRISHNA JEWELLERS",
+            "UNISON JEWELS"
+          ],
+          "values": [
+            "2034 plays",
+            "1608 plays",
+            "1472 plays",
+            "1353 plays"
+          ]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "GYGY GROUP",
+            "BHUTANI GROUP",
+            "ACE VERDE",
+            "LIC"
+          ],
+          "values": [
+            "552.3 mins",
+            "386.9 mins",
+            "368.6 mins",
+            "306.7 mins"
+          ]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": [
+            "FEVER FM",
+            "HIT FM",
+            "ISHQ FM",
+            "PUNJABI FM",
+            "RED FM",
+            "Radio City",
+            "Radio Mirchi",
+            "Radio One"
+          ],
+          "values": [
+            "5071 plays",
+            "5270 plays",
+            "3102 plays",
+            "3804 plays",
+            "4053 plays",
+            "5632 plays",
+            "4398 plays",
+            "1367 plays"
+          ]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": [
+            "FEVER FM",
+            "HIT FM",
+            "ISHQ FM",
+            "PUNJABI FM",
+            "RED FM",
+            "Radio City",
+            "Radio Mirchi",
+            "Radio One"
+          ],
+          "values": [
+            "1519.3 mins",
+            "1439.8 mins",
+            "667.8 mins",
+            "984.6 mins",
+            "1140.0 mins",
+            "1769.0 mins",
+            "1368.7 mins",
+            "514.0 mins"
+          ]
+        }
+      ]
+    }
+  ]
+}

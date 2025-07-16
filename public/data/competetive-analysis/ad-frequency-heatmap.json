@@ -1,0 +1,5700 @@
+{
+    "stations": [
+        {
+            "station": "FEVER FM",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 24
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "HIT FM",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "ISHQ DELHI",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "PUNJABI DELHI",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "RADIO CITY",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 26
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 29
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 26
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 30
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 25
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 26
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 24
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 24
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 26
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 28
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 24
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 29
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 24
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 2
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 25
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 26
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 3
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 25
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "RADIO MIRCHI ",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 24
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 27
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 26
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 25
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 25
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 23
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 22
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 21
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 19
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 20
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "RADIO ONE",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 5
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 4
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "station": "RED FM",
+            "days": [
+                {
+                    "date": "2025-07-01",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-02",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 15
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-03",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 18
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 1
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 1
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-04",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 17
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-05",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-06",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 2
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 8
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 3
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-07-07",
+                    "hours": [
+                        {
+                            "hour": 0,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 1,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 2,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 3,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 4,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 5,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 6,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 7,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 8,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 9,
+                            "frequency": 13
+                        },
+                        {
+                            "hour": 10,
+                            "frequency": 12
+                        },
+                        {
+                            "hour": 11,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 12,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 13,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 14,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 15,
+                            "frequency": 7
+                        },
+                        {
+                            "hour": 16,
+                            "frequency": 6
+                        },
+                        {
+                            "hour": 17,
+                            "frequency": 10
+                        },
+                        {
+                            "hour": 18,
+                            "frequency": 16
+                        },
+                        {
+                            "hour": 19,
+                            "frequency": 14
+                        },
+                        {
+                            "hour": 20,
+                            "frequency": 11
+                        },
+                        {
+                            "hour": 21,
+                            "frequency": 9
+                        },
+                        {
+                            "hour": 22,
+                            "frequency": 0
+                        },
+                        {
+                            "hour": 23,
+                            "frequency": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

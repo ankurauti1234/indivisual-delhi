@@ -1,0 +1,689 @@
+{
+  "sectors": [
+    {
+      "name": "ACCESSORIES",
+      "color": "#3949AB"
+    },
+    {
+      "name": "FMCG",
+      "color": "#0288D1"
+    },
+    {
+      "name": "PUBLIC INTEREST",
+      "color": "#43A047"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#D81B60"
+    },
+    {
+      "name": "EVENTS",
+      "color": "#43A047"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#00897B"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#FDD835"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "PROPERTY",
+      "color": "#43A047"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#43A047"
+    },
+    {
+      "name": "CONSUMER DURABLES",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#FF7043"
+    },
+    {
+      "name": "PERSONAL CARE",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#FDD835"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#FDD835"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "DISASTER RISK MANAGEMENT",
+      "color": "#8E24AA"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 2060,
+              "airtime": 23045
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 545,
+              "airtime": 5542
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 365,
+              "airtime": 6496
+            },
+            {
+              "station": "RED FM",
+              "adCount": 456,
+              "airtime": 4949
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 610,
+              "airtime": 8704
+            },
+            {
+              "station": "Radio One",
+              "adCount": 401,
+              "airtime": 4365
+            },
+            {
+              "station": "Radio City",
+              "adCount": 867,
+              "airtime": 10989
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 1911,
+              "airtime": 26496
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 480,
+              "airtime": 4995
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 152,
+              "airtime": 2861
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 763,
+              "airtime": 14159
+            },
+            {
+              "station": "RED FM",
+              "adCount": 272,
+              "airtime": 4055
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 458,
+              "airtime": 7766
+            },
+            {
+              "station": "Radio One",
+              "adCount": 219,
+              "airtime": 3848
+            },
+            {
+              "station": "Radio City",
+              "adCount": 700,
+              "airtime": 11390
+            }
+          ]
+        },
+        {
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 93,
+              "airtime": 3730
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 204,
+              "airtime": 6724
+            },
+            {
+              "station": "RED FM",
+              "adCount": 117,
+              "airtime": 3180
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 181,
+              "airtime": 6287
+            },
+            {
+              "station": "Radio One",
+              "adCount": 6,
+              "airtime": 342
+            },
+            {
+              "station": "Radio City",
+              "adCount": 302,
+              "airtime": 10197
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 88,
+              "airtime": 3629
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 78,
+              "airtime": 2727
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 75,
+              "airtime": 2310
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 157,
+              "airtime": 4593
+            },
+            {
+              "station": "RED FM",
+              "adCount": 152,
+              "airtime": 4975
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 165,
+              "airtime": 5418
+            },
+            {
+              "station": "Radio One",
+              "adCount": 81,
+              "airtime": 2940
+            },
+            {
+              "station": "Radio City",
+              "adCount": 441,
+              "airtime": 10969
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 78,
+              "airtime": 2784
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 140,
+              "airtime": 1540
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 88,
+              "airtime": 3689
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 152,
+              "airtime": 2152
+            },
+            {
+              "station": "RED FM",
+              "adCount": 80,
+              "airtime": 3374
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 491,
+              "airtime": 12076
+            },
+            {
+              "station": "Radio One",
+              "adCount": 144,
+              "airtime": 6268
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1460,
+              "airtime": 26497
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 38,
+              "airtime": 1107
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 87,
+              "airtime": 1385
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 482,
+              "airtime": 7465
+            },
+            {
+              "station": "RED FM",
+              "adCount": 112,
+              "airtime": 1946
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 310,
+              "airtime": 6150
+            },
+            {
+              "station": "Radio City",
+              "adCount": 378,
+              "airtime": 10517
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 65,
+              "airtime": 975
+            }
+          ]
+        },
+        {
+          "sector": "EVENTS",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 65,
+              "airtime": 1073
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 40,
+              "airtime": 800
+            },
+            {
+              "station": "RED FM",
+              "adCount": 168,
+              "airtime": 3360
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 72,
+              "airtime": 1010
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 376,
+              "airtime": 5640
+            }
+          ]
+        },
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 70,
+              "airtime": 760
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 91,
+              "airtime": 979
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 814,
+              "airtime": 13625
+            },
+            {
+              "station": "RED FM",
+              "adCount": 759,
+              "airtime": 12575
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 202,
+              "airtime": 3004
+            },
+            {
+              "station": "Radio One",
+              "adCount": 32,
+              "airtime": 659
+            },
+            {
+              "station": "Radio City",
+              "adCount": 805,
+              "airtime": 11777
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 200,
+              "airtime": 3137
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 2,
+              "airtime": 40
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 82,
+              "airtime": 859
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 221,
+              "airtime": 2210
+            },
+            {
+              "station": "RED FM",
+              "adCount": 144,
+              "airtime": 1440
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 298,
+              "airtime": 3054
+            },
+            {
+              "station": "Radio One",
+              "adCount": 268,
+              "airtime": 2740
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 4,
+              "airtime": 40
+            },
+            {
+              "station": "RED FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 53,
+              "airtime": 792
+            }
+          ]
+        },
+        {
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "PUNJABI FM",
+              "adCount": 2308,
+              "airtime": 35810
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 499,
+              "airtime": 8493
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1323,
+              "airtime": 19955
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 2250,
+              "airtime": 36502
+            },
+            {
+              "station": "Radio City",
+              "adCount": 310,
+              "airtime": 7210
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 1793,
+              "airtime": 32329
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 284,
+              "airtime": 6725
+            },
+            {
+              "station": "RED FM",
+              "adCount": 58,
+              "airtime": 1290
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 89,
+              "airtime": 1941
+            },
+            {
+              "station": "Radio One",
+              "adCount": 109,
+              "airtime": 2322
+            },
+            {
+              "station": "Radio City",
+              "adCount": 185,
+              "airtime": 3708
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 213,
+              "airtime": 4260
+            },
+            {
+              "station": "RED FM",
+              "adCount": 335,
+              "airtime": 6120
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1,
+              "airtime": 1
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 135,
+              "airtime": 2970
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLES",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 117,
+              "airtime": 2125
+            },
+            {
+              "station": "Radio City",
+              "adCount": 16,
+              "airtime": 504
+            }
+          ]
+        },
+        {
+          "sector": "TRAVEL&TOURISM",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 60,
+              "airtime": 1809
+            },
+            {
+              "station": "Radio One",
+              "adCount": 59,
+              "airtime": 6183
+            }
+          ]
+        },
+        {
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 19,
+              "airtime": 323
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 17,
+              "airtime": 255
+            }
+          ]
+        },
+        {
+          "sector": "AGRICULTURE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 8,
+              "airtime": 162
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "RED FM",
+              "adCount": 57,
+              "airtime": 883
+            },
+            {
+              "station": "Radio One",
+              "adCount": 48,
+              "airtime": 1173
+            },
+            {
+              "station": "Radio City",
+              "adCount": 124,
+              "airtime": 1953
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 632,
+              "airtime": 6365
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "Radio City",
+              "adCount": 43,
+              "airtime": 430
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 60,
+              "airtime": 600
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "HIT FM",
+              "adCount": 216,
+              "airtime": 5836
+            }
+          ]
+        },
+        {
+          "sector": "DISASTER RISK MANAGEMENT",
+          "stations": [
+            {
+              "station": "HIT FM",
+              "adCount": 39,
+              "airtime": 478
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

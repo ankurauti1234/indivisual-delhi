@@ -1,6 +1,7 @@
 'use client'
 import React, { Suspense } from 'react'
-import EPG from './epg'
+import EPG from '@/components/program-grid/EPG'
+import { availableData } from "@/data/patna";
 
 const Page = () => {
   return (
@@ -15,7 +16,7 @@ const Page = () => {
           </div>
         }
       >
-        <EPG />
+        <EPG region="patna" availableData={availableData} />
       </Suspense>
     </div>
   )

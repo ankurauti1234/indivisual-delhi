@@ -1,4 +1,3 @@
-import { availableData } from "@/data/available_data";
 
 export const timeToMinutes = (time) => {
   const [hours, minutes, seconds] = time.split(":").map(Number);
@@ -29,7 +28,7 @@ export const getUniqueContentTypes = (data) => [
   ...new Set(data.map((item) => item.type)),
 ];
 
-export const getDatesWithData = () =>
+export const getDatesWithData = (availableData) =>
   [
     ...new Set(
       Object.values(availableData).flatMap((station) => station.dates)

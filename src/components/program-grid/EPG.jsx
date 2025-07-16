@@ -30,7 +30,7 @@ import {
 import { Calendar } from "@/components/ui/calendar";
 import { format } from "date-fns";
 import { useRouter, useSearchParams } from "next/navigation";
-import { availableData } from "@/data/available_data";
+
 import TimelineRuler from "./TimelineRuler";
 import EmptyState from "./EmptyState";
 import LoadingState from "./LoadingState";
@@ -40,7 +40,7 @@ import { squircleClipPath } from "./squircle";
 const MINUTES_IN_DAY = 24 * 60;
 const FIXED_WIDTH = 9600;
 
-const EPG = () => {
+const EPG = ({region, availableData}) => {
   const router = useRouter();
   const searchParams = useSearchParams();
   const initialDate =
@@ -63,7 +63,7 @@ const EPG = () => {
     return date;
   });
 
-  const datesWithData = getDatesWithData();
+  const datesWithData = getDatesWithData(availableData);
   const channels = getUniqueChannels(epgData);
   const regions = getUniqueRegions(epgData);
   const contentTypes = getUniqueContentTypes(epgData);
@@ -106,7 +106,7 @@ const EPG = () => {
         console.log("Fetching data for stations:", stations);
 
         const dataPromises = stations.map(async (station) => {
-          const response = await fetch(`/data/${station}/${selectedDate}.json`);
+          const response = await fetch(`https://radio-playback-files.s3.ap-south-1.amazonaws.com/data/${region}/${station}/${selectedDate}.json`);
           console.log(
             `Response for ${station} on ${selectedDate}:`,
             response.status,
@@ -316,11 +316,6 @@ const EPG = () => {
                     selected={calendarDate}
                     onSelect={handleCalendarSelect}
                     initialFocus
-                    disabled={(date) =>
-                      !datesWithData.includes(
-                        date.toISOString().split("T")[0]
-                      )
-                    }
                   />
                 </PopoverContent>
               </Popover>
@@ -381,27 +376,6 @@ const EPG = () => {
                     {Object.keys(availableData).map((station) => (
                       <SelectItem key={station} value={station}>
                         {station.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
-                      </SelectItem>
-                    ))}
-                  </SelectContent>
-                </Select>
-              </DropdownMenuItem>
-              <DropdownMenuItem className="flex flex-col items-start p-2">
-                <label className="text-sm font-medium text-zinc-800 dark:text-zinc-200 mb-1">
-                  Region
-                </label>
-                <Select
-                  value={selectedRegion}
-                  onValueChange={setSelectedRegion}
-                >
-                  <SelectTrigger className="w-full bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
-                    <SelectValue placeholder="Filter by Region" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="all">All Regions</SelectItem>
-                    {regions.map((region) => (
-                      <SelectItem key={region} value={region}>
-                        {region}
                       </SelectItem>
                     ))}
                   </SelectContent>
