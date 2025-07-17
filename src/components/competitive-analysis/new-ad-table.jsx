@@ -163,12 +163,20 @@ const NewAdTable = ({ data }) => {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {paginatedData.map((ad, index) => (
-              <TableRow key={index}>
-                <TableCell>{ad.advertiser}</TableCell>
-                <TableCell>{ad.station}</TableCell>
+            {paginatedData.length === 0 ? (
+              <TableRow>
+                <TableCell colSpan={2} className="text-center text-sm text-gray-500">
+                  No data for this selection
+                </TableCell>
               </TableRow>
-            ))}
+            ) : (
+              paginatedData.map((ad, index) => (
+                <TableRow key={index}>
+                  <TableCell>{ad.advertiser}</TableCell>
+                  <TableCell>{ad.station}</TableCell>
+                </TableRow>
+              ))
+            )}
           </TableBody>
         </Table>
       </CardContent>

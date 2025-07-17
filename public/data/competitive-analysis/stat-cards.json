@@ -8,15 +8,15 @@
           "desc": "Advertisers with the highest number of ad plays",
           "keys": [
             "GYGY GROUP",
+            "UNISON JEWELS",
             "BHUTANI GROUP",
-            "RAMAKRISHNA JEWELLERS",
-            "UNISON JEWELS"
+            "RAMAKRISHNA JEWELLERS"
           ],
           "values": [
-            "2034 plays",
-            "1608 plays",
-            "1472 plays",
-            "1353 plays"
+            "2034",
+            "1711",
+            "1608",
+            "1472"
           ]
         },
         {
@@ -29,10 +29,10 @@
             "LIC"
           ],
           "values": [
-            "552.3 mins",
-            "386.9 mins",
-            "368.6 mins",
-            "306.7 mins"
+            "33140 sec",
+            "23216 sec",
+            "22118 sec",
+            "20802 sec"
           ]
         },
         {
@@ -46,17 +46,19 @@
             "RED FM",
             "Radio City",
             "Radio Mirchi",
-            "Radio One"
+            "Radio One",
+            "BIG FM"
           ],
           "values": [
-            "5071 plays",
-            "5270 plays",
-            "3102 plays",
-            "3804 plays",
-            "4053 plays",
-            "5632 plays",
-            "4398 plays",
-            "1367 plays"
+            "5071",
+            "5270",
+            "3102",
+            "3804",
+            "4053",
+            "5632",
+            "4398",
+            "1367",
+            "5271"
           ]
         },
         {
@@ -70,17 +72,19 @@
             "RED FM",
             "Radio City",
             "Radio Mirchi",
-            "Radio One"
+            "Radio One",
+            "BIG FM"
           ],
           "values": [
-            "1519.3 mins",
-            "1439.8 mins",
-            "667.8 mins",
-            "984.6 mins",
-            "1140.0 mins",
-            "1769.0 mins",
-            "1368.7 mins",
-            "514.0 mins"
+            "91157 sec",
+            "86391 sec",
+            "40067 sec",
+            "59075 sec",
+            "68402 sec",
+            "106142 sec",
+            "82121 sec",
+            "30840 sec",
+            "85522 sec"
           ]
         }
       ]

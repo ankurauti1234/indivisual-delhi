@@ -2,63 +2,63 @@
   "sectors": [
     {
       "name": "ACCESSORIES",
-      "color": "#3949AB"
+      "color": "#1E88E5"
     },
     {
       "name": "FMCG",
-      "color": "#0288D1"
+      "color": "#FB8C00"
     },
     {
       "name": "PUBLIC INTEREST",
-      "color": "#43A047"
+      "color": "#F4511E"
     },
     {
       "name": "FINANCE",
-      "color": "#FF7043"
+      "color": "#039BE5"
     },
     {
       "name": "ENTERTAINMENT",
-      "color": "#F4511E"
-    },
-    {
-      "name": "HEALTHCARE",
       "color": "#D81B60"
     },
     {
+      "name": "HEALTHCARE",
+      "color": "#1E88E5"
+    },
+    {
       "name": "EVENTS",
-      "color": "#43A047"
-    },
-    {
-      "name": "RETAIL",
-      "color": "#8E24AA"
-    },
-    {
-      "name": "EDUCATION",
-      "color": "#00897B"
-    },
-    {
-      "name": "E-COMMERCE",
       "color": "#FDD835"
     },
     {
+      "name": "RETAIL",
+      "color": "#0288D1"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#D81B60"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#43A047"
+    },
+    {
       "name": "HOSPITALITY",
-      "color": "#7B1FA2"
+      "color": "#1E88E5"
     },
     {
       "name": "PROPERTY",
-      "color": "#43A047"
+      "color": "#7B1FA2"
     },
     {
       "name": "AUTOMOBILE",
-      "color": "#F4511E"
+      "color": "#039BE5"
     },
     {
       "name": "HOME FURNISHING",
-      "color": "#43A047"
+      "color": "#E91E63"
     },
     {
       "name": "CONSUMER DURABLES",
-      "color": "#1E88E5"
+      "color": "#0288D1"
     },
     {
       "name": "TRAVEL&TOURISM",
@@ -66,27 +66,31 @@
     },
     {
       "name": "PERSONAL CARE",
-      "color": "#1E88E5"
+      "color": "#FDD835"
     },
     {
       "name": "AGRICULTURE",
-      "color": "#FDD835"
-    },
-    {
-      "name": "TEXTILES&APPARELS",
       "color": "#1E88E5"
     },
     {
+      "name": "TEXTILES&APPARELS",
+      "color": "#00ACC1"
+    },
+    {
       "name": "CONSTRUCTION",
-      "color": "#FDD835"
+      "color": "#3949AB"
+    },
+    {
+      "name": "ANIMAL WELFARE",
+      "color": "#7B1FA2"
     },
     {
       "name": "INFRASTRUCTURE",
-      "color": "#5E35B1"
+      "color": "#1E88E5"
     },
     {
       "name": "DISASTER RISK MANAGEMENT",
-      "color": "#8E24AA"
+      "color": "#43A047"
     }
   ],
   "weeks": [
@@ -132,6 +136,11 @@
               "airtime": 10989
             },
             {
+              "station": "BIG FM",
+              "adCount": 704,
+              "airtime": 8506
+            },
+            {
               "station": "HIT FM",
               "adCount": 1911,
               "airtime": 26496
@@ -175,6 +184,11 @@
               "station": "Radio City",
               "adCount": 700,
               "airtime": 11390
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 824,
+              "airtime": 7638
             }
           ]
         },
@@ -210,6 +224,11 @@
               "station": "Radio City",
               "adCount": 302,
               "airtime": 10197
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 152,
+              "airtime": 5529
             },
             {
               "station": "HIT FM",
@@ -257,6 +276,11 @@
               "airtime": 10969
             },
             {
+              "station": "BIG FM",
+              "adCount": 509,
+              "airtime": 10269
+            },
+            {
               "station": "HIT FM",
               "adCount": 78,
               "airtime": 2784
@@ -300,6 +324,11 @@
               "station": "Radio City",
               "adCount": 1460,
               "airtime": 26497
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 459,
+              "airtime": 9080
             }
           ]
         },
@@ -337,6 +366,11 @@
               "airtime": 10517
             },
             {
+              "station": "BIG FM",
+              "adCount": 732,
+              "airtime": 13025
+            },
+            {
               "station": "HIT FM",
               "adCount": 65,
               "airtime": 975
@@ -360,6 +394,11 @@
               "station": "RED FM",
               "adCount": 168,
               "airtime": 3360
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 38,
+              "airtime": 644
             }
           ]
         },
@@ -417,6 +456,11 @@
               "airtime": 11777
             },
             {
+              "station": "BIG FM",
+              "adCount": 250,
+              "airtime": 4793
+            },
+            {
               "station": "HIT FM",
               "adCount": 200,
               "airtime": 3137
@@ -455,6 +499,11 @@
               "station": "Radio One",
               "adCount": 268,
               "airtime": 2740
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 446,
+              "airtime": 9131
             }
           ]
         },
@@ -470,6 +519,11 @@
               "station": "RED FM",
               "adCount": 20,
               "airtime": 300
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 172,
+              "airtime": 933
             },
             {
               "station": "HIT FM",
@@ -507,6 +561,11 @@
               "airtime": 7210
             },
             {
+              "station": "BIG FM",
+              "adCount": 447,
+              "airtime": 6683
+            },
+            {
               "station": "HIT FM",
               "adCount": 1793,
               "airtime": 32329
@@ -540,6 +599,11 @@
               "station": "Radio City",
               "adCount": 185,
               "airtime": 3708
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 240,
+              "airtime": 5680
             }
           ]
         },
@@ -560,6 +624,11 @@
               "station": "Radio City",
               "adCount": 1,
               "airtime": 1
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 26,
+              "airtime": 518
             },
             {
               "station": "HIT FM",
@@ -610,6 +679,11 @@
               "station": "FEVER FM",
               "adCount": 17,
               "airtime": 255
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 50,
+              "airtime": 916
             }
           ]
         },
@@ -642,6 +716,11 @@
               "airtime": 1953
             },
             {
+              "station": "BIG FM",
+              "adCount": 101,
+              "airtime": 1599
+            },
+            {
               "station": "HIT FM",
               "adCount": 632,
               "airtime": 6365
@@ -664,8 +743,23 @@
           ]
         },
         {
+          "sector": "ANIMAL WELFARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 107,
+              "airtime": 428
+            }
+          ]
+        },
+        {
           "sector": "INFRASTRUCTURE",
           "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 14,
+              "airtime": 150
+            },
             {
               "station": "HIT FM",
               "adCount": 216,

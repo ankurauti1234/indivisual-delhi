@@ -119,24 +119,31 @@ const UntappedAdTable = ({ data }) => {
     label: station,
   }));
 
-  // Filter data
+  // Filter and sort data
   const filteredData = useMemo(() => {
     const weekData = data.weeks.find((w) => w.week === selectedWeek)?.data || [];
     return weekData
       .filter((brand) => {
+        // Sector filter
         const matchesSector =
           selectedSectors.length === 0 ||
           selectedSectors.some((s) => s.value === brand.sector);
-        return matchesSector;
+        
+        // Station filter: include brands where all selected stations have 0 adCount or airtime
+        const matchesStations = selectedStations.length === 0 || 
+          selectedStations.every((sel) => {
+            const stationData = brand.stations.find((s) => s.station === sel.value);
+            return !stationData || (showAirtime ? stationData.airtime === 0 : stationData.adCount === 0);
+          });
+        
+        return matchesSector && matchesStations;
       })
       .map((brand) => {
-        // Exclude selected stations
-        const filteredStations = selectedStations.length === 0
-          ? brand.stations
-          : brand.stations.filter(
-              (s) => !selectedStations.some((sel) => sel.value === s.station)
-            );
-        // Only include brands with remaining stations
+        // Include only stations with non-zero values for display
+        const filteredStations = brand.stations.filter((s) => 
+          (showAirtime ? s.airtime > 0 : s.adCount > 0)
+        );
+        // Only include brands with at least one station to display
         if (filteredStations.length === 0) return null;
         return {
           ...brand,
@@ -147,7 +154,8 @@ const UntappedAdTable = ({ data }) => {
           ),
         };
       })
-      .filter((brand) => brand !== null); // Remove brands with no stations
+      .filter((brand) => brand !== null) // Remove brands with no stations
+      .sort((a, b) => b.totalValue - a.totalValue); // Sort by totalValue in descending order
   }, [data, selectedWeek, selectedSectors, selectedStations, showAirtime]);
 
   // Pagination
@@ -204,7 +212,7 @@ const UntappedAdTable = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Untapped Ad Opportunities</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad counts"} for {selectedWeek}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for {selectedWeek}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
@@ -236,7 +244,7 @@ const UntappedAdTable = ({ data }) => {
             value={selectedStations}
             onChange={setSelectedStations}
             defaultOptions={stationOptions}
-            placeholder="Select stations to exclude"
+            placeholder="Select stations to include (0 count)"
             hideClearAllButton
             hidePlaceholderWhenSelected
             emptyIndicator={
@@ -249,7 +257,7 @@ const UntappedAdTable = ({ data }) => {
             onPressedChange={setShowAirtime}
             className="w-full"
           >
-            {showAirtime ? "Show Ad Counts" : "Show Airtime (s)"}
+            {showAirtime ? "Show Ad spots" : "Show Airtime (s)"}
           </CustomToggle>
         </div>
       </CardHeader>
@@ -262,7 +270,7 @@ const UntappedAdTable = ({ data }) => {
               <TableHead>Sector</TableHead>
               <TableHead>Competitor Stations</TableHead>
               <TableHead>
-                {showAirtime ? "Airtime (seconds)" : "Ad Counts"}
+                {showAirtime ? "Airtime (seconds)" : "Ad spots"}
               </TableHead>
             </TableRow>
           </TableHeader>
@@ -271,7 +279,15 @@ const UntappedAdTable = ({ data }) => {
               <TableRow key={index}>
                 <TableCell>{brand.brand}</TableCell>
                 <TableCell>{brand.sector}</TableCell>
-                <TableCell>{brand.stations.map((s) => s.station).join(", ")}</TableCell>
+                <TableCell>
+                  {brand.stations
+                    .map((s) =>
+                      showAirtime
+                        ? `(${s.airtime} sec) ${s.station}`
+                        : `(${s.adCount}) ${s.station}`
+                    )
+                    .join(", ")}
+                </TableCell>
                 <TableCell>
                   {brand.totalValue}
                   {showAirtime ? " sec" : ""}

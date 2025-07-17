@@ -49,13 +49,11 @@ const SectorAdDistributionBar = ({ data }) => {
 
   // Handle week selection
   const handleWeekChange = (weeks) => {
-    // Ensure at least one week is selected
     setSelectedWeeks(weeks.length > 0 ? weeks : [{ value: data.weeks[0].week, label: data.weeks[0].week }]);
   };
 
   // Handle station selection
   const handleStationChange = (stations) => {
-    // Ensure at least one station or "all" is selected
     setSelectedStations(stations.length > 0 ? stations : [{ value: "all", label: "All Stations" }]);
   };
 
@@ -67,33 +65,37 @@ const SectorAdDistributionBar = ({ data }) => {
     const stationData = {
       station,
       _rawValues: {},
+      _totalValue: 0,
     };
 
     // Aggregate data across selected weeks
     const rawValues = {};
+    let totalValue = 0;
     data.sectors.forEach((sector) => {
-      let totalValue = 0;
+      let sectorValue = 0;
       selectedWeeks.forEach((week) => {
         const weekData = data.weeks.find((w) => w.week === week.value);
         const stationEntry = weekData?.data
-          .find((s) => s.sector === sector.name)
+         ?.find((s) => s.sector === sector.name)
           ?.stations.find((s) => s.station === station);
-        totalValue += showAirtime ? stationEntry?.airtime || 0 : stationEntry?.adCount || 0;
+        sectorValue += showAirtime ? stationEntry?.airtime || 0 : stationEntry?.adCount || 0;
       });
-      rawValues[sector.name] = totalValue;
+      rawValues[sector.name] = sectorValue;
+      totalValue += sectorValue;
     });
 
     // Avoid division by zero
-    const total = Object.values(rawValues).reduce((sum, val) => sum + val, 0) || 1;
+    const total = totalValue || 1;
     data.sectors.forEach((sector) => {
       stationData[sector.name] = (rawValues[sector.name] / total) * 100;
     });
     stationData._rawValues = rawValues;
+    stationData._totalValue = totalValue;
     return stationData;
   });
 
   // Handle mouse events for tooltip
-  const handleMouseEnter = (e, station, sector, value, percentage, color) => {
+  const handleMouseEnter = (e, station, sector, value, percentage, total, color) => {
     const rect = chartContainerRef.current?.getBoundingClientRect();
     if (rect) {
       setTooltip({
@@ -104,11 +106,13 @@ const SectorAdDistributionBar = ({ data }) => {
         sector,
         value,
         percentage,
+        total,
         color,
       });
     }
   };
 
+  // Handle mouse leave for tooltip
   const handleMouseLeave = () => {
     setTooltip(null);
   };
@@ -119,8 +123,8 @@ const SectorAdDistributionBar = ({ data }) => {
   };
 
   // Calculate chart dimensions
-  const barHeight = 40;
-  const barGap = 10;
+  const barHeight = 60;
+  const barGap = 40; // Increased from 10 to 20 to reduce clutter
   const chartHeight = stations.length * (barHeight + barGap) - barGap;
   const yAxisWidth = 80;
 
@@ -130,7 +134,7 @@ const SectorAdDistributionBar = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Sector Ad Distribution by Station</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad counts"} for{" "}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
             {selectedWeeks.map((w) => w.label).join(", ")}
           </CardDescription>
         </div>
@@ -160,8 +164,8 @@ const SectorAdDistributionBar = ({ data }) => {
             onPressedChange={setShowAirtime}
             className="w-full"
           >
-            {showAirtime ? "Show Ad Counts" : "Show Airtime (s)"}
-        </Toggle>
+            {showAirtime ? "Show Ad spots" : "Show Airtime (s)"}
+          </Toggle>
         </div>
       </CardHeader>
       <Separator />
@@ -197,16 +201,17 @@ const SectorAdDistributionBar = ({ data }) => {
           >
             {chartData.map((stationData, index) => {
               let currentWidth = 0;
+              const totalValue = stationData._totalValue;
               // Sort sectors by percentage in descending order
               const sortedSectors = [...data.sectors].sort((a, b) => {
                 const aPercentage = stationData[a.name] || 0;
                 const bPercentage = stationData[b.name] || 0;
-                return bPercentage - aPercentage; // Descending order
+                return bPercentage - aPercentage;
               });
               return (
                 <div
                   key={String(stationData.station)}
-                  className="flex"
+                  className="flex relative"
                   style={{
                     position: "absolute",
                     top: `${index * (barHeight + barGap)}px`,
@@ -245,6 +250,7 @@ const SectorAdDistributionBar = ({ data }) => {
                             sector.name,
                             rawValue,
                             percentage,
+                            totalValue,
                             sector.color
                           )
                         }
@@ -257,13 +263,30 @@ const SectorAdDistributionBar = ({ data }) => {
                             textShadow: "0 0 2px rgba(0,0,0,0.5)",
                           }}
                         >
-                          {rawValue} {showAirtime ? "sec" : "count"}
+                          {rawValue} {showAirtime ? "sec" : "spot"}
                         </span>
                       </div>
                     );
                     currentWidth += percentage;
                     return segment;
                   })}
+                  {/* Total Value Label */}
+                  <span
+                    className="text-[10px] font-medium"
+                    style={{
+                      position: "absolute",
+                      top: "-24px",
+                      right: "0",
+                      backgroundColor: "rgba(0,0,0,0.6)",
+                      color: "white",
+                      padding: "3px 6px",
+                      borderRadius: "4px",
+                      boxShadow: "0 1px 2px rgba(0,0,0,0.2)",
+                      whiteSpace: "nowrap",
+                    }}
+                  >
+                    {totalValue} {showAirtime ? "sec" : "spot"}
+                  </span>
                 </div>
               );
             })}
@@ -288,10 +311,10 @@ const SectorAdDistributionBar = ({ data }) => {
                 <span className="text-sm text-muted-foreground">{tooltip.sector}</span>
               </div>
               <p className="text-sm font-medium mt-1">
-                {tooltip.value} {showAirtime ? "sec" : "count"}
+                {tooltip.value} {showAirtime ? "sec" : "spot"}
               </p>
               <p className="text-xs text-muted-foreground">
-                {Math.round(tooltip.percentage)}% of total
+                {Math.round(tooltip.percentage)}% of {tooltip.total} {showAirtime ? "sec" : "spot"}
               </p>
             </div>
           )}
@@ -299,20 +322,7 @@ const SectorAdDistributionBar = ({ data }) => {
       </CardContent>
       <Separator />
       <CardFooter className="p-4">
-        <Collapsible
-          open={isCollapsibleOpen}
-          onOpenChange={setIsCollapsibleOpen}
-          className="w-full"
-        >
-          <CollapsibleTrigger className="flex items-center justify-between gap-2 text-sm font-medium w-full bg-secondary p-2 rounded hover:bg-secondary/80 transition-colors cursor-pointer">
-            {isCollapsibleOpen ? "Hide Labels" : "Show Labels"}
-            {isCollapsibleOpen ? (
-              <ChevronUp className="h-4 w-4" />
-            ) : (
-              <ChevronDown className="h-4 w-4" />
-            )}
-          </CollapsibleTrigger>
-          <CollapsibleContent className="flex flex-wrap gap-2 mt-2">
+       <div className="flex flex-wrap gap-2 mt-2">
             {data.sectors.map((sector) => (
               <button
                 key={sector.name}
@@ -327,8 +337,7 @@ const SectorAdDistributionBar = ({ data }) => {
                 {sector.name}
               </button>
             ))}
-          </CollapsibleContent>
-        </Collapsible>
+          </div>
       </CardFooter>
     </Card>
   );

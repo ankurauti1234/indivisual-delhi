@@ -1,9 +1,6 @@
-/* ad-daily-trends-line.jsx */
-/* eslint-disable @typescript-eslint/no-explicit-any */
-"use client";
-
+'use client'
 import React, { useState } from "react";
-import { CartesianGrid, Line, LineChart, XAxis, YAxis } from "recharts";
+import { CartesianGrid, Line, LineChart, XAxis, YAxis, LabelList } from "recharts"; // Add LabelList to imports
 import {
   Card,
   CardContent,
@@ -97,7 +94,7 @@ const AdDailyTrendsLine = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Daily Ad Trends by Station</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad counts"} for{" "}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
             {selectedWeeks.map((w) => w.label).join(", ")}
           </CardDescription>
         </div>
@@ -127,7 +124,7 @@ const AdDailyTrendsLine = ({ data }) => {
             onPressedChange={setShowAirtime}
             className="w-full"
           >
-            {showAirtime ? "Show Ad Counts" : "Show Airtime (s)"}
+            {showAirtime ? "Show Ad spots" : "Show Airtime (s)"}
           </Toggle>
         </div>
       </CardHeader>
@@ -178,7 +175,17 @@ const AdDailyTrendsLine = ({ data }) => {
                 activeDot={{
                   r: 6,
                 }}
-              />
+              >
+                <LabelList
+                  dataKey={station}
+                  position="top"
+                  style={{
+                    fontSize: "12px",
+                    fill: chartConfig[station]?.color || "#8884d8",
+                  }}
+                  formatter={(value) => (value !== 0 ? value : "")} // Only show non-zero values
+                />
+              </Line>
             ))}
           </LineChart>
         </ChartContainer>

@@ -1,47 +1,44 @@
-'use client'
-import React, { Suspense, useState, useEffect } from 'react'
-import { useRouter, useSearchParams } from 'next/navigation'
-import EPG from '@/components/program-grid/EPG'
-import { availableData as delhiData } from "@/data/delhi";
-import { availableData as patnaData } from "@/data/patna";
+'use client';
+import React, { Suspense, useState, useEffect } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
+import EPG from '@/components/program-grid/EPG';
+import { availableData as delhiData } from '@/data/delhi';
+import { availableData as patnaData } from '@/data/patna';
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select"
+} from '@/components/ui/select';
 
-const Page = () => {
-  const router = useRouter()
-  const searchParams = useSearchParams()
-  const [selectedRegion, setSelectedRegion] = useState('delhi')
-  const [key, setKey] = useState(0) // Key to force EPG re-render
-  
+function ProgramGridContent() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const [selectedRegion, setSelectedRegion] = useState('delhi');
+  const [key, setKey] = useState(0);
+
   const regionData = {
     delhi: delhiData,
-    patna: patnaData
-  }
-  
-  // Initialize region from URL params on component mount
+    patna: patnaData,
+  };
+
   useEffect(() => {
-    const regionFromUrl = searchParams.get('region')
+    const regionFromUrl = searchParams.get('region');
     if (regionFromUrl && (regionFromUrl === 'delhi' || regionFromUrl === 'patna')) {
-      setSelectedRegion(regionFromUrl)
+      setSelectedRegion(regionFromUrl);
     }
-  }, [searchParams])
-  
-  const currentData = regionData[selectedRegion]
+  }, [searchParams]);
+
+  const currentData = regionData[selectedRegion];
 
   const handleRegionChange = (newRegion) => {
-    setSelectedRegion(newRegion)
-    setKey(prev => prev + 1) // Force EPG component to re-render
-    
-    // Update URL with new region parameter
-    const url = new URL(window.location.href)
-    url.searchParams.set('region', newRegion)
-    router.push(url.pathname + url.search, { scroll: false })
-  }
+    setSelectedRegion(newRegion);
+    setKey((prev) => prev + 1);
+    const url = new URL(window.location.href);
+    url.searchParams.set('region', newRegion);
+    router.push(url.pathname + url.search, { scroll: false });
+  };
 
   return (
     <div className="space-y-6 p-4">
@@ -59,21 +56,24 @@ const Page = () => {
           </SelectContent>
         </Select>
       </div>
-      
-      <Suspense
-        fallback={
-          <div className="flex items-center justify-center h-[90vh] bg-white dark:bg-zinc-900 rounded-2xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50">
-            <div className="flex flex-col items-center gap-4">
-              <div className="animate-spin rounded-full h-12 w-12 border-t-4 border-indigo-600 dark:border-indigo-400"></div>
-              <p className="text-lg font-medium text-zinc-800 dark:text-zinc-100">Loading EPG Data...</p>
-            </div>
-          </div>
-        }
-      >
-        <EPG key={key} region={selectedRegion} availableData={currentData} />
-      </Suspense>
+      <EPG key={key} region={selectedRegion} availableData={currentData} />
     </div>
-  )
+  );
 }
 
-export default Page
+export default function Page() {
+  return (
+    <Suspense
+      fallback={
+        <div className="flex items-center justify-center h-[90vh] bg-white dark:bg-zinc-900 rounded-2xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50">
+          <div className="flex flex-col items-center gap-4">
+            <div className="animate-spin rounded-full h-12 w-12 border-t-4 border-indigo-600 dark:border-indigo-400"></div>
+            <p className="text-lg font-medium text-zinc-800 dark:text-zinc-100">Loading EPG Data...</p>
+          </div>
+        </div>
+      }
+    >
+      <ProgramGridContent />
+    </Suspense>
+  );
+}

@@ -55,10 +55,12 @@ const CustomCommand = ({ children }) => (
   <div className="border rounded-md bg-white">{children}</div>
 );
 
-const CustomCommandInput = ({ placeholder }) => (
+const CustomCommandInput = ({ placeholder, value, onChange }) => (
   <input
     type="text"
     placeholder={placeholder}
+    value={value}
+    onChange={onChange}
     className="w-full p-2 border-b outline-none"
   />
 );
@@ -144,6 +146,7 @@ const TopAdComparisonTable = ({ data }) => {
   const [showAirtime, setShowAirtime] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [openCombobox, setOpenCombobox] = useState(false);
+  const [searchTerm, setSearchTerm] = useState("");
   const itemsPerPage = 10;
 
   // Derive options
@@ -166,17 +169,33 @@ const TopAdComparisonTable = ({ data }) => {
     }));
   }, [data]);
 
-  // Filter data
+  // Filter and sort data
   const filteredData = useMemo(() => {
     const weekData = data.weeks.find((w) => w.week === selectedWeek)?.data || [];
-    return weekData.filter((ad) => {
-      const matchesSector =
-        selectedSectors.length === 0 ||
-        selectedSectors.some((s) => s.value === ad.sector);
-      const matchesAdvertiser = !selectedAdvertiser || ad.advertiser === selectedAdvertiser;
-      return matchesSector && matchesAdvertiser;
-    });
-  }, [data, selectedWeek, selectedSectors, selectedAdvertiser]);
+    return weekData
+      .filter((ad) => {
+        const matchesSector =
+          selectedSectors.length === 0 ||
+          selectedSectors.some((s) => s.value === ad.sector);
+        const matchesAdvertiser = !selectedAdvertiser || ad.advertiser === selectedAdvertiser;
+        return matchesSector && matchesAdvertiser;
+      })
+      .map((ad) => ({
+        ...ad,
+        totalValue: ad.stations.reduce(
+          (sum, s) => sum + (showAirtime ? s.airtime : s.adCount),
+          0
+        ),
+      }))
+      .sort((a, b) => b.totalValue - a.totalValue); // Sort by totalValue in descending order
+  }, [data, selectedWeek, selectedSectors, selectedAdvertiser, showAirtime]);
+
+  // Filtered advertiser options for search
+  const filteredAdvertiserOptions = useMemo(() => {
+    return advertiserOptions.filter((option) =>
+      option.label.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+  }, [advertiserOptions, searchTerm]);
 
   // Pagination
   const totalItems = filteredData.length;
@@ -232,7 +251,7 @@ const TopAdComparisonTable = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Top Advertisers Comparison</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad counts"} for {selectedWeek}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for {selectedWeek}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
@@ -274,11 +293,15 @@ const TopAdComparisonTable = ({ data }) => {
             </PopoverTrigger>
             <PopoverContent className="w-[200px] p-0">
               <CustomCommand>
-                <CustomCommandInput placeholder="Search advertiser..." />
+                <CustomCommandInput
+                  placeholder="Search advertiser..."
+                  value={searchTerm}
+                  onChange={(e) => setSearchTerm(e.target.value)}
+                />
                 <CustomCommandList>
                   <CustomCommandEmpty>No advertisers found.</CustomCommandEmpty>
                   <CustomCommandGroup>
-                    {advertiserOptions.map((advertiser) => (
+                    {filteredAdvertiserOptions.map((advertiser) => (
                       <CustomCommandItem
                         key={advertiser.value}
                         value={advertiser.value}
@@ -287,6 +310,7 @@ const TopAdComparisonTable = ({ data }) => {
                             currentValue === selectedAdvertiser ? "" : currentValue
                           );
                           setOpenCombobox(false);
+                          setSearchTerm(""); // Reset search term on selection
                         }}
                         selected={selectedAdvertiser === advertiser.value}
                       >
@@ -303,7 +327,7 @@ const TopAdComparisonTable = ({ data }) => {
             onPressedChange={setShowAirtime}
             className="w-full"
           >
-            {showAirtime ? "Show Ad Counts" : "Show Airtime (s)"}
+            {showAirtime ? "Show Ad spots" : "Show Airtime (s)"}
           </CustomToggle>
         </div>
       </CardHeader>

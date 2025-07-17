@@ -5,6 +5,7 @@ import { Treemap, ResponsiveContainer, Tooltip } from "recharts";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { Switch } from "@/components/ui/switch";
 import { ArrowLeft } from "lucide-react";
 
 // Vibrant colors for treemap rectangles
@@ -19,13 +20,14 @@ const COLORS = [
   "#9C27B0", // Purple
 ];
 
-const MarketShareTreemap = ({ data }) => {
+const MarketShareTreemap = ({ data, secondsData }) => {
   const [selectedWeek, setSelectedWeek] = useState(data.weeks[0] || "");
   const [selectedStation, setSelectedStation] = useState(data.stations[0]?.station || "");
   const [selectedSector, setSelectedSector] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [selectedBrand, setSelectedBrand] = useState(null);
   const [hoveredItem, setHoveredItem] = useState(null);
+  const [usespots, setUsespots] = useState(true); // Toggle state: true for spots, false for seconds
 
   // Reset drill-down when station or week changes
   const handleStationChange = (value) => {
@@ -64,15 +66,17 @@ const MarketShareTreemap = ({ data }) => {
   // Get title based on current level
   const getTitle = () => {
     const weekDisplay = selectedWeek;
-    if (selectedBrand) return `${selectedBrand} Sub-Brands (Week: ${weekDisplay}, Station: ${selectedStation})`;
-    if (selectedCategory) return `${selectedCategory} Brands (Week: ${weekDisplay}, Station: ${selectedStation})`;
-    if (selectedSector) return `${selectedSector} Categories (Week: ${weekDisplay}, Station: ${selectedStation})`;
-    return `Market Share by Sector (Week: ${weekDisplay}, Station: ${selectedStation})`;
+    const unit = usespots ? "Spots" : "Seconds";
+    if (selectedBrand) return `${selectedBrand} Sub-Brands (${unit}, Week: ${weekDisplay}, Station: ${selectedStation})`;
+    if (selectedCategory) return `${selectedCategory} Brands (${unit}, Week: ${weekDisplay}, Station: ${selectedStation})`;
+    if (selectedSector) return `${selectedSector} Categories (${unit}, Week: ${weekDisplay}, Station: ${selectedStation})`;
+    return `Market Share by Sector (${unit}, Week: ${weekDisplay}, Station: ${selectedStation})`;
   };
 
   // Prepare treemap data
   const treemapData = useMemo(() => {
-    const stationData = data.stations.find(s => s.station === selectedStation);
+    const currentData = usespots ? data : secondsData;
+    const stationData = currentData.stations.find(s => s.station === selectedStation);
     if (!stationData) return [];
 
     const currentLevel = getCurrentLevel();
@@ -94,17 +98,22 @@ const MarketShareTreemap = ({ data }) => {
       items = brand?.subBrands || [];
     }
 
+    // Calculate total marketShare for normalization (used for treemap proportions)
+    const totalMarketShare = items.reduce((sum, item) => sum + item.marketShare, 0);
+
     return items.map((item, index) => ({
       name: item.name,
-      size: item.marketShare,
+      size: totalMarketShare > 0 ? (item.marketShare / totalMarketShare) * 100 : 0, // Normalize for treemap size
+      rawValue: item.marketShare, // Store raw value for display
       color: COLORS[index % COLORS.length],
     }));
-  }, [data, selectedStation, selectedSector, selectedCategory, selectedBrand]);
+  }, [data, secondsData, selectedStation, selectedSector, selectedCategory, selectedBrand, usespots]);
 
   // Handle treemap click for drill-down
   const handleClick = (name) => {
+    const currentData = usespots ? data : secondsData;
     const currentLevel = getCurrentLevel();
-    const stationData = data.stations.find(s => s.station === selectedStation);
+    const stationData = currentData.stations.find(s => s.station === selectedStation);
     if (!stationData) return;
 
     if (currentLevel === "sectors") {
@@ -134,7 +143,7 @@ const MarketShareTreemap = ({ data }) => {
   };
 
   // Custom treemap content
-  const CustomizedContent = ({ x, y, width, height, name, size, color }) => {
+  const CustomizedContent = ({ x, y, width, height, name, size, rawValue, color }) => {
     const isHovered = hoveredItem === name;
     const display = width > 50 && height > 50;
     const currentLevel = getCurrentLevel();
@@ -184,7 +193,7 @@ const MarketShareTreemap = ({ data }) => {
                 fontWeight: "400",
               }}
             >
-              {size?.toFixed(2)}%
+              {Math.round(rawValue)} {usespots ? "" : "s"}
             </tspan>
           </text>
         )}
@@ -206,7 +215,9 @@ const MarketShareTreemap = ({ data }) => {
             <h3 className="font-semibold text-lg">{data.name}</h3>
           </div>
           <div className="space-y-2">
-            <p className="text-sm text-gray-600">Market Share: {data.size?.toFixed(2)}%</p>
+            <p className="text-sm text-gray-600">
+              {usespots ? `Spots: ${Math.round(data.rawValue)}` : `Seconds: ${Math.round(data.rawValue)}`}
+            </p>
           </div>
         </div>
       );
@@ -224,6 +235,16 @@ const MarketShareTreemap = ({ data }) => {
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
+          <div className="flex items-center space-x-2">
+            <Switch
+              checked={usespots}
+              onCheckedChange={setUsespots}
+              id="toggle-unit"
+            />
+            <label htmlFor="toggle-unit" className="text-sm">
+              {usespots ? "Spots" : "Seconds"}
+            </label>
+          </div>
           <Select value={selectedWeek} onValueChange={handleWeekChange}>
             <SelectTrigger className="w-[180px]">
               <SelectValue placeholder="Select week" />
