@@ -1,0 +1,3804 @@
+{
+  "stations": ["BIG FM", "RED FM", "Radio City", "Radio Mirchi"],
+  "sectors": [
+    {
+      "name": "PUBLIC INTEREST"
+    },
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "HOME FURNISHING"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "CONSUMER DURABLES"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "CONSTRUCTION"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "PROPERTY"
+    },
+    {
+      "name": "ACCESSORIES"
+    },
+    {
+      "name": "E-COMMERCE"
+    },
+    {
+      "name": "INDUSTRIAL SAFETY"
+    },
+    {
+      "name": "RENEWABLE ENERGY"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "brand": "ABBOTT",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ACHARYA MANISH JI",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ADITYA VISION",
+          "sector": "CONSUMER DURABLES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 103,
+              "airtime": 1545
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AFCAT IAF",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AMITY UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 79,
+              "airtime": 1185
+            }
+          ]
+        },
+        {
+          "brand": "AMITY UNIVERSITY PATNA",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 92,
+              "airtime": 1380
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANIMAL HUSBANDRY AND FISHERIES DEPT.&PUBLIC RELATIONS DEPT",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "brand": "ARCADE BUSINESS COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 141,
+              "airtime": 2115
+            },
+            {
+              "station": "RED FM",
+              "adCount": 146,
+              "airtime": 2190
+            },
+            {
+              "station": "Radio City",
+              "adCount": 152,
+              "airtime": 2280
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ASG HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ASIAN CITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 91,
+              "airtime": 1365
+            }
+          ]
+        },
+        {
+          "brand": "BHEEMANTA JEWELLARY",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "BHOPAL UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BIG APOLLO SPECTRA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 228,
+              "airtime": 3420
+            },
+            {
+              "station": "Radio City",
+              "adCount": 173,
+              "airtime": 2595
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 137,
+              "airtime": 2055
+            }
+          ]
+        },
+        {
+          "brand": "BIG FM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BIGLIVE",
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BIHAR GOVERNMENT",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 13,
+              "airtime": 195
+            }
+          ]
+        },
+        {
+          "brand": "BLUE SQUARE YAMAHA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CANARA BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 38,
+              "airtime": 570
+            },
+            {
+              "station": "RED FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "Radio City",
+              "adCount": 211,
+              "airtime": 3165
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CD GROUP OF INSTITUTIONS",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 98,
+              "airtime": 1470
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CHACHA CHAUDHARY",
+          "sector": "INDUSTRIAL SAFETY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CHANDIGARH UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 92,
+              "airtime": 1380
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 120,
+              "airtime": 1800
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CIPLA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "D.B.S. (P.G.) COLLEGE DEHRADUN",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 58,
+              "airtime": 870
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DABUN SOLAR",
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DAVA INDIA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 166,
+              "airtime": 2490
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 109,
+              "airtime": 1635
+            }
+          ]
+        },
+        {
+          "brand": "DBS GLOBAL UNIVERSITY DEHRADUN",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 96,
+              "airtime": 1440
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DEV BHOOMI UTTARAKHAND UNIVERSITY (DBUU)",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DOON UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 46,
+              "airtime": 690
+            }
+          ]
+        },
+        {
+          "brand": "DR ORTHO",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 37,
+              "airtime": 555
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 31,
+              "airtime": 465
+            }
+          ]
+        },
+        {
+          "brand": "DR. BAIDYA DIAGNOSTIC LABORATORY PVT LTD",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "Radio City",
+              "adCount": 129,
+              "airtime": 1935
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. VAIBHAV PANDHARKAR",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "FEDERAL BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 60,
+              "airtime": 900
+            }
+          ]
+        },
+        {
+          "brand": "GAANA",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 198,
+              "airtime": 2970
+            }
+          ]
+        },
+        {
+          "brand": "GOLDEN",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOLDIEE",
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 193,
+              "airtime": 2895
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 226,
+              "airtime": 3390
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 179,
+              "airtime": 2685
+            }
+          ]
+        },
+        {
+          "brand": "GOV OF INDIA",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF BHIHAR",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF BIHAR",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 350,
+              "airtime": 5250
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 581,
+              "airtime": 8715
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF BIHAR URJA VIBHAG",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF INDIA",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT WATER INSPECTION",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 40,
+              "airtime": 600
+            }
+          ]
+        },
+        {
+          "brand": "GOVT OF BIHAR",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 7,
+              "airtime": 105
+            }
+          ]
+        },
+        {
+          "brand": "GOVT OF INDIA",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 75
+            }
+          ]
+        },
+        {
+          "brand": "GROWMED",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 276,
+              "airtime": 4140
+            },
+            {
+              "station": "RED FM",
+              "adCount": 277,
+              "airtime": 4155
+            },
+            {
+              "station": "Radio City",
+              "adCount": 306,
+              "airtime": 4590
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GYGY GROUP",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "HERITAGE INFRASPACE",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 243,
+              "airtime": 3645
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HERITAGE TOYOTA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HERO MOTOCORP",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 10,
+              "airtime": 150
+            }
+          ]
+        },
+        {
+          "brand": "HP RACER FUTURE X",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 62,
+              "airtime": 930
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 78,
+              "airtime": 1170
+            }
+          ]
+        },
+        {
+          "brand": "HYUNDAI",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "Radio City",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 20,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "brand": "I.K. GUJRAL PUNJAB TECHNICAL UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "Radio City",
+              "adCount": 58,
+              "airtime": 870
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ICAI",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RED FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "Radio City",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ICAI INSTITUTE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 10,
+              "airtime": 150
+            }
+          ]
+        },
+        {
+          "brand": "IES UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "IES UNIVERSITY BHOPAL",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 56,
+              "airtime": 840
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN AIR FORCE",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN NAVY",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 24,
+              "airtime": 360
+            }
+          ]
+        },
+        {
+          "brand": "INDIRA IVF",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "brand": "INDIRA UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 41,
+              "airtime": 615
+            }
+          ]
+        },
+        {
+          "brand": "ISM",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ISM COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ISM PATNA",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "RED FM",
+              "adCount": 52,
+              "airtime": 780
+            },
+            {
+              "station": "Radio City",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 72,
+              "airtime": 1080
+            }
+          ]
+        },
+        {
+          "brand": "JAGMOHAN LAL SHIVRATAN LAL JEWELLERY",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 95,
+              "airtime": 1425
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JAGRAN PRAKASHAN LIMITED",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 63,
+              "airtime": 945
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JAY PRABHA MEDANTA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 62,
+              "airtime": 930
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "brand": "JSP MOTORS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "KALPANA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 89,
+              "airtime": 1335
+            },
+            {
+              "station": "Radio City",
+              "adCount": 157,
+              "airtime": 2355
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "KAPILA PASHU AAHAR",
+          "sector": "ANIMAL HUSBANDRY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 34,
+              "airtime": 510
+            },
+            {
+              "station": "RED FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 33,
+              "airtime": 495
+            }
+          ]
+        },
+        {
+          "brand": "KISAN PASHU AAHAR",
+          "sector": "ANIMAL HUSBANDRY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "Radio City",
+              "adCount": 81,
+              "airtime": 1215
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 72,
+              "airtime": 1080
+            }
+          ]
+        },
+        {
+          "brand": "KM HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 76,
+              "airtime": 1140
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LA PINO'Z",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LIC",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 54,
+              "airtime": 810
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 50,
+              "airtime": 750
+            }
+          ]
+        },
+        {
+          "brand": "MADHU",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 175,
+              "airtime": 2625
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 178,
+              "airtime": 2670
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 176,
+              "airtime": 2640
+            }
+          ]
+        },
+        {
+          "brand": "MAHABODHI MEDICAL COLLEGE&HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 136,
+              "airtime": 2040
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MAHINDRA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 159,
+              "airtime": 2385
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MAHINDRA&MAHINDRA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MANKIND PHARMA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MCDONALD'S",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MCDONALD\u2019S INDIA",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 79,
+              "airtime": 1185
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MEDI-CAPS UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 142,
+              "airtime": 2130
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MEDIVERSAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MEDLEY PHARMACEUTICALS",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "METLIFE",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MITSUBISHI",
+          "sector": "CONSUMER DURABLES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MUNDESHWARI GROUP",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 82,
+              "airtime": 1230
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "MUTUAL FUND",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MUZAK DISCO",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NARSINGH DERMA CLINIC",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NCETIR",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 76,
+              "airtime": 1140
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NCPC",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 22,
+              "airtime": 330
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NOVA IVF",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 75
+            }
+          ]
+        },
+        {
+          "brand": "NSIT COLLAGE PATNA",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PAN BAHAR",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 299,
+              "airtime": 4485
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PANCHAYATI RAJ VIBHAG",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 75
+            }
+          ]
+        },
+        {
+          "brand": "PATANJALI",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 22,
+              "airtime": 330
+            },
+            {
+              "station": "Radio City",
+              "adCount": 85,
+              "airtime": 1275
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 58,
+              "airtime": 870
+            }
+          ]
+        },
+        {
+          "brand": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 70,
+              "airtime": 1050
+            }
+          ]
+        },
+        {
+          "brand": "PRISM",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 79,
+              "airtime": 1185
+            },
+            {
+              "station": "Radio City",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 92,
+              "airtime": 1380
+            }
+          ]
+        },
+        {
+          "brand": "PRISM CHAMPION",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 76,
+              "airtime": 1140
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PROPERTY4PATNA",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 74,
+              "airtime": 1110
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PUNJAB NATIONAL BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PUNJAB STATE UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 34,
+              "airtime": 510
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "R PATEL WEALTH",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 95,
+              "airtime": 1425
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 277,
+              "airtime": 4155
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAYZON SOLAR",
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "brand": "RBI",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RED FM",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "Radio City",
+              "adCount": 30,
+              "airtime": 450
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 12,
+              "airtime": 180
+            }
+          ]
+        },
+        {
+          "brand": "RC SWAPPR",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RED FM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "REDMI PAD 2",
+          "sector": "CONSUMER DURABLES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 84,
+              "airtime": 1260
+            }
+          ]
+        },
+        {
+          "brand": "RERA ACT",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 45,
+              "airtime": 675
+            },
+            {
+              "station": "RED FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "Radio City",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 42,
+              "airtime": 630
+            }
+          ]
+        },
+        {
+          "brand": "RERA BIHAR",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "RED FM",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "Radio City",
+              "adCount": 45,
+              "airtime": 675
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 39,
+              "airtime": 585
+            }
+          ]
+        },
+        {
+          "brand": "RKD BUSINESS COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 141,
+              "airtime": 2115
+            }
+          ]
+        },
+        {
+          "brand": "RKDF UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 205,
+              "airtime": 3075
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ROOP MANTRA",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 19,
+              "airtime": 285
+            }
+          ]
+        },
+        {
+          "brand": "RURAL DEVELOPMENT SCHEME",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 8,
+              "airtime": 120
+            }
+          ]
+        },
+        {
+          "brand": "RUSH",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 292,
+              "airtime": 4380
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 297,
+              "airtime": 4455
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SACHI SAHELI",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 16,
+              "airtime": 240
+            }
+          ]
+        },
+        {
+          "brand": "SALONI",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 94,
+              "airtime": 1410
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SARBOTTAM",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SATYAVRAT HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 60,
+              "airtime": 900
+            },
+            {
+              "station": "RED FM",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SBI",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 22,
+              "airtime": 330
+            }
+          ]
+        },
+        {
+          "brand": "SCHOLARS ABODE SCHOOL",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 29,
+              "airtime": 435
+            }
+          ]
+        },
+        {
+          "brand": "SHARDA UNIVERSITY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 46,
+              "airtime": 690
+            }
+          ]
+        },
+        {
+          "brand": "SHREE OM SAI GROUP",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "Radio City",
+              "adCount": 124,
+              "airtime": 1860
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHREE SAI",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHRI SAI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 135,
+              "airtime": 2025
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SONALI",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "STATE BANK OF INDIA",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 95,
+              "airtime": 1425
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SWASTH VIBHAG",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TATA MOTOR COMMERCIAL VEHICLES",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TBZ",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 100,
+              "airtime": 1500
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TITAN",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TRIBHOVANDAS BHIMJI ZAVERI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 99,
+              "airtime": 1485
+            }
+          ]
+        },
+        {
+          "brand": "TRIBHOVANDAS BHIMJI ZAVERI(TBZ) JEWELLERY",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 111,
+              "airtime": 1665
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TVS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "brand": "UCO BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 14,
+              "airtime": 210
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VARANASI DEVELOPMENT AUTHORITY (VDA)",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VEDANTA HEART COMMAND CENTRE",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 57,
+              "airtime": 855
+            }
+          ]
+        },
+        {
+          "brand": "VIMAL",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 132,
+              "airtime": 1980
+            },
+            {
+              "station": "RED FM",
+              "adCount": 159,
+              "airtime": 2385
+            },
+            {
+              "station": "Radio City",
+              "adCount": 195,
+              "airtime": 2925
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 84,
+              "airtime": 1260
+            }
+          ]
+        },
+        {
+          "brand": "VIRAT HOME INFRA",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 152,
+              "airtime": 2280
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VOLTAS",
+          "sector": "CONSUMER DURABLES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 116,
+              "airtime": 1740
+            },
+            {
+              "station": "RED FM",
+              "adCount": 161,
+              "airtime": 2415
+            },
+            {
+              "station": "Radio City",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 120,
+              "airtime": 1800
+            }
+          ]
+        },
+        {
+          "brand": "VOTERS",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "brand": "YAMAHA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 27,
+              "airtime": 405
+            }
+          ]
+        },
+        {
+          "brand": "ZALIM PLUS LOTION",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio City",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
