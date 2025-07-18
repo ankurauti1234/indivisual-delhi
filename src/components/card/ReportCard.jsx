@@ -135,14 +135,14 @@ const ReportCard = ({ image, title, lastUpdated, page, subpage, slug, descriptio
                      {slug}
                       </p>
                     </CardContent>
-                    <CardFooter className="flex justify-between items-end">
+                    {/* <CardFooter className="flex justify-between items-end">
                       <div className="flex items-center gap-2">
                         <p className="text-sm text-foreground/45">
                           Published
                         </p>
                         <p className="text-foreground/75 font-bold text-sm">{lastUpdated}</p>
                       </div>
-                    </CardFooter>
+                    </CardFooter> */}
                   </Card>
                 </motion.div>
               )}

@@ -268,7 +268,7 @@ export const radio_broad_reports = [
   {
     id: 1,
     image: "/images/program-grid.png",
-    title: "Program Grid Delhi-V1",
+    title: "Program Grid Delhi",
     description:
       "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
     lastUpdated: "May 1, 2024",
@@ -292,7 +292,7 @@ export const radio_broad_reports = [
   {
     id: 3,
     image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Delhi",
+    title: "Weekly Analysis Delhi-V1",
     description:
       "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
