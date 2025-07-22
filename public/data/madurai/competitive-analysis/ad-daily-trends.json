@@ -23,6 +23,7 @@
       "data": [
         {
           "date": "2025-07-01",
+          "day":"Tuesday",
           "stations": [
             {
               "station": "HELLO FM",
@@ -48,6 +49,7 @@
         },
         {
           "date": "2025-07-02",
+          "day": "Wednesday",
           "stations": [
             {
               "station": "HELLO FM",
@@ -73,6 +75,7 @@
         },
         {
           "date": "2025-07-03",
+          "day": "Thursday",
           "stations": [
             {
               "station": "HELLO FM",
@@ -98,6 +101,7 @@
         },
         {
           "date": "2025-07-04",
+          "day": "Friday",
           "stations": [
             {
               "station": "HELLO FM",
@@ -123,6 +127,7 @@
         },
         {
           "date": "2025-07-05",
+          "day": "Saturday",
           "stations": [
             {
               "station": "HELLO FM",
@@ -148,6 +153,7 @@
         },
         {
           "date": "2025-07-06",
+          "day": "Sunday",
           "stations": [
             {
               "station": "HELLO FM",
@@ -173,6 +179,7 @@
         },
         {
           "date": "2025-07-07",
+          "day": "Monday",
           "stations": [
             {
               "station": "HELLO FM",

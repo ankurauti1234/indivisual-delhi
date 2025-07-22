@@ -61,7 +61,7 @@ const AdDailyTrendsLine = ({ data }) => {
     })
     .reduce((acc, dateData) => {
       if (!acc[dateData.date]) {
-        acc[dateData.date] = { date: dateData.date };
+        acc[dateData.date] = { date: dateData.date, day: dateData.day };
         stations.forEach((station) => {
           acc[dateData.date][station] = 0;
         });
@@ -106,7 +106,9 @@ const AdDailyTrendsLine = ({ data }) => {
             placeholder="Select weeks"
             hideClearAllButton
             hidePlaceholderWhenSelected
-            emptyIndicator={<p className="text-center text-sm">No weeks found</p>}
+            emptyIndicator={
+              <p className="text-center text-sm">No weeks found</p>
+            }
             className="max-w-64 w-full"
           />
           <MultipleSelector
@@ -116,7 +118,9 @@ const AdDailyTrendsLine = ({ data }) => {
             placeholder="Select stations"
             hideClearAllButton
             hidePlaceholderWhenSelected
-            emptyIndicator={<p className="text-center text-sm">No stations found</p>}
+            emptyIndicator={
+              <p className="text-center text-sm">No stations found</p>
+            }
             className="max-w-64 w-full"
           />
           <Toggle
@@ -147,8 +151,14 @@ const AdDailyTrendsLine = ({ data }) => {
               tickLine={false}
               axisLine={false}
               tickMargin={8}
-              tickFormatter={(value) => value.slice(5, 10)} // Format date as MM-DD
+              tickFormatter={(value) => {
+                const entry = formattedChartData.find((d) => d.date === value);
+                if (!entry) return value;
+                const shortDay = entry.day?.slice(0, 3); // e.g., "Tue"
+                return `${shortDay} ${value.slice(5)}`; // e.g., "Tue 07-01"
+              }}
             />
+
             <YAxis
               tickLine={false}
               axisLine={false}
@@ -159,9 +169,7 @@ const AdDailyTrendsLine = ({ data }) => {
                 position: "insideLeft",
               }}
             />
-            <ChartTooltip
-              cursor={false}
-            />
+            <ChartTooltip cursor={false} />
             {stations.map((station) => (
               <Line
                 key={station}
