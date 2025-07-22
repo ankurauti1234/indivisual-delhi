@@ -288,9 +288,31 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "program-grid-patna",
   },
-
   {
     id: 3,
+    image: "/images/program-grid.png",
+    title: "Program Grid Agra",
+    description:
+      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
+    lastUpdated: "May 1, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "program-grid-agra",
+  },
+  {
+    id: 4,
+    image: "/images/program-grid.png",
+    title: "Program Grid Madurai",
+    description:
+      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
+    lastUpdated: "May 1, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "program-grid-madurai",
+  },
+
+  {
+    id: 5,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Delhi-V1",
     description:
@@ -302,7 +324,7 @@ export const radio_broad_reports = [
   },
 
   {
-    id: 4,
+    id: 6,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Patna",
     description:
@@ -314,7 +336,7 @@ export const radio_broad_reports = [
   },
 
   {
-    id: 5,
+    id: 7,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Delhi-V2",
     description:
@@ -325,7 +347,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-fever",
   },
   {
-    id: 6,
+    id: 8,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Agra",
     description:
@@ -336,7 +358,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-agra",
   },
   {
-    id: 7,
+    id: 9,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Madurai",
     description:
