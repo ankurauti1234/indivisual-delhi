@@ -28,13 +28,13 @@
         {
           "title": "Top Radio by Counts",
           "desc": "Radio stations ranked by total ad counts",
-          "keys": ["RADIO CITY", "HELLO FM", "Radio Mirchi", "SURIYAN FM"],
+          "keys": ["RADIO CITY", "HELLO FM", "RADIO MIRCHI", "SURIYAN FM"],
           "values": ["4568", "8641", "4111", "6046"]
         },
         {
           "title": "Top Radio by Seconds",
           "desc": "Radio stations ranked by total ad seconds",
-          "keys": ["RADIO CITY", "HELLO FM", "Radio Mirchi", "SURIYAN FM"],
+          "keys": ["RADIO CITY", "HELLO FM", "RADIO MIRCHI", "SURIYAN FM"],
           "values": ["87242", "90241", "64969", "89354"]
         }
       ]
