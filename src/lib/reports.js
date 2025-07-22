@@ -277,44 +277,44 @@ export const radio_broad_reports = [
     slug: "program-grid",
   },
 
-  {
-    id: 2,
-    image: "/images/program-grid.png",
-    title: "Program Grid Patna",
-    description:
-      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
-    lastUpdated: "May 1, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "program-grid-patna",
-  },
-  {
-    id: 3,
-    image: "/images/program-grid.png",
-    title: "Program Grid Agra",
-    description:
-      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
-    lastUpdated: "May 1, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "program-grid-agra",
-  },
-  {
-    id: 4,
-    image: "/images/program-grid.png",
-    title: "Program Grid Madurai",
-    description:
-      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
-    lastUpdated: "May 1, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "program-grid-madurai",
-  },
+  // {
+  //   id: 2,
+  //   image: "/images/program-grid.png",
+  //   title: "Program Grid Patna",
+  //   description:
+  //     "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
+  //   lastUpdated: "May 1, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "program-grid-patna",
+  // },
+  // {
+  //   id: 3,
+  //   image: "/images/program-grid.png",
+  //   title: "Program Grid Agra",
+  //   description:
+  //     "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
+  //   lastUpdated: "May 1, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "program-grid-agra",
+  // },
+  // {
+  //   id: 4,
+  //   image: "/images/program-grid.png",
+  //   title: "Program Grid Madurai",
+  //   description:
+  //     "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
+  //   lastUpdated: "May 1, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "program-grid-madurai",
+  // },
 
   {
     id: 5,
     image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Delhi-V1",
+    title: "Weekly Analysis Delhi",
     description:
       "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
@@ -335,39 +335,39 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-patna",
   },
 
-  {
-    id: 7,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Delhi-V2",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-fever",
-  },
-  {
-    id: 8,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Agra",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-agra",
-  },
-  {
-    id: 9,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Madurai",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-madurai",
-  },
+  // {
+  //   id: 7,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Delhi-V2",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-fever",
+  // },
+  // {
+  //   id: 8,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Agra",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-agra",
+  // },
+  // {
+  //   id: 9,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Madurai",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-madurai",
+  // },
 ];
 
 export const radio_ads_reports = [
