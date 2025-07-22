@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "HINDUSTAN COLLEGE",
+            "SANSKRUTI UNIVERSITY",
+            "VIMAL",
+            "MANGALAYATAN UNIVERSITY"
+          ],
+          "values": ["640", "474", "432", "419"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "HINDUSTAN COLLEGE",
+            "RADIO CITY",
+            "MANGALAYATAN UNIVERSITY",
+            "SANSKRUTI UNIVERSITY"
+          ],
+          "values": ["13408", "12994", "9176", "7915"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["RADIO CITY", "BIG FM", "FEVER FM", "TADKA FM"],
+          "values": ["4672", "3874", "2139", "1814"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["RADIO CITY", "BIG FM", "FEVER FM", "TADKA FM"],
+          "values": ["83238", "71952", "45900", "37031"]
+        }
+      ]
+    }
+  ]
+}

@@ -25,7 +25,7 @@ export default async function Page() {
   // Fetch stat-cards data
   try {
     const statCardsRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/stat-cards.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/stat-cards.json`,
       {
         cache: "no-store",
       }
@@ -45,7 +45,7 @@ export default async function Page() {
   // Fetch ad-frequency-heatmap data
   try {
     const heatmapRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/ad-frequency-heatmap.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/ad-frequency-heatmap.json`,
       {
         cache: "no-store",
       }
@@ -70,7 +70,7 @@ export default async function Page() {
   // Fetch sector-ad-distribution data
   try {
     const sectorRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/sector-ad-distribution.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/sector-ad-distribution.json`,
       {
         cache: "no-store",
       }
@@ -95,7 +95,7 @@ export default async function Page() {
   // Fetch ad-daily-trends data
   try {
     const dailyTrendsRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/ad-daily-trends.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/ad-daily-trends.json`,
       {
         cache: "no-store",
       }
@@ -122,7 +122,7 @@ export default async function Page() {
   // Fetch top-ad-comparison data
   try {
     const topAdRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/top-ad-comparison.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/top-ad-comparison.json`,
       {
         cache: "no-store",
       }
@@ -149,7 +149,7 @@ export default async function Page() {
   // Fetch untapped-ad-table data
   try {
     const untappedAdRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/untapped-ad-table.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/untapped-ad-table.json`,
       {
         cache: "no-store",
       }
@@ -176,7 +176,7 @@ export default async function Page() {
   // Fetch new-ad-table data
   try {
     const newAdRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/new-ad.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/new-ad.json`,
       {
         cache: "no-store",
       }
@@ -201,7 +201,7 @@ export default async function Page() {
   // Fetch shared-ad-bar data
   try {
     const sharedAdRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/shared-ad.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/shared-ad.json`,
       {
         cache: "no-store",
       }
@@ -228,7 +228,7 @@ export default async function Page() {
   // Fetch market-share-treemap data (counts)
   try {
     const marketShareRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/market-share.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/market-share.json`,
       {
         cache: "no-store",
       }
@@ -255,7 +255,7 @@ export default async function Page() {
   // Fetch market-share-seconds-treemap data (seconds)
   try {
     const marketShareSecondsRes = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/competitive-analysis/market-share-seconds.json`,
+      `${process.env.NEXT_PUBLIC_BASE_URL}/data/agra/competitive-analysis/market-share-seconds.json`,
       {
         cache: "no-store",
       }

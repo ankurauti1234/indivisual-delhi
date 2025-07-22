@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "FEVER FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "Radio City",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "TADKA FM",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "Unknown-Week",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 550,
+              "airtime": 166
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 420,
+              "airtime": 163
+            },
+            {
+              "station": "Radio City",
+              "adCount": 705,
+              "airtime": 192
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 160,
+              "airtime": 50
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 586,
+              "airtime": 165
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 252,
+              "airtime": 92
+            },
+            {
+              "station": "Radio City",
+              "adCount": 724,
+              "airtime": 212
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 279,
+              "airtime": 90
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 685,
+              "airtime": 211
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 372,
+              "airtime": 130
+            },
+            {
+              "station": "Radio City",
+              "adCount": 699,
+              "airtime": 203
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 471,
+              "airtime": 168
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 399,
+              "airtime": 117
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 264,
+              "airtime": 80
+            },
+            {
+              "station": "Radio City",
+              "adCount": 656,
+              "airtime": 197
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 312,
+              "airtime": 97
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 528,
+              "airtime": 176
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 399,
+              "airtime": 164
+            },
+            {
+              "station": "Radio City",
+              "adCount": 769,
+              "airtime": 257
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 238,
+              "airtime": 97
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 448,
+              "airtime": 145
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 235,
+              "airtime": 75
+            },
+            {
+              "station": "Radio City",
+              "adCount": 418,
+              "airtime": 129
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 178,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 678,
+              "airtime": 216
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 197,
+              "airtime": 59
+            },
+            {
+              "station": "Radio City",
+              "adCount": 701,
+              "airtime": 194
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 176,
+              "airtime": 52
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -277,7 +277,7 @@ export const radio_broad_reports = [
     slug: "program-grid",
   },
 
-    {
+  {
     id: 2,
     image: "/images/program-grid.png",
     title: "Program Grid Patna",
@@ -301,7 +301,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis",
   },
 
-    {
+  {
     id: 4,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Patna",
@@ -313,7 +313,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-patna",
   },
 
-    {
+  {
     id: 5,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Delhi-V2",
@@ -324,7 +324,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis-fever",
   },
-
+  {
+    id: 6,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Agra",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-agra",
+  },
 ];
 
 export const radio_ads_reports = [
