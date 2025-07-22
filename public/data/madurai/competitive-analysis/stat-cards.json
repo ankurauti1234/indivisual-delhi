@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "RAJMAHAL AISHVARYAM THANGA MALIGAI",
+            "HELLO FM",
+            "JOYALUKKAS",
+            "RADIO MIRCHI"
+          ],
+          "values": ["1027", "912", "817", "647"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "RAJMAHAL AISHVARYAM THANGA MALIGAI",
+            "RADIO CITY",
+            "RADIOCITY",
+            "HELLO FM"
+          ],
+          "values": ["30786", "19882", "11534", "10816"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["RADIO CITY", "HELLO FM", "Radio Mirchi", "SURIYAN FM"],
+          "values": ["4568", "8641", "4111", "6046"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["RADIO CITY", "HELLO FM", "Radio Mirchi", "SURIYAN FM"],
+          "values": ["87242", "90241", "64969", "89354"]
+        }
+      ]
+    }
+  ]
+}

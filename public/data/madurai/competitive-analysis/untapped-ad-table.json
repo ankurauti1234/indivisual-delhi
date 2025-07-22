@@ -1,0 +1,4807 @@
+{
+  "stations": ["HELLO FM", "RADIO CITY", "Radio Mirchi", "SURIYAN FM"],
+  "sectors": [
+    {
+      "name": "ACCESSORIES"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "TEXTILES&APPARELS"
+    },
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "CONSTRUCTION"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "INFRASTRUCTURE"
+    },
+    {
+      "name": "HOME FURNISHING"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "E-COMMERCE"
+    },
+    {
+      "name": "PERSONAL CARE"
+    },
+    {
+      "name": "PROPERTY"
+    },
+    {
+      "name": "SERVICES"
+    },
+    {
+      "name": "PUBLIC INTEREST"
+    },
+    {
+      "name": "CULTURAL&SPIRITUAL"
+    },
+    {
+      "name": "AGRICULTURE"
+    },
+    {
+      "name": "RETAIL"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "brand": "AATHI EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 128,
+              "airtime": 1920
+            }
+          ]
+        },
+        {
+          "brand": "AD : HELLO FM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ADUTHU ADUTHU MOONUPAATU",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "brand": "AGAM DIAGNOSTICS HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AISHWARYA THANGA MAALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AKKANEM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AKKENAM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 72,
+              "airtime": 1080
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 38,
+              "airtime": 570
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AMBIKA SWEETS",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANANTHA SILKS PARADISE",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANANTHA&ANANTHA",
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 85,
+              "airtime": 1275
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANDREA STEELS",
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 7,
+              "airtime": 105
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANJOL ALUPPU MARUNTHA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 108,
+              "airtime": 1620
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANNAPOORNA MITHAI",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 102,
+              "airtime": 1530
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANUJ TILES",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 156,
+              "airtime": 2340
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 98,
+              "airtime": 1470
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 25,
+              "airtime": 375
+            }
+          ]
+        },
+        {
+          "brand": "APARNA APARTMENT",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 58,
+              "airtime": 870
+            }
+          ]
+        },
+        {
+          "brand": "ARC FERTILITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ARUN HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 133,
+              "airtime": 1995
+            }
+          ]
+        },
+        {
+          "brand": "ASHWINI HOSPITAL AND FERTILITY CENTRE",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 72,
+              "airtime": 1080
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BAJAJ-BALAMURUGA MOTORS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BE-RITE",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 91,
+              "airtime": 1365
+            }
+          ]
+        },
+        {
+          "brand": "BHARATHI INFINITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 229,
+              "airtime": 3435
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BHIMA JEWELLERY",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 258,
+              "airtime": 3870
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 219,
+              "airtime": 3285
+            }
+          ]
+        },
+        {
+          "brand": "CANARA BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 206,
+              "airtime": 3090
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CENTRAL BANK OF INDIA",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CHENNAI SILKS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 297,
+              "airtime": 4455
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 55,
+              "airtime": 825
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 111,
+              "airtime": 1665
+            }
+          ]
+        },
+        {
+          "brand": "CINE SUVAI",
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "COOLIE MOVIE",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 141,
+              "airtime": 2115
+            }
+          ]
+        },
+        {
+          "brand": "DAILY THANTHI",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 144,
+              "airtime": 2160
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DAVA INDIA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 116,
+              "airtime": 1740
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DEVADHAS HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 112,
+              "airtime": 1680
+            }
+          ]
+        },
+        {
+          "brand": "DEVAKI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 81,
+              "airtime": 1215
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 125,
+              "airtime": 1875
+            }
+          ]
+        },
+        {
+          "brand": "DOCTOR MADHAVAN",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "DR ANIL KUMAR",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 163,
+              "airtime": 2445
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. CHIDAMBARAM MEMORIAL MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 4,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "brand": "DR. ORTHO",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DSP",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "FEDERAL BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 108,
+              "airtime": 1620
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 50,
+              "airtime": 750
+            }
+          ]
+        },
+        {
+          "brand": "FIXEE APP",
+          "sector": "SERVICES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 85,
+              "airtime": 1275
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "FIXY APP",
+          "sector": "SERVICES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GAANA",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GALAXY HEALTH INSURANCE",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 101,
+              "airtime": 1515
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GAME POINT",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "GIRIAS INDIA",
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 45,
+              "airtime": 675
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 45,
+              "airtime": 675
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GODREJ",
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOKULAM KATHIR",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOPAL",
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 106,
+              "airtime": 1590
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF INDIA",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 77,
+              "airtime": 1155
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GRT JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 48,
+              "airtime": 720
+            }
+          ]
+        },
+        {
+          "brand": "GS HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 84,
+              "airtime": 1260
+            }
+          ]
+        },
+        {
+          "brand": "GUKULAM SAMBRANI",
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GUNA MOTORS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GURU MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 63,
+              "airtime": 945
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HANNAH HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HANNAH JOSEPH HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 137,
+              "airtime": 2055
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 129,
+              "airtime": 1935
+            }
+          ]
+        },
+        {
+          "brand": "HELLO FM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 894,
+              "airtime": 13410
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 18,
+              "airtime": 270
+            }
+          ]
+        },
+        {
+          "brand": "HOMEBASE",
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HYUNDAI",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 47,
+              "airtime": 705
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "INDIAMART",
+          "sector": "SERVICES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 15,
+              "airtime": 225
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN AIR FORCE",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN AIR FORCE(IAF)",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN NAVY",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 22,
+              "airtime": 330
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN OVERSEAS BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 7,
+              "airtime": 105
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 4,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "brand": "IOB BANK",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "brand": "JAI DURGA JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 55,
+              "airtime": 825
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 31,
+              "airtime": 465
+            }
+          ]
+        },
+        {
+          "brand": "JAI LAKSHMI THANGA MALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JANET HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 73,
+              "airtime": 1095
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 78,
+              "airtime": 1170
+            }
+          ]
+        },
+        {
+          "brand": "JOSALUKKAS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 92,
+              "airtime": 1380
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 155,
+              "airtime": 2325
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 162,
+              "airtime": 2430
+            }
+          ]
+        },
+        {
+          "brand": "JOYALUKKAS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 282,
+              "airtime": 4230
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 245,
+              "airtime": 3675
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 146,
+              "airtime": 2190
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 144,
+              "airtime": 2160
+            }
+          ]
+        },
+        {
+          "brand": "JP THANGAMALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 106,
+              "airtime": 1590
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "K. RAMAKRISHNAN COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 98,
+              "airtime": 1470
+            }
+          ]
+        },
+        {
+          "brand": "KARAIKUDI MESS",
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 89,
+              "airtime": 1335
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "KARUNAI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "KUYILI",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 47,
+              "airtime": 705
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LAKSHMANA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 136,
+              "airtime": 2040
+            }
+          ]
+        },
+        {
+          "brand": "LAKSHMI CERAMIC",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 114,
+              "airtime": 1710
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LIC",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 118,
+              "airtime": 1770
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 48,
+              "airtime": 720
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 37,
+              "airtime": 555
+            }
+          ]
+        },
+        {
+          "brand": "LIC AGENT JOB",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 14,
+              "airtime": 210
+            }
+          ]
+        },
+        {
+          "brand": "LINGA MOTORS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "brand": "LULU MALL",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 50,
+              "airtime": 750
+            }
+          ]
+        },
+        {
+          "brand": "M. P. STEELS",
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 154,
+              "airtime": 2310
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MADHAVAN JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 128,
+              "airtime": 1920
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 111,
+              "airtime": 1665
+            }
+          ]
+        },
+        {
+          "brand": "MAGIL IVF HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 54,
+              "airtime": 810
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MAHANYAS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 215,
+              "airtime": 3225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 125,
+              "airtime": 1875
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 135,
+              "airtime": 2025
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 106,
+              "airtime": 1590
+            }
+          ]
+        },
+        {
+          "brand": "MALABAR GOLD AND DIAMONDS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 118,
+              "airtime": 1770
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 119,
+              "airtime": 1785
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 121,
+              "airtime": 1815
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 119,
+              "airtime": 1785
+            }
+          ]
+        },
+        {
+          "brand": "MALAI MALAR",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MANGAL AND MANGAL FURNITURE",
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 90,
+              "airtime": 1350
+            }
+          ]
+        },
+        {
+          "brand": "MANGAL AND MANGAL THANGA MALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 78,
+              "airtime": 1170
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 19,
+              "airtime": 285
+            }
+          ]
+        },
+        {
+          "brand": "MANIKAM RAMASWAMI COLLEGE OF ARTS&SCIENCE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 19,
+              "airtime": 285
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MARUTI SUZUKI",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "brand": "MEDICAL EXPO INDIA 2025 MADURAI",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MEENAKSHI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 112,
+              "airtime": 1680
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 132,
+              "airtime": 1980
+            }
+          ]
+        },
+        {
+          "brand": "MM CAR ACCESSORIES",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 71,
+              "airtime": 1065
+            }
+          ]
+        },
+        {
+          "brand": "MOHANS MEDICITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 303,
+              "airtime": 4545
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 74,
+              "airtime": 1110
+            }
+          ]
+        },
+        {
+          "brand": "MURALIS",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 6,
+              "airtime": 90
+            }
+          ]
+        },
+        {
+          "brand": "NATCHIYAR SILKS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 345,
+              "airtime": 5175
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NEHRU HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NEW TOYOTA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 21,
+              "airtime": 315
+            }
+          ]
+        },
+        {
+          "brand": "NIPPON PAINTS",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NOVA FERTILITY CENTRE",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NS PERUNGAYAM",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "OVIYA FERTILITY CENTER",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 33,
+              "airtime": 495
+            }
+          ]
+        },
+        {
+          "brand": "P.RATHINAM CHETTIYAR&SONS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 68,
+              "airtime": 1020
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PGS TILE MART",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 159,
+              "airtime": 2385
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 140,
+              "airtime": 2100
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PHEONIX",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 51,
+              "airtime": 765
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 42,
+              "airtime": 630
+            }
+          ]
+        },
+        {
+          "brand": "PLASTIC BAG AWARENESS BY SURYAN FM",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 14,
+              "airtime": 210
+            }
+          ]
+        },
+        {
+          "brand": "PM PAYIR KAAPPEEDU (PMMFBY) SCHEME",
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "POONGULAZHI JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 166,
+              "airtime": 2490
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 81,
+              "airtime": 1215
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 101,
+              "airtime": 1515
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 15,
+              "airtime": 225
+            }
+          ]
+        },
+        {
+          "brand": "POONGUZHALI JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 192,
+              "airtime": 2880
+            }
+          ]
+        },
+        {
+          "brand": "POPPY MATTRESS",
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 18,
+              "airtime": 270
+            }
+          ]
+        },
+        {
+          "brand": "POTHYS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 153,
+              "airtime": 2295
+            }
+          ]
+        },
+        {
+          "brand": "POTHYS SILKS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 285,
+              "airtime": 4275
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 86,
+              "airtime": 1290
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 195,
+              "airtime": 2925
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 20,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "brand": "PREETHI COLLEGE OF NURSING",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 26,
+              "airtime": 390
+            }
+          ]
+        },
+        {
+          "brand": "PREETHI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 201,
+              "airtime": 3015
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 208,
+              "airtime": 3120
+            }
+          ]
+        },
+        {
+          "brand": "PTR ENGINEERING COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 36,
+              "airtime": 540
+            }
+          ]
+        },
+        {
+          "brand": "RADIANT INSTA CREDIT APP",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 578,
+              "airtime": 8670
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIO MIRCHI",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 647,
+              "airtime": 9705
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIOCITY",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 290,
+              "airtime": 4350
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAJMAHAL AISHVARYAM THANGA MALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 315,
+              "airtime": 4725
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 293,
+              "airtime": 4395
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 140,
+              "airtime": 2100
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 279,
+              "airtime": 4185
+            }
+          ]
+        },
+        {
+          "brand": "RAJMAHAL SILKS",
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RESERVE BANK OF INDIA (RBI)",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 12,
+              "airtime": 180
+            }
+          ]
+        },
+        {
+          "brand": "REVATHI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RLIMS (R L INSTITUTE OF MANAGEMENT STUDIES)",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 98,
+              "airtime": 1470
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ROOP MANTRA",
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RP CONSTRUCTION",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 54,
+              "airtime": 810
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SACHI SAHELI",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SACS",
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 210,
+              "airtime": 3150
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SAIBOL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 79,
+              "airtime": 1185
+            }
+          ]
+        },
+        {
+          "brand": "SAKTHI MASALE",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 218,
+              "airtime": 3270
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 304,
+              "airtime": 4560
+            }
+          ]
+        },
+        {
+          "brand": "SANTHAS SILKS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 77,
+              "airtime": 1155
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SAUBHAGYAVATI JEWELLERY",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SBI",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SEMBIYAN VEG",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 79,
+              "airtime": 1185
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SENTHIL MURUGAN JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 109,
+              "airtime": 1635
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 61,
+              "airtime": 915
+            }
+          ]
+        },
+        {
+          "brand": "SETHU INSTITUTE OF TECHNOLOGY",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 191,
+              "airtime": 2865
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 71,
+              "airtime": 1065
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHANTHA SILKS",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHARON PLY",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 8,
+              "airtime": 120
+            }
+          ]
+        },
+        {
+          "brand": "SHRI KUMARAN THANGAMALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 335,
+              "airtime": 5025
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 33,
+              "airtime": 495
+            }
+          ]
+        },
+        {
+          "brand": "SHRI MEENAKSHI FAN HOUSE",
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 226,
+              "airtime": 3390
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHYAM STEEL LTD",
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SMJ VARNAM SHOWROOM",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 84,
+              "airtime": 1260
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 160,
+              "airtime": 2400
+            }
+          ]
+        },
+        {
+          "brand": "SREE THANGAM JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 120,
+              "airtime": 1800
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRI JAYA LAKSHMI JEWELERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 40,
+              "airtime": 600
+            }
+          ]
+        },
+        {
+          "brand": "SRI KRISHNA NAGAI MALIGAI",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 167,
+              "airtime": 2505
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRI KUMARAN JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 121,
+              "airtime": 1815
+            }
+          ]
+        },
+        {
+          "brand": "SRI MEENAKSHI FINANCE",
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRI MEENAKSHI GOVERNMENT ARTS COLLEGE OF ARTS&SCIENCE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRI SENTHUR VAIGAI MURUGAN THIRUKOVIL",
+          "sector": "CULTURAL&SPIRITUAL",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRIKUMARAN JEWELLERS",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRIRAM TNPL",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRM MADURAI COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 251,
+              "airtime": 3765
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "STIHL INDIA",
+          "sector": "AGRICULTURE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SUDHA",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SUMATHI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 139,
+              "airtime": 2085
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SUN NEXT APP",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 30,
+              "airtime": 450
+            }
+          ]
+        },
+        {
+          "brand": "SURYAN FM",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 506,
+              "airtime": 7590
+            }
+          ]
+        },
+        {
+          "brand": "SVS FOODS",
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SWIGGY INSTAMART",
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 112,
+              "airtime": 1680
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TANEIRA",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 116,
+              "airtime": 1740
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TATA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TENEIRA TATA",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "THANAPANDIAN POLYTECHNIC COLLEGE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 92,
+              "airtime": 1380
+            }
+          ]
+        },
+        {
+          "brand": "THANK U CAFE",
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 118,
+              "airtime": 1770
+            }
+          ]
+        },
+        {
+          "brand": "THE CHENNAI SILK",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 130,
+              "airtime": 1950
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 78,
+              "airtime": 1170
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 14,
+              "airtime": 210
+            }
+          ]
+        },
+        {
+          "brand": "THE EYE FOUNDATION",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 193,
+              "airtime": 2895
+            }
+          ]
+        },
+        {
+          "brand": "TITAN WORLD STORE",
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 16,
+              "airtime": 240
+            }
+          ]
+        },
+        {
+          "brand": "TNPL(TAMIL NADU PREMIER LEAGUE)",
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 21,
+              "airtime": 315
+            }
+          ]
+        },
+        {
+          "brand": "TOYOTA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TSP CLOTHING",
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TVS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VASANTH&CO",
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 224,
+              "airtime": 3360
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 116,
+              "airtime": 1740
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 119,
+              "airtime": 1785
+            }
+          ]
+        },
+        {
+          "brand": "VEL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VELAMMAL BODHI CAMPUS",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "VELS INTITUTE OF MEDICAL SCIENCE",
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VIJAY RAJA HOMES",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 15,
+              "airtime": 225
+            }
+          ]
+        },
+        {
+          "brand": "VIJAY RAJA HOMES REAL ESTATE DEVELOPERS",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VISVAS PROMOTERS",
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 56,
+              "airtime": 840
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 32,
+              "airtime": 480
+            }
+          ]
+        },
+        {
+          "brand": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 58,
+              "airtime": 870
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 60,
+              "airtime": 900
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "YAMAHA",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 7,
+              "airtime": 105
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 12,
+              "airtime": 180
+            }
+          ]
+        },
+        {
+          "brand": "YAMAHA-GUNA MOTORS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "YAMAHA-LINGA MOTORS",
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 13,
+              "airtime": 195
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

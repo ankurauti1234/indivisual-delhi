@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "HELLO FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "Radio Mirchi",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "SURIYAN FM",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "Unknown-Week",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1148,
+              "airtime": 213
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 583,
+              "airtime": 209
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 516,
+              "airtime": 133
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 851,
+              "airtime": 202
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1189,
+              "airtime": 201
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 629,
+              "airtime": 210
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 597,
+              "airtime": 148
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 872,
+              "airtime": 223
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1322,
+              "airtime": 221
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 693,
+              "airtime": 208
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 653,
+              "airtime": 175
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 806,
+              "airtime": 206
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1444,
+              "airtime": 260
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 694,
+              "airtime": 205
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 608,
+              "airtime": 154
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 875,
+              "airtime": 223
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1358,
+              "airtime": 229
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 745,
+              "airtime": 228
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 533,
+              "airtime": 150
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 818,
+              "airtime": 206
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 820,
+              "airtime": 163
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 478,
+              "airtime": 140
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 514,
+              "airtime": 148
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 901,
+              "airtime": 210
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 1360,
+              "airtime": 214
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 746,
+              "airtime": 250
+            },
+            {
+              "station": "Radio Mirchi",
+              "adCount": 690,
+              "airtime": 171
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 923,
+              "airtime": 216
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

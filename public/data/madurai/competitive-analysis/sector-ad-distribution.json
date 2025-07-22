@@ -1,0 +1,520 @@
+{
+  "sectors": [
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "ACCESSORIES",
+      "color": "#0288D1"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#D81B60"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#F4511E"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "FMCG",
+      "color": "#FF7043"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "PUBLIC INTEREST",
+      "color": "#00897B"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#FDD835"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "PERSONAL CARE",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "PROPERTY",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#00897B"
+    },
+    {
+      "name": "SERVICES",
+      "color": "#D81B60"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#0288D1"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "CULTURAL&SPIRITUAL",
+      "color": "#00ACC1"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 834,
+              "airtime": 14191
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 762,
+              "airtime": 13564
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 957,
+              "airtime": 32352
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 1235,
+              "airtime": 13894
+            }
+          ]
+        },
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 832,
+              "airtime": 12660
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 1770,
+              "airtime": 27690
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 823,
+              "airtime": 17019
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 2434,
+              "airtime": 30235
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 590,
+              "airtime": 11005
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 1649,
+              "airtime": 22857
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 673,
+              "airtime": 10291
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 1363,
+              "airtime": 10785
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 901,
+              "airtime": 9071
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 454,
+              "airtime": 7043
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 344,
+              "airtime": 5167
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 1007,
+              "airtime": 11782
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 241,
+              "airtime": 4820
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 119,
+              "airtime": 1989
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 130,
+              "airtime": 1455
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 660,
+              "airtime": 3731
+            }
+          ]
+        },
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 190,
+              "airtime": 3762
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 253,
+              "airtime": 3869
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 271,
+              "airtime": 3567
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 279,
+              "airtime": 3857
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 240,
+              "airtime": 3596
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 33,
+              "airtime": 400
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 402,
+              "airtime": 7898
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 190,
+              "airtime": 1293
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 65,
+              "airtime": 2102
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 106,
+              "airtime": 2659
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 420,
+              "airtime": 4392
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 249,
+              "airtime": 1719
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 401,
+              "airtime": 3096
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 270,
+              "airtime": 1566
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 226,
+              "airtime": 1174
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 85,
+              "airtime": 1315
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 122,
+              "airtime": 1570
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 88,
+              "airtime": 619
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 299,
+              "airtime": 2960
+            }
+          ]
+        },
+        {
+          "sector": "AGRICULTURE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 12,
+              "airtime": 600
+            }
+          ]
+        },
+        {
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 6,
+              "airtime": 160
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 31,
+              "airtime": 1092
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 38,
+              "airtime": 1613
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 84,
+              "airtime": 3374
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 4,
+              "airtime": 140
+            },
+            {
+              "station": "SURIYAN FM",
+              "adCount": 108,
+              "airtime": 778
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 50,
+              "airtime": 482
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 59,
+              "airtime": 514
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 7,
+              "airtime": 35
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 154,
+              "airtime": 926
+            }
+          ]
+        },
+        {
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "Radio Mirchi",
+              "adCount": 5,
+              "airtime": 27
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 61
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 106,
+              "airtime": 175
+            }
+          ]
+        },
+        {
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "SURIYAN FM",
+              "adCount": 105,
+              "airtime": 1641
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 79,
+              "airtime": 1356
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "SURIYAN FM",
+              "adCount": 118,
+              "airtime": 966
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 3,
+              "airtime": 18
+            },
+            {
+              "station": "HELLO FM",
+              "adCount": 89,
+              "airtime": 890
+            }
+          ]
+        },
+        {
+          "sector": "SERVICES",
+          "stations": [
+            {
+              "station": "SURIYAN FM",
+              "adCount": 15,
+              "airtime": 140
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 89,
+              "airtime": 680
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 6,
+              "airtime": 62
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 112,
+              "airtime": 1158
+            }
+          ]
+        },
+        {
+          "sector": "CULTURAL&SPIRITUAL",
+          "stations": [
+            {
+              "station": "HELLO FM",
+              "adCount": 16,
+              "airtime": 418
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
