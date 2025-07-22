@@ -150,12 +150,32 @@ const AdDailyTrendsLine = ({ data }) => {
               dataKey="date"
               tickLine={false}
               axisLine={false}
-              tickMargin={8}
+              tickMargin={12}
               tickFormatter={(value) => {
                 const entry = formattedChartData.find((d) => d.date === value);
-                if (!entry) return value;
-                const shortDay = entry.day?.slice(0, 3); // e.g., "Tue"
-                return `${shortDay} ${value.slice(5)}`; // e.g., "Tue 07-01"
+                const day = entry?.day?.slice(0, 3) || "";
+                const date = value.slice(5); // "MM-DD"
+                return `${date}\n${day}`; // This will be split manually below
+              }}
+              tick={({ x, y, payload }) => {
+                const entry = formattedChartData.find(
+                  (d) => d.date === payload.value
+                );
+                const day = entry?.day?.slice(0, 3) || "";
+                const date = payload.value.slice(5); // MM-DD
+
+                return (
+                  <g transform={`translate(${x},${y + 10})`}>
+                    <text textAnchor="middle" fill="#666" fontSize="12">
+                      <tspan x="0" dy="-0.4em">
+                        {date}
+                      </tspan>
+                      <tspan x="0" dy="1.2em">
+                        {day}
+                      </tspan>
+                    </text>
+                  </g>
+                );
               }}
             />
 
