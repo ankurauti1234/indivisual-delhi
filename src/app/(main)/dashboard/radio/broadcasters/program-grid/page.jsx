@@ -4,6 +4,8 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import EPG from '@/components/program-grid/EPG';
 import { availableData as delhiData } from '@/data/delhi';
 import { availableData as patnaData } from '@/data/patna';
+import { availableData as agraData } from '@/data/agra';
+import { availableData as maduraiData } from '@/data/madurai';
 import {
   Select,
   SelectContent,
@@ -21,11 +23,19 @@ function ProgramGridContent() {
   const regionData = {
     delhi: delhiData,
     patna: patnaData,
+    agra:agraData,
+    madurai:maduraiData
   };
 
   useEffect(() => {
     const regionFromUrl = searchParams.get('region');
-    if (regionFromUrl && (regionFromUrl === 'delhi' || regionFromUrl === 'patna')) {
+    if (
+      (regionFromUrl &&
+        (regionFromUrl === "delhi"   ||
+          regionFromUrl === "patna"  ||
+          regionFromUrl === "agra" || regionFromUrl === "madurai"))
+          
+    ) {
       setSelectedRegion(regionFromUrl);
     }
   }, [searchParams]);
@@ -43,7 +53,10 @@ function ProgramGridContent() {
   return (
     <div className="space-y-6 p-4">
       <div className="flex items-center gap-4">
-        <label htmlFor="region-select" className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
+        <label
+          htmlFor="region-select"
+          className="text-lg font-medium text-zinc-800 dark:text-zinc-100"
+        >
           Select Region:
         </label>
         <Select value={selectedRegion} onValueChange={handleRegionChange}>
@@ -53,6 +66,8 @@ function ProgramGridContent() {
           <SelectContent>
             <SelectItem value="delhi">Delhi</SelectItem>
             <SelectItem value="patna">Patna</SelectItem>
+            <SelectItem value="agra">Agra</SelectItem>
+            <SelectItem value="madurai">Madurai</SelectItem>
           </SelectContent>
         </Select>
       </div>
