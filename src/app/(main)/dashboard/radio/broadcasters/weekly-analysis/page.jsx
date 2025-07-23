@@ -1,6 +1,8 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
+
 import RegionSelect from "@/components/regionSelector";
 import AdFrequencyHeatmap from "@/components/competitive-analysis/ad-frequency-heatmap";
 import StatCards from "@/components/competitive-analysis/stat-cards";
@@ -13,7 +15,11 @@ import SharedAdBar from "@/components/competitive-analysis/shared-ad-bar";
 import MarketShareTreemap from "@/components/competitive-analysis/market-share-treemap";
 
 export default function CompetitiveAnalysisPage() {
-  const [region, setRegion] = useState("delhi");
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  const regionFromURL = searchParams.get("region") || "delhi";
+  const [region, setRegion] = useState(regionFromURL);
   const [errorMessage, setErrorMessage] = useState(null);
 
   const [statCardsData, setStatCardsData] = useState(null);
@@ -29,13 +35,20 @@ export default function CompetitiveAnalysisPage() {
 
   const base = `${process.env.NEXT_PUBLIC_BASE_URL}/data/${region}/competitive-analysis`;
 
+  // 👇 Update region from URL
+  useEffect(() => {
+    setRegion(regionFromURL);
+  }, [regionFromURL]);
+
+  // 👇 Fetch data when region changes
   useEffect(() => {
     async function fetchAll() {
       setErrorMessage(null);
       try {
         const fetchJson = async (path) => {
           const res = await fetch(`${base}/${path}`);
-          if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.statusText}`);
+          if (!res.ok)
+            throw new Error(`Failed to fetch ${path}: ${res.statusText}`);
           return res.json();
         };
 
@@ -84,7 +97,12 @@ export default function CompetitiveAnalysisPage() {
 
   return (
     <div className="space-y-8 p-4">
-      <RegionSelect region={region} setRegion={setRegion} />
+      <RegionSelect
+        region={region}
+        setRegion={(newRegion) => {
+          window.location.href = `?region=${newRegion}`;
+        }}
+      />
 
       {errorMessage && (
         <div className="text-red-500">
@@ -97,7 +115,10 @@ export default function CompetitiveAnalysisPage() {
       {heatmapData && <AdFrequencyHeatmap data={heatmapData} />}
       {sectorData && <SectorAdDistributionBar data={sectorData} />}
       {marketShareData && marketShareSecondsData && (
-        <MarketShareTreemap data={marketShareData} secondsData={marketShareSecondsData} />
+        <MarketShareTreemap
+          data={marketShareData}
+          secondsData={marketShareSecondsData}
+        />
       )}
       {dailyTrendsData && <AdDailyTrendsLine data={dailyTrendsData} />}
       {sharedAdData && <SharedAdBar data={sharedAdData} />}
