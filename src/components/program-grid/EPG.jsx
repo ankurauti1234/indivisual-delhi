@@ -49,7 +49,7 @@ const EPG = ({region, availableData}) => {
   const initialEnd =
     parseTimeToMinutes(searchParams.get("end")) || MINUTES_IN_DAY;
 
-  const [timeRange, setTimeRange] = useState([initialStart, initialEnd]);
+  const [timeRange, setTimeRange] = useState([540, 600]);
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [selectedDate, setSelectedDate] = useState(initialDate);
   const [selectedContentType, setSelectedContentType] = useState("all");
@@ -186,6 +186,18 @@ const EPG = ({region, availableData}) => {
     }
   };
 
+  const handlePrevHour = () => {
+    const newStart = Math.max(timeRange[0] - 60, 0);
+    const newEnd = Math.max(timeRange[1] - 60, 60);
+    setTimeRange([newStart, newEnd]);
+  };
+
+  const handleNextHour = () => {
+    const newStart = Math.min(timeRange[0] + 60, MINUTES_IN_DAY - 60);
+    const newEnd = Math.min(timeRange[1] + 60, MINUTES_IN_DAY);
+    setTimeRange([newStart, newEnd]);
+  };
+
   const handleGoToNearestDate = () => {
     const nearestDate = findNearestDateWithData(selectedDate, datesWithData);
     if (nearestDate) {
@@ -225,6 +237,7 @@ const EPG = ({region, availableData}) => {
       notDetected:
         "bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300",
     };
+
 
     return (
       <motion.div
@@ -375,7 +388,9 @@ const EPG = ({region, availableData}) => {
                     <SelectItem value="all">All Radio Stations</SelectItem>
                     {Object.keys(availableData).map((station) => (
                       <SelectItem key={station} value={station}>
-                        {station.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                        {station
+                          .replace(/-/g, " ")
+                          .replace(/\b\w/g, (c) => c.toUpperCase())}
                       </SelectItem>
                     ))}
                   </SelectContent>
@@ -384,6 +399,17 @@ const EPG = ({region, availableData}) => {
             </DropdownMenuContent>
           </DropdownMenu>
         </div>
+        <div className="flex items-center gap-2 mt-4">
+          <Button onClick={handlePrevHour} variant="outline">
+            <ChevronLeft className="mr-1 h-4 w-4" />
+            Prev Hour
+          </Button>
+          <Button onClick={handleNextHour} variant="outline">
+            Next Hour
+            <ChevronRight className="ml-1 h-4 w-4" />
+          </Button>
+        </div>
+
         <div className="mt-6">
           <CustomRangeSlider
             min={0}
@@ -419,9 +445,9 @@ const EPG = ({region, availableData}) => {
               />
               <div className="flex flex-col">
                 <span className="text-sm font-medium text-zinc-800 dark:text-zinc-200 uppercase">
-                  {channel.replace(/-/g, " ").replace(/\b\w/g, (c) =>
-                    c.toUpperCase()
-                  )}
+                  {channel
+                    .replace(/-/g, " ")
+                    .replace(/\b\w/g, (c) => c.toUpperCase())}
                 </span>
                 {regions && (
                   <span className="text-sm text-muted-foreground">
