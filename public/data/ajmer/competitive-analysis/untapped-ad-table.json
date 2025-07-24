@@ -1,47 +1,29 @@
 {
-  "stations": ["BIG FM", "My Fm", "RADIO CITY", "TADKA FM"],
+  "stations": ["BIG FM", "MY FM", "My Fm", "RADIO CITY", "TADKA FM"],
   "sectors": [
     {
-      "name": "ACCESSORIES"
-    },
-    {
-      "name": "AUTOMOBILE"
-    },
-    {
-      "name": "CONSTRUCTION"
-    },
-    {
-      "name": "CONSUMER DURABLE"
-    },
-    {
-      "name": "E-COMMERCE"
-    },
-    {
-      "name": "EDUCATION"
-    },
-    {
-      "name": "ENTERTAINMENT"
-    },
-    {
-      "name": "FINANCE"
+      "name": "HEALTHCARE"
     },
     {
       "name": "FMCG"
     },
     {
-      "name": "HEALTHCARE"
-    },
-    {
-      "name": "HOME FURNISHING"
+      "name": "FINANCE"
     },
     {
       "name": "HOSPITALITY"
     },
     {
-      "name": "HOUSEHOLD PRODUCTS"
+      "name": "ENTERTAINMENT"
     },
     {
-      "name": "INFRASTRUCTURE"
+      "name": "ACCESSORIES"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS"
     },
     {
       "name": "PERSONAL CARE"
@@ -50,22 +32,40 @@
       "name": "PROPERTY"
     },
     {
-      "name": "PUBLIC INTEREST"
+      "name": "TEXTILES&APPARELS"
     },
     {
       "name": "RENEWABLE ENERGY"
     },
     {
+      "name": "CONSTRUCTION"
+    },
+    {
+      "name": "E-COMMERCE"
+    },
+    {
       "name": "RETAIL"
+    },
+    {
+      "name": "PUBLIC INTEREST"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "INFRASTRUCTURE"
     },
     {
       "name": "TECHNOLOGY"
     },
     {
-      "name": "TEXTILES&APPARELS"
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "HOME FURNISHING"
     }
   ],
-  "weeks":[
+  "weeks": [
     {
       "week": "2025-Week-27",
       "data": [
@@ -75,6 +75,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -105,6 +110,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -127,6 +137,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -157,6 +172,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 55,
               "airtime": 825
@@ -181,6 +201,11 @@
               "station": "BIG FM",
               "adCount": 40,
               "airtime": 600
+            },
+            {
+              "station": "MY FM",
+              "adCount": 39,
+              "airtime": 585
             },
             {
               "station": "My Fm",
@@ -209,6 +234,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 93,
+              "airtime": 1395
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -233,6 +263,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 284,
+              "airtime": 4260
             },
             {
               "station": "My Fm",
@@ -261,6 +296,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -283,6 +323,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -313,6 +358,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 307,
               "airtime": 4605
@@ -335,6 +385,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -365,6 +420,11 @@
               "airtime": 270
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -391,6 +451,11 @@
               "airtime": 1800
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -413,6 +478,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -443,6 +513,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 2,
               "airtime": 30
@@ -469,6 +544,11 @@
               "airtime": 1095
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -491,6 +571,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -521,6 +606,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -543,6 +633,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -573,6 +668,11 @@
               "airtime": 3255
             },
             {
+              "station": "MY FM",
+              "adCount": 205,
+              "airtime": 3075
+            },
+            {
               "station": "My Fm",
               "adCount": 18,
               "airtime": 270
@@ -595,6 +695,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -625,6 +730,11 @@
               "airtime": 840
             },
             {
+              "station": "MY FM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -651,6 +761,11 @@
               "airtime": 930
             },
             {
+              "station": "MY FM",
+              "adCount": 174,
+              "airtime": 2610
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -673,6 +788,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -703,6 +823,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 38,
               "airtime": 570
@@ -727,6 +852,11 @@
               "station": "BIG FM",
               "adCount": 160,
               "airtime": 2400
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
             },
             {
               "station": "My Fm",
@@ -755,6 +885,11 @@
               "airtime": 15
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -779,6 +914,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 137,
+              "airtime": 2055
             },
             {
               "station": "My Fm",
@@ -807,6 +947,11 @@
               "airtime": 555
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 94,
               "airtime": 1410
@@ -833,6 +978,11 @@
               "airtime": 45
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -855,6 +1005,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -885,6 +1040,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 4,
               "airtime": 60
@@ -909,6 +1069,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 65,
+              "airtime": 975
             },
             {
               "station": "My Fm",
@@ -937,6 +1102,11 @@
               "airtime": 780
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -961,6 +1131,11 @@
               "station": "BIG FM",
               "adCount": 291,
               "airtime": 4365
+            },
+            {
+              "station": "MY FM",
+              "adCount": 339,
+              "airtime": 5085
             },
             {
               "station": "My Fm",
@@ -989,6 +1164,11 @@
               "airtime": 405
             },
             {
+              "station": "MY FM",
+              "adCount": 26,
+              "airtime": 390
+            },
+            {
               "station": "My Fm",
               "adCount": 25,
               "airtime": 375
@@ -1015,6 +1195,11 @@
               "airtime": 915
             },
             {
+              "station": "MY FM",
+              "adCount": 100,
+              "airtime": 1500
+            },
+            {
               "station": "My Fm",
               "adCount": 82,
               "airtime": 1230
@@ -1037,6 +1222,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1067,6 +1257,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
               "station": "My Fm",
               "adCount": 3,
               "airtime": 45
@@ -1091,6 +1286,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 28,
+              "airtime": 420
             },
             {
               "station": "My Fm",
@@ -1119,6 +1319,11 @@
               "airtime": 165
             },
             {
+              "station": "MY FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
               "station": "My Fm",
               "adCount": 10,
               "airtime": 150
@@ -1145,6 +1350,11 @@
               "airtime": 285
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1167,6 +1377,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1197,6 +1412,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 1,
               "airtime": 15
@@ -1221,6 +1441,11 @@
               "station": "BIG FM",
               "adCount": 121,
               "airtime": 1815
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
             },
             {
               "station": "My Fm",
@@ -1249,6 +1474,11 @@
               "airtime": 465
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1273,6 +1503,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
             },
             {
               "station": "My Fm",
@@ -1301,6 +1536,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 168,
+              "airtime": 2520
+            },
+            {
               "station": "My Fm",
               "adCount": 151,
               "airtime": 2265
@@ -1323,6 +1563,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1353,6 +1598,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 22,
               "airtime": 330
@@ -1377,6 +1627,11 @@
               "station": "BIG FM",
               "adCount": 61,
               "airtime": 915
+            },
+            {
+              "station": "MY FM",
+              "adCount": 71,
+              "airtime": 1065
             },
             {
               "station": "My Fm",
@@ -1405,6 +1660,11 @@
               "airtime": 15
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1427,6 +1687,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1457,6 +1722,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 81,
               "airtime": 1215
@@ -1479,6 +1749,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1509,6 +1784,11 @@
               "airtime": 3540
             },
             {
+              "station": "MY FM",
+              "adCount": 37,
+              "airtime": 555
+            },
+            {
               "station": "My Fm",
               "adCount": 101,
               "airtime": 1515
@@ -1531,6 +1811,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1561,6 +1846,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1587,6 +1877,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1609,6 +1904,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1639,6 +1939,11 @@
               "airtime": 2940
             },
             {
+              "station": "MY FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1663,6 +1968,11 @@
               "station": "BIG FM",
               "adCount": 71,
               "airtime": 1065
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
             },
             {
               "station": "My Fm",
@@ -1691,6 +2001,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1713,6 +2028,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1743,6 +2063,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
               "station": "My Fm",
               "adCount": 3,
               "airtime": 45
@@ -1765,6 +2090,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1795,6 +2125,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 50,
               "airtime": 750
@@ -1821,6 +2156,11 @@
               "airtime": 1545
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1843,6 +2183,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1873,6 +2218,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 1,
               "airtime": 15
@@ -1895,6 +2245,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -1925,6 +2280,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 112,
               "airtime": 1680
@@ -1951,6 +2311,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -1973,6 +2338,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2003,6 +2373,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 22,
               "airtime": 330
@@ -2025,6 +2400,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2055,6 +2435,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 3,
               "airtime": 45
@@ -2077,6 +2462,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2107,6 +2497,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 4,
               "airtime": 60
@@ -2129,6 +2524,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2159,6 +2559,11 @@
               "airtime": 645
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2185,6 +2590,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 159,
+              "airtime": 2385
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2207,6 +2617,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2237,6 +2652,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
               "station": "My Fm",
               "adCount": 175,
               "airtime": 2625
@@ -2263,6 +2683,11 @@
               "airtime": 1320
             },
             {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
               "station": "My Fm",
               "adCount": 174,
               "airtime": 2610
@@ -2285,6 +2710,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2315,6 +2745,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 1,
               "airtime": 15
@@ -2339,6 +2774,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 12,
+              "airtime": 180
             },
             {
               "station": "My Fm",
@@ -2367,6 +2807,11 @@
               "airtime": 15
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2393,6 +2838,11 @@
               "airtime": 315
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2415,6 +2865,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2445,6 +2900,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 270,
+              "airtime": 4050
+            },
+            {
               "station": "My Fm",
               "adCount": 16,
               "airtime": 240
@@ -2467,6 +2927,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2497,6 +2962,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2519,6 +2989,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2549,6 +3024,11 @@
               "airtime": 180
             },
             {
+              "station": "MY FM",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
               "station": "My Fm",
               "adCount": 12,
               "airtime": 180
@@ -2575,6 +3055,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 74,
+              "airtime": 1110
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2597,6 +3082,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2627,6 +3117,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 33,
               "airtime": 495
@@ -2653,6 +3148,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2675,6 +3175,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2705,6 +3210,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2727,6 +3237,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2757,6 +3272,11 @@
               "airtime": 480
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2783,6 +3303,11 @@
               "airtime": 300
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 41,
               "airtime": 615
@@ -2805,6 +3330,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2835,6 +3365,11 @@
               "airtime": 270
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 36,
               "airtime": 540
@@ -2857,6 +3392,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2887,6 +3427,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 86,
+              "airtime": 1290
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2909,6 +3454,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2939,6 +3489,11 @@
               "airtime": 2760
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -2961,6 +3516,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -2991,6 +3551,11 @@
               "airtime": 2175
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3013,6 +3578,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3043,6 +3613,11 @@
               "airtime": 240
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3069,6 +3644,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 38,
+              "airtime": 570
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3091,6 +3671,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3121,6 +3706,11 @@
               "airtime": 30
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3143,6 +3733,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3173,6 +3768,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3199,6 +3799,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 237,
+              "airtime": 3555
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3221,6 +3826,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3251,6 +3861,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 54,
+              "airtime": 810
+            },
+            {
               "station": "My Fm",
               "adCount": 19,
               "airtime": 285
@@ -3273,6 +3888,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3303,6 +3923,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 3,
               "airtime": 45
@@ -3327,6 +3952,11 @@
               "station": "BIG FM",
               "adCount": 39,
               "airtime": 585
+            },
+            {
+              "station": "MY FM",
+              "adCount": 48,
+              "airtime": 720
             },
             {
               "station": "My Fm",
@@ -3355,6 +3985,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
               "station": "My Fm",
               "adCount": 3,
               "airtime": 45
@@ -3377,6 +4012,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3407,6 +4047,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
               "station": "My Fm",
               "adCount": 27,
               "airtime": 405
@@ -3433,6 +4078,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 37,
+              "airtime": 555
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3455,6 +4105,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3485,6 +4140,11 @@
               "airtime": 930
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 0,
               "airtime": 0
@@ -3507,6 +4167,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3537,6 +4202,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 19,
               "airtime": 285
@@ -3559,6 +4229,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3589,6 +4264,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
               "station": "My Fm",
               "adCount": 1,
               "airtime": 15
@@ -3615,6 +4295,11 @@
               "airtime": 1950
             },
             {
+              "station": "MY FM",
+              "adCount": 187,
+              "airtime": 2805
+            },
+            {
               "station": "My Fm",
               "adCount": 169,
               "airtime": 2535
@@ -3637,6 +4322,11 @@
           "stations": [
             {
               "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
               "adCount": 0,
               "airtime": 0
             },
@@ -3667,6 +4357,11 @@
               "airtime": 0
             },
             {
+              "station": "MY FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
               "station": "My Fm",
               "adCount": 39,
               "airtime": 585
@@ -3691,6 +4386,11 @@
               "station": "BIG FM",
               "adCount": 0,
               "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
             },
             {
               "station": "My Fm",
