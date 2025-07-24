@@ -212,7 +212,8 @@ const UntappedAdTable = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Untapped Ad Opportunities</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for {selectedWeek}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
+            {selectedWeek}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
@@ -275,8 +276,8 @@ const UntappedAdTable = ({ data }) => {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {paginatedData.map((brand, index) => (
-              <TableRow key={index}>
+            {paginatedData.map((brand) => (
+              <TableRow key={`${brand.brand}-${brand.sector}`}>
                 <TableCell>{brand.brand}</TableCell>
                 <TableCell>{brand.sector}</TableCell>
                 <TableCell>
