@@ -8,7 +8,7 @@ import {
   SelectItem,
 } from "@/components/ui/select";
 
-const regions = ["delhi", "agra", "madurai", "patna"];
+const regions = ["delhi", "agra", "madurai", "patna", "ajmer"];
 
 export default function RegionSelect({
   region,
