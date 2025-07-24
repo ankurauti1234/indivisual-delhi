@@ -276,8 +276,8 @@ const UntappedAdTable = ({ data }) => {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {paginatedData.map((brand) => (
-              <TableRow key={`${brand.brand}-${brand.sector}`}>
+            {paginatedData.map((brand, index) => (
+              <TableRow key={index}>
                 <TableCell>{brand.brand}</TableCell>
                 <TableCell>{brand.sector}</TableCell>
                 <TableCell>
