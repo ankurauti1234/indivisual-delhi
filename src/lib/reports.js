@@ -64,7 +64,7 @@ export const tv_broad_reports = [
     page: "tv",
     subpage: "broadcasters",
     slug: "audience-flow",
-  }
+  },
 ];
 
 export const tv_ads_reports = [
@@ -105,8 +105,7 @@ export const tv_ads_reports = [
     id: 4,
     image: "/images/adex.png",
     title: "AdEx",
-    description:
-      "Analysis of GRP and Ad spent.",
+    description: "Analysis of GRP and Ad spent.",
     lastUpdated: "April 20, 2024",
     page: "tv",
     subpage: "ads",
@@ -323,51 +322,62 @@ export const radio_broad_reports = [
     slug: "weekly-analysis",
   },
 
-  // {
-  //   id: 6,
-  //   image: "/images/daily-analysis.png",
-  //   title: "Weekly Analysis Patna",
-  //   description:
-  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-  //   lastUpdated: "May 2, 2024",
-  //   page: "radio",
-  //   subpage: "broadcasters",
-  //   slug: "weekly-analysis-patna",
-  // },
+  {
+    id: 6,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Patna",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-patna",
+  },
 
-  // {
-  //   id: 7,
-  //   image: "/images/daily-analysis.png",
-  //   title: "Weekly Analysis Delhi-V2",
-  //   description:
-  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-  //   lastUpdated: "May 2, 2024",
-  //   page: "radio",
-  //   subpage: "broadcasters",
-  //   slug: "weekly-analysis-fever",
-  // },
-  //  {
-  //   id: 8,
-  //   image: "/images/daily-analysis.png",
-  //   title: "Weekly Analysis Agra",
-  //   description:
-  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-  //   lastUpdated: "May 2, 2024",
-  //   page: "radio",
-  //   subpage: "broadcasters",
-  //   slug: "weekly-analysis-agra",
-  // },
-  // {
-  //   id: 9,
-  //   image: "/images/daily-analysis.png",
-  //   title: "Weekly Analysis Madurai",
-  //   description:
-  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-  //   lastUpdated: "May 2, 2024",
-  //   page: "radio",
-  //   subpage: "broadcasters",
-  //   slug: "weekly-analysis-madurai",
-  // },
+  {
+    id: 7,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Delhi-V2",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-fever",
+  },
+  {
+    id: 8,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Agra",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-agra",
+  },
+  {
+    id: 9,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Madurai",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-madurai",
+  },
+  {
+    id: 10,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Ajmer",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-ajmer",
+  },
 ];
 
 export const radio_ads_reports = [

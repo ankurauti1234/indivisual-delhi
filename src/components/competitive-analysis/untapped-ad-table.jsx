@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
 import React, { useState, useMemo } from "react";
@@ -57,9 +56,7 @@ const CustomPaginationPrevious = ({ onClick, disabled }) => (
     onClick={onClick}
     disabled={disabled}
     className={`px-3 py-1 rounded-md border ${
-      disabled
-        ? "opacity-50 cursor-not-allowed"
-        : "hover:bg-gray-100"
+      disabled ? "opacity-50 cursor-not-allowed" : "hover:bg-gray-100"
     }`}
   >
     Previous
@@ -70,9 +67,7 @@ const CustomPaginationLink = ({ onClick, isActive, children }) => (
   <button
     onClick={onClick}
     className={`px-3 py-1 rounded-md border ${
-      isActive
-        ? "bg-blue-500 text-white border-blue-500"
-        : "hover:bg-gray-100"
+      isActive ? "bg-blue-500 text-white border-blue-500" : "hover:bg-gray-100"
     }`}
   >
     {children}
@@ -84,18 +79,14 @@ const CustomPaginationNext = ({ onClick, disabled }) => (
     onClick={onClick}
     disabled={disabled}
     className={`px-3 py-1 rounded-md border ${
-      disabled
-        ? "opacity-50 cursor-not-allowed"
-        : "hover:bg-gray-100"
+      disabled ? "opacity-50 cursor-not-allowed" : "hover:bg-gray-100"
     }`}
   >
     Next
   </button>
 );
 
-const CustomPaginationEllipsis = () => (
-  <span className="px-3 py-1">...</span>
-);
+const CustomPaginationEllipsis = () => <span className="px-3 py-1">...</span>;
 
 const UntappedAdTable = ({ data }) => {
   const [selectedWeek, setSelectedWeek] = useState(data.weeks[0]?.week || "");
@@ -121,27 +112,36 @@ const UntappedAdTable = ({ data }) => {
 
   // Filter and sort data
   const filteredData = useMemo(() => {
-    const weekData = data.weeks.find((w) => w.week === selectedWeek)?.data || [];
+    const weekData =
+      data.weeks.find((w) => w.week === selectedWeek)?.data || [];
     return weekData
       .filter((brand) => {
         // Sector filter
         const matchesSector =
           selectedSectors.length === 0 ||
           selectedSectors.some((s) => s.value === brand.sector);
-        
+
         // Station filter: include brands where all selected stations have 0 adCount or airtime
-        const matchesStations = selectedStations.length === 0 || 
+        const matchesStations =
+          selectedStations.length === 0 ||
           selectedStations.every((sel) => {
-            const stationData = brand.stations.find((s) => s.station === sel.value);
-            return !stationData || (showAirtime ? stationData.airtime === 0 : stationData.adCount === 0);
+            const stationData = brand.stations.find(
+              (s) => s.station === sel.value
+            );
+            return (
+              !stationData ||
+              (showAirtime
+                ? stationData.airtime === 0
+                : stationData.adCount === 0)
+            );
           });
-        
+
         return matchesSector && matchesStations;
       })
       .map((brand) => {
         // Include only stations with non-zero values for display
-        const filteredStations = brand.stations.filter((s) => 
-          (showAirtime ? s.airtime > 0 : s.adCount > 0)
+        const filteredStations = brand.stations.filter((s) =>
+          showAirtime ? s.airtime > 0 : s.adCount > 0
         );
         // Only include brands with at least one station to display
         if (filteredStations.length === 0) return null;
@@ -170,7 +170,7 @@ const UntappedAdTable = ({ data }) => {
   const getPaginationRange = () => {
     const maxPagesToShow = 5; // Show up to 5 page numbers (excluding first, last, and ellipses)
     const pages = [];
-    
+
     // Always show first page
     pages.push(1);
 

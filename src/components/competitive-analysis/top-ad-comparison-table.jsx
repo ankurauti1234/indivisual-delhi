@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
 import React, { useState, useMemo } from "react";
@@ -27,7 +26,11 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "@/components/ui/popover";
 import { Button } from "@/components/ui/button";
 import { Check, ChevronsUpDown } from "lucide-react";
 
@@ -99,9 +102,7 @@ const CustomPaginationPrevious = ({ onClick, disabled }) => (
     onClick={onClick}
     disabled={disabled}
     className={`px-3 py-1 rounded-md border ${
-      disabled
-        ? "opacity-50 cursor-not-allowed"
-        : "hover:bg-gray-100"
+      disabled ? "opacity-50 cursor-not-allowed" : "hover:bg-gray-100"
     }`}
   >
     Previous
@@ -112,9 +113,7 @@ const CustomPaginationLink = ({ onClick, isActive, children }) => (
   <button
     onClick={onClick}
     className={`px-3 py-1 rounded-md border ${
-      isActive
-        ? "bg-blue-500 text-white border-blue-500"
-        : "hover:bg-gray-100"
+      isActive ? "bg-blue-500 text-white border-blue-500" : "hover:bg-gray-100"
     }`}
   >
     {children}
@@ -126,18 +125,14 @@ const CustomPaginationNext = ({ onClick, disabled }) => (
     onClick={onClick}
     disabled={disabled}
     className={`px-3 py-1 rounded-md border ${
-      disabled
-        ? "opacity-50 cursor-not-allowed"
-        : "hover:bg-gray-100"
+      disabled ? "opacity-50 cursor-not-allowed" : "hover:bg-gray-100"
     }`}
   >
     Next
   </button>
 );
 
-const CustomPaginationEllipsis = () => (
-  <span className="px-3 py-1">...</span>
-);
+const CustomPaginationEllipsis = () => <span className="px-3 py-1">...</span>;
 
 const TopAdComparisonTable = ({ data }) => {
   const [selectedWeek, setSelectedWeek] = useState(data.weeks[0]?.week || "");
@@ -171,13 +166,15 @@ const TopAdComparisonTable = ({ data }) => {
 
   // Filter and sort data
   const filteredData = useMemo(() => {
-    const weekData = data.weeks.find((w) => w.week === selectedWeek)?.data || [];
+    const weekData =
+      data.weeks.find((w) => w.week === selectedWeek)?.data || [];
     return weekData
       .filter((ad) => {
         const matchesSector =
           selectedSectors.length === 0 ||
           selectedSectors.some((s) => s.value === ad.sector);
-        const matchesAdvertiser = !selectedAdvertiser || ad.advertiser === selectedAdvertiser;
+        const matchesAdvertiser =
+          !selectedAdvertiser || ad.advertiser === selectedAdvertiser;
         return matchesSector && matchesAdvertiser;
       })
       .map((ad) => ({
@@ -209,7 +206,7 @@ const TopAdComparisonTable = ({ data }) => {
   const getPaginationRange = () => {
     const maxPagesToShow = 5; // Show up to 5 page numbers (excluding first, last, and ellipses)
     const pages = [];
-    
+
     // Always show first page
     pages.push(1);
 
@@ -251,7 +248,8 @@ const TopAdComparisonTable = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Top Advertisers Comparison</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for {selectedWeek}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
+            {selectedWeek}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
@@ -307,7 +305,9 @@ const TopAdComparisonTable = ({ data }) => {
                         value={advertiser.value}
                         onSelect={(currentValue) => {
                           setSelectedAdvertiser(
-                            currentValue === selectedAdvertiser ? "" : currentValue
+                            currentValue === selectedAdvertiser
+                              ? ""
+                              : currentValue
                           );
                           setOpenCombobox(false);
                           setSearchTerm(""); // Reset search term on selection
@@ -349,7 +349,9 @@ const TopAdComparisonTable = ({ data }) => {
                 <TableCell>{ad.advertiser}</TableCell>
                 <TableCell>{ad.sector}</TableCell>
                 {data.stations.map((station) => {
-                  const stationData = ad.stations.find((s) => s.station === station);
+                  const stationData = ad.stations.find(
+                    (s) => s.station === station
+                  );
                   return (
                     <TableCell key={station}>
                       {showAirtime
