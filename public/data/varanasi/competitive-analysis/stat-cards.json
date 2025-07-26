@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "DURO PIPES",
+            "GROWMED",
+            "RATANDEEP JEWELLERY",
+            "AISSHPRA GEMS AND JEWELS"
+          ],
+          "values": ["1072", "854", "768", "766"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "AISSHPRA GEMS AND JEWELS",
+            "NAVRATAN JEWELLERS",
+            "MOTHER DAIRY",
+            "RADIO CITY"
+          ],
+          "values": ["19424", "13477", "13400", "13129"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["BIG FM", "RADIO CITY", "RADIO MIRCHI", "RED FM"],
+          "values": ["6119", "6564", "5566", "4584"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["BIG FM", "RADIO CITY", "RADIO MIRCHI", "RED FM"],
+          "values": ["96240", "106193", "87888", "63306"]
+        }
+      ]
+    }
+  ]
+}

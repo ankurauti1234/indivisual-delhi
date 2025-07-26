@@ -1,0 +1,566 @@
+{
+  "sectors": [
+    {
+      "name": "HEALTHCARE",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#FDD835"
+    },
+    {
+      "name": "ACCESSORIES",
+      "color": "#43A047"
+    },
+    {
+      "name": "FMCG",
+      "color": "#E91E63"
+    },
+    {
+      "name": "PUBLIC INTEREST",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#D81B60"
+    },
+    {
+      "name": "PERSONAL CARE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "PROPERTY",
+      "color": "#3949AB"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#E91E63"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#00897B"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS",
+      "color": "#43A047"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#3949AB"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#D81B60"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#039BE5"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#3949AB"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "EVENTS",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "SERVICES",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "MANUFACTURING",
+      "color": "#F4511E"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MEDICAL SERVICES",
+      "color": "#039BE5"
+    },
+    {
+      "name": "BUILDING MATERIALS",
+      "color": "#43A047"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 1234,
+              "airtime": 19486
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 938,
+              "airtime": 13717
+            },
+            {
+              "station": "RED FM",
+              "adCount": 655,
+              "airtime": 10318
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 800,
+              "airtime": 12032
+            }
+          ]
+        },
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 1056,
+              "airtime": 17990
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 801,
+              "airtime": 15238
+            },
+            {
+              "station": "RED FM",
+              "adCount": 476,
+              "airtime": 6950
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 911,
+              "airtime": 16628
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 465,
+              "airtime": 17274
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 328,
+              "airtime": 9197
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 149,
+              "airtime": 4475
+            }
+          ]
+        },
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 1007,
+              "airtime": 13767
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 871,
+              "airtime": 13319
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1335,
+              "airtime": 18306
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 886,
+              "airtime": 14414
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 765,
+              "airtime": 11082
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 1179,
+              "airtime": 18796
+            },
+            {
+              "station": "RED FM",
+              "adCount": 733,
+              "airtime": 11069
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 949,
+              "airtime": 13183
+            }
+          ]
+        },
+        {
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 155,
+              "airtime": 4613
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 73,
+              "airtime": 2234
+            },
+            {
+              "station": "RED FM",
+              "adCount": 113,
+              "airtime": 3943
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 120,
+              "airtime": 4758
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 276,
+              "airtime": 4323
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 136,
+              "airtime": 3112
+            },
+            {
+              "station": "RED FM",
+              "adCount": 12,
+              "airtime": 357
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 61,
+              "airtime": 2130
+            }
+          ]
+        },
+        {
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 360,
+              "airtime": 3686
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 300,
+              "airtime": 4083
+            },
+            {
+              "station": "RED FM",
+              "adCount": 281,
+              "airtime": 2810
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 18,
+              "airtime": 286
+            }
+          ]
+        },
+        {
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 94,
+              "airtime": 3068
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 12,
+              "airtime": 360
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 427,
+              "airtime": 2540
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 445,
+              "airtime": 3553
+            },
+            {
+              "station": "RED FM",
+              "adCount": 445,
+              "airtime": 2249
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 280,
+              "airtime": 1400
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 218,
+              "airtime": 2440
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 9,
+              "airtime": 18
+            },
+            {
+              "station": "RED FM",
+              "adCount": 74,
+              "airtime": 1523
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 380,
+              "airtime": 3336
+            }
+          ]
+        },
+        {
+          "sector": "HOUSEHOLD PRODUCTS",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 135,
+              "airtime": 1791
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 270,
+              "airtime": 3145
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 378,
+              "airtime": 3758
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 109,
+              "airtime": 1723
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 100,
+              "airtime": 1698
+            },
+            {
+              "station": "RED FM",
+              "adCount": 45,
+              "airtime": 1087
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 83,
+              "airtime": 1515
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 244,
+              "airtime": 3138
+            },
+            {
+              "station": "RED FM",
+              "adCount": 329,
+              "airtime": 3153
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 365,
+              "airtime": 7624
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 105,
+              "airtime": 595
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 2,
+              "airtime": 8
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 19,
+              "airtime": 342
+            }
+          ]
+        },
+        {
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 75,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "sector": "ANIMAL HUSBANDRY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 313,
+              "airtime": 2689
+            },
+            {
+              "station": "RED FM",
+              "adCount": 41,
+              "airtime": 416
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 118,
+              "airtime": 955
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 81,
+              "airtime": 2230
+            }
+          ]
+        },
+        {
+          "sector": "EVENTS",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 12,
+              "airtime": 36
+            }
+          ]
+        },
+        {
+          "sector": "SERVICES",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 12,
+              "airtime": 24
+            }
+          ]
+        },
+        {
+          "sector": "TRAVEL&TOURISM",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 5,
+              "airtime": 5
+            }
+          ]
+        },
+        {
+          "sector": "MANUFACTURING",
+          "stations": [
+            {
+              "station": "RED FM",
+              "adCount": 45,
+              "airtime": 1125
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 80,
+              "airtime": 1600
+            }
+          ]
+        },
+        {
+          "sector": "MEDICAL SERVICES",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 20,
+              "airtime": 310
+            }
+          ]
+        },
+        {
+          "sector": "BUILDING MATERIALS",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 20,
+              "airtime": 297
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

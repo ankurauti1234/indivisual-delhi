@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO MIRCHI",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RED FM",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 830,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1072,
+              "airtime": 266
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 885,
+              "airtime": 247
+            },
+            {
+              "station": "RED FM",
+              "adCount": 603,
+              "airtime": 141
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 770,
+              "airtime": 196
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1121,
+              "airtime": 320
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 801,
+              "airtime": 215
+            },
+            {
+              "station": "RED FM",
+              "adCount": 609,
+              "airtime": 148
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 906,
+              "airtime": 236
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1059,
+              "airtime": 298
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 835,
+              "airtime": 225
+            },
+            {
+              "station": "RED FM",
+              "adCount": 665,
+              "airtime": 158
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 874,
+              "airtime": 235
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1068,
+              "airtime": 272
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 815,
+              "airtime": 214
+            },
+            {
+              "station": "RED FM",
+              "adCount": 676,
+              "airtime": 154
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 894,
+              "airtime": 227
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1152,
+              "airtime": 307
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 765,
+              "airtime": 202
+            },
+            {
+              "station": "RED FM",
+              "adCount": 701,
+              "airtime": 159
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 805,
+              "airtime": 209
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 532,
+              "airtime": 146
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 662,
+              "airtime": 160
+            },
+            {
+              "station": "RED FM",
+              "adCount": 603,
+              "airtime": 132
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 1040,
+              "airtime": 272
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 560,
+              "airtime": 157
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 803,
+              "airtime": 199
+            },
+            {
+              "station": "RED FM",
+              "adCount": 727,
+              "airtime": 160
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
