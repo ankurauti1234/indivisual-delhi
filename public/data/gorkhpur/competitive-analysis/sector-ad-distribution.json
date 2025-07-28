@@ -1,0 +1,531 @@
+{
+  "sectors": [
+    {
+      "name": "EDUCATION",
+      "color": "#D81B60"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "FMCG",
+      "color": "#00897B"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "PERSONAL CARE",
+      "color": "#D81B60"
+    },
+    {
+      "name": "PUBLIC INTEREST",
+      "color": "#E91E63"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#039BE5"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#D81B60"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#43A047"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "ACCESSORIES",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "PROPERTY",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MANUFACTURING",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#E91E63"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "SERVICES",
+      "color": "#00897B"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#039BE5"
+    },
+    {
+      "name": "EVENTS",
+      "color": "#D81B60"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#1E88E5"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 760,
+              "airtime": 10729
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 1633,
+              "airtime": 23475
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 1405,
+              "airtime": 21240
+            },
+            {
+              "station": "Tadka Fm",
+              "adCount": 197,
+              "airtime": 2055
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 545,
+              "airtime": 7068
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 2281,
+              "airtime": 21062
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 1694,
+              "airtime": 19512
+            },
+            {
+              "station": "Tadka Fm",
+              "adCount": 216,
+              "airtime": 2581
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 452,
+              "airtime": 5805
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 794,
+              "airtime": 12382
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 797,
+              "airtime": 8748
+            },
+            {
+              "station": "Tadka Fm",
+              "adCount": 195,
+              "airtime": 2637
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 196,
+              "airtime": 3622
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 107,
+              "airtime": 2862
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 245,
+              "airtime": 6036
+            },
+            {
+              "station": "Tadka Fm",
+              "adCount": 12,
+              "airtime": 308
+            }
+          ]
+        },
+        {
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 234,
+              "airtime": 2823
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 324,
+              "airtime": 3035
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 310,
+              "airtime": 3586
+            }
+          ]
+        },
+        {
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 68,
+              "airtime": 2776
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 110,
+              "airtime": 4574
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 159,
+              "airtime": 4679
+            },
+            {
+              "station": "Tadka Fm",
+              "adCount": 90,
+              "airtime": 2708
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 186,
+              "airtime": 2734
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 290,
+              "airtime": 12564
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 556,
+              "airtime": 16163
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 185,
+              "airtime": 2135
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 257,
+              "airtime": 1736
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 235,
+              "airtime": 2841
+            }
+          ]
+        },
+        {
+          "sector": "HOUSEHOLD PRODUCTS",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 61,
+              "airtime": 732
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 93,
+              "airtime": 1488
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 152,
+              "airtime": 1961
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 70,
+              "airtime": 610
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 20,
+              "airtime": 170
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 34,
+              "airtime": 535
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 374,
+              "airtime": 5747
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 206,
+              "airtime": 4640
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 12,
+              "airtime": 196
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 273,
+              "airtime": 2704
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 286,
+              "airtime": 5504
+            }
+          ]
+        },
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "Fever Fm",
+              "adCount": 8,
+              "airtime": 104
+            },
+            {
+              "station": "Bigfm",
+              "adCount": 62,
+              "airtime": 443
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 8,
+              "airtime": 65
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "Bigfm",
+              "adCount": 168,
+              "airtime": 4853
+            }
+          ]
+        },
+        {
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "Bigfm",
+              "adCount": 399,
+              "airtime": 3160
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 399,
+              "airtime": 3068
+            }
+          ]
+        },
+        {
+          "sector": "MANUFACTURING",
+          "stations": [
+            {
+              "station": "Bigfm",
+              "adCount": 302,
+              "airtime": 2341
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 75,
+              "airtime": 706
+            }
+          ]
+        },
+        {
+          "sector": "ANIMAL HUSBANDRY",
+          "stations": [
+            {
+              "station": "Bigfm",
+              "adCount": 31,
+              "airtime": 397
+            },
+            {
+              "station": "Tadka Fm",
+              "adCount": 5,
+              "airtime": 33
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "Bigfm",
+              "adCount": 45,
+              "airtime": 299
+            },
+            {
+              "station": "Radiocity",
+              "adCount": 77,
+              "airtime": 1368
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 126,
+              "airtime": 2197
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 55,
+              "airtime": 483
+            }
+          ]
+        },
+        {
+          "sector": "SERVICES",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 15,
+              "airtime": 433
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 39,
+              "airtime": 252
+            }
+          ]
+        },
+        {
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 3,
+              "airtime": 33
+            }
+          ]
+        },
+        {
+          "sector": "EVENTS",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 3,
+              "airtime": 21
+            }
+          ]
+        },
+        {
+          "sector": "TRAVEL&TOURISM",
+          "stations": [
+            {
+              "station": "Radiocity",
+              "adCount": 1,
+              "airtime": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

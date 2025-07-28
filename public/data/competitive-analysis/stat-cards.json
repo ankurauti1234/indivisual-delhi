@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "GITANJALI HOSPITAL",
+            "RR JEWELLERS",
+            "NIMS UNIVERSITY",
+            "VIMAL"
+          ],
+          "values": ["630", "545", "495", "486"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "RR JEWELLERS",
+            "GITANJALI HOSPITAL",
+            "NIMS UNIVERSITY",
+            "RADIO CITY"
+          ],
+          "values": ["19571", "12986", "12389", "10762"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["TADKA FM", "My Fm", "RADIO CITY", "BIG FM"],
+          "values": ["1207", "5421", "3283", "2881"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["TADKA FM", "My Fm", "RADIO CITY", "BIG FM"],
+          "values": ["24065", "112186", "64785", "56413"]
+        }
+      ]
+    }
+  ]
+}

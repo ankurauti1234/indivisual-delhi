@@ -1,0 +1,474 @@
+{
+  "sectors": [
+    {
+      "name": "EDUCATION",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "FMCG",
+      "color": "#00897B"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#E91E63"
+    },
+    {
+      "name": "PUBLIC INTEREST",
+      "color": "#E91E63"
+    },
+    {
+      "name": "ACCESSORIES",
+      "color": "#43A047"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS",
+      "color": "#FDD835"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#FDD835"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "PROPERTY",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#0288D1"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#3949AB"
+    },
+    {
+      "name": "PERSONAL CARE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#FDD835"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#00897B"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#FDD835"
+    },
+    {
+      "name": "TECHNOLOGY",
+      "color": "#00897B"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#00897B"
+    },
+    {
+      "name": "HEALTH&WELLNESS",
+      "color": "#FB8C00"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 728,
+              "airtime": 14366
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 485,
+              "airtime": 7060
+            },
+            {
+              "station": "My Fm",
+              "adCount": 713,
+              "airtime": 15483
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 105,
+              "airtime": 1771
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 259,
+              "airtime": 3515
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 762,
+              "airtime": 13805
+            },
+            {
+              "station": "My Fm",
+              "adCount": 806,
+              "airtime": 18285
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 1078,
+              "airtime": 21713
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 43,
+              "airtime": 2827
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 266,
+              "airtime": 4956
+            },
+            {
+              "station": "My Fm",
+              "adCount": 272,
+              "airtime": 6131
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 467,
+              "airtime": 7826
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 142,
+              "airtime": 1733
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 413,
+              "airtime": 5307
+            },
+            {
+              "station": "My Fm",
+              "adCount": 882,
+              "airtime": 15893
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 261,
+              "airtime": 3442
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 10,
+              "airtime": 939
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 387,
+              "airtime": 13109
+            },
+            {
+              "station": "My Fm",
+              "adCount": 97,
+              "airtime": 2480
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 252,
+              "airtime": 7841
+            }
+          ]
+        },
+        {
+          "sector": "PUBLIC INTEREST",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 13,
+              "airtime": 629
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 100,
+              "airtime": 4493
+            },
+            {
+              "station": "My Fm",
+              "adCount": 90,
+              "airtime": 2944
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 11,
+              "airtime": 559
+            }
+          ]
+        },
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 12,
+              "airtime": 56
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 137,
+              "airtime": 2799
+            },
+            {
+              "station": "My Fm",
+              "adCount": 755,
+              "airtime": 23765
+            }
+          ]
+        },
+        {
+          "sector": "HOUSEHOLD PRODUCTS",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 204,
+              "airtime": 4922
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 118,
+              "airtime": 2829
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 116,
+              "airtime": 3376
+            },
+            {
+              "station": "My Fm",
+              "adCount": 85,
+              "airtime": 2351
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 152,
+              "airtime": 3162
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 284,
+              "airtime": 2990
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 119,
+              "airtime": 1888
+            },
+            {
+              "station": "My Fm",
+              "adCount": 121,
+              "airtime": 1893
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 100,
+              "airtime": 1592
+            }
+          ]
+        },
+        {
+          "sector": "PROPERTY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 56
+            },
+            {
+              "station": "My Fm",
+              "adCount": 287,
+              "airtime": 4305
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 196,
+              "airtime": 976
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 17
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 7
+            },
+            {
+              "station": "My Fm",
+              "adCount": 303,
+              "airtime": 4855
+            }
+          ]
+        },
+        {
+          "sector": "PERSONAL CARE",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 403,
+              "airtime": 5943
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 20,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 165,
+              "airtime": 1953
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 102,
+              "airtime": 4305
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 163,
+              "airtime": 1917
+            }
+          ]
+        },
+        {
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 169,
+              "airtime": 1859
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 59,
+              "airtime": 1603
+            }
+          ]
+        },
+        {
+          "sector": "TECHNOLOGY",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 28,
+              "airtime": 244
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 22,
+              "airtime": 242
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 19,
+              "airtime": 97
+            }
+          ]
+        },
+        {
+          "sector": "HEALTH&WELLNESS",
+          "stations": [
+            {
+              "station": "My Fm",
+              "adCount": 1,
+              "airtime": 40
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
