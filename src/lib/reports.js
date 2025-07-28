@@ -392,13 +392,13 @@ export const radio_broad_reports = [
   {
     id: 12,
     image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Gorkhpur",
+    title: "Weekly Analysis Gorakhpur",
     description:
       "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
     page: "radio",
     subpage: "broadcasters",
-    slug: "weekly-analysis-gorkhpur",
+    slug: "weekly-analysis-gorakhpur",
   },
 ];
 
