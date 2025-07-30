@@ -23,13 +23,13 @@
         {
           "title": "Top Radio by Counts",
           "desc": "Radio stations ranked by total ad counts",
-          "keys": ["Radiocity", "Fever Fm", "Tadka Fm", "Bigfm"],
+          "keys": ["RADIOCITY", "FEVER FM", "TADKA FM", "BIGFM"],
           "values": ["6866", "2811", "715", "7552"]
         },
         {
           "title": "Top Radio by Seconds",
           "desc": "Radio stations ranked by total ad seconds",
-          "keys": ["Radiocity", "Fever Fm", "Tadka Fm", "Bigfm"],
+          "keys": ["RADIOCITY", "FEVER FM", "TADKA FM", "BIGFM"],
           "values": ["103718", "39869", "10322", "103231"]
         }
       ]
