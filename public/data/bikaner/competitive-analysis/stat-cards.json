@@ -1,0 +1,38 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": ["RADIO CITY", "VIMAL", "CANARA BANK", "JNU HOSPITAL"],
+          "values": ["527", "493", "372", "360"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "RADIO CITY",
+            "SYNTHESIS GROUP OF EDUCATION",
+            "JNU HOSPITAL",
+            "GOVERNMENT OF INDIA"
+          ],
+          "values": ["13983", "9405", "8793", "8677"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["MY FM", "RADIO CITY", "BIG FM", "TADKA FM"],
+          "values": ["4385", "2093", "2137", "826"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["MY FM", "RADIO CITY", "BIG FM", "TADKA FM"],
+          "values": ["78812", "43295", "45859", "26558"]
+        }
+      ]
+    }
+  ]
+}
