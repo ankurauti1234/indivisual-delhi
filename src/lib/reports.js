@@ -411,6 +411,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis-bikaner",
   },
+  {
+    id: 14,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Bareilly",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-bareilly",
+  },
 ];
 
 export const radio_ads_reports = [

@@ -1,0 +1,33 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-30",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": ["THE EKKAM STORE", "VIMAL", "RADIO CITY", "GOLDIEE"],
+          "values": ["665 plays", "459 plays", "458 plays", "432 plays"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": ["RADIO CITY", "BIGLIVE", "VIMAL", "NARAYANA WORLD SCHOOL"],
+          "values": ["264.7 mins", "124.7 mins", "112.7 mins", "105.4 mins"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["BIG FM", "RADIO CITY", "FEVER FM", "TADKA FM"],
+          "values": ["3294 plays", "4490 plays", "1727 plays", "1950 plays"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["BIG FM", "RADIO CITY", "FEVER FM", "TADKA FM"],
+          "values": ["1091.0 mins", "1294.0 mins", "509.2 mins", "453.0 mins"]
+        }
+      ]
+    }
+  ]
+}

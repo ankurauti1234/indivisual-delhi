@@ -1,0 +1,489 @@
+{
+  "sectors": [
+    {
+      "name": "EDUCATION",
+      "color": "#FDD835"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#039BE5"
+    },
+    {
+      "name": "FMCG",
+      "color": "#FDD835"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "ENERGY",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#FDD835"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#FDD835"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#E91E63"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#F4511E"
+    },
+    {
+      "name": "ACCESSORIES",
+      "color": "#FF7043"
+    },
+    {
+      "name": "EVENTS&EXHIBITION",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "E-COMMERCE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "HOUSEHOLD",
+      "color": "#FDD835"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#43A047"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 543,
+              "airtime": 9202
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 574,
+              "airtime": 9402
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 475,
+              "airtime": 8602
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 814,
+              "airtime": 13442
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 458,
+              "airtime": 8593
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 200,
+              "airtime": 3880
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 708,
+              "airtime": 11298
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 699,
+              "airtime": 10806
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 665,
+              "airtime": 5516
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 11,
+              "airtime": 51
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 105,
+              "airtime": 1628
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 268,
+              "airtime": 3049
+            }
+          ]
+        },
+        {
+          "sector": "GOVERNMENT",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 39,
+              "airtime": 1167
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 113,
+              "airtime": 4675
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 51,
+              "airtime": 1910
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 129,
+              "airtime": 3297
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 81,
+              "airtime": 792
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 136,
+              "airtime": 2162
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 725,
+              "airtime": 11518
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 356,
+              "airtime": 4353
+            }
+          ]
+        },
+        {
+          "sector": "REAL ESTATE",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 52,
+              "airtime": 676
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 200,
+              "airtime": 1720
+            }
+          ]
+        },
+        {
+          "sector": "ENERGY",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 30,
+              "airtime": 390
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 53,
+              "airtime": 370
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 97,
+              "airtime": 1422
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 12,
+              "airtime": 309
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 292,
+              "airtime": 5738
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 107,
+              "airtime": 3213
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 342,
+              "airtime": 7813
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 11,
+              "airtime": 121
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 39,
+              "airtime": 921
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 324,
+              "airtime": 13005
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 669,
+              "airtime": 19603
+            }
+          ]
+        },
+        {
+          "sector": "ANIMAL HUSBANDRY",
+          "stations": [
+            {
+              "station": "TADKA FM",
+              "adCount": 6,
+              "airtime": 42
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 35,
+              "airtime": 470
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "FEVER FM",
+              "adCount": 42,
+              "airtime": 1302
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 135,
+              "airtime": 1968
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 126,
+              "airtime": 4039
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "FEVER FM",
+              "adCount": 106,
+              "airtime": 742
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 24
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 84,
+              "airtime": 588
+            }
+          ]
+        },
+        {
+          "sector": "LIFESTYLE",
+          "stations": [
+            {
+              "station": "FEVER FM",
+              "adCount": 85,
+              "airtime": 595
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 119,
+              "airtime": 714
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "FEVER FM",
+              "adCount": 36,
+              "airtime": 556
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 372,
+              "airtime": 7186
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 95,
+              "airtime": 1474
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "FEVER FM",
+              "adCount": 90,
+              "airtime": 504
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 169,
+              "airtime": 2078
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 280,
+              "airtime": 1799
+            }
+          ]
+        },
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "FEVER FM",
+              "adCount": 3,
+              "airtime": 23
+            }
+          ]
+        },
+        {
+          "sector": "EVENTS&EXHIBITION",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 53,
+              "airtime": 1650
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 23,
+              "airtime": 609
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 16,
+              "airtime": 416
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 298
+            }
+          ]
+        },
+        {
+          "sector": "HOUSEHOLD",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 127,
+              "airtime": 1924
+            }
+          ]
+        },
+        {
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1183
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

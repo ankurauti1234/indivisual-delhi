@@ -1,0 +1,4368 @@
+{
+  "stations": ["BIG FM", "FEVER FM", "RADIO CITY", "TADKA FM"],
+  "sectors": [
+    {
+      "name": "TEXTILES&APPARELS"
+    },
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "HOME FURNISHING"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "GOVERNMENT"
+    },
+    {
+      "name": "LIFESTYLE"
+    },
+    {
+      "name": "RETAIL"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "CONSTRUCTION"
+    },
+    {
+      "name": "RENEWABLE ENERGY"
+    },
+    {
+      "name": "EVENTS&EXHIBITION"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "ENERGY"
+    },
+    {
+      "name": "HOUSEHOLD"
+    },
+    {
+      "name": "ACCESSORIES"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "brand": "ACC",
+          "sector": "CONSTRUCTION",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ACCORD DEVELOPER",
+          "sector": "REAL ESTATE",
+          "percentage": 2.2,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 200,
+              "airtime": 3000
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 52,
+              "airtime": 780
+            }
+          ]
+        },
+        {
+          "brand": "ACHARYA BALKRISHNA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "AMIT KHANNA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.53,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ANA GROUP OF INSTITUTIONS",
+          "sector": "EDUCATION",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ARYA COLLEGE OF PHARMACY",
+          "sector": "EDUCATION",
+          "percentage": 0.61,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 70,
+              "airtime": 1050
+            }
+          ]
+        },
+        {
+          "brand": "ASHOK MASALE",
+          "sector": "FMCG",
+          "percentage": 0.72,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ASHOKA",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.2,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ASHOKA FOAM",
+          "sector": "RETAIL",
+          "percentage": 0.77,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ASHOKA FOAMS",
+          "sector": "HOME FURNISHING",
+          "percentage": 1.77,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 105,
+              "airtime": 1575
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ASTER AADHAR",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BAJAJ CHETAK",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BHOOMIKA SOLAR",
+          "sector": "RENEWABLE ENERGY",
+          "percentage": 0.6,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BIG FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 19,
+              "airtime": 285
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BIGLIVE",
+          "sector": "ENTERTAINMENT",
+          "percentage": 1.81,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 207,
+              "airtime": 3105
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "BISHNOI HOSPITAL&KIDNEY CENTRE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CANARA BANK",
+          "sector": "FINANCE",
+          "percentage": 1.85,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 208,
+              "airtime": 3120
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "CHENNAI ADI SALE",
+          "sector": "RETAIL",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DAVA INDIA",
+          "sector": "HEALTHCARE",
+          "percentage": 3.25,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 268,
+              "airtime": 4020
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DEV BHOOMI UTTARAKHAND UNIVERSITY (DBUU)",
+          "sector": "EDUCATION",
+          "percentage": 0.61,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DHAMAK",
+          "sector": "HOUSEHOLD",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR ADIT GUPTA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 20,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "brand": "DR AMIT GUPTA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 84,
+              "airtime": 1260
+            }
+          ]
+        },
+        {
+          "brand": "DR ARTHO SPRAY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 34,
+              "airtime": 510
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR VP SINGH",
+          "sector": "HEALTHCARE",
+          "percentage": 0.27,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 31,
+              "airtime": 465
+            }
+          ]
+        },
+        {
+          "brand": "DR. AMIT GUPTA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. HEMANT SHRIVASTAV",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. LAL PATHLABS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 19,
+              "airtime": 285
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. O.P. PRASAD",
+          "sector": "HEALTHCARE",
+          "percentage": 1.54,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 105,
+              "airtime": 1575
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 72,
+              "airtime": 1080
+            }
+          ]
+        },
+        {
+          "brand": "DR. RITU BHUTANI",
+          "sector": "HEALTHCARE",
+          "percentage": 0.11,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. SANJAY GUPTA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. SP AGARWAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "DR. VIKAS SINHA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "FEVER FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.22,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "FOCUS PATHLAB CENTRE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 54,
+              "airtime": 810
+            }
+          ]
+        },
+        {
+          "brand": "FSSAI",
+          "sector": "GOVERNMENT",
+          "percentage": 0.24,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "FUTURE UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 2.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 100,
+              "airtime": 1500
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 140,
+              "airtime": 2100
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GK SHRIVASTAVA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.57,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 65,
+              "airtime": 975
+            }
+          ]
+        },
+        {
+          "brand": "GOLDIEE",
+          "sector": "FMCG",
+          "percentage": 3.77,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 190,
+              "airtime": 2850
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 162,
+              "airtime": 2430
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 80,
+              "airtime": 1200
+            }
+          ]
+        },
+        {
+          "brand": "GOLDIEE MASALE",
+          "sector": "FMCG",
+          "percentage": 0.81,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 93,
+              "airtime": 1395
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERMENT OF INDIA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF BIHAR",
+          "sector": "GOVERNMENT",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF DELHI",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF INDIA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.55,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF UTTAR PRADESH",
+          "sector": "GOVERNMENT",
+          "percentage": 1.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 39,
+              "airtime": 585
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 39,
+              "airtime": 585
+            }
+          ]
+        },
+        {
+          "brand": "GOVERNMENT OF UTTAR PRADESH RASHTRIYA SWASTHYA MISSION",
+          "sector": "GOVERNMENT",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GOVT OF UP",
+          "sector": "GOVERNMENT",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GRACIA EXHIBITION",
+          "sector": "EVENTS&EXHIBITION",
+          "percentage": 0.46,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 53,
+              "airtime": 795
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "GROW WITH INDIA INVEST WITH KDM",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HEALTH MINISTRY OF INDIA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HONDA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 19,
+              "airtime": 285
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HP RACER FUTURE X",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 168,
+              "airtime": 2520
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HRIT UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "HYUNDAI",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.7,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 31,
+              "airtime": 465
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "IMS INSTITUTE OF MANAGEMENT STUDIES",
+          "sector": "EDUCATION",
+          "percentage": 0.33,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 38,
+              "airtime": 570
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "INDIAN NAVY",
+          "sector": "GOVERNMENT",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "INGRID BRA",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 1.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 56,
+              "airtime": 840
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 72,
+              "airtime": 1080
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JAAGRAN PRAKASH LIMITED",
+          "sector": "GOVERNMENT",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JAGAT TALKIES",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.08,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JASORIA BROTHERS",
+          "sector": "ENERGY",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 30,
+              "airtime": 450
+            }
+          ]
+        },
+        {
+          "brand": "JHARKHAND UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JIGYASA UNIVERISTY",
+          "sector": "EDUCATION",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JIGYASA UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JIGYASA UNIVERSITY DEHRADUN",
+          "sector": "EDUCATION",
+          "percentage": 0.37,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JIO TV APP",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.24,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JIOTV",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JNU HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "JPM COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.72,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 83,
+              "airtime": 1245
+            }
+          ]
+        },
+        {
+          "brand": "KAPILA",
+          "sector": "ANIMAL HUSBANDRY",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 6,
+              "airtime": 90
+            }
+          ]
+        },
+        {
+          "brand": "KUKREJA INSTITUTE",
+          "sector": "EDUCATION",
+          "percentage": 1.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 118,
+              "airtime": 1770
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LG",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 84,
+              "airtime": 1260
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LIC",
+          "sector": "FINANCE",
+          "percentage": 1.4,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 63,
+              "airtime": 945
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 47,
+              "airtime": 705
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "LITTLE STAR CAFE",
+          "sector": "FMCG",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "brand": "LOUIS PHILIPPE-AMBIENCE MALL",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MAHESHNATH MEDICARE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.63,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 72,
+              "airtime": 1080
+            }
+          ]
+        },
+        {
+          "brand": "MAHINDRA",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 123,
+              "airtime": 1845
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MANSI IVF FERTILITY CENTER",
+          "sector": "HEALTHCARE",
+          "percentage": 0.91,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MEDLEY PHARMACEUTICALS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MIND POWER",
+          "sector": "EDUCATION",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MIND POWER UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.37,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MOHAN COLLEGE OF LAW",
+          "sector": "EDUCATION",
+          "percentage": 0.57,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 65,
+              "airtime": 975
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MOHAN INSTITUE OF PHARMACY",
+          "sector": "EDUCATION",
+          "percentage": 0.41,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 47,
+              "airtime": 705
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "MUZAK DISCO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.95,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 109,
+              "airtime": 1635
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NANDI AATA",
+          "sector": "FMCG",
+          "percentage": 0.64,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 73,
+              "airtime": 1095
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NARAYAN COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 1.38,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 147,
+              "airtime": 2205
+            }
+          ]
+        },
+        {
+          "brand": "NARAYANA WORLD SCHOOL",
+          "sector": "EDUCATION",
+          "percentage": 2.67,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 91,
+              "airtime": 1365
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 105,
+              "airtime": 1575
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 110,
+              "airtime": 1650
+            }
+          ]
+        },
+        {
+          "brand": "NATIONAL HEALTH MISSION UTTAR PRADESH",
+          "sector": "GOVERNMENT",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "NITIN DIAGNOSTIC CENTER",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ORTHO SAMADHAN \u2013 DR. SHREY SINGH",
+          "sector": "HEALTHCARE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PAN BAHAR",
+          "sector": "FMCG",
+          "percentage": 2.55,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 292,
+              "airtime": 4380
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PANCHANAN",
+          "sector": "RETAIL",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 14,
+              "airtime": 210
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PATAKA CHAI",
+          "sector": "FMCG",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PATANJALI",
+          "sector": "HEALTHCARE",
+          "percentage": 1.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 129,
+              "airtime": 1935
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PERFECTION HOUSE",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.53,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "percentage": 1.21,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PHOENIX UNITED",
+          "sector": "RETAIL",
+          "percentage": 0.96,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 110,
+              "airtime": 1650
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PHOENIX UNITED MALL",
+          "sector": "RETAIL",
+          "percentage": 0.78,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 47,
+              "airtime": 705
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PRISM CHAMPION",
+          "sector": "CONSTRUCTION",
+          "percentage": 0.81,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 93,
+              "airtime": 1395
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PULKIT DIAGNOSTIC CENTRE",
+          "sector": "HEALTHCARE",
+          "percentage": 1.31,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 97,
+              "airtime": 1455
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 53,
+              "airtime": 795
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PUNJAB AND SIND BANK",
+          "sector": "FINANCE",
+          "percentage": 0.27,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 31,
+              "airtime": 465
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "PUNJAB NATIONAL BANK",
+          "sector": "FINANCE",
+          "percentage": 0.25,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "QUALITY ACADEMICS",
+          "sector": "EDUCATION",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 26,
+              "airtime": 390
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "percentage": 4.0,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 450,
+              "airtime": 6750
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIO MIRCHI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RADIO TADKA",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAJESHAWAR HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAJGADHIA EXPORTS",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.65,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 74,
+              "airtime": 1110
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAJSHREE AYURVEDIC MEDICAL COLLEGE&HOSPITAL",
+          "sector": "EDUCATION",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 52,
+              "airtime": 780
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAJSHREE GROUP OF INSTITUTION",
+          "sector": "EDUCATION",
+          "percentage": 0.65,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 75,
+              "airtime": 1125
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAM KUMAR AGARWAL",
+          "sector": "LIFESTYLE",
+          "percentage": 1.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 119,
+              "airtime": 1785
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAM KUMAR AGARWAL SARRAF",
+          "sector": "LIFESTYLE",
+          "percentage": 0.74,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 85,
+              "airtime": 1275
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RAMAKRISHNA JEWELLERS",
+          "sector": "ACCESSORIES",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RBI",
+          "sector": "FINANCE",
+          "percentage": 0.58,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 12,
+              "airtime": 180
+            }
+          ]
+        },
+        {
+          "brand": "RBMI GROUP OF INSTITUTIONS",
+          "sector": "EDUCATION",
+          "percentage": 1.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 125,
+              "airtime": 1875
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RC SWAPPR",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.58,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 66,
+              "airtime": 990
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RJ ANU KAPOOR",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RJ RANI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.86,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 98,
+              "airtime": 1470
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RKGIT COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 31,
+              "airtime": 465
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ROHILKHAND MEDICAL COLLEGE AND HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.99,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 111,
+              "airtime": 1665
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ROHILKHAND MEDICAL COLLEGE&HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.44,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "ROOP MANTRA",
+          "sector": "FMCG",
+          "percentage": 0.3,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RR CANCER INSTITUTE AND RESEARCH CENTER",
+          "sector": "EDUCATION",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 26,
+              "airtime": 390
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "RR JEWELLERS",
+          "sector": "ACCESSORIES",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "S R",
+          "sector": "EDUCATION",
+          "percentage": 0.19,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 22,
+              "airtime": 330
+            }
+          ]
+        },
+        {
+          "brand": "SACHI SAHELI",
+          "sector": "HEALTHCARE",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SAHU BAKERS AND CONFECTIONARY",
+          "sector": "FMCG",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SAI SUKHDA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.46,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 53,
+              "airtime": 795
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SANJAY ENTERPRISES",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 0.92,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 106,
+              "airtime": 1590
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SANSKRITI UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.5,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 172,
+              "airtime": 2580
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SAY NO TO PLASTIC",
+          "sector": "GOVERNMENT",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SBI",
+          "sector": "FINANCE",
+          "percentage": 2.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 234,
+              "airtime": 3510
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHIV SHARDA MEMORIAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHREE GURU GROUP OF COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHREE RAM MURTI COLLEGE OF ENGINEERING AND TECHNOLOGY(SRMIST)",
+          "sector": "EDUCATION",
+          "percentage": 0.94,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 31,
+              "airtime": 465
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 52,
+              "airtime": 780
+            }
+          ]
+        },
+        {
+          "brand": "SHRI RAM MURTI SMARAK COLLEGE OF NURSING",
+          "sector": "EDUCATION",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHRI RAM MURTI SMARAK HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.86,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 60,
+              "airtime": 900
+            }
+          ]
+        },
+        {
+          "brand": "SHRI RAM MURTI SMARAK HOSPITAL BAREILLY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SHRI RAM MURTI SMARAK INSTITUTE",
+          "sector": "EDUCATION",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SPAN DIAGNOSTICS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRMS",
+          "sector": "EDUCATION",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 14,
+              "airtime": 210
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SRMS INSTITUTE OF MEDICAL SCIENCES",
+          "sector": "EDUCATION",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SUBHARTI HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.66,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 76,
+              "airtime": 1140
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "SWASTIK",
+          "sector": "CONSTRUCTION",
+          "percentage": 0.46,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 53,
+              "airtime": 795
+            }
+          ]
+        },
+        {
+          "brand": "TADKA FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 11,
+              "airtime": 165
+            }
+          ]
+        },
+        {
+          "brand": "TEENAGER BRA",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.79,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TERE BAAJO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "THE EEKAM STORE-SNEHI AGARWAL",
+          "sector": "HOME FURNISHING",
+          "percentage": 2.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 175,
+              "airtime": 2625
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "THE EKKAM STORE",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 5.8,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 665,
+              "airtime": 9975
+            }
+          ]
+        },
+        {
+          "brand": "THE GRAND NIRVANA HOTEL&RESORT",
+          "sector": "HOSPITALITY",
+          "percentage": 0.34,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TORRENT PHARMA LTD",
+          "sector": "GOVERNMENT",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "TOYOTA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.4,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 46,
+              "airtime": 690
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "UPKAR INSTITUTE OF NURSING AND PARAMEDICAL SCIENCES",
+          "sector": "EDUCATION",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "UTKARSH",
+          "sector": "EDUCATION",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 59,
+              "airtime": 885
+            }
+          ]
+        },
+        {
+          "brand": "UTKARSH GROUP OF INSTITUTIONS",
+          "sector": "EDUCATION",
+          "percentage": 1.55,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 178,
+              "airtime": 2670
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "UTTAR PRADESH SARKAR",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VIMAL",
+          "sector": "FMCG",
+          "percentage": 4.0,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 112,
+              "airtime": 1680
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 216,
+              "airtime": 3240
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VISHESH SANCHARI ROG NIYANTRAN ABHIYAN",
+          "sector": "GOVERNMENT",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "brand": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
