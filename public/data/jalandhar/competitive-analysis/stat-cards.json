@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-31",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "GANGA ORTHOCARE HOSPITAL",
+            "RADIO CITY",
+            "VIMAL",
+            "DIPS POLYTECHNIC COLLEGE"
+          ],
+          "values": [571, 434, 426, 379]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "DIPS POLYTECHNIC COLLEGE",
+            "RADIO CITY",
+            "DIPS COLLEGE OF EDUCATION DHILWAN",
+            "MEXMON GROUP"
+          ],
+          "values": [14699, 13702, 12243, 9094]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["BIG FM", "RADIO MIRCHI", "RADIO CITY", "MY FM"],
+          "values": [1968, 3187, 4860, 6040]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["BIG FM", "RADIO MIRCHI", "RADIO CITY", "MY FM"],
+          "values": [46075, 65872, 85939, 101847]
+        }
+      ]
+    }
+  ]
+}

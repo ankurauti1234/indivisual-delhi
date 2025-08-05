@@ -1,0 +1,177 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MY FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO MIRCHI",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 395,
+              "airtime": 148
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1270,
+              "airtime": 341
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 826,
+              "airtime": 267
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 586,
+              "airtime": 213
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 362,
+              "airtime": 147
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1055,
+              "airtime": 290
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 897,
+              "airtime": 269
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 583,
+              "airtime": 191
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 353,
+              "airtime": 139
+            },
+            {
+              "station": "MY FM",
+              "adCount": 995,
+              "airtime": 273
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 885,
+              "airtime": 252
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 601,
+              "airtime": 210
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 340,
+              "airtime": 133
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1052,
+              "airtime": 313
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 920,
+              "airtime": 266
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 590,
+              "airtime": 195
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 325,
+              "airtime": 124
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1058,
+              "airtime": 312
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 824,
+              "airtime": 229
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 504,
+              "airtime": 177
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 193,
+              "airtime": 74
+            },
+            {
+              "station": "MY FM",
+              "adCount": 610,
+              "airtime": 166
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 508,
+              "airtime": 147
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 323,
+              "airtime": 109
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
