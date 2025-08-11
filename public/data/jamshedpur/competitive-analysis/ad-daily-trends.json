@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO DHOOM",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RED FM",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 322,
+              "airtime": 95
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 587,
+              "airtime": 182
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 259,
+              "airtime": 74
+            },
+            {
+              "station": "RED FM",
+              "adCount": 218,
+              "airtime": 68
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 327,
+              "airtime": 96
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 580,
+              "airtime": 157
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 264,
+              "airtime": 76
+            },
+            {
+              "station": "RED FM",
+              "adCount": 232,
+              "airtime": 74
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 314,
+              "airtime": 94
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 559,
+              "airtime": 152
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 259,
+              "airtime": 77
+            },
+            {
+              "station": "RED FM",
+              "adCount": 228,
+              "airtime": 71
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 301,
+              "airtime": 92
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 533,
+              "airtime": 146
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 266,
+              "airtime": 78
+            },
+            {
+              "station": "RED FM",
+              "adCount": 229,
+              "airtime": 69
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 319,
+              "airtime": 96
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 545,
+              "airtime": 144
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 263,
+              "airtime": 76
+            },
+            {
+              "station": "RED FM",
+              "adCount": 195,
+              "airtime": 57
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 315,
+              "airtime": 97
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 469,
+              "airtime": 132
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 280,
+              "airtime": 85
+            },
+            {
+              "station": "RED FM",
+              "adCount": 163,
+              "airtime": 42
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 334,
+              "airtime": 107
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 568,
+              "airtime": 144
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 283,
+              "airtime": 84
+            },
+            {
+              "station": "RED FM",
+              "adCount": 199,
+              "airtime": 54
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

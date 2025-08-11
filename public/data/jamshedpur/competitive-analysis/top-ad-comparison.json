@@ -1,0 +1,2760 @@
+{
+  "stations": ["BIG FM", "RADIO CITY", "RADIO DHOOM", "RED FM"],
+  "sectors": [
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "TEXTILES&APPARELS"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "EVENTS&EXHIBITION"
+    },
+    {
+      "name": "LIFESTYLE"
+    },
+    {
+      "name": "DOTCOM"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY"
+    },
+    {
+      "name": "GOVERNMENT"
+    },
+    {
+      "name": "MANUFACTURING"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "advertiser": "(SPONSER) SREE LEATHERS",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "(SPONSOR) SONA DEVI UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "(SPONSOR) SREE LEATHERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AASTHA EDUCATION CONSULTANCY",
+          "sector": "EDUCATION",
+          "percentage": 1.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AMBALIKA INSTITUTE",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "AMITY UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.79,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 74,
+              "airtime": 1110
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ASG HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.97,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 91,
+              "airtime": 1365
+            }
+          ]
+        },
+        {
+          "advertiser": "ASHOK MODI INVESTER",
+          "sector": "FINANCE",
+          "percentage": 0.37,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ASHOKA",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 2.23,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RED FM",
+              "adCount": 70,
+              "airtime": 1050
+            }
+          ]
+        },
+        {
+          "advertiser": "ASHOKA SAREES",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ASL MOTORS",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.41,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 39,
+              "airtime": 585
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AUROUS RESTRO LOUNGE",
+          "sector": "HOSPITALITY",
+          "percentage": 1.46,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 137,
+              "airtime": 2055
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BANDHAN SCHOOL OF BUSINESS",
+          "sector": "EDUCATION",
+          "percentage": 2.44,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 230,
+              "airtime": 3450
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIG FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.68,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIGLIVE",
+          "sector": "DOTCOM",
+          "percentage": 1.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 101,
+              "airtime": 1515
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CANARA BANK",
+          "sector": "FINANCE",
+          "percentage": 1.75,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 165,
+              "airtime": 2475
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CET GROUP OF INSTITUTIONS",
+          "sector": "EDUCATION",
+          "percentage": 1.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 98,
+              "airtime": 1470
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CHANDIGARH UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.97,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 91,
+              "airtime": 1365
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CHHAGANLAL DAYALJEE",
+          "sector": "LIFESTYLE",
+          "percentage": 0.31,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CHHAGANLAL DAYALJEE JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.65,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 30,
+              "airtime": 450
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 30,
+              "airtime": 450
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CITY GROUP OF INSTITUTION",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DAVA INDIA",
+          "sector": "HEALTHCARE",
+          "percentage": 1.8,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 169,
+              "airtime": 2535
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DOON UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.48,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 45,
+              "airtime": 675
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR ORTHO SPRAY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.39,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 37,
+              "airtime": 555
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. HARPEET SINGH",
+          "sector": "HEALTHCARE",
+          "percentage": 0.14,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. LAL PATHLABS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 27,
+              "airtime": 405
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. RAJEEV UPADHYAY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "DR.PREETAM HANSRAJ",
+          "sector": "HEALTHCARE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DUA HONDA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.94,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DUA HONDA SHOWROOM",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.18,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ELEKTROKRAFT",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 1.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "FSSAI",
+          "sector": "GOVERNMENT",
+          "percentage": 0.44,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOLDIEE",
+          "sector": "FMCG",
+          "percentage": 1.33,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 89,
+              "airtime": 1335
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOLDIEE MASALE",
+          "sector": "FMCG",
+          "percentage": 1.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERNMENT OF INDIA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.37,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERNMENT OF RAJASTHAN",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GROWMED",
+          "sector": "FMCG",
+          "percentage": 8.2,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 279,
+              "airtime": 4185
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 215,
+              "airtime": 3225
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 278,
+              "airtime": 4170
+            }
+          ]
+        },
+        {
+          "advertiser": "HERITAGE INFRA SPACE",
+          "sector": "REAL ESTATE",
+          "percentage": 2.34,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 220,
+              "airtime": 3300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HONDA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RED FM",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "advertiser": "HONDA BIGWING",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.3,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HP PAY",
+          "sector": "FINANCE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 4,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "advertiser": "HP RACER FUTURE X",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.66,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 62,
+              "airtime": 930
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HYUNDAI",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "IES UNIVERSITY BHOPAL",
+          "sector": "EDUCATION",
+          "percentage": 0.52,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "IK GUJRAL PUNJAB TECHNICAL UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.61,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 57,
+              "airtime": 855
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN AIR FORCE",
+          "sector": "GOVERNMENT",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN NAVY",
+          "sector": "GOVERNMENT",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JAAGRAN PRAKASH LIMITED",
+          "sector": "GOVERNMENT",
+          "percentage": 0.19,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JAAGRAN PRASARAN",
+          "sector": "GOVERNMENT",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JIVA HOTEL",
+          "sector": "HOSPITALITY",
+          "percentage": 1.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KAPILA PASHU AAHAR",
+          "sector": "ANIMAL HUSBANDRY",
+          "percentage": 0.82,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 42,
+              "airtime": 630
+            }
+          ]
+        },
+        {
+          "advertiser": "LIC",
+          "sector": "FINANCE",
+          "percentage": 1.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 51,
+              "airtime": 765
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 50,
+              "airtime": 750
+            }
+          ]
+        },
+        {
+          "advertiser": "LOKBANDHU RAJNARAYANA LAW COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MADHU",
+          "sector": "FMCG",
+          "percentage": 1.84,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 173,
+              "airtime": 2595
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MADHU PAN MASALA",
+          "sector": "FMCG",
+          "percentage": 2.11,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 199,
+              "airtime": 2985
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MAHINDRA",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.38,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 130,
+              "airtime": 1950
+            }
+          ]
+        },
+        {
+          "advertiser": "MALLCOM",
+          "sector": "MANUFACTURING",
+          "percentage": 0.4,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 38,
+              "airtime": 570
+            }
+          ]
+        },
+        {
+          "advertiser": "MANAV RACHNA UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.49,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 140,
+              "airtime": 2100
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MOONKA HONDA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NETAJI SUBHAS UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 3.97,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 165,
+              "airtime": 2475
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 209,
+              "airtime": 3135
+            }
+          ]
+        },
+        {
+          "advertiser": "NEYAZ AHMAD",
+          "sector": "LIFESTYLE",
+          "percentage": 0.6,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 56,
+              "airtime": 840
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "OMICA PAGEANT",
+          "sector": "EVENTS&EXHIBITION",
+          "percentage": 1.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 136,
+              "airtime": 2040
+            }
+          ]
+        },
+        {
+          "advertiser": "OXALIS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PATANJALI",
+          "sector": "FMCG",
+          "percentage": 1.32,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 124,
+              "airtime": 1860
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.96,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK",
+          "sector": "FINANCE",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "R.V.S. COLLEGE OF ENGINEERING&TECHNOLOGY",
+          "sector": "EDUCATION",
+          "percentage": 0.97,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 91,
+              "airtime": 1365
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "percentage": 4.31,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 406,
+              "airtime": 6090
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO DHOOM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RBI",
+          "sector": "FINANCE",
+          "percentage": 0.74,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 34,
+              "airtime": 510
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RED FM",
+              "adCount": 12,
+              "airtime": 180
+            }
+          ]
+        },
+        {
+          "advertiser": "RC SWAPPR",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.15,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 14,
+              "airtime": 210
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RED FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 6,
+              "airtime": 90
+            }
+          ]
+        },
+        {
+          "advertiser": "RHYTHM JUNGLE",
+          "sector": "HOSPITALITY",
+          "percentage": 1.48,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 139,
+              "airtime": 2085
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RHYTHM JUNGLE FAMILY RESTAURANT",
+          "sector": "HOSPITALITY",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 4,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "advertiser": "RJ RANI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ROOP MANTRA",
+          "sector": "FMCG",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ROYAL ENFIELD SHOWROOM",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RVS COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.75,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 71,
+              "airtime": 1065
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SACHI SAHELI",
+          "sector": "HEALTHCARE",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SALONI",
+          "sector": "FMCG",
+          "percentage": 0.96,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHIKHAR INVESTMENT",
+          "sector": "FINANCE",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHREENATH UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 105,
+              "airtime": 1575
+            }
+          ]
+        },
+        {
+          "advertiser": "SHRINATH UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.14,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 107,
+              "airtime": 1605
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SINGHANIA MG MOTORS",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.22,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 115,
+              "airtime": 1725
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SONA DEVI UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.92,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 181,
+              "airtime": 2715
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SOUL MAGIC",
+          "sector": "HEALTHCARE",
+          "percentage": 1.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 136,
+              "airtime": 2040
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SREE LEATHERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.32,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 30,
+              "airtime": 450
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SRINATH UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 105,
+              "airtime": 1575
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUKHCHAIN WATER PARK",
+          "sector": "ENTERTAINMENT",
+          "percentage": 2.2,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 207,
+              "airtime": 3105
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TATA",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TRIBHUVAN SONS JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 1.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 106,
+              "airtime": 1590
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TRIBHUVAN SONS&JWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 1.11,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TRIUMPH MOTORCYCLES",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.4,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 38,
+              "airtime": 570
+            }
+          ]
+        },
+        {
+          "advertiser": "UROVITA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.78,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 73,
+              "airtime": 1095
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "USHA MARTIN UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 2.96,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 279,
+              "airtime": 4185
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VIMAL",
+          "sector": "FMCG",
+          "percentage": 5.43,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 132,
+              "airtime": 1980
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 218,
+              "airtime": 3270
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 161,
+              "airtime": 2415
+            }
+          ]
+        },
+        {
+          "advertiser": "VINAYAK",
+          "sector": "REAL ESTATE",
+          "percentage": 2.72,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 158,
+              "airtime": 2370
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 98,
+              "airtime": 1470
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VINAYAK CONSTRUCTIONS",
+          "sector": "REAL ESTATE",
+          "percentage": 0.44,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.63,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 59,
+              "airtime": 885
+            }
+          ]
+        },
+        {
+          "advertiser": "YBN UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RED FM",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

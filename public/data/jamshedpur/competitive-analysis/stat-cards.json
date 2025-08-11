@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "GROWMED",
+            "VIMAL",
+            "RADIO CITY",
+            "NETAJI SUBHAS UNIVERSITY"
+          ],
+          "values": ["772", "511", "406", "374"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "RADIO CITY",
+            "GROWMED",
+            "VIMAL",
+            "NETAJI SUBHAS UNIVERSITY"
+          ],
+          "values": ["13468", "8532", "7741", "7551"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["RED FM", "BIG FM", "RADIO DHOOM", "RADIO CITY"],
+          "values": ["1464", "2232", "1874", "3841"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["RED FM", "BIG FM", "RADIO DHOOM", "RADIO CITY"],
+          "values": ["26264", "40848", "33208", "63679"]
+        }
+      ]
+    }
+  ]
+}
