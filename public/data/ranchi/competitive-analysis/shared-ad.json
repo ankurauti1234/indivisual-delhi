@@ -1,0 +1,2743 @@
+{
+  "weeks": ["2025-Week-27"],
+  "stations": ["BIG FM", "ORANGE FM", "RADIO CITY", "RADIO DHOOM"],
+  "data": [
+    {
+      "adName": "PARAS HEC HOSPITAL",
+      "week": "2025-Week-27",
+      "percentage": 7.43,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 212
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 603
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 87
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VIMAL",
+      "week": "2025-Week-27",
+      "percentage": 4.51,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 136
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 215
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 197
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GROWMED",
+      "week": "2025-Week-27",
+      "percentage": 4.34,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 280
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 247
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RADIO CITY",
+      "week": "2025-Week-27",
+      "percentage": 3.32,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 403
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BINA VASTRALAYA",
+      "week": "2025-Week-27",
+      "percentage": 3.25,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 395
+        }
+      ]
+    },
+    {
+      "adName": "KUNDAN TYRES",
+      "week": "2025-Week-27",
+      "percentage": 3.01,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 318
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 48
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CANARA BANK",
+      "week": "2025-Week-27",
+      "percentage": 2.46,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 38
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 97
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 164
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "USHA MARTIN UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 2.27,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 276
+        }
+      ]
+    },
+    {
+      "adName": "PET SAFFA",
+      "week": "2025-Week-27",
+      "percentage": 2.17,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 91
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 172
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HERITAGE INFRA SPACE",
+      "week": "2025-Week-27",
+      "percentage": 2.03,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 246
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ALKA SAREES",
+      "week": "2025-Week-27",
+      "percentage": 1.99,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 241
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VEER FASHION",
+      "week": "2025-Week-27",
+      "percentage": 1.78,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 216
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MADHU PAN MASALA",
+      "week": "2025-Week-27",
+      "percentage": 1.63,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 198
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BEENA VASTRALAYA",
+      "week": "2025-Week-27",
+      "percentage": 1.54,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 187
+        }
+      ]
+    },
+    {
+      "adName": "DEVANIKA HOSPITAL",
+      "week": "2025-Week-27",
+      "percentage": 1.53,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 186
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MADHU",
+      "week": "2025-Week-27",
+      "percentage": 1.42,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 172
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DAVA INDIA",
+      "week": "2025-Week-27",
+      "percentage": 1.37,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 166
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LIC",
+      "week": "2025-Week-27",
+      "percentage": 1.31,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 50
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 51
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 58
+        }
+      ]
+    },
+    {
+      "adName": "SALONI",
+      "week": "2025-Week-27",
+      "percentage": 1.25,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 97
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 55
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JHARKHAND FURNITURE",
+      "week": "2025-Week-27",
+      "percentage": 1.24,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 60
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 90
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MEDANTA ABDUR RAZZAQUE ANSARI MEMORIAL WEAVERS HOSPITAL",
+      "week": "2025-Week-27",
+      "percentage": 1.16,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 141
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KIA",
+      "week": "2025-Week-27",
+      "percentage": 1.14,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 139
+        }
+      ]
+    },
+    {
+      "adName": "MEDICAPS UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 1.14,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 139
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VEDANTA HEART COMMAND CENTRE",
+      "week": "2025-Week-27",
+      "percentage": 1.14,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 139
+        }
+      ]
+    },
+    {
+      "adName": "RKDF UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 1.14,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 139
+        }
+      ]
+    },
+    {
+      "adName": "TATA MOTORS",
+      "week": "2025-Week-27",
+      "percentage": 1.14,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 138
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SEEMA SUZUKI",
+      "week": "2025-Week-27",
+      "percentage": 1.12,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 136
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MANAV RACHNA UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 1.11,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 135
+        }
+      ]
+    },
+    {
+      "adName": "REPUBLIC HYUNDAI",
+      "week": "2025-Week-27",
+      "percentage": 1.1,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 133
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SUYOG PHARMA",
+      "week": "2025-Week-27",
+      "percentage": 1.08,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 131
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHINDRA",
+      "week": "2025-Week-27",
+      "percentage": 1.07,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 121
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 9
+        }
+      ]
+    },
+    {
+      "adName": "GOLDIEE",
+      "week": "2025-Week-27",
+      "percentage": 1.01,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 90
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 33
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DIT UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 0.99,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 120
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR ORTHO",
+      "week": "2025-Week-27",
+      "percentage": 0.95,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 37
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 78
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NOVA IVF FERTILITY CENTER",
+      "week": "2025-Week-27",
+      "percentage": 0.92,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 56
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 56
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SINGHANIA MG MOTORS",
+      "week": "2025-Week-27",
+      "percentage": 0.91,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 111
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CHANDIGARH UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 0.86,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 105
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SEEMA SUZUKI RANCHI",
+      "week": "2025-Week-27",
+      "percentage": 0.85,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 103
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BIG FM",
+      "week": "2025-Week-27",
+      "percentage": 0.85,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 103
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BIGLIVE",
+      "week": "2025-Week-27",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 100
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOLDIEE MASALE",
+      "week": "2025-Week-27",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 100
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ZIPPY RABIT",
+      "week": "2025-Week-27",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 100
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHALAXMI JEWELLERS&SAREES",
+      "week": "2025-Week-27",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 99
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SALUJA GOLD",
+      "week": "2025-Week-27",
+      "percentage": 0.81,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 98
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RTC INSTITUTE OF TECHENOLOGY",
+      "week": "2025-Week-27",
+      "percentage": 0.8,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 97
+        }
+      ]
+    },
+    {
+      "adName": "CT GROUP OF INSTITUTIONS",
+      "week": "2025-Week-27",
+      "percentage": 0.8,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 97
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "R.V.S. COLLEGE OF ENGINEERING&TECHNOLOGY",
+      "week": "2025-Week-27",
+      "percentage": 0.77,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 93
+        }
+      ]
+    },
+    {
+      "adName": "RADIO ORANGE",
+      "week": "2025-Week-27",
+      "percentage": 0.75,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 91
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JAGUAR LAND ROVER INDIA",
+      "week": "2025-Week-27",
+      "percentage": 0.72,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 88
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ALKA JEWELLERS",
+      "week": "2025-Week-27",
+      "percentage": 0.72,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 87
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NCETIR",
+      "week": "2025-Week-27",
+      "percentage": 0.7,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 85
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PATANJALI",
+      "week": "2025-Week-27",
+      "percentage": 0.69,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 84
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MUZAK DISCO",
+      "week": "2025-Week-27",
+      "percentage": 0.65,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 79
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LIEVENS HOSPITAL",
+      "week": "2025-Week-27",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 75
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BERLIN GENERAL HOSPITAL",
+      "week": "2025-Week-27",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 75
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RTC INSTITUTE OF TECHNOLOGY",
+      "week": "2025-Week-27",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 75
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DEV BHOOMI UTTARAKHAND UNIVERSITY (DBUU)",
+      "week": "2025-Week-27",
+      "percentage": 0.6,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 73
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AMITY UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 0.58,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 70
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "OSS FERITILITY",
+      "week": "2025-Week-27",
+      "percentage": 0.58,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 70
+        }
+      ]
+    },
+    {
+      "adName": "FSSAI",
+      "week": "2025-Week-27",
+      "percentage": 0.58,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 70
+        }
+      ]
+    },
+    {
+      "adName": "RC SWAPPR",
+      "week": "2025-Week-27",
+      "percentage": 0.56,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 68
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RBI",
+      "week": "2025-Week-27",
+      "percentage": 0.56,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 12
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 11
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 33
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 12
+        }
+      ]
+    },
+    {
+      "adName": "RVS COLLEGE",
+      "week": "2025-Week-27",
+      "percentage": 0.55,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 67
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MHA SHOPPING",
+      "week": "2025-Week-27",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 66
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVERNMENT OF JHARKHAND",
+      "week": "2025-Week-27",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 65
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "YOKOHAMA TYRES",
+      "week": "2025-Week-27",
+      "percentage": 0.52,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 63
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TITANIUM MAHINDRA",
+      "week": "2025-Week-27",
+      "percentage": 0.52,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 63
+        }
+      ]
+    },
+    {
+      "adName": "HP RACER FUTURE X",
+      "week": "2025-Week-27",
+      "percentage": 0.51,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 62
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JAGRAN PRASARAN",
+      "week": "2025-Week-27",
+      "percentage": 0.49,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VOLKSWAGEN",
+      "week": "2025-Week-27",
+      "percentage": 0.49,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 60
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GLIMS AND GLAM RAKHI 2025-BY JCI UDAAN",
+      "week": "2025-Week-27",
+      "percentage": 0.49,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MOMENTS RESORT",
+      "week": "2025-Week-27",
+      "percentage": 0.49,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 59
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HERITAGE TOYOTA",
+      "week": "2025-Week-27",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 53
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KISAN PASHU AAHAR",
+      "week": "2025-Week-27",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 52
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JHARKAND FURNITURE",
+      "week": "2025-Week-27",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 50
+        }
+      ]
+    },
+    {
+      "adName": "RJ RANI",
+      "week": "2025-Week-27",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 50
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "IES UNIVERSITY BHOPAL",
+      "week": "2025-Week-27",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 50
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ROOP MANTRA",
+      "week": "2025-Week-27",
+      "percentage": 0.4,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 21
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 28
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BHADANI CLOTHING",
+      "week": "2025-Week-27",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 46
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHREE KRISHNA MOTORS",
+      "week": "2025-Week-27",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 46
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "WILD WADI WATERPATRK (WWW)",
+      "week": "2025-Week-27",
+      "percentage": 0.36,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 44
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DOON UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 43
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HYUNDAI",
+      "week": "2025-Week-27",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 20
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 20
+        }
+      ]
+    },
+    {
+      "adName": "HAVELLS GALAXY RANCHI",
+      "week": "2025-Week-27",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 37
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BIG FM 95",
+      "week": "2025-Week-27",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 37
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "YBN UNIVERSITY",
+      "week": "2025-Week-27",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 36
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KAPILA PASHU AAHAR",
+      "week": "2025-Week-27",
+      "percentage": 0.29,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 35
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ACHARYA BAAL KRISHNA JI",
+      "week": "2025-Week-27",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 33
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ICAI",
+      "week": "2025-Week-27",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 23
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 10
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JIO TV APP",
+      "week": "2025-Week-27",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 29
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PUNJAB NATIONAL BANK",
+      "week": "2025-Week-27",
+      "percentage": 0.23,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 28
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "I.K. GUJRAL PUNJAB TECHNICAL UNIVERSITY (IKGPTU)",
+      "week": "2025-Week-27",
+      "percentage": 0.22,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 27
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SACHI SAHELI",
+      "week": "2025-Week-27",
+      "percentage": 0.21,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 26
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "QUALITY ACADEMICS",
+      "week": "2025-Week-27",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 24
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AUDIO CITY APP",
+      "week": "2025-Week-27",
+      "percentage": 0.19,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 23
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PAUL MERCHANT",
+      "week": "2025-Week-27",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 21
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NTPC",
+      "week": "2025-Week-27",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 20
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVERNMENT OF INDIA",
+      "week": "2025-Week-27",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 16
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 2
+        }
+      ]
+    },
+    {
+      "adName": "DR. LAL PATHLABS",
+      "week": "2025-Week-27",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 19
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MANKIND PHARMA",
+      "week": "2025-Week-27",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 18
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIAN NAVY",
+      "week": "2025-Week-27",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 18
+        }
+      ]
+    },
+    {
+      "adName": "SACHHI SAHELI",
+      "week": "2025-Week-27",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 18
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TITAN WORLD STORE",
+      "week": "2025-Week-27",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 16
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TITAN",
+      "week": "2025-Week-27",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 14
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LINEN HOSPITAL",
+      "week": "2025-Week-27",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 13
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "(SPONSOR)RTC INSTITUTE OF TECHENOLOGY",
+      "week": "2025-Week-27",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 10
+        }
+      ]
+    },
+    {
+      "adName": "MAHINDRA SUVS",
+      "week": "2025-Week-27",
+      "percentage": 0.07,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 9
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIAN AIR FORCE",
+      "week": "2025-Week-27",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 4
+        }
+      ]
+    },
+    {
+      "adName": "(SPONSOR)LIC",
+      "week": "2025-Week-27",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 6
+        }
+      ]
+    },
+    {
+      "adName": "SONALI",
+      "week": "2025-Week-27",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 5
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MS TMT BARS",
+      "week": "2025-Week-27",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 5
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TAXPAYERS HUB",
+      "week": "2025-Week-27",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INCOME TAX DEPARTMENT",
+      "week": "2025-Week-27",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR PRADEEP KUMAR",
+      "week": "2025-Week-27",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 3
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NISHANT BHARDWAJ",
+      "week": "2025-Week-27",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CONSTANT LIEVENS",
+      "week": "2025-Week-27",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. ORTHO",
+      "week": "2025-Week-27",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ASHOKA",
+      "week": "2025-Week-27",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 1
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR ARTHO SPRAY",
+      "week": "2025-Week-27",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHOOM",
+          "adCount": 0
+        }
+      ]
+    }
+  ]
+}

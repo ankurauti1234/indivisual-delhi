@@ -272,7 +272,7 @@ const MarketShareTreemap = ({ data, secondsData }) => {
           {(selectedSector || selectedCategory || selectedBrand) && (
             <button
               onClick={handleBack}
-              className="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300 flex items-center gap-2"
+              className="px-4 py-2 bg-black rounded hover:bg-gray-600 flex items-center gap-2"
             >
               <ArrowLeft className="w-4 h-4" />
               Back to {selectedBrand ? "Brands" : selectedCategory ? "Categories" : "Sectors"}

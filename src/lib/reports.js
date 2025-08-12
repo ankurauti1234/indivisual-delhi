@@ -444,6 +444,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis-jamshedpur",
   },
+  {
+    id: 17,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Ranchi",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-ranchi",
+  },
 ];
 
 export const radio_ads_reports = [

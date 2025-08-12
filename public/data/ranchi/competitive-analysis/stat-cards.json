@@ -1,0 +1,38 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": ["PARAS HEC HOSPITAL", "VIMAL", "GROWMED", "RADIO CITY"],
+          "values": ["902", "548", "527", "403"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "RADIO CITY",
+            "PARAS HEC HOSPITAL",
+            "VIMAL",
+            "BINA VASTRALAYA"
+          ],
+          "values": ["13378", "9412", "9128", "7900"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["BIG FM", "RADIO DHOOM", "ORANGE FM", "RADIO CITY"],
+          "values": ["3304", "1992", "3250", "3595"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["BIG FM", "RADIO DHOOM", "ORANGE FM", "RADIO CITY"],
+          "values": ["63820", "42355", "52738", "61533"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "sectors": [
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#F4511E"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#0288D1"
+    },
+    {
+      "name": "FMCG",
+      "color": "#039BE5"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#3949AB"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#039BE5"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#3949AB"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "ACCESSORIES",
+      "color": "#D81B60"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#FF7043"
+    },
+    {
+      "name": "EVENTS&EXHIBITION",
+      "color": "#E91E63"
+    },
+    {
+      "name": "INDUSTRIAL",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "DOTCOM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#00897B"
+    },
+    {
+      "name": "ENERGY",
+      "color": "#FF7043"
+    },
+    {
+      "name": "MEDIA&ENTERTAINMENT",
+      "color": "#F4511E"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#00897B"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 623,
+              "airtime": 16443
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 114,
+              "airtime": 3188
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 3,
+              "airtime": 63
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 282,
+              "airtime": 9470
+            }
+          ]
+        },
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 603,
+              "airtime": 10133
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 27,
+              "airtime": 945
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 750,
+              "airtime": 13260
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 414,
+              "airtime": 10440
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 835,
+              "airtime": 9563
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 253,
+              "airtime": 5100
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 814,
+              "airtime": 10003
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 543,
+              "airtime": 9470
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 635,
+              "airtime": 12198
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 228,
+              "airtime": 5319
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 333,
+              "airtime": 7057
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 446,
+              "airtime": 7613
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 1254,
+              "airtime": 14560
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 209,
+              "airtime": 5069
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 659,
+              "airtime": 9863
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 197,
+              "airtime": 3561
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 159,
+              "airtime": 4087
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 76,
+              "airtime": 2317
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 128,
+              "airtime": 4582
+            }
+          ]
+        },
+        {
+          "sector": "GOVERNMENT",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 85,
+              "airtime": 1880
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 84,
+              "airtime": 3195
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 94,
+              "airtime": 3887
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 90,
+              "airtime": 1620
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 50,
+              "airtime": 800
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 60,
+              "airtime": 994
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 98,
+              "airtime": 603
+            }
+          ]
+        },
+        {
+          "sector": "AGRICULTURE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 40,
+              "airtime": 260
+            }
+          ]
+        },
+        {
+          "sector": "ACCESSORIES",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 14,
+              "airtime": 210
+            }
+          ]
+        },
+        {
+          "sector": "ANIMAL HUSBANDRY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 12,
+              "airtime": 78
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 35,
+              "airtime": 425
+            }
+          ]
+        },
+        {
+          "sector": "EVENTS&EXHIBITION",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 68
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 60,
+              "airtime": 752
+            }
+          ]
+        },
+        {
+          "sector": "INDUSTRIAL",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 5,
+              "airtime": 31
+            }
+          ]
+        },
+        {
+          "sector": "LIFESTYLE",
+          "stations": [
+            {
+              "station": "ORANGE FM",
+              "adCount": 402,
+              "airtime": 5537
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 187,
+              "airtime": 3740
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 16,
+              "airtime": 256
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "ORANGE FM",
+              "adCount": 241,
+              "airtime": 2931
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 395,
+              "airtime": 7900
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 47,
+              "airtime": 709
+            }
+          ]
+        },
+        {
+          "sector": "TRAVEL&TOURISM",
+          "stations": [
+            {
+              "station": "ORANGE FM",
+              "adCount": 21,
+              "airtime": 245
+            }
+          ]
+        },
+        {
+          "sector": "DOTCOM",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 100,
+              "airtime": 4878
+            }
+          ]
+        },
+        {
+          "sector": "REAL ESTATE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 246,
+              "airtime": 2682
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 59,
+              "airtime": 1199
+            }
+          ]
+        },
+        {
+          "sector": "ENERGY",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 37,
+              "airtime": 464
+            }
+          ]
+        },
+        {
+          "sector": "MEDIA&ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 8,
+              "airtime": 420
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 66,
+              "airtime": 378
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

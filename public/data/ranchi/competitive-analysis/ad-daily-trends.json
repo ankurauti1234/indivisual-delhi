@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "ORANGE FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO DHOOM",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 527,
+              "airtime": 201
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 475,
+              "airtime": 131
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 578,
+              "airtime": 181
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 206,
+              "airtime": 76
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 504,
+              "airtime": 143
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 471,
+              "airtime": 133
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 554,
+              "airtime": 159
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 304,
+              "airtime": 108
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 443,
+              "airtime": 140
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 472,
+              "airtime": 130
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 538,
+              "airtime": 156
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 299,
+              "airtime": 106
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 455,
+              "airtime": 142
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 482,
+              "airtime": 124
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 488,
+              "airtime": 135
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 311,
+              "airtime": 111
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 477,
+              "airtime": 161
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 519,
+              "airtime": 141
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 498,
+              "airtime": 136
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 305,
+              "airtime": 109
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 453,
+              "airtime": 144
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 330,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 442,
+              "airtime": 124
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 280,
+              "airtime": 98
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 445,
+              "airtime": 129
+            },
+            {
+              "station": "ORANGE FM",
+              "adCount": 501,
+              "airtime": 128
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 497,
+              "airtime": 131
+            },
+            {
+              "station": "RADIO DHOOM",
+              "adCount": 287,
+              "airtime": 94
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
