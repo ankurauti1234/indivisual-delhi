@@ -2,95 +2,99 @@
   "sectors": [
     {
       "name": "ACCESSORIES",
-      "color": "#1E88E5"
+      "color": "#00897B"
     },
     {
       "name": "FMCG",
-      "color": "#FB8C00"
+      "color": "#8E24AA"
     },
     {
       "name": "PUBLIC INTEREST",
-      "color": "#F4511E"
+      "color": "#0288D1"
     },
     {
       "name": "FINANCE",
-      "color": "#039BE5"
+      "color": "#F4511E"
     },
     {
       "name": "ENTERTAINMENT",
-      "color": "#D81B60"
-    },
-    {
-      "name": "HEALTHCARE",
-      "color": "#1E88E5"
-    },
-    {
-      "name": "EVENTS",
-      "color": "#FDD835"
-    },
-    {
-      "name": "RETAIL",
-      "color": "#0288D1"
-    },
-    {
-      "name": "EDUCATION",
-      "color": "#D81B60"
-    },
-    {
-      "name": "E-COMMERCE",
-      "color": "#43A047"
-    },
-    {
-      "name": "HOSPITALITY",
-      "color": "#1E88E5"
-    },
-    {
-      "name": "PROPERTY",
-      "color": "#7B1FA2"
-    },
-    {
-      "name": "AUTOMOBILE",
-      "color": "#039BE5"
-    },
-    {
-      "name": "HOME FURNISHING",
-      "color": "#E91E63"
-    },
-    {
-      "name": "CONSUMER DURABLES",
-      "color": "#0288D1"
-    },
-    {
-      "name": "TRAVEL&TOURISM",
-      "color": "#FF7043"
-    },
-    {
-      "name": "PERSONAL CARE",
-      "color": "#FDD835"
-    },
-    {
-      "name": "AGRICULTURE",
-      "color": "#1E88E5"
-    },
-    {
-      "name": "TEXTILES&APPARELS",
       "color": "#00ACC1"
     },
     {
-      "name": "CONSTRUCTION",
+      "name": "HEALTHCARE",
+      "color": "#00897B"
+    },
+    {
+      "name": "EVENTS",
+      "color": "#F4511E"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#E91E63"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#FDD835"
+    },
+    {
+      "name": "E-COMMERCE",
       "color": "#3949AB"
     },
     {
-      "name": "ANIMAL WELFARE",
+      "name": "PROPERTY",
+      "color": "#FF7043"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "CONSUMER DURABLES",
       "color": "#7B1FA2"
     },
     {
+      "name": "TRAVEL&TOURISM",
+      "color": "#E91E63"
+    },
+    {
+      "name": "PERSONAL CARE",
+      "color": "#43A047"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#FDD835"
+    },
+    {
       "name": "INFRASTRUCTURE",
-      "color": "#1E88E5"
+      "color": "#0288D1"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#F4511E"
     },
     {
       "name": "DISASTER RISK MANAGEMENT",
-      "color": "#43A047"
+      "color": "#D81B60"
+    },
+    {
+      "name": "ANIMAL WELFARE",
+      "color": "#F4511E"
     }
   ],
   "weeks": [
@@ -102,48 +106,48 @@
           "stations": [
             {
               "station": "ISHQ FM",
-              "adCount": 2060,
-              "airtime": 23045
+              "adCount": 2054,
+              "airtime": 22850
             },
             {
-              "station": "PUNJABI FM",
-              "adCount": 545,
-              "airtime": 5542
+              "station": "RADIO MIRCHI",
+              "adCount": 369,
+              "airtime": 6550
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 365,
-              "airtime": 6496
-            },
-            {
-              "station": "RED FM",
-              "adCount": 456,
-              "airtime": 4949
-            },
-            {
-              "station": "FEVER FM",
-              "adCount": 610,
-              "airtime": 8704
-            },
-            {
-              "station": "Radio One",
-              "adCount": 401,
-              "airtime": 4365
-            },
-            {
-              "station": "Radio City",
-              "adCount": 867,
-              "airtime": 10989
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 704,
-              "airtime": 8506
+              "station": "RADIO CITY",
+              "adCount": 868,
+              "airtime": 11045
             },
             {
               "station": "HIT FM",
-              "adCount": 1911,
-              "airtime": 26496
+              "adCount": 1909,
+              "airtime": 25903
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 611,
+              "airtime": 8728
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 705,
+              "airtime": 8347
+            },
+            {
+              "station": "RED FM",
+              "adCount": 457,
+              "airtime": 4955
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 544,
+              "airtime": 5440
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 408,
+              "airtime": 4489
             }
           ]
         },
@@ -152,43 +156,43 @@
           "stations": [
             {
               "station": "ISHQ FM",
-              "adCount": 480,
-              "airtime": 4995
+              "adCount": 482,
+              "airtime": 5188
             },
             {
-              "station": "PUNJABI FM",
-              "adCount": 152,
-              "airtime": 2861
+              "station": "RADIO MIRCHI",
+              "adCount": 767,
+              "airtime": 13564
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 763,
-              "airtime": 14159
-            },
-            {
-              "station": "RED FM",
-              "adCount": 272,
-              "airtime": 4055
+              "station": "RADIO CITY",
+              "adCount": 701,
+              "airtime": 11408
             },
             {
               "station": "FEVER FM",
-              "adCount": 458,
-              "airtime": 7766
-            },
-            {
-              "station": "Radio One",
-              "adCount": 219,
-              "airtime": 3848
-            },
-            {
-              "station": "Radio City",
-              "adCount": 700,
-              "airtime": 11390
+              "adCount": 457,
+              "airtime": 7682
             },
             {
               "station": "BIG FM",
-              "adCount": 824,
-              "airtime": 7638
+              "adCount": 860,
+              "airtime": 7069
+            },
+            {
+              "station": "RED FM",
+              "adCount": 274,
+              "airtime": 4067
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 148,
+              "airtime": 2766
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 191,
+              "airtime": 3364
             }
           ]
         },
@@ -197,43 +201,43 @@
           "stations": [
             {
               "station": "ISHQ FM",
-              "adCount": 93,
-              "airtime": 3730
+              "adCount": 97,
+              "airtime": 3928
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 204,
-              "airtime": 6724
+              "station": "RADIO MIRCHI",
+              "adCount": 205,
+              "airtime": 6815
             },
             {
-              "station": "RED FM",
-              "adCount": 117,
-              "airtime": 3180
-            },
-            {
-              "station": "FEVER FM",
-              "adCount": 181,
-              "airtime": 6287
-            },
-            {
-              "station": "Radio One",
-              "adCount": 6,
-              "airtime": 342
-            },
-            {
-              "station": "Radio City",
-              "adCount": 302,
-              "airtime": 10197
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 152,
-              "airtime": 5529
+              "station": "RADIO CITY",
+              "adCount": 305,
+              "airtime": 10363
             },
             {
               "station": "HIT FM",
               "adCount": 88,
-              "airtime": 3629
+              "airtime": 3670
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 177,
+              "airtime": 6171
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 150,
+              "airtime": 5484
+            },
+            {
+              "station": "RED FM",
+              "adCount": 121,
+              "airtime": 3365
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 6,
+              "airtime": 342
             }
           ]
         },
@@ -243,47 +247,47 @@
             {
               "station": "ISHQ FM",
               "adCount": 78,
-              "airtime": 2727
+              "airtime": 2731
             },
             {
-              "station": "PUNJABI FM",
-              "adCount": 75,
-              "airtime": 2310
-            },
-            {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 157,
-              "airtime": 4593
+              "airtime": 4572
             },
             {
-              "station": "RED FM",
-              "adCount": 152,
-              "airtime": 4975
-            },
-            {
-              "station": "FEVER FM",
-              "adCount": 165,
-              "airtime": 5418
-            },
-            {
-              "station": "Radio One",
-              "adCount": 81,
-              "airtime": 2940
-            },
-            {
-              "station": "Radio City",
-              "adCount": 441,
-              "airtime": 10969
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 509,
-              "airtime": 10269
+              "station": "RADIO CITY",
+              "adCount": 434,
+              "airtime": 10083
             },
             {
               "station": "HIT FM",
               "adCount": 78,
-              "airtime": 2784
+              "airtime": 2731
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 167,
+              "airtime": 5464
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 511,
+              "airtime": 9865
+            },
+            {
+              "station": "RED FM",
+              "adCount": 151,
+              "airtime": 4969
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 72,
+              "airtime": 2235
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 253,
+              "airtime": 2641
             }
           ]
         },
@@ -293,42 +297,42 @@
             {
               "station": "ISHQ FM",
               "adCount": 140,
-              "airtime": 1540
+              "airtime": 1543
             },
             {
-              "station": "PUNJABI FM",
-              "adCount": 88,
-              "airtime": 3689
+              "station": "RADIO MIRCHI",
+              "adCount": 278,
+              "airtime": 2399
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 152,
-              "airtime": 2152
-            },
-            {
-              "station": "RED FM",
-              "adCount": 80,
-              "airtime": 3374
+              "station": "RADIO CITY",
+              "adCount": 1651,
+              "airtime": 26984
             },
             {
               "station": "FEVER FM",
               "adCount": 491,
-              "airtime": 12076
-            },
-            {
-              "station": "Radio One",
-              "adCount": 144,
-              "airtime": 6268
-            },
-            {
-              "station": "Radio City",
-              "adCount": 1460,
-              "airtime": 26497
+              "airtime": 12056
             },
             {
               "station": "BIG FM",
-              "adCount": 459,
-              "airtime": 9080
+              "adCount": 561,
+              "airtime": 9289
+            },
+            {
+              "station": "RED FM",
+              "adCount": 80,
+              "airtime": 3329
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 26,
+              "airtime": 593
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 130,
+              "airtime": 5133
             }
           ]
         },
@@ -337,43 +341,43 @@
           "stations": [
             {
               "station": "ISHQ FM",
-              "adCount": 38,
-              "airtime": 1107
+              "adCount": 37,
+              "airtime": 1078
             },
             {
-              "station": "PUNJABI FM",
-              "adCount": 87,
-              "airtime": 1385
+              "station": "RADIO MIRCHI",
+              "adCount": 486,
+              "airtime": 6596
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 482,
-              "airtime": 7465
-            },
-            {
-              "station": "RED FM",
-              "adCount": 112,
-              "airtime": 1946
-            },
-            {
-              "station": "FEVER FM",
-              "adCount": 310,
-              "airtime": 6150
-            },
-            {
-              "station": "Radio City",
-              "adCount": 378,
-              "airtime": 10517
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 732,
-              "airtime": 13025
+              "station": "RADIO CITY",
+              "adCount": 387,
+              "airtime": 9569
             },
             {
               "station": "HIT FM",
               "adCount": 65,
               "airtime": 975
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 309,
+              "airtime": 6069
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 738,
+              "airtime": 12557
+            },
+            {
+              "station": "RED FM",
+              "adCount": 112,
+              "airtime": 1945
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 87,
+              "airtime": 1125
             }
           ]
         },
@@ -383,22 +387,22 @@
             {
               "station": "ISHQ FM",
               "adCount": 65,
-              "airtime": 1073
+              "airtime": 1075
             },
             {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 40,
               "airtime": 800
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 40,
+              "airtime": 674
             },
             {
               "station": "RED FM",
               "adCount": 168,
               "airtime": 3360
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 38,
-              "airtime": 644
             }
           ]
         },
@@ -407,13 +411,18 @@
           "stations": [
             {
               "station": "ISHQ FM",
-              "adCount": 72,
-              "airtime": 1010
+              "adCount": 74,
+              "airtime": 1040
+            },
+            {
+              "station": "RED FM",
+              "adCount": 13,
+              "airtime": 195
             },
             {
               "station": "PUNJABI FM",
-              "adCount": 376,
-              "airtime": 5640
+              "adCount": 380,
+              "airtime": 5700
             }
           ]
         },
@@ -423,87 +432,47 @@
             {
               "station": "ISHQ FM",
               "adCount": 70,
-              "airtime": 760
+              "airtime": 740
             },
             {
-              "station": "PUNJABI FM",
-              "adCount": 91,
-              "airtime": 979
+              "station": "RADIO MIRCHI",
+              "adCount": 826,
+              "airtime": 13795
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 814,
-              "airtime": 13625
-            },
-            {
-              "station": "RED FM",
-              "adCount": 759,
-              "airtime": 12575
-            },
-            {
-              "station": "FEVER FM",
-              "adCount": 202,
-              "airtime": 3004
-            },
-            {
-              "station": "Radio One",
-              "adCount": 32,
-              "airtime": 659
-            },
-            {
-              "station": "Radio City",
-              "adCount": 805,
-              "airtime": 11777
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 250,
-              "airtime": 4793
+              "station": "RADIO CITY",
+              "adCount": 806,
+              "airtime": 11760
             },
             {
               "station": "HIT FM",
               "adCount": 200,
-              "airtime": 3137
-            }
-          ]
-        },
-        {
-          "sector": "E-COMMERCE",
-          "stations": [
-            {
-              "station": "ISHQ FM",
-              "adCount": 2,
-              "airtime": 40
-            },
-            {
-              "station": "PUNJABI FM",
-              "adCount": 82,
-              "airtime": 859
-            },
-            {
-              "station": "Radio Mirchi",
-              "adCount": 221,
-              "airtime": 2210
-            },
-            {
-              "station": "RED FM",
-              "adCount": 144,
-              "airtime": 1440
+              "airtime": 3135
             },
             {
               "station": "FEVER FM",
-              "adCount": 298,
-              "airtime": 3054
-            },
-            {
-              "station": "Radio One",
-              "adCount": 268,
-              "airtime": 2740
+              "adCount": 202,
+              "airtime": 2968
             },
             {
               "station": "BIG FM",
-              "adCount": 446,
-              "airtime": 9131
+              "adCount": 251,
+              "airtime": 4756
+            },
+            {
+              "station": "RED FM",
+              "adCount": 762,
+              "airtime": 12555
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 91,
+              "airtime": 981
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 32,
+              "airtime": 659
             }
           ]
         },
@@ -516,19 +485,59 @@
               "airtime": 40
             },
             {
-              "station": "RED FM",
-              "adCount": 20,
-              "airtime": 300
+              "station": "HIT FM",
+              "adCount": 53,
+              "airtime": 800
             },
             {
               "station": "BIG FM",
-              "adCount": 172,
-              "airtime": 933
+              "adCount": 175,
+              "airtime": 967
             },
             {
-              "station": "HIT FM",
-              "adCount": 53,
-              "airtime": 792
+              "station": "RED FM",
+              "adCount": 20,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "sector": "E-COMMERCE",
+          "stations": [
+            {
+              "station": "ISHQ FM",
+              "adCount": 1,
+              "airtime": 25
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 222,
+              "airtime": 2220
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 298,
+              "airtime": 3029
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 460,
+              "airtime": 7739
+            },
+            {
+              "station": "RED FM",
+              "adCount": 144,
+              "airtime": 1440
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 82,
+              "airtime": 815
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 305,
+              "airtime": 3050
             }
           ]
         },
@@ -536,39 +545,39 @@
           "sector": "PROPERTY",
           "stations": [
             {
-              "station": "PUNJABI FM",
-              "adCount": 2308,
-              "airtime": 35810
+              "station": "RADIO MIRCHI",
+              "adCount": 502,
+              "airtime": 9278
             },
             {
-              "station": "Radio Mirchi",
-              "adCount": 499,
-              "airtime": 8493
-            },
-            {
-              "station": "RED FM",
-              "adCount": 1323,
-              "airtime": 19955
-            },
-            {
-              "station": "FEVER FM",
-              "adCount": 2250,
-              "airtime": 36502
-            },
-            {
-              "station": "Radio City",
-              "adCount": 310,
-              "airtime": 7210
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 447,
-              "airtime": 6683
+              "station": "RADIO CITY",
+              "adCount": 314,
+              "airtime": 7258
             },
             {
               "station": "HIT FM",
               "adCount": 1793,
-              "airtime": 32329
+              "airtime": 33020
+            },
+            {
+              "station": "FEVER FM",
+              "adCount": 2249,
+              "airtime": 26677
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 452,
+              "airtime": 6459
+            },
+            {
+              "station": "RED FM",
+              "adCount": 1341,
+              "airtime": 20304
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 2299,
+              "airtime": 29133
             }
           ]
         },
@@ -576,34 +585,34 @@
           "sector": "AUTOMOBILE",
           "stations": [
             {
-              "station": "Radio Mirchi",
-              "adCount": 284,
-              "airtime": 6725
+              "station": "RADIO MIRCHI",
+              "adCount": 287,
+              "airtime": 6816
             },
             {
-              "station": "RED FM",
-              "adCount": 58,
-              "airtime": 1290
+              "station": "RADIO CITY",
+              "adCount": 193,
+              "airtime": 3747
             },
             {
               "station": "FEVER FM",
               "adCount": 89,
-              "airtime": 1941
-            },
-            {
-              "station": "Radio One",
-              "adCount": 109,
-              "airtime": 2322
-            },
-            {
-              "station": "Radio City",
-              "adCount": 185,
-              "airtime": 3708
+              "airtime": 1825
             },
             {
               "station": "BIG FM",
-              "adCount": 240,
-              "airtime": 5680
+              "adCount": 243,
+              "airtime": 5488
+            },
+            {
+              "station": "RED FM",
+              "adCount": 58,
+              "airtime": 1300
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 118,
+              "airtime": 2716
             }
           ]
         },
@@ -611,29 +620,24 @@
           "sector": "HOME FURNISHING",
           "stations": [
             {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 213,
               "airtime": 4260
+            },
+            {
+              "station": "HIT FM",
+              "adCount": 137,
+              "airtime": 3076
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 24,
+              "airtime": 483
             },
             {
               "station": "RED FM",
               "adCount": 335,
               "airtime": 6120
-            },
-            {
-              "station": "Radio City",
-              "adCount": 1,
-              "airtime": 1
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 26,
-              "airtime": 518
-            },
-            {
-              "station": "HIT FM",
-              "adCount": 135,
-              "airtime": 2970
             }
           ]
         },
@@ -641,12 +645,12 @@
           "sector": "CONSUMER DURABLES",
           "stations": [
             {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 117,
-              "airtime": 2125
+              "airtime": 2120
             },
             {
-              "station": "Radio City",
+              "station": "RADIO CITY",
               "adCount": 16,
               "airtime": 504
             }
@@ -656,14 +660,9 @@
           "sector": "TRAVEL&TOURISM",
           "stations": [
             {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 60,
-              "airtime": 1809
-            },
-            {
-              "station": "Radio One",
-              "adCount": 59,
-              "airtime": 6183
+              "airtime": 1800
             }
           ]
         },
@@ -671,9 +670,9 @@
           "sector": "PERSONAL CARE",
           "stations": [
             {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 19,
-              "airtime": 323
+              "airtime": 321
             },
             {
               "station": "FEVER FM",
@@ -683,7 +682,7 @@
             {
               "station": "BIG FM",
               "adCount": 50,
-              "airtime": 916
+              "airtime": 895
             }
           ]
         },
@@ -691,9 +690,9 @@
           "sector": "AGRICULTURE",
           "stations": [
             {
-              "station": "Radio Mirchi",
+              "station": "RADIO MIRCHI",
               "adCount": 8,
-              "airtime": 162
+              "airtime": 160
             }
           ]
         },
@@ -701,29 +700,29 @@
           "sector": "TEXTILES&APPARELS",
           "stations": [
             {
-              "station": "RED FM",
-              "adCount": 57,
-              "airtime": 883
-            },
-            {
-              "station": "Radio One",
-              "adCount": 48,
-              "airtime": 1173
-            },
-            {
-              "station": "Radio City",
+              "station": "RADIO CITY",
               "adCount": 124,
-              "airtime": 1953
-            },
-            {
-              "station": "BIG FM",
-              "adCount": 101,
-              "airtime": 1599
+              "airtime": 1969
             },
             {
               "station": "HIT FM",
-              "adCount": 632,
-              "airtime": 6365
+              "adCount": 633,
+              "airtime": 6330
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 102,
+              "airtime": 1623
+            },
+            {
+              "station": "RED FM",
+              "adCount": 25,
+              "airtime": 375
+            },
+            {
+              "station": "RADIO ONE",
+              "adCount": 48,
+              "airtime": 1200
             }
           ]
         },
@@ -731,24 +730,14 @@
           "sector": "CONSTRUCTION",
           "stations": [
             {
-              "station": "Radio City",
+              "station": "RADIO CITY",
               "adCount": 43,
               "airtime": 430
             },
             {
               "station": "HIT FM",
-              "adCount": 60,
-              "airtime": 600
-            }
-          ]
-        },
-        {
-          "sector": "ANIMAL WELFARE",
-          "stations": [
-            {
-              "station": "BIG FM",
-              "adCount": 107,
-              "airtime": 428
+              "adCount": 61,
+              "airtime": 610
             }
           ]
         },
@@ -756,14 +745,29 @@
           "sector": "INFRASTRUCTURE",
           "stations": [
             {
-              "station": "BIG FM",
-              "adCount": 14,
-              "airtime": 150
-            },
-            {
               "station": "HIT FM",
               "adCount": 216,
-              "airtime": 5836
+              "airtime": 5860
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 15,
+              "airtime": 160
+            }
+          ]
+        },
+        {
+          "sector": "REAL ESTATE",
+          "stations": [
+            {
+              "station": "HIT FM",
+              "adCount": 338,
+              "airtime": 1741
+            },
+            {
+              "station": "PUNJABI FM",
+              "adCount": 14,
+              "airtime": 143
             }
           ]
         },
@@ -773,7 +777,17 @@
             {
               "station": "HIT FM",
               "adCount": 39,
-              "airtime": 478
+              "airtime": 468
+            }
+          ]
+        },
+        {
+          "sector": "ANIMAL WELFARE",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 105,
+              "airtime": 428
             }
           ]
         }

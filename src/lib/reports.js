@@ -313,7 +313,7 @@ export const radio_broad_reports = [
   {
     id: 5,
     image: "/images/daily-analysis.png",
-    title: "Weekly Analysis",
+    title: "Weekly Analysis Delhi",
     description:
       "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
@@ -334,19 +334,19 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-patna",
   },
 
+  // {
+  //   id: 7,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Delhi-V2",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-fever",
+  // },
   {
     id: 7,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Delhi-V2",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-fever",
-  },
-  {
-    id: 8,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Agra",
     description:
@@ -357,7 +357,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-agra",
   },
   {
-    id: 9,
+    id: 8,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Madurai",
     description:
@@ -368,7 +368,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-madurai",
   },
   {
-    id: 10,
+    id: 9,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Ajmer",
     description:
@@ -379,7 +379,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-ajmer",
   },
   {
-    id: 11,
+    id: 10,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Varanasi",
     description:
@@ -390,7 +390,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-varanasi",
   },
   {
-    id: 12,
+    id: 11,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Gorakhpur",
     description:
@@ -401,7 +401,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-gorakhpur",
   },
   {
-    id: 13,
+    id: 12,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Bikaner",
     description:
@@ -412,7 +412,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-bikaner",
   },
   {
-    id: 14,
+    id: 13,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Bareilly",
     description:
@@ -423,7 +423,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-bareilly",
   },
   {
-    id: 15,
+    id: 14,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Jalandhar",
     description:
@@ -434,7 +434,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-jalandhar",
   },
   {
-    id: 16,
+    id: 15,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Jamshedpur",
     description:
@@ -445,7 +445,7 @@ export const radio_broad_reports = [
     slug: "weekly-analysis-jamshedpur",
   },
   {
-    id: 17,
+    id: 16,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis Ranchi",
     description:

@@ -1,90 +1,57 @@
 {
   "weeks": [
     {
-      "week": "2025-Week-27",
+      "week": "2025-Week-32",
       "cards": [
         {
           "title": "Top Advertisers by Ad Count",
           "desc": "Advertisers with the highest number of ad plays",
           "keys": [
+            "RAMAKRISHNA JEWELLERS",
             "GYGY GROUP",
             "UNISON JEWELS",
-            "BHUTANI GROUP",
-            "RAMAKRISHNA JEWELLERS"
+            "DHIRSONS JEWELLERS"
           ],
-          "values": [
-            "2034",
-            "1711",
-            "1608",
-            "1472"
-          ]
+          "values": [2017, 2004, 1702, 1008]
         },
         {
           "title": "Top Stations by Airtime",
           "desc": "Radio stations with the most accumulated ad seconds",
-          "keys": [
-            "GYGY GROUP",
-            "BHUTANI GROUP",
-            "ACE VERDE",
-            "LIC"
-          ],
-          "values": [
-            "33140 sec",
-            "23216 sec",
-            "22118 sec",
-            "20802 sec"
-          ]
+          "keys": ["LIC", "RAMAKRISHNA JEWELLERS", "GYGY GROUP", "FSSAI"],
+          "values": [20400, 20170, 20040, 19504]
         },
         {
           "title": "Top Radio by Counts",
           "desc": "Radio stations ranked by total ad counts",
           "keys": [
-            "FEVER FM",
-            "HIT FM",
-            "ISHQ FM",
-            "PUNJABI FM",
             "RED FM",
-            "Radio City",
-            "Radio Mirchi",
-            "Radio One",
-            "BIG FM"
+            "ISHQ FM",
+            "FEVER FM",
+            "RADIO CITY",
+            "RADIO MIRCHI",
+            "RADIO ONE",
+            "PUNJABI FM",
+            "BIG FM",
+            "HIT FM"
           ],
-          "values": [
-            "5071",
-            "5270",
-            "3102",
-            "3804",
-            "4053",
-            "5632",
-            "4398",
-            "1367",
-            "5271"
-          ]
+          "values": [4061, 3102, 5067, 5842, 4556, 1491, 3743, 5442, 5610]
         },
         {
           "title": "Top Radio by Seconds",
           "desc": "Radio stations ranked by total ad seconds",
           "keys": [
-            "FEVER FM",
-            "HIT FM",
-            "ISHQ FM",
-            "PUNJABI FM",
             "RED FM",
-            "Radio City",
-            "Radio Mirchi",
-            "Radio One",
-            "BIG FM"
+            "ISHQ FM",
+            "FEVER FM",
+            "RADIO CITY",
+            "RADIO MIRCHI",
+            "RADIO ONE",
+            "PUNJABI FM",
+            "BIG FM",
+            "HIT FM"
           ],
           "values": [
-            "91157 sec",
-            "86391 sec",
-            "40067 sec",
-            "59075 sec",
-            "68402 sec",
-            "106142 sec",
-            "82121 sec",
-            "30840 sec",
-            "85522 sec"
+            68579, 40238, 80924, 105120, 82066, 23594, 48931, 82283, 88319
           ]
         }
       ]
