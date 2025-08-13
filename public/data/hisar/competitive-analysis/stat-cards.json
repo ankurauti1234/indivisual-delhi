@@ -1,0 +1,33 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": ["VIMAL", "BIGLIVE", "MALIK TOYOTA", "RADIO CITY"],
+          "values": ["754", "540", "526", "481"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": ["RADIO CITY", "BIGLIVE", "MALIK TOYOTA", "VIMAL"],
+          "values": ["17566", "13108", "10912", "9314"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["RADIO CITY", "BIGFM", "RADIO DHAMAL", "MY FM"],
+          "values": ["3112", "2832", "4591", "5728"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["RADIO CITY", "BIGFM", "RADIO DHAMAL", "MY FM"],
+          "values": ["62337", "54514", "61319", "87017"]
+        }
+      ]
+    }
+  ]
+}

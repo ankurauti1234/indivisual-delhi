@@ -1,0 +1,3582 @@
+{
+  "stations": ["BIGFM", "MY FM", "RADIO CITY", "RADIO DHAMAL"],
+  "sectors": [
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "DOTCOM"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "SHOPS"
+    },
+    {
+      "name": "LIFESTYLE"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "CONSTRUCTION"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "RENEWABLE ENERGY"
+    },
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "RETAIL"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS"
+    },
+    {
+      "name": "TEXTILES&APPARELS"
+    },
+    {
+      "name": "INDUSTRIAL"
+    },
+    {
+      "name": "GOVERNMENT"
+    },
+    {
+      "name": "TELECOMMUNICATION"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "advertiser": "521",
+          "sector": "FMCG",
+          "percentage": 0.65,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 106,
+              "airtime": 1590
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ALANKAR JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 2.64,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 430,
+              "airtime": 6450
+            }
+          ]
+        },
+        {
+          "advertiser": "AMERICAN ONCOLOGY INSTITUTE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.65,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 106,
+              "airtime": 1590
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AMITY UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.74,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "MY FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 39,
+              "airtime": 585
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AXON MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 9,
+              "airtime": 135
+            }
+          ]
+        },
+        {
+          "advertiser": "BIG FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 1.06,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 173,
+              "airtime": 2595
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIGLIVE",
+          "sector": "DOTCOM",
+          "percentage": 3.32,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 540,
+              "airtime": 8100
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIS APP",
+          "sector": "GOVERNMENT",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "C R LAW COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.44,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 71,
+              "airtime": 1065
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CANARA",
+          "sector": "FINANCE",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CANARA BANK",
+          "sector": "FINANCE",
+          "percentage": 0.75,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 104,
+              "airtime": 1560
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CATERPILLAR",
+          "sector": "INDUSTRIAL",
+          "percentage": 0.34,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 56,
+              "airtime": 840
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CMC MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.63,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 265,
+              "airtime": 3975
+            }
+          ]
+        },
+        {
+          "advertiser": "COKE STUDIO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CR LAW COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 1.21,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 72,
+              "airtime": 1080
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 61,
+              "airtime": 915
+            }
+          ]
+        },
+        {
+          "advertiser": "DAVA INDIA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.99,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 161,
+              "airtime": 2415
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DIVYDEEP HOSPITAL HISAR",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DOUBLE CHABI",
+          "sector": "FMCG",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 1.09,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 31,
+              "airtime": 465
+            },
+            {
+              "station": "MY FM",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 82,
+              "airtime": 1230
+            }
+          ]
+        },
+        {
+          "advertiser": "DR VINITA JAIN",
+          "sector": "HEALTHCARE",
+          "percentage": 0.61,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 100,
+              "airtime": 1500
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR VINITA'S KESARI DENTAL CLINIC",
+          "sector": "HEALTHCARE",
+          "percentage": 1.28,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 208,
+              "airtime": 3120
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. BHUSHAN BANSAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. PRAVESH KUMAR CMC MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 16,
+              "airtime": 240
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. SATPAL SHISHODIA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. SHASHI VERMA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 4,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "advertiser": "DR.NIKITA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ELDERFIT",
+          "sector": "FMCG",
+          "percentage": 0.83,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 135,
+              "airtime": 2025
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "EVER HEALTHY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 5,
+              "airtime": 75
+            }
+          ]
+        },
+        {
+          "advertiser": "EVER HEALTHY HOSPITAL&JAWA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.33,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 53,
+              "airtime": 795
+            }
+          ]
+        },
+        {
+          "advertiser": "FEMISS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.32,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 52,
+              "airtime": 780
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "FSSAI",
+          "sector": "GOVERNMENT",
+          "percentage": 0.31,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 50,
+              "airtime": 750
+            }
+          ]
+        },
+        {
+          "advertiser": "GLOBAL CAREER CRAFTERS",
+          "sector": "EDUCATION",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 10,
+              "airtime": 150
+            }
+          ]
+        },
+        {
+          "advertiser": "GOOGLE",
+          "sector": "TELECOMMUNICATION",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 37,
+              "airtime": 555
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERMENT OF INDIA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERNMENT OF INDIA",
+          "sector": "FINANCE",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 21,
+              "airtime": 315
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERNMENT OF JAMMU AND KASHMIR",
+          "sector": "GOVERNMENT",
+          "percentage": 0.18,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVIND NUSRSINGH HOME",
+          "sector": "HEALTHCARE",
+          "percentage": 0.57,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 93,
+              "airtime": 1395
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GURU CHAMBHESHWAR MULTI SPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.8,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 293,
+              "airtime": 4395
+            }
+          ]
+        },
+        {
+          "advertiser": "GURU JAMBHESHWAR MULTISPECIALITY AND IVF HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.82,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 134,
+              "airtime": 2010
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HARYANA SAHKARITA VIBHAG",
+          "sector": "GOVERNMENT",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HARYANA STATE TECHNICAL EDUCATION SOCIETY",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HERITAGE INFRASPACE",
+          "sector": "REAL ESTATE",
+          "percentage": 0.83,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 135,
+              "airtime": 2025
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HISAR GASTRO CARE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.47,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 77,
+              "airtime": 1155
+            }
+          ]
+        },
+        {
+          "advertiser": "HP",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HSTES",
+          "sector": "EDUCATION",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN AIR FORCE",
+          "sector": "GOVERNMENT",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INGRID BRA",
+          "sector": "LIFESTYLE",
+          "percentage": 1.29,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 57,
+              "airtime": 855
+            },
+            {
+              "station": "MY FM",
+              "adCount": 84,
+              "airtime": 1260
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ISHQ BAWALA",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JAGRAN PRASARAN",
+          "sector": "GOVERNMENT",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JAMMU AND KASHMIR GOVERNMENT",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JAWA CHILDREN HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 15,
+              "airtime": 225
+            }
+          ]
+        },
+        {
+          "advertiser": "JIO TV APP",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JIOTV",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KAYAM CHURNA",
+          "sector": "FMCG",
+          "percentage": 0.37,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 60,
+              "airtime": 900
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KINGLAND",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.81,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KOLCAP KHAZANA",
+          "sector": "FINANCE",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 83,
+              "airtime": 1245
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KS GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 0.58,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 95,
+              "airtime": 1425
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KS ONE-O-8",
+          "sector": "REAL ESTATE",
+          "percentage": 1.56,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 253,
+              "airtime": 3795
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "LIC",
+          "sector": "FINANCE",
+          "percentage": 2.57,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 312,
+              "airtime": 4680
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 55,
+              "airtime": 825
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 51,
+              "airtime": 765
+            }
+          ]
+        },
+        {
+          "advertiser": "MALIK TOYOTA",
+          "sector": "AUTOMOBILE",
+          "percentage": 3.23,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 143,
+              "airtime": 2145
+            },
+            {
+              "station": "MY FM",
+              "adCount": 165,
+              "airtime": 2475
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 87,
+              "airtime": 1305
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 131,
+              "airtime": 1965
+            }
+          ]
+        },
+        {
+          "advertiser": "MANTHAN HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 2.32,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 378,
+              "airtime": 5670
+            }
+          ]
+        },
+        {
+          "advertiser": "MAS FINANCIAL SERVICES LTD",
+          "sector": "FINANCE",
+          "percentage": 1.66,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 270,
+              "airtime": 4050
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MEYASH HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.7,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 114,
+              "airtime": 1710
+            }
+          ]
+        },
+        {
+          "advertiser": "MEYASH HOSPITAL&JAWA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "MEYASH MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.13,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 184,
+              "airtime": 2760
+            }
+          ]
+        },
+        {
+          "advertiser": "MODI",
+          "sector": "EDUCATION",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MOHAN COLLEGE OF LAW",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MOHANDAI OSWAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.77,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 126,
+              "airtime": 1890
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MUZAD DISCO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.27,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MUZAK DISCO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.52,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 85,
+              "airtime": 1275
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MYFM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 1.38,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 224,
+              "airtime": 3360
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NALWA LABORATORIES",
+          "sector": "HEALTHCARE",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NEW INDIA ASSURANCE",
+          "sector": "FINANCE",
+          "percentage": 0.22,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NEXA SARAOGI AUTOMOBILES",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.95,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 317,
+              "airtime": 4755
+            }
+          ]
+        },
+        {
+          "advertiser": "NIKHAAR",
+          "sector": "HOUSEHOLD PRODUCTS",
+          "percentage": 0.81,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NIKHAR CHEMICALS PVT. LTD.",
+          "sector": "HOUSEHOLD PRODUCTS",
+          "percentage": 0.67,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 109,
+              "airtime": 1635
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NIMS UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.43,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 232,
+              "airtime": 3480
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "OM STERLING GLOBAL UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.28,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 208,
+              "airtime": 3120
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "OSGU UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.75,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 285,
+              "airtime": 4275
+            }
+          ]
+        },
+        {
+          "advertiser": "PARVATI METAL INDUSTRIES",
+          "sector": "INDUSTRIAL",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PAUL MERCHANTS",
+          "sector": "FINANCE",
+          "percentage": 0.5,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 82,
+              "airtime": 1230
+            }
+          ]
+        },
+        {
+          "advertiser": "PERFECT VISION LASIK",
+          "sector": "HEALTHCARE",
+          "percentage": 0.6,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 97,
+              "airtime": 1455
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "percentage": 2.54,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 86,
+              "airtime": 1290
+            },
+            {
+              "station": "MY FM",
+              "adCount": 178,
+              "airtime": 2670
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 149,
+              "airtime": 2235
+            }
+          ]
+        },
+        {
+          "advertiser": "PHYSICS WALLAH",
+          "sector": "EDUCATION",
+          "percentage": 2.1,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 166,
+              "airtime": 2490
+            },
+            {
+              "station": "MY FM",
+              "adCount": 176,
+              "airtime": 2640
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PHYSICS WALLAHA VIDYAPEETH",
+          "sector": "EDUCATION",
+          "percentage": 0.82,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 133,
+              "airtime": 1995
+            }
+          ]
+        },
+        {
+          "advertiser": "POSITRON-SUPER SPECIALITY&CANCER HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.46,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 74,
+              "airtime": 1110
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK",
+          "sector": "FINANCE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK (PNB)",
+          "sector": "FINANCE",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 19,
+              "airtime": 285
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK(PNB)",
+          "sector": "FINANCE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "percentage": 2.96,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 481,
+              "airtime": 7215
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO DHAMAAL",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.66,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 108,
+              "airtime": 1620
+            }
+          ]
+        },
+        {
+          "advertiser": "RAJAN",
+          "sector": "LIFESTYLE",
+          "percentage": 0.42,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RANA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 37,
+              "airtime": 555
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RANA PILES HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.68,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 76,
+              "airtime": 1140
+            }
+          ]
+        },
+        {
+          "advertiser": "RAYZON SOLAR",
+          "sector": "RENEWABLE ENERGY",
+          "percentage": 1.67,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 271,
+              "airtime": 4065
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RBI",
+          "sector": "FINANCE",
+          "percentage": 0.42,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "MY FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 33,
+              "airtime": 495
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 11,
+              "airtime": 165
+            }
+          ]
+        },
+        {
+          "advertiser": "RC SWAPPR",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.39,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RELIANCE DIGITAL",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 1.67,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 271,
+              "airtime": 4065
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RERA",
+          "sector": "REAL ESTATE",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 43,
+              "airtime": 645
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RJ RANI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.28,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 46,
+              "airtime": 690
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ROOP MANTRA",
+          "sector": "FMCG",
+          "percentage": 0.55,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "MY FM",
+              "adCount": 43,
+              "airtime": 645
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 25,
+              "airtime": 375
+            }
+          ]
+        },
+        {
+          "advertiser": "ROYAL PALM RESORT",
+          "sector": "HOSPITALITY",
+          "percentage": 1.89,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 307,
+              "airtime": 4605
+            }
+          ]
+        },
+        {
+          "advertiser": "RP DALMIA EMPORIO",
+          "sector": "LIFESTYLE",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 62,
+              "airtime": 930
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SACHI SAHELI",
+          "sector": "FMCG",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "MY FM",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 29,
+              "airtime": 435
+            }
+          ]
+        },
+        {
+          "advertiser": "SAPRA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.49,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 79,
+              "airtime": 1185
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SAPRA MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.27,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 207,
+              "airtime": 3105
+            }
+          ]
+        },
+        {
+          "advertiser": "SARVESH HEALTH CITY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.48,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 78,
+              "airtime": 1170
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SBI",
+          "sector": "FINANCE",
+          "percentage": 1.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "MY FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 39,
+              "airtime": 585
+            }
+          ]
+        },
+        {
+          "advertiser": "SHREE DHOOTAPAPESHWAR LIMITED",
+          "sector": "HEALTHCARE",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHRI VISHWAKARMA SKILL UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHUDH PLUS",
+          "sector": "FMCG",
+          "percentage": 1.79,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 78,
+              "airtime": 1170
+            },
+            {
+              "station": "MY FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 123,
+              "airtime": 1845
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHUDHH PLUS",
+          "sector": "FMCG",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SK FINANCE",
+          "sector": "FINANCE",
+          "percentage": 1.49,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 123,
+              "airtime": 1845
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 120,
+              "airtime": 1800
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SPLASH WATER PARK",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.84,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 137,
+              "airtime": 2055
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUBHARTI UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.99,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 161,
+              "airtime": 2415
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUDHA SILVEER",
+          "sector": "FMCG",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUMMER SALE",
+          "sector": "RETAIL",
+          "percentage": 1.21,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 196,
+              "airtime": 2940
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUVIDHA",
+          "sector": "TEXTILES&APPARELS",
+          "percentage": 0.79,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 128,
+              "airtime": 1920
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUVIDHA STORES",
+          "sector": "SHOPS",
+          "percentage": 2.79,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 134,
+              "airtime": 2010
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 319,
+              "airtime": 4785
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TEENAGER BRA",
+          "sector": "LIFESTYLE",
+          "percentage": 0.87,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "MY FM",
+              "adCount": 48,
+              "airtime": 720
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 45,
+              "airtime": 675
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TELMOS AUTOMOBILE",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.65,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 106,
+              "airtime": 1590
+            }
+          ]
+        },
+        {
+          "advertiser": "TIPS PUNJABI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TOYOTA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VARMORA BATHWARE",
+          "sector": "CONSTRUCTION",
+          "percentage": 1.67,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 272,
+              "airtime": 4080
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VCS GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 0.81,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 132,
+              "airtime": 1980
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VELORA",
+          "sector": "FMCG",
+          "percentage": 0.76,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 123,
+              "airtime": 1845
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VIMAL",
+          "sector": "FMCG",
+          "percentage": 4.64,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 107,
+              "airtime": 1605
+            },
+            {
+              "station": "MY FM",
+              "adCount": 195,
+              "airtime": 2925
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 193,
+              "airtime": 2895
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 259,
+              "airtime": 3885
+            }
+          ]
+        },
+        {
+          "advertiser": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.88,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 86,
+              "airtime": 1290
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 57,
+              "airtime": 855
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "WORLD ALLERGY MONTH",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ZALIM PLUS",
+          "sector": "FMCG",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 62,
+              "airtime": 930
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

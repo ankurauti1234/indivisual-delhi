@@ -1,0 +1,444 @@
+{
+  "sectors": [
+    {
+      "name": "DOTCOM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#E91E63"
+    },
+    {
+      "name": "FMCG",
+      "color": "#F4511E"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#E91E63"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "TEXTILES&APPARELS",
+      "color": "#F4511E"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "INFRASTRUCTURE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#00897B"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#43A047"
+    },
+    {
+      "name": "CONSTRUCTION",
+      "color": "#0288D1"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#039BE5"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "INDUSTRIAL",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "TELECOMMUNICATION",
+      "color": "#0288D1"
+    },
+    {
+      "name": "SHOPS",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS",
+      "color": "#7B1FA2"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "DOTCOM",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 540,
+              "airtime": 13108
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 444,
+              "airtime": 6937
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 2136,
+              "airtime": 26602
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1010,
+              "airtime": 18803
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 140,
+              "airtime": 2651
+            }
+          ]
+        },
+        {
+          "sector": "REAL ESTATE",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 327,
+              "airtime": 6520
+            },
+            {
+              "station": "MY FM",
+              "adCount": 296,
+              "airtime": 3367
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 228,
+              "airtime": 5933
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 108,
+              "airtime": 2808
+            },
+            {
+              "station": "MY FM",
+              "adCount": 355,
+              "airtime": 5057
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 871,
+              "airtime": 23109
+            }
+          ]
+        },
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 349,
+              "airtime": 4911
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 313,
+              "airtime": 4057
+            },
+            {
+              "station": "MY FM",
+              "adCount": 761,
+              "airtime": 9770
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 321,
+              "airtime": 4200
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 202,
+              "airtime": 4655
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 554,
+              "airtime": 7285
+            },
+            {
+              "station": "MY FM",
+              "adCount": 251,
+              "airtime": 5001
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 172,
+              "airtime": 3566
+            }
+          ]
+        },
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 280,
+              "airtime": 4561
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 489,
+              "airtime": 5995
+            },
+            {
+              "station": "MY FM",
+              "adCount": 806,
+              "airtime": 13495
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 272,
+              "airtime": 3278
+            }
+          ]
+        },
+        {
+          "sector": "LIFESTYLE",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 223,
+              "airtime": 3312
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 430,
+              "airtime": 4428
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 176,
+              "airtime": 3030
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 85,
+              "airtime": 1925
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 180,
+              "airtime": 3637
+            },
+            {
+              "station": "MY FM",
+              "adCount": 812,
+              "airtime": 12754
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 465,
+              "airtime": 11804
+            }
+          ]
+        },
+        {
+          "sector": "TEXTILES&APPARELS",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 86,
+              "airtime": 1280
+            },
+            {
+              "station": "MY FM",
+              "adCount": 260,
+              "airtime": 3540
+            }
+          ]
+        },
+        {
+          "sector": "GOVERNMENT",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 33,
+              "airtime": 1014
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 71,
+              "airtime": 3049
+            },
+            {
+              "station": "MY FM",
+              "adCount": 4,
+              "airtime": 80
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 136,
+              "airtime": 2970
+            }
+          ]
+        },
+        {
+          "sector": "INFRASTRUCTURE",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 35,
+              "airtime": 358
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 307,
+              "airtime": 3424
+            }
+          ]
+        },
+        {
+          "sector": "TRAVEL&TOURISM",
+          "stations": [
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 3,
+              "airtime": 34
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "MY FM",
+              "adCount": 271,
+              "airtime": 3700
+            }
+          ]
+        },
+        {
+          "sector": "CONSTRUCTION",
+          "stations": [
+            {
+              "station": "MY FM",
+              "adCount": 272,
+              "airtime": 3539
+            }
+          ]
+        },
+        {
+          "sector": "RENEWABLE ENERGY",
+          "stations": [
+            {
+              "station": "MY FM",
+              "adCount": 271,
+              "airtime": 2981
+            }
+          ]
+        },
+        {
+          "sector": "RETAIL",
+          "stations": [
+            {
+              "station": "MY FM",
+              "adCount": 196,
+              "airtime": 2389
+            }
+          ]
+        },
+        {
+          "sector": "INDUSTRIAL",
+          "stations": [
+            {
+              "station": "MY FM",
+              "adCount": 126,
+              "airtime": 2245
+            }
+          ]
+        },
+        {
+          "sector": "TELECOMMUNICATION",
+          "stations": [
+            {
+              "station": "MY FM",
+              "adCount": 37,
+              "airtime": 296
+            }
+          ]
+        },
+        {
+          "sector": "SHOPS",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 319,
+              "airtime": 4101
+            }
+          ]
+        },
+        {
+          "sector": "HOUSEHOLD PRODUCTS",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 240,
+              "airtime": 3628
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

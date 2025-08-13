@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIGFM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MY FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO DHAMAL",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 406,
+              "airtime": 122
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1002,
+              "airtime": 239
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 437,
+              "airtime": 157
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 688,
+              "airtime": 159
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 356,
+              "airtime": 110
+            },
+            {
+              "station": "MY FM",
+              "adCount": 878,
+              "airtime": 221
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 459,
+              "airtime": 158
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 647,
+              "airtime": 142
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 362,
+              "airtime": 119
+            },
+            {
+              "station": "MY FM",
+              "adCount": 819,
+              "airtime": 211
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 435,
+              "airtime": 144
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 646,
+              "airtime": 146
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 387,
+              "airtime": 118
+            },
+            {
+              "station": "MY FM",
+              "adCount": 874,
+              "airtime": 224
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 391,
+              "airtime": 120
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 698,
+              "airtime": 153
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 466,
+              "airtime": 151
+            },
+            {
+              "station": "MY FM",
+              "adCount": 810,
+              "airtime": 207
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 480,
+              "airtime": 162
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 667,
+              "airtime": 149
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 365,
+              "airtime": 127
+            },
+            {
+              "station": "MY FM",
+              "adCount": 504,
+              "airtime": 132
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 437,
+              "airtime": 133
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 701,
+              "airtime": 156
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIGFM",
+              "adCount": 490,
+              "airtime": 158
+            },
+            {
+              "station": "MY FM",
+              "adCount": 841,
+              "airtime": 213
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 473,
+              "airtime": 160
+            },
+            {
+              "station": "RADIO DHAMAL",
+              "adCount": 544,
+              "airtime": 114
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
