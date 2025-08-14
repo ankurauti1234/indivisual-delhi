@@ -466,6 +466,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis-hisar",
   },
+  {
+    id: 17,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Kota",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-kota",
+  },
 ];
 
 export const radio_ads_reports = [
