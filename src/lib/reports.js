@@ -477,6 +477,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis-kota",
   },
+  {
+    id: 18,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Karnal",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-karnal",
+  },
 ];
 
 export const radio_ads_reports = [

@@ -16,6 +16,8 @@ import { availableData as jamshedpurData } from "@/data/jamshedpur";
 import { availableData as ranchiData } from "@/data/ranchi";
 import { availableData as hisarData } from "@/data/hisar";
 import { availableData as kotaData } from "@/data/kota";
+import { availableData as karnalData } from "@/data/karnal";
+
 import {
   Select,
   SelectContent,
@@ -44,7 +46,8 @@ function ProgramGridContent() {
     jamshedpur:jamshedpurData,
     ranchi:ranchiData,
     hisar:hisarData,
-    kota:kotaData
+    kota:kotaData,
+    karnal:karnalData
   };
 
   useEffect(() => {
@@ -98,6 +101,7 @@ function ProgramGridContent() {
             <SelectItem value="ranchi">Ranchi</SelectItem>
             <SelectItem value="hisar">Hisar</SelectItem>
             <SelectItem value="kota">Kota</SelectItem>
+            <SelectItem value="karnal">Karnal</SelectItem>
           </SelectContent>
         </Select>
       </div>

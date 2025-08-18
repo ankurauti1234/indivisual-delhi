@@ -1,0 +1,4195 @@
+{
+  "stations": ["DHAMAAL FM", "MY FM", "RADIO CITY"],
+  "sectors": [
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "LIFESTYLE"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "RETAIL"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "CONSTRUCTION"
+    },
+    {
+      "name": "RENEWABLE ENERGY"
+    },
+    {
+      "name": "SHOPS"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "HOME FURNISHING"
+    },
+    {
+      "name": "INDUSTRIAL"
+    },
+    {
+      "name": "SERVICES"
+    },
+    {
+      "name": "EVENTS&EXHIBITION"
+    },
+    {
+      "name": "TRAVEL&TOURISM"
+    },
+    {
+      "name": "GOVERNMENT"
+    },
+    {
+      "name": "TECHNOLOGY"
+    },
+    {
+      "name": "INFRASTRUCTURE"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-2",
+      "data": [
+        {
+          "advertiser": "521",
+          "sector": "FMCG",
+          "percentage": 0.75,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 174,
+              "airtime": 2610
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "521 BASMATI RICE",
+          "sector": "FMCG",
+          "percentage": 0.85,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 197,
+              "airtime": 2955
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AARIZE GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 7.69,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 429,
+              "airtime": 6435
+            },
+            {
+              "station": "MY FM",
+              "adCount": 697,
+              "airtime": 10455
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 657,
+              "airtime": 9855
+            }
+          ]
+        },
+        {
+          "advertiser": "ACCORD CLINIC",
+          "sector": "HEALTHCARE",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AGARWAL MARKET",
+          "sector": "RETAIL",
+          "percentage": 1.57,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 365,
+              "airtime": 5475
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AGGARWAL WATER COOLER",
+          "sector": "INDUSTRIAL",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 54,
+              "airtime": 810
+            }
+          ]
+        },
+        {
+          "advertiser": "ALORA",
+          "sector": "FMCG",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AMITY UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.34,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 38,
+              "airtime": 570
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 40,
+              "airtime": 600
+            }
+          ]
+        },
+        {
+          "advertiser": "AMRITA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ANTC HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.48,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 111,
+              "airtime": 1665
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ANTC-1 HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.33,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 77,
+              "airtime": 1155
+            }
+          ]
+        },
+        {
+          "advertiser": "ARORA EYE CENTRE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.78,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 101,
+              "airtime": 1515
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 81,
+              "airtime": 1215
+            }
+          ]
+        },
+        {
+          "advertiser": "ARORA EYE&LASIK LASER CENTRE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.6,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 139,
+              "airtime": 2085
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ARPANA CHARITABLE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.36,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 84,
+              "airtime": 1260
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ATULYA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AWESOME TILES",
+          "sector": "INDUSTRIAL",
+          "percentage": 0.64,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "MY FM",
+              "adCount": 68,
+              "airtime": 1020
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BALAJI PLASTIC SURGERY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.58,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 135,
+              "airtime": 2025
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BANSAL EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.24,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 55,
+              "airtime": 825
+            }
+          ]
+        },
+        {
+          "advertiser": "BD SUPER STORE",
+          "sector": "RETAIL",
+          "percentage": 0.7,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 163,
+              "airtime": 2445
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BHARAT FURNITURE PVT. LTD.",
+          "sector": "HOME FURNISHING",
+          "percentage": 0.24,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 56,
+              "airtime": 840
+            }
+          ]
+        },
+        {
+          "advertiser": "BIS APP",
+          "sector": "GOVERNMENT",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 60,
+              "airtime": 900
+            }
+          ]
+        },
+        {
+          "advertiser": "BLOOM",
+          "sector": "FMCG",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BSV GROUP(BHARAT SERUMS AND VACCINES LIMITED)&MANKIND PHARMA LIMITED",
+          "sector": "GOVERNMENT",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 16,
+              "airtime": 240
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CANARA",
+          "sector": "FINANCE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 6,
+              "airtime": 90
+            }
+          ]
+        },
+        {
+          "advertiser": "CANARA BANK",
+          "sector": "FINANCE",
+          "percentage": 0.57,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 115,
+              "airtime": 1725
+            }
+          ]
+        },
+        {
+          "advertiser": "CATERPILLAR INC",
+          "sector": "INFRASTRUCTURE",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CATERPILLAR INC.",
+          "sector": "INFRASTRUCTURE",
+          "percentage": 0.19,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "COKE STUDIO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 12,
+              "airtime": 180
+            }
+          ]
+        },
+        {
+          "advertiser": "CRAFT HOMES",
+          "sector": "REAL ESTATE",
+          "percentage": 0.31,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CRICKET MAHA CONTEST",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CT UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.34,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 80,
+              "airtime": 1200
+            }
+          ]
+        },
+        {
+          "advertiser": "CYBER SECUIRITY",
+          "sector": "FINANCE",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DBS GLOBAL UNIVERSITY DEHRADUN",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DESH BHAGAT UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.42,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 98,
+              "airtime": 1470
+            }
+          ]
+        },
+        {
+          "advertiser": "DHUNAR RICE",
+          "sector": "FMCG",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DOUBLE CHABI",
+          "sector": "FMCG",
+          "percentage": 1.11,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 257,
+              "airtime": 3855
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR ANUJ CHAWLA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 39,
+              "airtime": 585
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR ANURADHA MAHAJAN-GYNAECOLOGY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR MAHENDRA SINGH",
+          "sector": "HEALTHCARE",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 0.62,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "MY FM",
+              "adCount": 54,
+              "airtime": 810
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR RISHI EYE INSTITUTE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 48,
+              "airtime": 720
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. JATIN DHINGRA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.3,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. MANDIP YADAV DENTAL&IMPLANT CENTER",
+          "sector": "HEALTHCARE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 9,
+              "airtime": 135
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 10,
+              "airtime": 150
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. SURAJ SINGH HEART CARE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.59,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 137,
+              "airtime": 2055
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ECHS (EX-SERVICEMEN CONTRIBUTORY HEALTH SCHEME)",
+          "sector": "GOVERNMENT",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ELDER FIT DIAPER PANTS",
+          "sector": "FMCG",
+          "percentage": 0.15,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 34,
+              "airtime": 510
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ELDERFIT",
+          "sector": "FMCG",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "EQUIFOLIO OVERSEAS",
+          "sector": "SERVICES",
+          "percentage": 0.56,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 129,
+              "airtime": 1935
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "EXCELLENCE AWARDS GLOBAL",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 54,
+              "airtime": 810
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "EXHIBIDO EXHIBITION",
+          "sector": "EVENTS&EXHIBITION",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 118,
+              "airtime": 1770
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "FEMISS",
+          "sector": "FMCG",
+          "percentage": 0.22,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "FRASER TECHNO",
+          "sector": "INFRASTRUCTURE",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "FSSAI",
+          "sector": "GOVERNMENT",
+          "percentage": 0.15,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 35,
+              "airtime": 525
+            }
+          ]
+        },
+        {
+          "advertiser": "GANPATI JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.4,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 93,
+              "airtime": 1395
+            }
+          ]
+        },
+        {
+          "advertiser": "GLOBAL CRADLE HOSPITAL-DR. JALAZ JAIN",
+          "sector": "HEALTHCARE",
+          "percentage": 0.52,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 120,
+              "airtime": 1800
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOOGLE",
+          "sector": "TECHNOLOGY",
+          "percentage": 0.16,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERNMENT OF INDIA",
+          "sector": "FINANCE",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 33,
+              "airtime": 495
+            }
+          ]
+        },
+        {
+          "advertiser": "GOYAL INFRA GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 0.76,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 176,
+              "airtime": 2640
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GPT CASTINGS LTD",
+          "sector": "INDUSTRIAL",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HARYANA SAHKARITA VIBHAG",
+          "sector": "GOVERNMENT",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HOTEL PREM PLAZA",
+          "sector": "HOSPITALITY",
+          "percentage": 0.63,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 145,
+              "airtime": 2175
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HSTES",
+          "sector": "EDUCATION",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "IES UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN AIR FORCE",
+          "sector": "GOVERNMENT",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN NAVY",
+          "sector": "GOVERNMENT",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INGRID BRA",
+          "sector": "LIFESTYLE",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 102,
+              "airtime": 1530
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 67,
+              "airtime": 1005
+            }
+          ]
+        },
+        {
+          "advertiser": "JAAGRAN PRASARAN",
+          "sector": "GOVERNMENT",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 53,
+              "airtime": 795
+            }
+          ]
+        },
+        {
+          "advertiser": "JAY JAY FLOUR MILL",
+          "sector": "FMCG",
+          "percentage": 1.14,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 265,
+              "airtime": 3975
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JBD BANQUETS",
+          "sector": "HOSPITALITY",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JIOTV",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.17,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 40,
+              "airtime": 600
+            }
+          ]
+        },
+        {
+          "advertiser": "JK FLOUR MILL",
+          "sector": "FMCG",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JYOTI GARDEN",
+          "sector": "HOSPITALITY",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 99,
+              "airtime": 1485
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JYOTI GARDEN&JALSA",
+          "sector": "HOSPITALITY",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KARNAL HAVELI",
+          "sector": "HOSPITALITY",
+          "percentage": 2.55,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 369,
+              "airtime": 5535
+            },
+            {
+              "station": "MY FM",
+              "adCount": 222,
+              "airtime": 3330
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KARUNAMAYI VENTURES",
+          "sector": "RETAIL",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 170,
+              "airtime": 2550
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KASHMIR SILK STORE KARNAL",
+          "sector": "RETAIL",
+          "percentage": 1.21,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 280,
+              "airtime": 4200
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KEN PAST STREET HOTEL",
+          "sector": "HOSPITALITY",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KSHIRDHARA RESTAURANT",
+          "sector": "HOSPITALITY",
+          "percentage": 0.62,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 144,
+              "airtime": 2160
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "LIC",
+          "sector": "FINANCE",
+          "percentage": 1.54,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "MY FM",
+              "adCount": 306,
+              "airtime": 4590
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "LOTUS KARNAL CLUB",
+          "sector": "HOSPITALITY",
+          "percentage": 1.45,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 337,
+              "airtime": 5055
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MANOCHA EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 105,
+              "airtime": 1575
+            }
+          ]
+        },
+        {
+          "advertiser": "MANUJA EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.11,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 26,
+              "airtime": 390
+            }
+          ]
+        },
+        {
+          "advertiser": "MAS FINANCIAL SERVICES LTD",
+          "sector": "FINANCE",
+          "percentage": 1.17,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 271,
+              "airtime": 4065
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MEHTA FARMS BANQUET HALL",
+          "sector": "HOSPITALITY",
+          "percentage": 0.35,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 81,
+              "airtime": 1215
+            }
+          ]
+        },
+        {
+          "advertiser": "MERCHANTS",
+          "sector": "FINANCE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MUKESH GUPTA",
+          "sector": "FINANCE",
+          "percentage": 0.42,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 97,
+              "airtime": 1455
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MUZAD DISCO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.15,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 35,
+              "airtime": 525
+            }
+          ]
+        },
+        {
+          "advertiser": "MUZAK DISCO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.39,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 91,
+              "airtime": 1365
+            }
+          ]
+        },
+        {
+          "advertiser": "MY FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NANAK CHAND&SONS JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.67,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 155,
+              "airtime": 2325
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NEELKANTH STAR",
+          "sector": "HOSPITALITY",
+          "percentage": 0.59,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 137,
+              "airtime": 2055
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NIKHAAR",
+          "sector": "HOUSEHOLD PRODUCTS",
+          "percentage": 0.94,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 217,
+              "airtime": 3255
+            }
+          ]
+        },
+        {
+          "advertiser": "NIKHAR CHEMICALS PVT. LTD.",
+          "sector": "HOUSEHOLD PRODUCTS",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 17,
+              "airtime": 255
+            }
+          ]
+        },
+        {
+          "advertiser": "NIMS UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.98,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 227,
+              "airtime": 3405
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NYSA PANIPAT INDUSTRIAL PARK",
+          "sector": "REAL ESTATE",
+          "percentage": 0.84,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 195,
+              "airtime": 2925
+            }
+          ]
+        },
+        {
+          "advertiser": "OM STERLING GLOBAL UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 1.59,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 369,
+              "airtime": 5535
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "OPS JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.41,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 96,
+              "airtime": 1440
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ORANE INTERNATIONAL",
+          "sector": "EDUCATION",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 20,
+              "airtime": 300
+            }
+          ]
+        },
+        {
+          "advertiser": "OSGU UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.83,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 193,
+              "airtime": 2895
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PARAS HEC HOSPITALS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 13,
+              "airtime": 195
+            }
+          ]
+        },
+        {
+          "advertiser": "PARAS HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.92,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 139,
+              "airtime": 2085
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 74,
+              "airtime": 1110
+            }
+          ]
+        },
+        {
+          "advertiser": "PARAS NURSING HOME",
+          "sector": "HEALTHCARE",
+          "percentage": 0.42,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 97,
+              "airtime": 1455
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PATAKA CHAI",
+          "sector": "FMCG",
+          "percentage": 0.32,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 74,
+              "airtime": 1110
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PATANJALI",
+          "sector": "HEALTHCARE",
+          "percentage": 0.41,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 94,
+              "airtime": 1410
+            }
+          ]
+        },
+        {
+          "advertiser": "PAUL MERCHANTS",
+          "sector": "TRAVEL&TOURISM",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 67,
+              "airtime": 1005
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PC SHARMA EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.43,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 100,
+              "airtime": 1500
+            }
+          ]
+        },
+        {
+          "advertiser": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "percentage": 1.5,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 178,
+              "airtime": 2670
+            },
+            {
+              "station": "MY FM",
+              "adCount": 171,
+              "airtime": 2565
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "POSITRON",
+          "sector": "HEALTHCARE",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "POSITRON HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.32,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 75,
+              "airtime": 1125
+            }
+          ]
+        },
+        {
+          "advertiser": "PRIDE PLAZA",
+          "sector": "HOSPITALITY",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUSHP MASALE",
+          "sector": "FMCG",
+          "percentage": 0.06,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "percentage": 2.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 466,
+              "airtime": 6990
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO DHAMAAL",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 48,
+              "airtime": 720
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO DHAMAAL FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 27,
+              "airtime": 405
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO FESTIVAL AWARD",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAJ JEWELS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.51,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 118,
+              "airtime": 1770
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAJ MAHAL BANQUET HALL",
+          "sector": "HOSPITALITY",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 29,
+              "airtime": 435
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAJAN SAREES",
+          "sector": "RETAIL",
+          "percentage": 0.44,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 102,
+              "airtime": 1530
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAJMAHAL BANQUATE",
+          "sector": "HOSPITALITY",
+          "percentage": 0.19,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 43,
+              "airtime": 645
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RANA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RANA PILES HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.42,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "MY FM",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAVAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAWAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.93,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 216,
+              "airtime": 3240
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAWAL PINDI JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.28,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 65,
+              "airtime": 975
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RAYZON SOLAR",
+          "sector": "RENEWABLE ENERGY",
+          "percentage": 1.16,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 268,
+              "airtime": 4020
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RBI",
+          "sector": "FINANCE",
+          "percentage": 0.24,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 15,
+              "airtime": 225
+            },
+            {
+              "station": "MY FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 29,
+              "airtime": 435
+            }
+          ]
+        },
+        {
+          "advertiser": "RC SWAPPR",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 60,
+              "airtime": 900
+            }
+          ]
+        },
+        {
+          "advertiser": "RELIANCE",
+          "sector": "TECHNOLOGY",
+          "percentage": 0.25,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 58,
+              "airtime": 870
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RELIANCE DIGITAL",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 0.91,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 211,
+              "airtime": 3165
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RESHAM DHABA",
+          "sector": "HOSPITALITY",
+          "percentage": 0.3,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1035
+            }
+          ]
+        },
+        {
+          "advertiser": "RIGHT DIRECTION INSTITUTE",
+          "sector": "EDUCATION",
+          "percentage": 0.47,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 108,
+              "airtime": 1620
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RK JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 1.12,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 260,
+              "airtime": 3900
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ROOP MANTRA",
+          "sector": "FMCG",
+          "percentage": 0.28,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "MY FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SACHI SAHELI",
+          "sector": "FMCG",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 32,
+              "airtime": 480
+            },
+            {
+              "station": "MY FM",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SAI RESIDENCY",
+          "sector": "REAL ESTATE",
+          "percentage": 4.11,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 373,
+              "airtime": 5595
+            },
+            {
+              "station": "MY FM",
+              "adCount": 350,
+              "airtime": 5250
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 231,
+              "airtime": 3465
+            }
+          ]
+        },
+        {
+          "advertiser": "SARA ARAVALI JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 2.25,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 521,
+              "airtime": 7815
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SARA JEWELS",
+          "sector": "LIFESTYLE",
+          "percentage": 0.46,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 106,
+              "airtime": 1590
+            }
+          ]
+        },
+        {
+          "advertiser": "SARASWATI NETHRALAYA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.44,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 103,
+              "airtime": 1545
+            }
+          ]
+        },
+        {
+          "advertiser": "SARLA DEVI MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.3,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1035
+            }
+          ]
+        },
+        {
+          "advertiser": "SBI",
+          "sector": "FINANCE",
+          "percentage": 0.34,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 13,
+              "airtime": 195
+            },
+            {
+              "station": "MY FM",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 25,
+              "airtime": 375
+            }
+          ]
+        },
+        {
+          "advertiser": "SBI AMRIT VRISHTI",
+          "sector": "FINANCE",
+          "percentage": 0.22,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 11,
+              "airtime": 165
+            }
+          ]
+        },
+        {
+          "advertiser": "SHAHI GLOBAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHAMIANA CLUB",
+          "sector": "HOSPITALITY",
+          "percentage": 0.5,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 115,
+              "airtime": 1725
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHAMIANA-THE ROYAL TASTE",
+          "sector": "HOSPITALITY",
+          "percentage": 0.61,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 142,
+              "airtime": 2130
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHOE PALACE",
+          "sector": "LIFESTYLE",
+          "percentage": 0.48,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 111,
+              "airtime": 1665
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHREE DHOOTAPAPESHWAR LIMITED",
+          "sector": "HEALTHCARE",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHREEDHI MILK",
+          "sector": "FMCG",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHRI VISHWAKARMA SKILL UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            }
+          ]
+        },
+        {
+          "advertiser": "SHUDH PLUS",
+          "sector": "FMCG",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 105,
+              "airtime": 1575
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHUDH PLUS PAN MASALA PRIVATE LIMITED",
+          "sector": "FMCG",
+          "percentage": 0.5,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 117,
+              "airtime": 1755
+            }
+          ]
+        },
+        {
+          "advertiser": "SNG ELECTRICALS",
+          "sector": "HOME FURNISHING",
+          "percentage": 0.67,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 155,
+              "airtime": 2325
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SPINNY",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.44,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 160,
+              "airtime": 2400
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 173,
+              "airtime": 2595
+            }
+          ]
+        },
+        {
+          "advertiser": "SSR MEDICAL CONSULTANCY",
+          "sector": "HEALTHCARE",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUBHARTI UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.68,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 157,
+              "airtime": 2355
+            }
+          ]
+        },
+        {
+          "advertiser": "SUDHA SILVEER",
+          "sector": "FMCG",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SULTANAT THE-BANQUATE",
+          "sector": "HOSPITALITY",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUN SKIN CLINIC",
+          "sector": "HEALTHCARE",
+          "percentage": 0.34,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 78,
+              "airtime": 1170
+            }
+          ]
+        },
+        {
+          "advertiser": "SUNDER JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 2.22,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 467,
+              "airtime": 7005
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 47,
+              "airtime": 705
+            }
+          ]
+        },
+        {
+          "advertiser": "SUVIDHA",
+          "sector": "LIFESTYLE",
+          "percentage": 1.38,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 320,
+              "airtime": 4800
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUVIDHA STORES",
+          "sector": "LIFESTYLE",
+          "percentage": 1.29,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 300,
+              "airtime": 4500
+            }
+          ]
+        },
+        {
+          "advertiser": "SWASTIK HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.48,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 111,
+              "airtime": 1665
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TEENAGER BRA",
+          "sector": "LIFESTYLE",
+          "percentage": 0.37,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 42,
+              "airtime": 630
+            }
+          ]
+        },
+        {
+          "advertiser": "THE BREW ESTATE KARNAL",
+          "sector": "HOSPITALITY",
+          "percentage": 1.04,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 242,
+              "airtime": 3630
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "THE MIRAGE-DR. MANGAL SEN GOVERNMENT AUDITORIUM",
+          "sector": "EVENTS&EXHIBITION",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 88,
+              "airtime": 1320
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "THE RUTTBA",
+          "sector": "HOSPITALITY",
+          "percentage": 1.23,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 285,
+              "airtime": 4275
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "THE VIVAAN HOTEL&RESORTS",
+          "sector": "HOSPITALITY",
+          "percentage": 0.85,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 196,
+              "airtime": 2940
+            }
+          ]
+        },
+        {
+          "advertiser": "THEMIS BARBECUE HOUSE",
+          "sector": "HOSPITALITY",
+          "percentage": 1.39,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 322,
+              "airtime": 4830
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TITAN",
+          "sector": "LIFESTYLE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TOMASHI",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 0.8,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 186,
+              "airtime": 2790
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TOMASHI THAR COOLER",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TOYOTA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 30,
+              "airtime": 450
+            }
+          ]
+        },
+        {
+          "advertiser": "TRESS LOUNGE",
+          "sector": "SHOPS",
+          "percentage": 1.08,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 250,
+              "airtime": 3750
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "UDANA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "UJALA CYGNUS-SANJIV BANSAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.53,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 355,
+              "airtime": 5325
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "UNIKKO INDUSTRIAL PARK",
+          "sector": "CONSTRUCTION",
+          "percentage": 1.35,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 312,
+              "airtime": 4680
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "UNIVERSITY OF STIRLING",
+          "sector": "EDUCATION",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VARMORA BATHWARE",
+          "sector": "HOME FURNISHING",
+          "percentage": 0.58,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 135,
+              "airtime": 2025
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VARMORA GRANITO PVT. LTD.",
+          "sector": "INDUSTRIAL",
+          "percentage": 0.5,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 117,
+              "airtime": 1755
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VARMORA TILES",
+          "sector": "CONSTRUCTION",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VELORA",
+          "sector": "FMCG",
+          "percentage": 0.48,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 112,
+              "airtime": 1680
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VHCA CLINIC",
+          "sector": "HEALTHCARE",
+          "percentage": 0.62,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 143,
+              "airtime": 2145
+            }
+          ]
+        },
+        {
+          "advertiser": "VIMAL",
+          "sector": "FMCG",
+          "percentage": 2.34,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 165,
+              "airtime": 2475
+            },
+            {
+              "station": "MY FM",
+              "adCount": 193,
+              "airtime": 2895
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 184,
+              "airtime": 2760
+            }
+          ]
+        },
+        {
+          "advertiser": "VIRK HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.58,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 134,
+              "airtime": 2010
+            },
+            {
+              "station": "MY FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.39,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "MY FM",
+              "adCount": 89,
+              "airtime": 1335
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "WOMAN\u2019S PLAZA",
+          "sector": "LIFESTYLE",
+          "percentage": 0.0,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "YUVA BHARAT",
+          "sector": "FINANCE",
+          "percentage": 0.2,
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "MY FM",
+              "adCount": 46,
+              "airtime": 690
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

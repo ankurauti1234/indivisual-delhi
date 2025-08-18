@@ -1,0 +1,163 @@
+{
+  "stations": [
+    {
+      "name": "DHAMAAL FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MY FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1343,
+              "airtime": 305
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1299,
+              "airtime": 305
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 765,
+              "airtime": 235
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1544,
+              "airtime": 370
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1229,
+              "airtime": 249
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 873,
+              "airtime": 267
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1424,
+              "airtime": 351
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1093,
+              "airtime": 235
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 889,
+              "airtime": 237
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1463,
+              "airtime": 333
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1097,
+              "airtime": 249
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 479,
+              "airtime": 126
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1394,
+              "airtime": 321
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1087,
+              "airtime": 225
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 923,
+              "airtime": 240
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1274,
+              "airtime": 289
+            },
+            {
+              "station": "MY FM",
+              "adCount": 751,
+              "airtime": 174
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 749,
+              "airtime": 218
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1548,
+              "airtime": 354
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1098,
+              "airtime": 229
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 870,
+              "airtime": 251
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
