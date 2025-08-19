@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "DHAMAAL FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO MIRCHI",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 343,
+              "airtime": 138
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 263,
+              "airtime": 76
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 358,
+              "airtime": 85
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 160,
+              "airtime": 50
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 354,
+              "airtime": 121
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 272,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 653,
+              "airtime": 157
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 157,
+              "airtime": 48
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 364,
+              "airtime": 116
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 278,
+              "airtime": 83
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 645,
+              "airtime": 156
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 125,
+              "airtime": 37
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 363,
+              "airtime": 116
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 256,
+              "airtime": 92
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 630,
+              "airtime": 156
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 157,
+              "airtime": 49
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 389,
+              "airtime": 124
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 278,
+              "airtime": 89
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 610,
+              "airtime": 149
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 90,
+              "airtime": 27
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 312,
+              "airtime": 128
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 239,
+              "airtime": 91
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 338,
+              "airtime": 108
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 85,
+              "airtime": 23
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 389,
+              "airtime": 118
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 280,
+              "airtime": 94
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 601,
+              "airtime": 165
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 169,
+              "airtime": 58
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -488,6 +488,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis-karnal",
   },
+  {
+    id: 19,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis Patiala",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis-patiala",
+  },
 ];
 
 export const radio_ads_reports = [

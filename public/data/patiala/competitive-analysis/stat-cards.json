@@ -1,0 +1,38 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": ["VIMAL", "SUNDER JEWELLERS", "PET SAFFA", "CANARA BANK"],
+          "values": ["606", "518", "337", "325"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "RADIO CITY",
+            "EXCELLENCE AWARDS GLOBAL",
+            "VIMAL",
+            "MDB GROUP"
+          ],
+          "values": ["10226", "9083", "8523", "6666"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["RADIO MIRCHI", "DHAMAAL FM", "BIG FM", "RADIO CITY"],
+          "values": ["943", "1866", "2514", "3835"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["RADIO MIRCHI", "DHAMAAL FM", "BIG FM", "RADIO CITY"],
+          "values": ["17679", "37043", "51771", "58764"]
+        }
+      ]
+    }
+  ]
+}

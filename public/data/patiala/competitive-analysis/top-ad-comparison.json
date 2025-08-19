@@ -1,0 +1,3054 @@
+{
+  "stations": ["BIG FM", "DHAMAAL FM", "RADIO CITY", "RADIO MIRCHI"],
+  "sectors": [
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "LIFESTYLE"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "DOTCOM"
+    },
+    {
+      "name": "TECHNOLOGY"
+    },
+    {
+      "name": "HOME FURNISHING"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "GOVERNMENT"
+    },
+    {
+      "name": "TRAVEL&TOURISM"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "advertiser": "(SPONSOR) CANARA BANK",
+          "sector": "FINANCE",
+          "percentage": 0.19,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "(SPONSOR) DR ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "(SPONSOR) KS GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 0.22,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 20,
+              "airtime": 300
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "(SPONSOR) PET SAFFA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "(SPONSOR)SACHI SAHELI",
+          "sector": "FMCG",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "A.V. MARKETING",
+          "sector": "HOME FURNISHING",
+          "percentage": 1.06,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 97,
+              "airtime": 1455
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AAS MEDICARE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.39,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 36,
+              "airtime": 540
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AAS MEDICARE MULTISPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.47,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 43,
+              "airtime": 645
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AAYUSHMAN HEART CARE",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "ACHARYA BALKRISHNA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "advertiser": "ADVANCE DIAGNOSTICS",
+          "sector": "HEALTHCARE",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 67,
+              "airtime": 1005
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AGILUS DIAGNOSTIC",
+          "sector": "HEALTHCARE",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AMAIRA",
+          "sector": "HEALTHCARE",
+          "percentage": 0.75,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 69,
+              "airtime": 1035
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AMAR HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AP HEALTH CARE AND TRAUMA CENTER",
+          "sector": "HEALTHCARE",
+          "percentage": 1.29,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 118,
+              "airtime": 1770
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "AROGYA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.71,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 65,
+              "airtime": 975
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ARYANS ACADEMY",
+          "sector": "EDUCATION",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 8,
+              "airtime": 120
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BABA BANDA SINGH BAHADUR COLLEGE",
+          "sector": "EDUCATION",
+          "percentage": 0.71,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 65,
+              "airtime": 975
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BELLA",
+          "sector": "FMCG",
+          "percentage": 1.51,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 138,
+              "airtime": 2070
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIG FM",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIGLIVE",
+          "sector": "DOTCOM",
+          "percentage": 1.31,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 120,
+              "airtime": 1800
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "BIS CARE APP",
+          "sector": "GOVERNMENT",
+          "percentage": 0.66,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 60,
+              "airtime": 900
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "CANARA BANK",
+          "sector": "FINANCE",
+          "percentage": 3.55,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 133,
+              "airtime": 1995
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 192,
+              "airtime": 2880
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DAVA INDIA",
+          "sector": "HEALTHCARE",
+          "percentage": 3.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 167,
+              "airtime": 2505
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 111,
+              "airtime": 1665
+            }
+          ]
+        },
+        {
+          "advertiser": "DAWAIYAN",
+          "sector": "HEALTHCARE",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 5,
+              "airtime": 75
+            }
+          ]
+        },
+        {
+          "advertiser": "DR ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 1.65,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 34,
+              "airtime": 510
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 89,
+              "airtime": 1335
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 28,
+              "airtime": 420
+            }
+          ]
+        },
+        {
+          "advertiser": "DR SHALU JINDAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. ADITYA AGARWAL ND AGARWAL CLINIC",
+          "sector": "HEALTHCARE",
+          "percentage": 0.71,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 65,
+              "airtime": 975
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. MANPREET GLOBAL EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.24,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 114,
+              "airtime": 1710
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. ORTHO",
+          "sector": "HEALTHCARE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DR. VIVNEET SUVARDAAN HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.78,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 71,
+              "airtime": 1065
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "DREAM IVF",
+          "sector": "HEALTHCARE",
+          "percentage": 0.23,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ESTORY",
+          "sector": "TECHNOLOGY",
+          "percentage": 1.23,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 113,
+              "airtime": 1695
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "EXCELLENCE AWARDS GLOBAL",
+          "sector": "ENTERTAINMENT",
+          "percentage": 1.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 133,
+              "airtime": 1995
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "FSSAI",
+          "sector": "GOVERNMENT",
+          "percentage": 0.74,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 68,
+              "airtime": 1020
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GAANA",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.59,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 54,
+              "airtime": 810
+            }
+          ]
+        },
+        {
+          "advertiser": "GARARI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GLOBAL EYE HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.02,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 2,
+              "airtime": 30
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVERNMENT OF INDIA",
+          "sector": "GOVERNMENT",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 3,
+              "airtime": 45
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOVIND HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.72,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 66,
+              "airtime": 990
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "GOYAL INFRA GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 1.99,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 182,
+              "airtime": 2730
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HALDIRAM",
+          "sector": "HOSPITALITY",
+          "percentage": 2.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 195,
+              "airtime": 2925
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HARYANA STATE TECHNICAL EDUCATION SOCIETY",
+          "sector": "EDUCATION",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 4,
+              "airtime": 60
+            }
+          ]
+        },
+        {
+          "advertiser": "HERO HOMES",
+          "sector": "REAL ESTATE",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "HONDA",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.1,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 9,
+              "airtime": 135
+            }
+          ]
+        },
+        {
+          "advertiser": "HONDA SHOWROOM",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.03,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "advertiser": "HP",
+          "sector": "AUTOMOBILE",
+          "percentage": 1.54,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 63,
+              "airtime": 945
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 78,
+              "airtime": 1170
+            }
+          ]
+        },
+        {
+          "advertiser": "HSTES",
+          "sector": "EDUCATION",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 8,
+              "airtime": 120
+            }
+          ]
+        },
+        {
+          "advertiser": "HYUNDAI",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 8,
+              "airtime": 120
+            }
+          ]
+        },
+        {
+          "advertiser": "INAYAT REALTECH GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 2.31,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 171,
+              "airtime": 2565
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN AIR FORCE",
+          "sector": "GOVERNMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INDIAN NAVY",
+          "sector": "GOVERNMENT",
+          "percentage": 0.29,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "INGRID BRA",
+          "sector": "LIFESTYLE",
+          "percentage": 1.39,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 61,
+              "airtime": 915
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 66,
+              "airtime": 990
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "JAGRAN PRASARAN LIMITED",
+          "sector": "GOVERNMENT",
+          "percentage": 0.61,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 56,
+              "airtime": 840
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KAMAL MULTI SPECIALITY HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KINGSTON TERRACE",
+          "sector": "REAL ESTATE",
+          "percentage": 0.91,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 24,
+              "airtime": 360
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 59,
+              "airtime": 885
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KOHLI SWEETS",
+          "sector": "HOSPITALITY",
+          "percentage": 0.62,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 57,
+              "airtime": 855
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KOLHI SWEETS",
+          "sector": "FMCG",
+          "percentage": 0.24,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 22,
+              "airtime": 330
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "KS GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 2.6,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 238,
+              "airtime": 3570
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "LASIK HUB",
+          "sector": "HEALTHCARE",
+          "percentage": 0.08,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 7,
+              "airtime": 105
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "LIC",
+          "sector": "FINANCE",
+          "percentage": 0.57,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 50,
+              "airtime": 750
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 2,
+              "airtime": 30
+            }
+          ]
+        },
+        {
+          "advertiser": "LJ EYE INSTITUTE",
+          "sector": "HEALTHCARE",
+          "percentage": 1.59,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 146,
+              "airtime": 2190
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MANIPAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 2.78,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 255,
+              "airtime": 3825
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MC DONALD'S",
+          "sector": "FMCG",
+          "percentage": 0.28,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 3,
+              "airtime": 45
+            }
+          ]
+        },
+        {
+          "advertiser": "MCCAIN",
+          "sector": "FMCG",
+          "percentage": 0.26,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 24,
+              "airtime": 360
+            }
+          ]
+        },
+        {
+          "advertiser": "MCDONALD'S",
+          "sector": "FMCG",
+          "percentage": 1.93,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 110,
+              "airtime": 1650
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 67,
+              "airtime": 1005
+            }
+          ]
+        },
+        {
+          "advertiser": "MDB GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 3.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 278,
+              "airtime": 4170
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MERCHANTS",
+          "sector": "FINANCE",
+          "percentage": 0.38,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 35,
+              "airtime": 525
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MOHANDAI OSWAL HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 1.44,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 132,
+              "airtime": 1980
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "MUZAK DISCO",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.57,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 52,
+              "airtime": 780
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "NOVA IVF FERTILITY CENTER",
+          "sector": "HEALTHCARE",
+          "percentage": 0.09,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 8,
+              "airtime": 120
+            }
+          ]
+        },
+        {
+          "advertiser": "ORTHO SAMADHAN \u2013 DR. SHREY SINGH",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 1,
+              "airtime": 15
+            }
+          ]
+        },
+        {
+          "advertiser": "PATANJALI",
+          "sector": "HEALTHCARE",
+          "percentage": 0.6,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 55,
+              "airtime": 825
+            }
+          ]
+        },
+        {
+          "advertiser": "PAUL MERCHANTS",
+          "sector": "TRAVEL&TOURISM",
+          "percentage": 0.69,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 63,
+              "airtime": 945
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PET SAFFA",
+          "sector": "HEALTHCARE",
+          "percentage": 3.68,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 90,
+              "airtime": 1350
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 179,
+              "airtime": 2685
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 68,
+              "airtime": 1020
+            }
+          ]
+        },
+        {
+          "advertiser": "PUJA PUJARI APPLIANCES",
+          "sector": "CONSUMER DURABLE",
+          "percentage": 1.43,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 131,
+              "airtime": 1965
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK",
+          "sector": "FINANCE",
+          "percentage": 0.07,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK (PNB)",
+          "sector": "FINANCE",
+          "percentage": 0.21,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 19,
+              "airtime": 285
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "PUNJAB NATIONAL BANK(PNB)",
+          "sector": "FINANCE",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIANCE HOMES",
+          "sector": "REAL ESTATE",
+          "percentage": 0.87,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 80,
+              "airtime": 1200
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO CITY",
+          "sector": "ENTERTAINMENT",
+          "percentage": 3.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 17,
+              "airtime": 255
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 270,
+              "airtime": 4050
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO DHAMAAL",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.25,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 23,
+              "airtime": 345
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO FESTIVAL AWARD",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RADIO MIRCHI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.12,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 11,
+              "airtime": 165
+            }
+          ]
+        },
+        {
+          "advertiser": "RAJAN",
+          "sector": "LIFESTYLE",
+          "percentage": 0.76,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RANA HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.68,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 40,
+              "airtime": 600
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 10,
+              "airtime": 150
+            }
+          ]
+        },
+        {
+          "advertiser": "RANA PILES HOSPITAL",
+          "sector": "HEALTHCARE",
+          "percentage": 0.91,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 58,
+              "airtime": 870
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 25,
+              "airtime": 375
+            }
+          ]
+        },
+        {
+          "advertiser": "RBI",
+          "sector": "FINANCE",
+          "percentage": 0.7,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 11,
+              "airtime": 165
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 12,
+              "airtime": 180
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 13,
+              "airtime": 195
+            }
+          ]
+        },
+        {
+          "advertiser": "RC SWAPPR",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.7,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 64,
+              "airtime": 960
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RERA RAJASTHAN",
+          "sector": "GOVERNMENT",
+          "percentage": 0.05,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 5,
+              "airtime": 75
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RESHAM DHABA",
+          "sector": "HOSPITALITY",
+          "percentage": 0.84,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 77,
+              "airtime": 1155
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RJ ARJAN",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "RJ RANI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.62,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 57,
+              "airtime": 855
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ROOP MANTRA",
+          "sector": "FMCG",
+          "percentage": 0.74,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 21,
+              "airtime": 315
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 28,
+              "airtime": 420
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 19,
+              "airtime": 285
+            }
+          ]
+        },
+        {
+          "advertiser": "SACHI SAHELI",
+          "sector": "FMCG",
+          "percentage": 0.73,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 18,
+              "airtime": 270
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 32,
+              "airtime": 480
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 17,
+              "airtime": 255
+            }
+          ]
+        },
+        {
+          "advertiser": "SBI",
+          "sector": "FINANCE",
+          "percentage": 1.64,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 48,
+              "airtime": 720
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 26,
+              "airtime": 390
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 42,
+              "airtime": 630
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 34,
+              "airtime": 510
+            }
+          ]
+        },
+        {
+          "advertiser": "SBI (STATE BANK OF INDIA)",
+          "sector": "FINANCE",
+          "percentage": 0.33,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 30,
+              "airtime": 450
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHUDH PLUS",
+          "sector": "FMCG",
+          "percentage": 2.24,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 85,
+              "airtime": 1275
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 120,
+              "airtime": 1800
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SHUDHH PLUS",
+          "sector": "FMCG",
+          "percentage": 0.04,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 4,
+              "airtime": 60
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SRI GURU GRANTH SAHIB WORLD UNIVERSITY",
+          "sector": "EDUCATION",
+          "percentage": 0.83,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 76,
+              "airtime": 1140
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "SUNDER JEWELLERS",
+          "sector": "LIFESTYLE",
+          "percentage": 5.66,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 469,
+              "airtime": 7035
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 49,
+              "airtime": 735
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TEENAGER BRA",
+          "sector": "LIFESTYLE",
+          "percentage": 0.91,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 39,
+              "airtime": 585
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 44,
+              "airtime": 660
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "THE SKY HEIGHTS",
+          "sector": "REAL ESTATE",
+          "percentage": 2.31,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 212,
+              "airtime": 3180
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "TIPS PUNJABI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.13,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 6,
+              "airtime": 90
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VCS GROUP",
+          "sector": "REAL ESTATE",
+          "percentage": 1.53,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 140,
+              "airtime": 2100
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "VIKRAM MILLS",
+          "sector": "FMCG",
+          "percentage": 1.5,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 137,
+              "airtime": 2055
+            }
+          ]
+        },
+        {
+          "advertiser": "VIMAL",
+          "sector": "FMCG",
+          "percentage": 6.62,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 91,
+              "airtime": 1365
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 273,
+              "airtime": 4095
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 166,
+              "airtime": 2490
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 76,
+              "airtime": 1140
+            }
+          ]
+        },
+        {
+          "advertiser": "VOLKSWAGEN",
+          "sector": "AUTOMOBILE",
+          "percentage": 0.64,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 59,
+              "airtime": 885
+            }
+          ]
+        },
+        {
+          "advertiser": "WORLD ALLERGY WEEK",
+          "sector": "HEALTHCARE",
+          "percentage": 0.01,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 1,
+              "airtime": 15
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ZALIM PLUS",
+          "sector": "FMCG",
+          "percentage": 0.76,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 70,
+              "airtime": 1050
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        },
+        {
+          "advertiser": "ZIMMEWARI",
+          "sector": "ENTERTAINMENT",
+          "percentage": 0.45,
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 41,
+              "airtime": 615
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 0,
+              "airtime": 0
+            },
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 0,
+              "airtime": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "sectors": [
+    {
+      "name": "FMCG",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#43A047"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#039BE5"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#E91E63"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "TECHNOLOGY",
+      "color": "#039BE5"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#00897B"
+    },
+    {
+      "name": "DOTCOM",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#43A047"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#0288D1"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "sector": "FMCG",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 330,
+              "airtime": 5411
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 301,
+              "airtime": 4860
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 289,
+              "airtime": 4243
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 579,
+              "airtime": 9778
+            }
+          ]
+        },
+        {
+          "sector": "HEALTHCARE",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 330,
+              "airtime": 4771
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 370,
+              "airtime": 4704
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 480,
+              "airtime": 7091
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 1284,
+              "airtime": 12831
+            }
+          ]
+        },
+        {
+          "sector": "AUTOMOBILE",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 157,
+              "airtime": 4046
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 63,
+              "airtime": 1710
+            }
+          ]
+        },
+        {
+          "sector": "ENTERTAINMENT",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 65,
+              "airtime": 2098
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 215,
+              "airtime": 11361
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 116,
+              "airtime": 4169
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 395,
+              "airtime": 12526
+            }
+          ]
+        },
+        {
+          "sector": "FINANCE",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 49,
+              "airtime": 913
+            },
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 153,
+              "airtime": 3405
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 238,
+              "airtime": 4398
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 262,
+              "airtime": 3152
+            }
+          ]
+        },
+        {
+          "sector": "EDUCATION",
+          "stations": [
+            {
+              "station": "RADIO MIRCHI",
+              "adCount": 12,
+              "airtime": 440
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 149,
+              "airtime": 3007
+            }
+          ]
+        },
+        {
+          "sector": "LIFESTYLE",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 469,
+              "airtime": 4954
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 170,
+              "airtime": 2775
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 159,
+              "airtime": 2507
+            }
+          ]
+        },
+        {
+          "sector": "REAL ESTATE",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 182,
+              "airtime": 3640
+            },
+            {
+              "station": "BIG FM",
+              "adCount": 958,
+              "airtime": 17941
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 310,
+              "airtime": 4730
+            }
+          ]
+        },
+        {
+          "sector": "TECHNOLOGY",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 113,
+              "airtime": 3320
+            }
+          ]
+        },
+        {
+          "sector": "TRAVEL&TOURISM",
+          "stations": [
+            {
+              "station": "DHAMAAL FM",
+              "adCount": 63,
+              "airtime": 799
+            }
+          ]
+        },
+        {
+          "sector": "DOTCOM",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 120,
+              "airtime": 6092
+            }
+          ]
+        },
+        {
+          "sector": "GOVERNMENT",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 80,
+              "airtime": 3352
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 140,
+              "airtime": 3184
+            }
+          ]
+        },
+        {
+          "sector": "HOSPITALITY",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 329,
+              "airtime": 4056
+            }
+          ]
+        },
+        {
+          "sector": "CONSUMER DURABLE",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 131,
+              "airtime": 1688
+            }
+          ]
+        },
+        {
+          "sector": "HOME FURNISHING",
+          "stations": [
+            {
+              "station": "RADIO CITY",
+              "adCount": 97,
+              "airtime": 1305
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
