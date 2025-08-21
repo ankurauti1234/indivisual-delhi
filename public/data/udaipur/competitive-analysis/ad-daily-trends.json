@@ -1,0 +1,202 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MY FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "TADKA FM",
+      "color": "#E91E63"
+    }
+  ],
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "data": [
+        {
+          "date": "2025-07-01",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 552,
+              "airtime": 213
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1357,
+              "airtime": 434
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 989,
+              "airtime": 336
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 263,
+              "airtime": 91
+            }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 537,
+              "airtime": 182
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1237,
+              "airtime": 395
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 937,
+              "airtime": 323
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 234,
+              "airtime": 78
+            }
+          ]
+        },
+        {
+          "date": "2025-07-03",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 538,
+              "airtime": 196
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1298,
+              "airtime": 419
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 880,
+              "airtime": 318
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 227,
+              "airtime": 86
+            }
+          ]
+        },
+        {
+          "date": "2025-07-04",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 498,
+              "airtime": 170
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1192,
+              "airtime": 381
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 908,
+              "airtime": 313
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 215,
+              "airtime": 81
+            }
+          ]
+        },
+        {
+          "date": "2025-07-05",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 490,
+              "airtime": 169
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1246,
+              "airtime": 379
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 912,
+              "airtime": 318
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 244,
+              "airtime": 86
+            }
+          ]
+        },
+        {
+          "date": "2025-07-06",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 391,
+              "airtime": 140
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1096,
+              "airtime": 323
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 769,
+              "airtime": 269
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 201,
+              "airtime": 74
+            }
+          ]
+        },
+        {
+          "date": "2025-07-07",
+          "stations": [
+            {
+              "station": "BIG FM",
+              "adCount": 520,
+              "airtime": 175
+            },
+            {
+              "station": "MY FM",
+              "adCount": 1400,
+              "airtime": 411
+            },
+            {
+              "station": "RADIO CITY",
+              "adCount": 822,
+              "airtime": 277
+            },
+            {
+              "station": "TADKA FM",
+              "adCount": 267,
+              "airtime": 94
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

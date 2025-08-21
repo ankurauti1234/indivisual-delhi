@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "week": "2025-Week-27",
+      "cards": [
+        {
+          "title": "Top Advertisers by Ad Count",
+          "desc": "Advertisers with the highest number of ad plays",
+          "keys": [
+            "GEETANJALI INSTITUTE OF TECHNICAL STUDIES (GITS)",
+            "GEETANJALI HOSPITAL",
+            "ALLEN CAREER INSTITUTE",
+            "NIMS UNIVERSITY"
+          ],
+          "values": ["946", "757", "618", "519"]
+        },
+        {
+          "title": "Top Stations by Airtime",
+          "desc": "Radio stations with the most accumulated ad seconds",
+          "keys": [
+            "ALLEN CAREER INSTITUTE",
+            "GEETANJALI HOSPITAL",
+            "RASHTRASANT AACHARYA PULAK SAGAR JI",
+            "RADIO CITY"
+          ],
+          "values": ["18600", "16955", "16583", "15570"]
+        },
+        {
+          "title": "Top Radio by Counts",
+          "desc": "Radio stations ranked by total ad counts",
+          "keys": ["BIG FM", "MY FM", "RADIO CITY", "TADKA FM"],
+          "values": ["3526", "8826", "6217", "1651"]
+        },
+        {
+          "title": "Top Radio by Seconds",
+          "desc": "Radio stations ranked by total ad seconds",
+          "keys": ["BIG FM", "MY FM", "RADIO CITY", "TADKA FM"],
+          "values": ["74918", "164690", "129378", "35579"]
+        }
+      ]
+    }
+  ]
+}
