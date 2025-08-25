@@ -10,13 +10,6 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import MultipleSelector from "@/components/ui/multiselect";
 import {
   Table,
@@ -28,7 +21,7 @@ import {
 } from "@/components/ui/table";
 
 export const description =
-  "A table showing untapped ad opportunities by brand, sector, and competitor stations with week, sector, and station filters";
+  "A table showing untapped ad opportunities by brand, sector, and competitor stations with sector and station filters";
 
 // Custom Toggle Component
 const CustomToggle = ({ pressed, onPressedChange, children, className }) => {
@@ -89,7 +82,6 @@ const CustomPaginationNext = ({ onClick, disabled }) => (
 const CustomPaginationEllipsis = () => <span className="px-3 py-1">...</span>;
 
 const UntappedAdTable = ({ data }) => {
-  const [selectedWeek, setSelectedWeek] = useState(data.weeks[0]?.week || "");
   const [selectedSectors, setSelectedSectors] = useState([]);
   const [selectedStations, setSelectedStations] = useState([]);
   const [showAirtime, setShowAirtime] = useState(false);
@@ -97,10 +89,6 @@ const UntappedAdTable = ({ data }) => {
   const itemsPerPage = 10;
 
   // Derive options
-  const weekOptions = data.weeks.map((week) => ({
-    value: week.week,
-    label: week.week,
-  }));
   const sectorOptions = data.sectors.map((sector) => ({
     value: sector.name,
     label: sector.name,
@@ -112,9 +100,7 @@ const UntappedAdTable = ({ data }) => {
 
   // Filter and sort data
   const filteredData = useMemo(() => {
-    const weekData =
-      data.weeks.find((w) => w.week === selectedWeek)?.data || [];
-    return weekData
+    return data.data
       .filter((brand) => {
         // Sector filter
         const matchesSector =
@@ -156,7 +142,7 @@ const UntappedAdTable = ({ data }) => {
       })
       .filter((brand) => brand !== null) // Remove brands with no stations
       .sort((a, b) => b.totalValue - a.totalValue); // Sort by totalValue in descending order
-  }, [data, selectedWeek, selectedSectors, selectedStations, showAirtime]);
+  }, [data, selectedSectors, selectedStations, showAirtime]);
 
   // Pagination
   const totalItems = filteredData.length;
@@ -212,23 +198,10 @@ const UntappedAdTable = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Untapped Ad Opportunities</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
-            {selectedWeek}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
-          <Select value={selectedWeek} onValueChange={setSelectedWeek}>
-            <SelectTrigger className="w-[180px]">
-              <SelectValue placeholder="Select week" />
-            </SelectTrigger>
-            <SelectContent>
-              {weekOptions.map((week) => (
-                <SelectItem key={week.value} value={week.value}>
-                  {week.label}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
           <MultipleSelector
             value={selectedSectors}
             onChange={setSelectedSectors}

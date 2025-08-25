@@ -2,7 +2,6 @@
 "use client";
 
 import React, { useState, useRef } from "react";
-import { ChevronDown, ChevronUp } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -12,49 +11,37 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Toggle } from "@/components/ui/toggle";
-import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from "@/components/ui/collapsible";
 import { Separator } from "@/components/ui/separator";
 import MultipleSelector from "@/components/ui/multiselect";
 
 export const description =
-  "A custom horizontal stacked bar chart for sector ad distribution by station with multi-week and station selection";
+  "A custom horizontal stacked bar chart for sector ad distribution by station with station selection";
 
 const SectorAdDistributionBar = ({ data }) => {
-  const [selectedWeeks, setSelectedWeeks] = useState([
-    { value: data.weeks[0]?.week || "", label: data.weeks[0]?.week || "" },
-  ]);
   const [selectedStations, setSelectedStations] = useState([
     { value: "all", label: "All Stations" },
   ]);
   const [showAirtime, setShowAirtime] = useState(false);
-  const [isCollapsibleOpen, setIsCollapsibleOpen] = useState(false);
   const [activeSector, setActiveSector] = useState(null);
   const [tooltip, setTooltip] = useState(null);
   const chartContainerRef = useRef(null);
 
-  // Derive unique stations from the first week's data
-  const allStations = data.weeks[0]?.data[0]?.stations.map((s) => s.station) || [];
-  const weekOptions = data.weeks.map((week) => ({
-    value: week.week,
-    label: week.week,
-  }));
+  // Derive unique stations from data
+  const allStations = [
+    ...new Set(
+      data.data.flatMap((sector) => sector.stations.map((s) => s.station))
+    ),
+  ].sort();
   const stationOptions = [
     { value: "all", label: "All Stations" },
     ...allStations.map((station) => ({ value: station, label: station })),
   ];
 
-  // Handle week selection
-  const handleWeekChange = (weeks) => {
-    setSelectedWeeks(weeks.length > 0 ? weeks : [{ value: data.weeks[0].week, label: data.weeks[0].week }]);
-  };
-
   // Handle station selection
   const handleStationChange = (stations) => {
-    setSelectedStations(stations.length > 0 ? stations : [{ value: "all", label: "All Stations" }]);
+    setSelectedStations(
+      stations.length > 0 ? stations : [{ value: "all", label: "All Stations" }]
+    );
   };
 
   // Prepare chart data
@@ -68,18 +55,17 @@ const SectorAdDistributionBar = ({ data }) => {
       _totalValue: 0,
     };
 
-    // Aggregate data across selected weeks
+    // Aggregate data for the station across all sectors
     const rawValues = {};
     let totalValue = 0;
     data.sectors.forEach((sector) => {
-      let sectorValue = 0;
-      selectedWeeks.forEach((week) => {
-        const weekData = data.weeks.find((w) => w.week === week.value);
-        const stationEntry = weekData?.data
-         ?.find((s) => s.sector === sector.name)
-          ?.stations.find((s) => s.station === station);
-        sectorValue += showAirtime ? stationEntry?.airtime || 0 : stationEntry?.adCount || 0;
-      });
+      const sectorData = data.data.find((d) => d.sector === sector.name);
+      const stationEntry = sectorData?.stations.find(
+        (s) => s.station === station
+      );
+      const sectorValue = showAirtime
+        ? stationEntry?.airtime || 0
+        : stationEntry?.adCount || 0;
       rawValues[sector.name] = sectorValue;
       totalValue += sectorValue;
     });
@@ -95,7 +81,15 @@ const SectorAdDistributionBar = ({ data }) => {
   });
 
   // Handle mouse events for tooltip
-  const handleMouseEnter = (e, station, sector, value, percentage, total, color) => {
+  const handleMouseEnter = (
+    e,
+    station,
+    sector,
+    value,
+    percentage,
+    total,
+    color
+  ) => {
     const rect = chartContainerRef.current?.getBoundingClientRect();
     if (rect) {
       setTooltip({
@@ -112,7 +106,6 @@ const SectorAdDistributionBar = ({ data }) => {
     }
   };
 
-  // Handle mouse leave for tooltip
   const handleMouseLeave = () => {
     setTooltip(null);
   };
@@ -124,7 +117,7 @@ const SectorAdDistributionBar = ({ data }) => {
 
   // Calculate chart dimensions
   const barHeight = 60;
-  const barGap = 40; // Increased from 10 to 20 to reduce clutter
+  const barGap = 40;
   const chartHeight = stations.length * (barHeight + barGap) - barGap;
   const yAxisWidth = 80;
 
@@ -134,21 +127,11 @@ const SectorAdDistributionBar = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Sector Ad Distribution by Station</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
-            {selectedWeeks.map((w) => w.label).join(", ")}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} across selected
+            stations
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
-          <MultipleSelector
-            value={selectedWeeks}
-            onChange={handleWeekChange}
-            defaultOptions={weekOptions}
-            placeholder="Select weeks"
-            hideClearAllButton
-            hidePlaceholderWhenSelected
-            emptyIndicator={<p className="text-center text-sm">No weeks found</p>}
-            className="max-w-64 w-full"
-          />
           <MultipleSelector
             value={selectedStations}
             onChange={handleStationChange}
@@ -156,7 +139,9 @@ const SectorAdDistributionBar = ({ data }) => {
             placeholder="Select stations"
             hideClearAllButton
             hidePlaceholderWhenSelected
-            emptyIndicator={<p className="text-center text-sm">No stations found</p>}
+            emptyIndicator={
+              <p className="text-center text-sm">No stations found</p>
+            }
             className="max-w-64 w-full"
           />
           <Toggle
@@ -176,7 +161,10 @@ const SectorAdDistributionBar = ({ data }) => {
           style={{ height: `${chartHeight + 20}px` }}
         >
           {/* Y-Axis Labels */}
-          <div className="absolute left-0 top-0" style={{ width: `${yAxisWidth}px` }}>
+          <div
+            className="absolute left-0 top-0"
+            style={{ width: `${yAxisWidth}px` }}
+          >
             {stations.map((station, index) => (
               <div
                 key={station}
@@ -197,7 +185,10 @@ const SectorAdDistributionBar = ({ data }) => {
           {/* Bars */}
           <div
             className="relative"
-            style={{ marginLeft: `${yAxisWidth}px`, height: `${chartHeight}px` }}
+            style={{
+              marginLeft: `${yAxisWidth}px`,
+              height: `${chartHeight}px`,
+            }}
           >
             {chartData.map((stationData, index) => {
               let currentWidth = 0;
@@ -225,7 +216,8 @@ const SectorAdDistributionBar = ({ data }) => {
                     const rawValue = stationData._rawValues[sector.name] || 0;
                     if (rawValue === 0) return null;
                     const segmentWidth = `${percentage}%`;
-                    const isActive = !activeSector || activeSector === sector.name;
+                    const isActive =
+                      !activeSector || activeSector === sector.name;
                     const segment = (
                       <div
                         key={sector.name}
@@ -308,13 +300,16 @@ const SectorAdDistributionBar = ({ data }) => {
                   className="w-3 h-3 rounded-full"
                   style={{ backgroundColor: tooltip.color }}
                 />
-                <span className="text-sm text-muted-foreground">{tooltip.sector}</span>
+                <span className="text-sm text-muted-foreground">
+                  {tooltip.sector}
+                </span>
               </div>
               <p className="text-sm font-medium mt-1">
                 {tooltip.value} {showAirtime ? "sec" : "spot"}
               </p>
               <p className="text-xs text-muted-foreground">
-                {Math.round(tooltip.percentage)}% of {tooltip.total} {showAirtime ? "sec" : "spot"}
+                {Math.round(tooltip.percentage)}% of {tooltip.total}{" "}
+                {showAirtime ? "sec" : "spot"}
               </p>
             </div>
           )}
@@ -322,22 +317,22 @@ const SectorAdDistributionBar = ({ data }) => {
       </CardContent>
       <Separator />
       <CardFooter className="p-4">
-       <div className="flex flex-wrap gap-2 mt-2">
-            {data.sectors.map((sector) => (
-              <button
-                key={sector.name}
-                onClick={() => handleSectorClick(sector.name)}
-                className={`px-2 py-1 rounded-full text-xs font-medium text-white transition-opacity ${
-                  activeSector && activeSector !== sector.name
-                    ? "opacity-50"
-                    : "opacity-100"
-                }`}
-                style={{ backgroundColor: sector.color }}
-              >
-                {sector.name}
-              </button>
-            ))}
-          </div>
+        <div className="flex flex-wrap gap-2 mt-2">
+          {data.sectors.map((sector) => (
+            <button
+              key={sector.name}
+              onClick={() => handleSectorClick(sector.name)}
+              className={`px-2 py-1 rounded-full text-xs font-medium text-white transition-opacity ${
+                activeSector && activeSector !== sector.name
+                  ? "opacity-50"
+                  : "opacity-100"
+              }`}
+              style={{ backgroundColor: sector.color }}
+            >
+              {sector.name}
+            </button>
+          ))}
+        </div>
       </CardFooter>
     </Card>
   );

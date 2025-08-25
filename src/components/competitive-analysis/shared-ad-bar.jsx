@@ -1,8 +1,6 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
 import React, { useState, useRef } from "react";
-import { ChevronDown, ChevronUp } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -11,12 +9,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Toggle } from "@/components/ui/toggle";
-import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from "@/components/ui/collapsible";
 import { Separator } from "@/components/ui/separator";
 import MultipleSelector from "@/components/ui/multiselect";
 
@@ -24,41 +16,30 @@ export const description =
   "A custom horizontal stacked bar chart showing the percentage distribution of shared ads across stations";
 
 const SharedAdBar = ({ data }) => {
-  const [selectedWeeks, setSelectedWeeks] = useState([
-    { value: data.weeks[0] || "", label: data.weeks[0] || "" },
-  ]);
   const [selectedAds, setSelectedAds] = useState(() => {
     // Calculate top 5 ads by total adCount
     const adTotals = {};
     data.data.forEach((item) => {
       const totalCount = item.stations.reduce((sum, s) => sum + s.adCount, 0);
-      adTotals[item.adName] = (adTotals[item.adName] || 0) + totalCount;
+      adTotals[item.adName] = totalCount;
     });
     return Object.entries(adTotals)
       .sort(([, a], [, b]) => b - a)
       .slice(0, 5)
       .map(([adName]) => ({ value: adName, label: adName }));
   });
-  const [showAirtime, setShowAirtime] = useState(false);
   const [activeStation, setActiveStation] = useState(null);
   const [tooltip, setTooltip] = useState(null);
   const chartContainerRef = useRef(null);
 
-  // Derive unique stations and options
+  // Derive unique stations and ad options
   const allStations = data.stations || [];
-  const weekOptions = data.weeks.map((week) => ({
-    value: week,
-    label: week,
-  }));
-  const adOptions = Array.from(new Set(data.data.map((item) => item.adName))).map((ad) => ({
+  const adOptions = Array.from(
+    new Set(data.data.map((item) => item.adName))
+  ).map((ad) => ({
     value: ad,
     label: ad,
   }));
-
-  // Handle week selection
-  const handleWeekChange = (weeks) => {
-    setSelectedWeeks(weeks.length > 0 ? weeks : [{ value: data.weeks[0], label: data.weeks[0] }]);
-  };
 
   // Handle ad selection
   const handleAdChange = (ads) => {
@@ -73,18 +54,16 @@ const SharedAdBar = ({ data }) => {
       _totalValue: 0,
     };
 
-    // Aggregate data across selected weeks
+    // Get data for the ad
+    const itemData = data.data.find((item) => item.adName === ad.value);
+    if (!itemData) return adData;
+
+    // Aggregate data (only one week, but structure allows)
     const rawValues = {};
     let totalValue = 0;
     allStations.forEach((station) => {
-      let stationValue = 0;
-      selectedWeeks.forEach((week) => {
-        const weekData = data.data.find(
-          (item) => item.week === week.value && item.adName === ad.value
-        );
-        const stationEntry = weekData?.stations.find((s) => s.station === station);
-        stationValue += showAirtime ? stationEntry?.airtime || 0 : stationEntry?.adCount || 0;
-      });
+      const stationEntry = itemData.stations.find((s) => s.station === station);
+      const stationValue = stationEntry?.adCount || 0;
       rawValues[station] = stationValue;
       totalValue += stationValue;
     });
@@ -100,7 +79,15 @@ const SharedAdBar = ({ data }) => {
   });
 
   // Handle mouse events for tooltip
-  const handleMouseEnter = (e, adName, station, value, percentage, total, color) => {
+  const handleMouseEnter = (
+    e,
+    adName,
+    station,
+    value,
+    percentage,
+    total,
+    color
+  ) => {
     const rect = chartContainerRef.current?.getBoundingClientRect();
     if (rect) {
       setTooltip({
@@ -145,21 +132,10 @@ const SharedAdBar = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Shared Ad Distribution</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad counts"} for{" "}
-            {selectedWeeks.map((w) => w.label).join(", ")}
+            Ad count distribution across stations
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
-          <MultipleSelector
-            value={selectedWeeks}
-            onChange={handleWeekChange}
-            defaultOptions={weekOptions}
-            placeholder="Select weeks"
-            hideClearAllButton
-            hidePlaceholderWhenSelected
-            emptyIndicator={<p className="text-center text-sm">No weeks found</p>}
-            className="max-w-64 w-full"
-          />
           <MultipleSelector
             value={selectedAds}
             onChange={handleAdChange}
@@ -170,13 +146,6 @@ const SharedAdBar = ({ data }) => {
             emptyIndicator={<p className="text-center text-sm">No ads found</p>}
             className="max-w-64 w-full"
           />
-          {/* <Toggle
-            pressed={showAirtime}
-            onPressedChange={setShowAirtime}
-            className="w-full"
-          >
-            {showAirtime ? "Show Ad Counts" : "Show Airtime (s)"}
-          </Toggle> */}
         </div>
       </CardHeader>
       <Separator />
@@ -187,7 +156,10 @@ const SharedAdBar = ({ data }) => {
           style={{ height: `${chartHeight + 20}px` }}
         >
           {/* Y-Axis Labels */}
-          <div className="absolute left-0 top-0" style={{ width: `${yAxisWidth}px` }}>
+          <div
+            className="absolute left-0 top-0"
+            style={{ width: `${yAxisWidth}px` }}
+          >
             {selectedAds.map((ad, index) => (
               <div
                 key={ad.value}
@@ -208,7 +180,10 @@ const SharedAdBar = ({ data }) => {
           {/* Bars */}
           <div
             className="relative"
-            style={{ marginLeft: `${yAxisWidth}px`, height: `${chartHeight}px` }}
+            style={{
+              marginLeft: `${yAxisWidth}px`,
+              height: `${chartHeight}px`,
+            }}
           >
             {chartData.map((adData, index) => {
               let currentWidth = 0;
@@ -236,7 +211,8 @@ const SharedAdBar = ({ data }) => {
                     const rawValue = adData._rawValues[station] || 0;
                     if (rawValue === 0) return null;
                     const segmentWidth = `${percentage}%`;
-                    const isActive = !activeStation || activeStation === station;
+                    const isActive =
+                      !activeStation || activeStation === station;
                     const segment = (
                       <div
                         key={station}
@@ -274,7 +250,7 @@ const SharedAdBar = ({ data }) => {
                             textShadow: "0 0 2px rgba(0,0,0,0.5)",
                           }}
                         >
-                          {rawValue} {showAirtime ? "sec" : "spot"}
+                          {rawValue} spot
                         </span>
                       </div>
                     );
@@ -296,7 +272,7 @@ const SharedAdBar = ({ data }) => {
                       whiteSpace: "nowrap",
                     }}
                   >
-                    {totalValue} {showAirtime ? "sec" : "spot"}
+                    {totalValue} spot
                   </span>
                 </div>
               );
@@ -319,13 +295,13 @@ const SharedAdBar = ({ data }) => {
                   className="w-3 h-3 rounded-full"
                   style={{ backgroundColor: tooltip.color }}
                 />
-                <span className="text-sm text-muted-foreground">{tooltip.station}</span>
+                <span className="text-sm text-muted-foreground">
+                  {tooltip.station}
+                </span>
               </div>
-              <p className="text-sm font-medium mt-1">
-                {tooltip.value} {showAirtime ? "sec" : "spot"}
-              </p>
+              <p className="text-sm font-medium mt-1">{tooltip.value} spot</p>
               <p className="text-xs text-muted-foreground">
-                {Math.round(tooltip.percentage)}% of {tooltip.total} {showAirtime ? "sec" : "spot"}
+                {Math.round(tooltip.percentage)}% of {tooltip.total} spot
               </p>
             </div>
           )}
@@ -333,20 +309,22 @@ const SharedAdBar = ({ data }) => {
       </CardContent>
       <Separator />
       <CardFooter className="p-4">
-          <div className="flex flex-wrap gap-2 mt-2">
-            {allStations.map((station, index) => (
-              <button
-                key={station}
-                onClick={() => handleStationClick(station)}
-                className={`px-2 py-1 rounded-full text-xs font-medium text-white transition-opacity ${
-                  activeStation && activeStation !== station ? "opacity-50" : "opacity-100"
-                }`}
-                style={{ backgroundColor: stationColors[station] }}
-              >
-                {station}
-              </button>
-            ))}
-          </div>
+        <div className="flex flex-wrap gap-2 mt-2">
+          {allStations.map((station, index) => (
+            <button
+              key={station}
+              onClick={() => handleStationClick(station)}
+              className={`px-2 py-1 rounded-full text-xs font-medium text-white transition-opacity ${
+                activeStation && activeStation !== station
+                  ? "opacity-50"
+                  : "opacity-100"
+              }`}
+              style={{ backgroundColor: stationColors[station] }}
+            >
+              {station}
+            </button>
+          ))}
+        </div>
       </CardFooter>
     </Card>
   );

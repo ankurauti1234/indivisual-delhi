@@ -10,13 +10,6 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import MultipleSelector from "@/components/ui/multiselect";
 import {
   Table,
@@ -35,7 +28,7 @@ import { Button } from "@/components/ui/button";
 import { Check, ChevronsUpDown } from "lucide-react";
 
 export const description =
-  "A table comparing top advertisers by sector and station with week, sector, and advertiser filters";
+  "A table comparing top advertisers by sector and station with sector and advertiser filters";
 
 // Custom Toggle Component
 const CustomToggle = ({ pressed, onPressedChange, children, className }) => {
@@ -135,7 +128,6 @@ const CustomPaginationNext = ({ onClick, disabled }) => (
 const CustomPaginationEllipsis = () => <span className="px-3 py-1">...</span>;
 
 const TopAdComparisonTable = ({ data }) => {
-  const [selectedWeek, setSelectedWeek] = useState(data.weeks[0]?.week || "");
   const [selectedSectors, setSelectedSectors] = useState([]);
   const [selectedAdvertiser, setSelectedAdvertiser] = useState("");
   const [showAirtime, setShowAirtime] = useState(false);
@@ -145,19 +137,13 @@ const TopAdComparisonTable = ({ data }) => {
   const itemsPerPage = 10;
 
   // Derive options
-  const weekOptions = data.weeks.map((week) => ({
-    value: week.week,
-    label: week.week,
-  }));
   const sectorOptions = data.sectors.map((sector) => ({
     value: sector.name,
     label: sector.name,
   }));
   const advertiserOptions = useMemo(() => {
     const advertisers = new Set();
-    data.weeks.forEach((week) => {
-      week.data.forEach((ad) => advertisers.add(ad.advertiser));
-    });
+    data.data.forEach((ad) => advertisers.add(ad.advertiser));
     return Array.from(advertisers).map((advertiser) => ({
       value: advertiser,
       label: advertiser,
@@ -166,9 +152,7 @@ const TopAdComparisonTable = ({ data }) => {
 
   // Filter and sort data
   const filteredData = useMemo(() => {
-    const weekData =
-      data.weeks.find((w) => w.week === selectedWeek)?.data || [];
-    return weekData
+    return data.data
       .filter((ad) => {
         const matchesSector =
           selectedSectors.length === 0 ||
@@ -185,7 +169,7 @@ const TopAdComparisonTable = ({ data }) => {
         ),
       }))
       .sort((a, b) => b.totalValue - a.totalValue); // Sort by totalValue in descending order
-  }, [data, selectedWeek, selectedSectors, selectedAdvertiser, showAirtime]);
+  }, [data, selectedSectors, selectedAdvertiser, showAirtime]);
 
   // Filtered advertiser options for search
   const filteredAdvertiserOptions = useMemo(() => {
@@ -248,23 +232,10 @@ const TopAdComparisonTable = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Top Advertisers Comparison</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
-            {selectedWeek}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
-          <Select value={selectedWeek} onValueChange={setSelectedWeek}>
-            <SelectTrigger className="w-[180px]">
-              <SelectValue placeholder="Select week" />
-            </SelectTrigger>
-            <SelectContent>
-              {weekOptions.map((week) => (
-                <SelectItem key={week.value} value={week.value}>
-                  {week.label}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
           <MultipleSelector
             value={selectedSectors}
             onChange={setSelectedSectors}

@@ -1,6 +1,13 @@
-'use client'
+"use client";
 import React, { useState } from "react";
-import { CartesianGrid, Line, LineChart, XAxis, YAxis, LabelList } from "recharts"; // Add LabelList to imports
+import {
+  CartesianGrid,
+  Line,
+  LineChart,
+  XAxis,
+  YAxis,
+  LabelList,
+} from "recharts";
 import {
   Card,
   CardContent,
@@ -9,77 +16,59 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import {
-  ChartContainer,
-  ChartTooltip,
-} from "@/components/ui/chart";
+import { ChartContainer, ChartTooltip } from "@/components/ui/chart";
 import { Toggle } from "@/components/ui/toggle";
 import MultipleSelector from "@/components/ui/multiselect";
 import { Separator } from "@/components/ui/separator";
 
-export const description =
-  "A line chart showing daily ad trends by station with multi-week and station selection";
-
 const AdDailyTrendsLine = ({ data }) => {
-  const [selectedWeeks, setSelectedWeeks] = useState([
-    { value: data.weeks[0]?.week || "", label: data.weeks[0]?.week || "" },
-  ]);
   const [selectedStations, setSelectedStations] = useState([
     { value: "all", label: "All Stations" },
   ]);
   const [showAirtime, setShowAirtime] = useState(false);
 
-  // Derive unique stations and dates
+  // Unique stations
   const allStations = data.stations.map((s) => s.name) || [];
-  const weekOptions = data.weeks.map((week) => ({
-    value: week.week,
-    label: week.week,
-  }));
   const stationOptions = [
     { value: "all", label: "All Stations" },
     ...allStations.map((station) => ({ value: station, label: station })),
   ];
 
-  // Handle week selection
-  const handleWeekChange = (weeks) => {
-    setSelectedWeeks(weeks.length > 0 ? weeks : [{ value: data.weeks[0].week, label: data.weeks[0].week }]);
-  };
-
   // Handle station selection
   const handleStationChange = (stations) => {
-    setSelectedStations(stations.length > 0 ? stations : [{ value: "all", label: "All Stations" }]);
+    setSelectedStations(
+      stations.length > 0 ? stations : [{ value: "all", label: "All Stations" }]
+    );
   };
 
-  // Prepare chart data
+  // Stations to show
   const stations = selectedStations.some((s) => s.value === "all")
     ? allStations
     : selectedStations.map((s) => s.value);
-  const chartData = selectedWeeks
-    .flatMap((week) => {
-      const weekData = data.weeks.find((w) => w.week === week.value);
-      return weekData?.data || [];
-    })
-    .reduce((acc, dateData) => {
-      if (!acc[dateData.date]) {
-        acc[dateData.date] = { date: dateData.date, day: dateData.day };
-        stations.forEach((station) => {
-          acc[dateData.date][station] = 0;
-        });
-      }
-      dateData.stations.forEach((stationData) => {
-        if (stations.includes(stationData.station)) {
-          acc[dateData.date][stationData.station] = showAirtime
-            ? stationData.airtime
-            : stationData.adCount;
-        }
+
+  // Transform chart data
+  const chartData = data.data.reduce((acc, dateData) => {
+    if (!acc[dateData.date]) {
+      acc[dateData.date] = { date: dateData.date, day: dateData.day };
+      stations.forEach((station) => {
+        acc[dateData.date][station] = 0;
       });
-      return acc;
-    }, {});
+    }
+    dateData.stations.forEach((stationData) => {
+      if (stations.includes(stationData.station)) {
+        acc[dateData.date][stationData.station] = showAirtime
+          ? stationData.airtime
+          : stationData.adCount;
+      }
+    });
+    return acc;
+  }, {});
+
   const formattedChartData = Object.values(chartData).sort((a, b) =>
     a.date.localeCompare(b.date)
   );
 
-  // Chart configuration
+  // Chart config
   const chartConfig = data.stations.reduce((config, station) => {
     config[station.name] = {
       label: station.name,
@@ -94,23 +83,10 @@ const AdDailyTrendsLine = ({ data }) => {
         <div className="flex flex-col">
           <CardTitle>Daily Ad Trends by Station</CardTitle>
           <CardDescription>
-            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"} for{" "}
-            {selectedWeeks.map((w) => w.label).join(", ")}
+            {showAirtime ? "Ad airtime (seconds)" : "Ad spots"}
           </CardDescription>
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
-          <MultipleSelector
-            value={selectedWeeks}
-            onChange={handleWeekChange}
-            defaultOptions={weekOptions}
-            placeholder="Select weeks"
-            hideClearAllButton
-            hidePlaceholderWhenSelected
-            emptyIndicator={
-              <p className="text-center text-sm">No weeks found</p>
-            }
-            className="max-w-64 w-full"
-          />
           <MultipleSelector
             value={selectedStations}
             onChange={handleStationChange}
@@ -138,12 +114,7 @@ const AdDailyTrendsLine = ({ data }) => {
           <LineChart
             accessibilityLayer
             data={formattedChartData}
-            margin={{
-              top: 20,
-              left: 12,
-              right: 12,
-              bottom: 20,
-            }}
+            margin={{ top: 20, left: 12, right: 12, bottom: 20 }}
           >
             <CartesianGrid vertical={false} />
             <XAxis
@@ -151,19 +122,12 @@ const AdDailyTrendsLine = ({ data }) => {
               tickLine={false}
               axisLine={false}
               tickMargin={12}
-              tickFormatter={(value) => {
-                const entry = formattedChartData.find((d) => d.date === value);
-                const day = entry?.day?.slice(0, 3) || "";
-                const date = value.slice(5); // "MM-DD"
-                return `${date}\n${day}`; // This will be split manually below
-              }}
               tick={({ x, y, payload }) => {
                 const entry = formattedChartData.find(
                   (d) => d.date === payload.value
                 );
                 const day = entry?.day?.slice(0, 3) || "";
                 const date = payload.value.slice(5); // MM-DD
-
                 return (
                   <g transform={`translate(${x},${y + 10})`}>
                     <text textAnchor="middle" fill="#666" fontSize="12">
@@ -178,7 +142,6 @@ const AdDailyTrendsLine = ({ data }) => {
                 );
               }}
             />
-
             <YAxis
               tickLine={false}
               axisLine={false}
@@ -197,12 +160,8 @@ const AdDailyTrendsLine = ({ data }) => {
                 type="monotone"
                 stroke={chartConfig[station]?.color || "#8884d8"}
                 strokeWidth={2}
-                dot={{
-                  fill: chartConfig[station]?.color || "#8884d8",
-                }}
-                activeDot={{
-                  r: 6,
-                }}
+                dot={{ fill: chartConfig[station]?.color || "#8884d8" }}
+                activeDot={{ r: 6 }}
               >
                 <LabelList
                   dataKey={station}
@@ -211,7 +170,7 @@ const AdDailyTrendsLine = ({ data }) => {
                     fontSize: "12px",
                     fill: chartConfig[station]?.color || "#8884d8",
                   }}
-                  formatter={(value) => (value !== 0 ? value : "")} // Only show non-zero values
+                  formatter={(value) => (value !== 0 ? value : "")}
                 />
               </Line>
             ))}

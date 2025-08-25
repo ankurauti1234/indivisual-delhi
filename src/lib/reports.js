@@ -311,9 +311,9 @@ export const radio_broad_reports = [
   // },
 
   {
-    id: 5,
+    id: 2,
     image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Delhi",
+    title: "Weekly Analysis",
     description:
       "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
@@ -322,194 +322,194 @@ export const radio_broad_reports = [
     slug: "weekly-analysis",
   },
 
-  {
-    id: 6,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Patna",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-patna",
-  },
-
   // {
-  //   id: 7,
+  //   id: 6,
   //   image: "/images/daily-analysis.png",
-  //   title: "Weekly Analysis Delhi-V2",
+  //   title: "Weekly Analysis Patna",
   //   description:
   //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
   //   lastUpdated: "May 2, 2024",
   //   page: "radio",
   //   subpage: "broadcasters",
-  //   slug: "weekly-analysis-fever",
+  //   slug: "weekly-analysis-patna",
   // },
-  {
-    id: 7,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Agra",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-agra",
-  },
-  {
-    id: 8,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Madurai",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-madurai",
-  },
-  {
-    id: 9,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Ajmer",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-ajmer",
-  },
-  {
-    id: 10,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Varanasi",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-varanasi",
-  },
-  {
-    id: 11,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Gorakhpur",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-gorakhpur",
-  },
-  {
-    id: 12,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Bikaner",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-bikaner",
-  },
-  {
-    id: 13,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Bareilly",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-bareilly",
-  },
-  {
-    id: 14,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Jalandhar",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-jalandhar",
-  },
-  {
-    id: 15,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Jamshedpur",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-jamshedpur",
-  },
-  {
-    id: 16,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Ranchi",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-ranchi",
-  },
-  {
-    id: 17,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Hisar",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-hisar",
-  },
-  {
-    id: 17,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Kota",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-kota",
-  },
-  {
-    id: 18,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Karnal",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-karnal",
-  },
-  {
-    id: 19,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Patiala",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-patiala",
-  },
-  {
-    id: 20,
-    image: "/images/daily-analysis.png",
-    title: "Weekly Analysis Udaipur",
-    description:
-      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "weekly-analysis-udaipur",
-  },
+
+  // // {
+  // //   id: 7,
+  // //   image: "/images/daily-analysis.png",
+  // //   title: "Weekly Analysis Delhi-V2",
+  // //   description:
+  // //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  // //   lastUpdated: "May 2, 2024",
+  // //   page: "radio",
+  // //   subpage: "broadcasters",
+  // //   slug: "weekly-analysis-fever",
+  // // },
+  // {
+  //   id: 7,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Agra",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-agra",
+  // },
+  // {
+  //   id: 8,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Madurai",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-madurai",
+  // },
+  // {
+  //   id: 9,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Ajmer",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-ajmer",
+  // },
+  // {
+  //   id: 10,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Varanasi",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-varanasi",
+  // },
+  // {
+  //   id: 11,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Gorakhpur",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-gorakhpur",
+  // },
+  // {
+  //   id: 12,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Bikaner",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-bikaner",
+  // },
+  // {
+  //   id: 13,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Bareilly",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-bareilly",
+  // },
+  // {
+  //   id: 14,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Jalandhar",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-jalandhar",
+  // },
+  // {
+  //   id: 15,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Jamshedpur",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-jamshedpur",
+  // },
+  // {
+  //   id: 16,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Ranchi",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-ranchi",
+  // },
+  // {
+  //   id: 17,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Hisar",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-hisar",
+  // },
+  // {
+  //   id: 17,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Kota",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-kota",
+  // },
+  // {
+  //   id: 18,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Karnal",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-karnal",
+  // },
+  // {
+  //   id: 19,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Patiala",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-patiala",
+  // },
+  // {
+  //   id: 20,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Weekly Analysis Udaipur",
+  //   description:
+  //     "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "broadcasters",
+  //   slug: "weekly-analysis-udaipur",
+  // },
 ];
 
 export const radio_ads_reports = [
