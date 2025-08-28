@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo, useEffect } from "react";
 import { Treemap, ResponsiveContainer, Tooltip } from "recharts";
 import {
   Card,
@@ -33,13 +33,20 @@ const COLORS = [
 ];
 
 const MarketShareTreemap = ({ data, secondsData }) => {
-  const [selectedStation, setSelectedStation] = useState(
-    data.stations[0]?.station || ""
-  );
+  const [selectedStation, setSelectedStation] = useState("");
   const [selectedSector, setSelectedSector] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [hoveredItem, setHoveredItem] = useState(null);
-  const [usespots, setUsespots] = useState(true); // Toggle state: true for spots, false for seconds
+  const [usespots, setUsespots] = useState(true);
+
+  // ✅ Reset station whenever data changes
+  useEffect(() => {
+    if (data?.stations?.length > 0) {
+      setSelectedStation(data.stations[0].station);
+      setSelectedSector(null);
+      setSelectedCategory(null);
+    }
+  }, [data]);
 
   // Reset drill-down when station changes
   const handleStationChange = (value) => {
@@ -95,7 +102,6 @@ const MarketShareTreemap = ({ data, secondsData }) => {
       items = category?.brands || [];
     }
 
-    // Calculate total marketShare for normalization (used for treemap proportions)
     const totalMarketShare = items.reduce(
       (sum, item) => sum + item.marketShare,
       0
@@ -104,8 +110,8 @@ const MarketShareTreemap = ({ data, secondsData }) => {
     return items.map((item, index) => ({
       name: item.name,
       size:
-        totalMarketShare > 0 ? (item.marketShare / totalMarketShare) * 100 : 0, // Normalize for treemap size
-      rawValue: item.marketShare, // Store raw value for display
+        totalMarketShare > 0 ? (item.marketShare / totalMarketShare) * 100 : 0,
+      rawValue: item.marketShare,
       color: COLORS[index % COLORS.length],
     }));
   }, [
@@ -152,20 +158,19 @@ const MarketShareTreemap = ({ data, secondsData }) => {
     width,
     height,
     name,
-    size,
     rawValue,
     color,
   }) => {
-    const isHovered = hoveredItem === name;
     const display = width > 50 && height > 50;
-    const currentLevel = getCurrentLevel();
 
     return (
       <g
         onMouseEnter={() => setHoveredItem(name)}
         onMouseLeave={() => setHoveredItem(null)}
-        onClick={() => currentLevel !== "brands" && handleClick(name)}
-        style={{ cursor: currentLevel !== "brands" ? "pointer" : "default" }}
+        onClick={() => getCurrentLevel() !== "brands" && handleClick(name)}
+        style={{
+          cursor: getCurrentLevel() !== "brands" ? "pointer" : "default",
+        }}
       >
         <rect
           x={x}
@@ -173,9 +178,6 @@ const MarketShareTreemap = ({ data, secondsData }) => {
           width={width}
           height={height}
           fill={color}
-          style={{
-            transition: "all 0.3s ease",
-          }}
           rx={8}
           ry={8}
           stroke="white"
@@ -191,7 +193,6 @@ const MarketShareTreemap = ({ data, secondsData }) => {
               fontSize: width > 100 ? "16px" : "12px",
               fontWeight: "500",
               textShadow: "0 1px 2px rgba(0,0,0,0.2)",
-              transition: "all 0.3s ease",
             }}
           >
             <tspan x={x + width / 2} dy="-0.5em">
@@ -216,23 +217,21 @@ const MarketShareTreemap = ({ data, secondsData }) => {
   // Custom tooltip
   const CustomTooltip = ({ active, payload }) => {
     if (active && payload && payload.length) {
-      const data = payload[0].payload;
+      const d = payload[0].payload;
       return (
         <div className="backdrop-blur-xl bg-white/90 p-4 rounded-2xl shadow-lg border border-gray-200">
           <div className="flex items-center gap-2 mb-2">
             <div
               className="w-3 h-3 rounded-full"
-              style={{ backgroundColor: data.color }}
+              style={{ backgroundColor: d.color }}
             />
-            <h3 className="font-semibold text-lg">{data.name}</h3>
+            <h3 className="font-semibold text-lg">{d.name}</h3>
           </div>
-          <div className="space-y-2">
-            <p className="text-sm text-gray-600">
-              {usespots
-                ? `Spots: ${Math.round(data.rawValue)}`
-                : `Seconds: ${Math.round(data.rawValue)}`}
-            </p>
-          </div>
+          <p className="text-sm text-gray-600">
+            {usespots
+              ? `Spots: ${Math.round(d.rawValue)}`
+              : `Seconds: ${Math.round(d.rawValue)}`}
+          </p>
         </div>
       );
     }
@@ -296,7 +295,6 @@ const MarketShareTreemap = ({ data, secondsData }) => {
               nameKey="name"
               aspectRatio={16 / 9}
               content={<CustomizedContent />}
-              animationEasing="ease-out"
             >
               <Tooltip
                 content={<CustomTooltip />}
