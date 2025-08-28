@@ -1,0 +1,5335 @@
+{
+  "stations": ["AAPLA FM", "MY FM", "ORANGE FM", "RADIO CITY"],
+  "sectors": [
+    {
+      "name": "LIFESTYLE"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "FMCG"
+    },
+    {
+      "name": "FINANCE"
+    },
+    {
+      "name": "INDUSTRIAL"
+    },
+    {
+      "name": "CONSUMER DURABLE"
+    },
+    {
+      "name": "DOTCOM"
+    },
+    {
+      "name": "GOVERNMENT"
+    },
+    {
+      "name": "AUTOMOBILE"
+    },
+    {
+      "name": "HOME FURNISHING"
+    },
+    {
+      "name": "HEALTH&FITNESS"
+    },
+    {
+      "name": "TRAVEL&TOURISM"
+    },
+    {
+      "name": "HOSPITALITY"
+    },
+    {
+      "name": "RENEWABLE ENERGY"
+    },
+    {
+      "name": "AGRICULTURE"
+    },
+    {
+      "name": "EVENTS&EXHIBITION"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY"
+    },
+    {
+      "name": "RETAIL"
+    }
+  ],
+  "data": [
+    {
+      "brand": "(CSIBER) CHHATRAPATI SHAHU INSTITUTE OF BUSINESS EDUCATION AND RESEARCH",
+      "sector": "EDUCATION",
+      "percentage": 0.73,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 118,
+          "airtime": 1770
+        }
+      ]
+    },
+    {
+      "brand": "(SPONSOR) DANDEKAR AND COMPANY",
+      "sector": "FMCG",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "(SPONSOR)CHITALE DAIRY",
+      "sector": "FMCG",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "505 CAMPHOR",
+      "sector": "FMCG",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 28,
+          "airtime": 420
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AANAND LAHARI",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 3,
+          "airtime": 45
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AAPLA FM",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 15,
+          "airtime": 225
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AAROHI",
+      "sector": "FMCG",
+      "percentage": 0.22,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 35,
+          "airtime": 525
+        }
+      ]
+    },
+    {
+      "brand": "AAVISHKAR INFRA",
+      "sector": "REAL ESTATE",
+      "percentage": 0.6,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 97,
+          "airtime": 1455
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ADARSH INSTITUTE OF TECHNOLOGY&RESEARCH CENTRE",
+      "sector": "EDUCATION",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 44,
+          "airtime": 660
+        }
+      ]
+    },
+    {
+      "brand": "ADHARSH KRUSHI TANTRA VIDYALAY",
+      "sector": "EDUCATION",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 27,
+          "airtime": 405
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AISSMS COLLEGE",
+      "sector": "EDUCATION",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AJIO",
+      "sector": "DOTCOM",
+      "percentage": 1.33,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 215,
+          "airtime": 3225
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ALARD UNIVERSITY",
+      "sector": "EDUCATION",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 61,
+          "airtime": 915
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ALLOPATHIC",
+      "sector": "HEALTHCARE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 7,
+          "airtime": 105
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AMBITIOUS CAREER ACADEMY",
+      "sector": "EDUCATION",
+      "percentage": 0.22,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 35,
+          "airtime": 525
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AMITY UNIVERSITY",
+      "sector": "EDUCATION",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 40,
+          "airtime": 600
+        }
+      ]
+    },
+    {
+      "brand": "ANNASAHEB DANGE COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "sector": "EDUCATION",
+      "percentage": 0.88,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 128,
+          "airtime": 1920
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 14,
+          "airtime": 210
+        }
+      ]
+    },
+    {
+      "brand": "ANUJ JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ANUJJ JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 70,
+          "airtime": 1050
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "APPASAHEB ALIAS SA.RE.PATIL INSTITUTE OF TECHNOLOGY",
+      "sector": "EDUCATION",
+      "percentage": 1.2,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 194,
+          "airtime": 2910
+        }
+      ]
+    },
+    {
+      "brand": "AUDIO CITY APP",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "AXON PAIN CENTRE INDIA",
+      "sector": "HEALTHCARE",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 13,
+          "airtime": 195
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "BALAJI JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.26,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 42,
+          "airtime": 630
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "BARVA SKIN",
+      "sector": "FMCG",
+      "percentage": 0.75,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 122,
+          "airtime": 1830
+        }
+      ]
+    },
+    {
+      "brand": "BARVA SKIN THERAPIE",
+      "sector": "FMCG",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "BHARATI VIDYAPEETH",
+      "sector": "EDUCATION",
+      "percentage": 0.72,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 57,
+          "airtime": 855
+        },
+        {
+          "station": "MY FM",
+          "adCount": 60,
+          "airtime": 900
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "BHARTIYA MANAK BUREAU",
+      "sector": "GOVERNMENT",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 3,
+          "airtime": 45
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "BULDANA URBAN COOPERATIVE CREDIT SOCIETY",
+      "sector": "FINANCE",
+      "percentage": 1.25,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 202,
+          "airtime": 3030
+        }
+      ]
+    },
+    {
+      "brand": "CANARA",
+      "sector": "FINANCE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 6,
+          "airtime": 90
+        }
+      ]
+    },
+    {
+      "brand": "CANARA BANK",
+      "sector": "FINANCE",
+      "percentage": 1.22,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 18,
+          "airtime": 270
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 180,
+          "airtime": 2700
+        }
+      ]
+    },
+    {
+      "brand": "CHAATE COACHING",
+      "sector": "EDUCATION",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 32,
+          "airtime": 480
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CHANDU KAKA SARAF JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 44,
+          "airtime": 660
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CHANDUKAKA SARAF",
+      "sector": "LIFESTYLE",
+      "percentage": 0.37,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 60,
+          "airtime": 900
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CHHATRAPATI SHAHU COLLEGE OF ENGINEERING",
+      "sector": "EDUCATION",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CHITALE",
+      "sector": "FMCG",
+      "percentage": 1.59,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 24,
+          "airtime": 360
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 233,
+          "airtime": 3495
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CHITALE DAHI",
+      "sector": "FMCG",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 49,
+          "airtime": 735
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CHITALE MILK",
+      "sector": "FMCG",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 4,
+          "airtime": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CRAZY",
+      "sector": "FMCG",
+      "percentage": 1.64,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 99,
+          "airtime": 1485
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 167,
+          "airtime": 2505
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CRICKET MAHA CONTEST",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.66,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 107,
+          "airtime": 1605
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CSIBER KOLHAPUR",
+      "sector": "EDUCATION",
+      "percentage": 0.39,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 21,
+          "airtime": 315
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 42,
+          "airtime": 630
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "CYBER KOLHAPUR",
+      "sector": "EDUCATION",
+      "percentage": 0.64,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 104,
+          "airtime": 1560
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "D.Y. PATIL AGRICULTURE AND TECHNICAL UNIVERSITY",
+      "sector": "EDUCATION",
+      "percentage": 0.36,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 58,
+          "airtime": 870
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DANDEKAR AND COMPANY",
+      "sector": "FMCG",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 67,
+          "airtime": 1005
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DHNYAN ACADEMY",
+      "sector": "EDUCATION",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 4,
+          "airtime": 60
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DKTE SOCIETY'S TEXTILE&ENGINEERING INSTITUTE",
+      "sector": "EDUCATION",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 33,
+          "airtime": 495
+        }
+      ]
+    },
+    {
+      "brand": "DR BAPUJI SALUNKHE COLLEGE",
+      "sector": "EDUCATION",
+      "percentage": 0.22,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 35,
+          "airtime": 525
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DR JYOTI VIKAR ROKADE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DR ORTHO",
+      "sector": "HEALTHCARE",
+      "percentage": 0.98,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 64,
+          "airtime": 960
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 95,
+          "airtime": 1425
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DR. ALKA KHADE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1,
+          "airtime": 15
+        }
+      ]
+    },
+    {
+      "brand": "DR. CHANDRAKANT KAR",
+      "sector": "HEALTHCARE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 6,
+          "airtime": 90
+        }
+      ]
+    },
+    {
+      "brand": "DR. J. J. MAGDUM COLLEGE OF ENGINEERING",
+      "sector": "EDUCATION",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 32,
+          "airtime": 480
+        }
+      ]
+    },
+    {
+      "brand": "DR. ORTHO",
+      "sector": "HEALTHCARE",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 4,
+          "airtime": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DR. PRABHAKAR KORE HOSPITAL&MRC",
+      "sector": "HEALTHCARE",
+      "percentage": 0.07,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 11,
+          "airtime": 165
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DURASHINE",
+      "sector": "INDUSTRIAL",
+      "percentage": 0.9,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 145,
+          "airtime": 2175
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "DY PATIL HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 5,
+          "airtime": 75
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ECE INDIA",
+      "sector": "RENEWABLE ENERGY",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 13,
+          "airtime": 195
+        }
+      ]
+    },
+    {
+      "brand": "ECE SOLAR",
+      "sector": "RENEWABLE ENERGY",
+      "percentage": 0.39,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 63,
+          "airtime": 945
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ELDERFIT",
+      "sector": "FMCG",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 4,
+          "airtime": 60
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "EVARA ESTATES",
+      "sector": "REAL ESTATE",
+      "percentage": 1.09,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 177,
+          "airtime": 2655
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "FEMISS",
+      "sector": "FMCG",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GARNIER",
+      "sector": "FMCG",
+      "percentage": 0.19,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 31,
+          "airtime": 465
+        }
+      ]
+    },
+    {
+      "brand": "GAURAV ORTHOPEDIC HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 3,
+          "airtime": 45
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GENERICART",
+      "sector": "HEALTHCARE",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 61,
+          "airtime": 915
+        }
+      ]
+    },
+    {
+      "brand": "GHARKUL",
+      "sector": "FMCG",
+      "percentage": 1.64,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 107,
+          "airtime": 1605
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 158,
+          "airtime": 2370
+        }
+      ]
+    },
+    {
+      "brand": "GK TMT",
+      "sector": "INDUSTRIAL",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GNJ SARAF JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 7,
+          "airtime": 105
+        }
+      ]
+    },
+    {
+      "brand": "GODAVARI CBSE JUNIOR COLLEGE",
+      "sector": "EDUCATION",
+      "percentage": 0.75,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 122,
+          "airtime": 1830
+        }
+      ]
+    },
+    {
+      "brand": "GOKUL",
+      "sector": "FMCG",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 5,
+          "airtime": 75
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GOKUL MILK",
+      "sector": "FMCG",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 50,
+          "airtime": 750
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GOVERNMENT OF INDIA",
+      "sector": "GOVERNMENT",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 7,
+          "airtime": 105
+        },
+        {
+          "station": "MY FM",
+          "adCount": 22,
+          "airtime": 330
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GOVERNMENT OF MAHARASHTRA",
+      "sector": "GOVERNMENT",
+      "percentage": 1.1,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 7,
+          "airtime": 105
+        },
+        {
+          "station": "MY FM",
+          "adCount": 7,
+          "airtime": 105
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 13,
+          "airtime": 195
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 151,
+          "airtime": 2265
+        }
+      ]
+    },
+    {
+      "brand": "GOVIND NARAYAN JOG JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.14,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 23,
+          "airtime": 345
+        }
+      ]
+    },
+    {
+      "brand": "GOVIND NARAYAN JOG SARAF",
+      "sector": "LIFESTYLE",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 52,
+          "airtime": 780
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GOVT OF MAHARASHTRA",
+      "sector": "GOVERNMENT",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GS TEA",
+      "sector": "FMCG",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 40,
+          "airtime": 600
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GURUJI",
+      "sector": "FMCG",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 9,
+          "airtime": 135
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "GYAN ACADEMY",
+      "sector": "EDUCATION",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 3,
+          "airtime": 45
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "HARIPRIYA VASTRA NIKETAN",
+      "sector": "LIFESTYLE",
+      "percentage": 2.16,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 350,
+          "airtime": 5250
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "HARIPRIYA VASTRNIKETAN",
+      "sector": "LIFESTYLE",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 69,
+          "airtime": 1035
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "HAVEN HOLIDAYS",
+      "sector": "TRAVEL&TOURISM",
+      "percentage": 0.69,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 112,
+          "airtime": 1680
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "HORIZON HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.88,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 35,
+          "airtime": 525
+        },
+        {
+          "station": "MY FM",
+          "adCount": 28,
+          "airtime": 420
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 79,
+          "airtime": 1185
+        }
+      ]
+    },
+    {
+      "brand": "HOTEL GREAT MARATHA",
+      "sector": "EVENTS&EXHIBITION",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 52,
+          "airtime": 780
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "HYUNDAI",
+      "sector": "AUTOMOBILE",
+      "percentage": 0.94,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 152,
+          "airtime": 2280
+        }
+      ]
+    },
+    {
+      "brand": "I BODY STORE",
+      "sector": "LIFESTYLE",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 24,
+          "airtime": 360
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "JANATA MEDICAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 13,
+          "airtime": 195
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "JIOTV",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 28,
+          "airtime": 420
+        }
+      ]
+    },
+    {
+      "brand": "KHADILKAR GULWALE",
+      "sector": "RETAIL",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 6,
+          "airtime": 90
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "KIMS MANAVATA HOSPITAL NASHIK",
+      "sector": "HEALTHCARE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "KIMS-UAIMS HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 3.46,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 211,
+          "airtime": 3165
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 350,
+          "airtime": 5250
+        }
+      ]
+    },
+    {
+      "brand": "KOLHAPUR CANCER CENTRE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 68,
+          "airtime": 1020
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "KRUSHNA DUDH",
+      "sector": "FMCG",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 39,
+          "airtime": 585
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "LAXMI CHEMICAL PVT LTD",
+      "sector": "INDUSTRIAL",
+      "percentage": 0.48,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 77,
+          "airtime": 1155
+        }
+      ]
+    },
+    {
+      "brand": "LIC",
+      "sector": "FINANCE",
+      "percentage": 1.5,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 48,
+          "airtime": 720
+        },
+        {
+          "station": "MY FM",
+          "adCount": 94,
+          "airtime": 1410
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 51,
+          "airtime": 765
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 50,
+          "airtime": 750
+        }
+      ]
+    },
+    {
+      "brand": "LOKMANYA MULTIPURPOSE CO-OP SOCIETY",
+      "sector": "FINANCE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 6,
+          "airtime": 90
+        }
+      ]
+    },
+    {
+      "brand": "LOOM",
+      "sector": "FMCG",
+      "percentage": 1.28,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 208,
+          "airtime": 3120
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MALABAR GOLD&DAIMOND",
+      "sector": "LIFESTYLE",
+      "percentage": 0.33,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 54,
+          "airtime": 810
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MALABAR GOLD&DIAMOND",
+      "sector": "LIFESTYLE",
+      "percentage": 0.33,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 54,
+          "airtime": 810
+        }
+      ]
+    },
+    {
+      "brand": "MALABAR GOLD&DIAMONDS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.33,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 54,
+          "airtime": 810
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MANKIND PHARMA",
+      "sector": "HEALTHCARE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 2,
+          "airtime": 30
+        }
+      ]
+    },
+    {
+      "brand": "MAS FINANCIAL SERVICES LTD",
+      "sector": "FINANCE",
+      "percentage": 1.31,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 212,
+          "airtime": 3180
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MATOSHREE HOMOEOPATHIC HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MATOSHREE VRIDHASHRAM",
+      "sector": "HEALTHCARE",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 133,
+          "airtime": 1995
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MATOSHRI HOMOEOPATHIC HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 51,
+          "airtime": 765
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MGM INSTITUTE OF BIOSCIENCE&BIOTECH",
+      "sector": "EDUCATION",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 32,
+          "airtime": 480
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MHAISHALKAR SHINDE HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.71,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 115,
+          "airtime": 1725
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MIT VISHWAPRAYAG UNIVERSITY",
+      "sector": "EDUCATION",
+      "percentage": 0.65,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 105,
+          "airtime": 1575
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MUZAK DISCO",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.65,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 106,
+          "airtime": 1590
+        }
+      ]
+    },
+    {
+      "brand": "MVM JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.4,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 65,
+          "airtime": 975
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MVM JWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 1.83,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 296,
+          "airtime": 4440
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MYCROFINE",
+      "sector": "CONSUMER DURABLE",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "MYFM",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 21,
+          "airtime": 315
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "NAKSHTRA",
+      "sector": "HOSPITALITY",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 4,
+          "airtime": 60
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "NANDADEEP EYE HOSPITAL SANGLI",
+      "sector": "HEALTHCARE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 6,
+          "airtime": 90
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "NANDADEEP NETRALAYA",
+      "sector": "HEALTHCARE",
+      "percentage": 0.4,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 64,
+          "airtime": 960
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "NARAYANI",
+      "sector": "HOSPITALITY",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 69,
+          "airtime": 1035
+        }
+      ]
+    },
+    {
+      "brand": "NDVS BANK",
+      "sector": "FINANCE",
+      "percentage": 0.58,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 94,
+          "airtime": 1410
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "NEELABH HOSPITAL&TRAUMA CENTRE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 4,
+          "airtime": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "NINE PEARLS HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.94,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 152,
+          "airtime": 2280
+        }
+      ]
+    },
+    {
+      "brand": "NIRMAL HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.78,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 41,
+          "airtime": 615
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 58,
+          "airtime": 870
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 28,
+          "airtime": 420
+        }
+      ]
+    },
+    {
+      "brand": "NIRMITI PLASTIC COSMETIC AND HAIR TRANSPLANT CENTRE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 100,
+          "airtime": 1500
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ORANGE FM",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.51,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 83,
+          "airtime": 1245
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "P.V.P.I.T.",
+      "sector": "EDUCATION",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 67,
+          "airtime": 1005
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PAARTH HOLIDAYS",
+      "sector": "TRAVEL&TOURISM",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 40,
+          "airtime": 600
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PADMABHOOSHAN VASANTRAODADA PATIL INSTITUTE OF TECHNOLOGY (PVPIT)",
+      "sector": "EDUCATION",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 71,
+          "airtime": 1065
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PANDURANG LAND DEVELOPERS",
+      "sector": "REAL ESTATE",
+      "percentage": 3.28,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 342,
+          "airtime": 5130
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 190,
+          "airtime": 2850
+        }
+      ]
+    },
+    {
+      "brand": "PARAGON",
+      "sector": "LIFESTYLE",
+      "percentage": 1.27,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 205,
+          "airtime": 3075
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PAUL MERCHANTS",
+      "sector": "TRAVEL&TOURISM",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 5,
+          "airtime": 75
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PET SAFA",
+      "sector": "HEALTHCARE",
+      "percentage": 1.1,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 178,
+          "airtime": 2670
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PET SAFFA",
+      "sector": "HEALTHCARE",
+      "percentage": 0.94,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 153,
+          "airtime": 2295
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PLANET FURNITURE",
+      "sector": "HOME FURNISHING",
+      "percentage": 0.89,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 41,
+          "airtime": 615
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 103,
+          "airtime": 1545
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PNG JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 5.85,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 313,
+          "airtime": 4695
+        },
+        {
+          "station": "MY FM",
+          "adCount": 210,
+          "airtime": 3150
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 425,
+          "airtime": 6375
+        }
+      ]
+    },
+    {
+      "brand": "PROGRAM: RADIO ORANGE",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PUDHARI NEWS",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PURUSHOTTAM NARAYAN GADGIL (PNG) JEWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 1.27,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 205,
+          "airtime": 3075
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "PVPIT",
+      "sector": "EDUCATION",
+      "percentage": 0.91,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 76,
+          "airtime": 1140
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 72,
+          "airtime": 1080
+        }
+      ]
+    },
+    {
+      "brand": "RADIO CITY",
+      "sector": "ENTERTAINMENT",
+      "percentage": 4.16,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 674,
+          "airtime": 10110
+        }
+      ]
+    },
+    {
+      "brand": "RADIO ORANGE",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.84,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 136,
+          "airtime": 2040
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RAHA MAST TANDURUST",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RAJARAMBAPU INSTITUTE OF TECHNOLOGY",
+      "sector": "EDUCATION",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 28,
+          "airtime": 420
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 22,
+          "airtime": 330
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RAJARAMBAPU PATIL SAHAKARI SANGHA",
+      "sector": "ANIMAL HUSBANDRY",
+      "percentage": 0.19,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 30,
+          "airtime": 450
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RAMVISHWAS DAIRY",
+      "sector": "FMCG",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 19,
+          "airtime": 285
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RAYMOND",
+      "sector": "LIFESTYLE",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RBI",
+      "sector": "FINANCE",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 12,
+          "airtime": 180
+        },
+        {
+          "station": "MY FM",
+          "adCount": 12,
+          "airtime": 180
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 11,
+          "airtime": 165
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 34,
+          "airtime": 510
+        }
+      ]
+    },
+    {
+      "brand": "RC SWAPPR",
+      "sector": "ENTERTAINMENT",
+      "percentage": 1.12,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 181,
+          "airtime": 2715
+        }
+      ]
+    },
+    {
+      "brand": "RELIANCE DIGITAL",
+      "sector": "CONSUMER DURABLE",
+      "percentage": 1.34,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 217,
+          "airtime": 3255
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RIT COLLEGE",
+      "sector": "EDUCATION",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "RJ JWELLERS",
+      "sector": "LIFESTYLE",
+      "percentage": 0.52,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 85,
+          "airtime": 1275
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ROOF TOP SKYLON",
+      "sector": "HOSPITALITY",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 7,
+          "airtime": 105
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ROOP MANTRA",
+      "sector": "FMCG",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 42,
+          "airtime": 630
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 26,
+          "airtime": 390
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "ROTARY HELP CENTER",
+      "sector": "HEALTHCARE",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 18,
+          "airtime": 270
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SACHI SAHELI",
+      "sector": "FMCG",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 36,
+          "airtime": 540
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 31,
+          "airtime": 465
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SALUNKHE CLINIC \u2013 DR. PRITI SHAHAPURE SALUNKHE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 39,
+          "airtime": 585
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SANJAY BHOKARE GROUP OF INSTITUTES",
+      "sector": "EDUCATION",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 57,
+          "airtime": 855
+        }
+      ]
+    },
+    {
+      "brand": "SANJAY BHOKARE GROUP OF INSTITUTES (SBGI)",
+      "sector": "EDUCATION",
+      "percentage": 0.33,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 54,
+          "airtime": 810
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SBI",
+      "sector": "FINANCE",
+      "percentage": 0.67,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 19,
+          "airtime": 285
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 90,
+          "airtime": 1350
+        }
+      ]
+    },
+    {
+      "brand": "SBI KISAN CREDIT CARD (KCC)",
+      "sector": "FINANCE",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 72,
+          "airtime": 1080
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SEVASADAN",
+      "sector": "HEALTHCARE",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 100,
+          "airtime": 1500
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SHANTRUNJAY CAREER ACADEMY",
+      "sector": "EDUCATION",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 32,
+          "airtime": 480
+        }
+      ]
+    },
+    {
+      "brand": "SHARAD INSTITUTE OF TECHNOLOGY",
+      "sector": "EDUCATION",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 42,
+          "airtime": 630
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 24,
+          "airtime": 360
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SHARAD INSTITUTE OF TECHNOLOGY COLLEGE OF ENGINEERING",
+      "sector": "EDUCATION",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 41,
+          "airtime": 615
+        }
+      ]
+    },
+    {
+      "brand": "SHATRUNJAY INSTITUTE",
+      "sector": "EDUCATION",
+      "percentage": 2.63,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 303,
+          "airtime": 4545
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 123,
+          "airtime": 1845
+        }
+      ]
+    },
+    {
+      "brand": "SHITAL VASTRA NIKETAN",
+      "sector": "LIFESTYLE",
+      "percentage": 1.35,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 219,
+          "airtime": 3285
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SHIVAJI UNIVERSITY",
+      "sector": "EDUCATION",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 57,
+          "airtime": 855
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SHIVRAJ TRACTORS",
+      "sector": "AUTOMOBILE",
+      "percentage": 0.64,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 104,
+          "airtime": 1560
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SHREE DHOOTAPAPESHWAR LIMITED",
+      "sector": "HEALTHCARE",
+      "percentage": 0.22,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 35,
+          "airtime": 525
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SHRIDHAR KULKARNI",
+      "sector": "FINANCE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 7,
+          "airtime": 105
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SIDDHI VASTUPURAM",
+      "sector": "REAL ESTATE",
+      "percentage": 0.76,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 123,
+          "airtime": 1845
+        }
+      ]
+    },
+    {
+      "brand": "SK FINANCE",
+      "sector": "FINANCE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 6,
+          "airtime": 90
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SK FURNITURE",
+      "sector": "RETAIL",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 1,
+          "airtime": 15
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SMT. RADHADEVI GOENKA COLLEGE FOR WOMEN",
+      "sector": "EDUCATION",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 48,
+          "airtime": 720
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "STANZ DYNAMICS",
+      "sector": "HEALTH&FITNESS",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 69,
+          "airtime": 1035
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 64,
+          "airtime": 960
+        }
+      ]
+    },
+    {
+      "brand": "SUDHAN POLYMERS-KAJARIA GALAXY",
+      "sector": "INDUSTRIAL",
+      "percentage": 0.87,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 141,
+          "airtime": 2115
+        }
+      ]
+    },
+    {
+      "brand": "SURYAWANSHI BUILDCON",
+      "sector": "REAL ESTATE",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SUSHRUTA HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 7,
+          "airtime": 105
+        }
+      ]
+    },
+    {
+      "brand": "SWABHIMANI DAIRY",
+      "sector": "FMCG",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 25,
+          "airtime": 375
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SWAD DIABETIC CARE CENTRE",
+      "sector": "HEALTHCARE",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 13,
+          "airtime": 195
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SWARAJ FOOD PRODUCTS",
+      "sector": "FMCG",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 15,
+          "airtime": 225
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SYNERGY HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.75,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 121,
+          "airtime": 1815
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "SYNWOOD AGRO LIMITED",
+      "sector": "AGRICULTURE",
+      "percentage": 0.37,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 60,
+          "airtime": 900
+        }
+      ]
+    },
+    {
+      "brand": "THE COSMOS BANK",
+      "sector": "FINANCE",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 28,
+          "airtime": 420
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "TKIET",
+      "sector": "EDUCATION",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 29,
+          "airtime": 435
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "USHAHKAL HOSPITAL",
+      "sector": "HEALTHCARE",
+      "percentage": 0.19,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 31,
+          "airtime": 465
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "V.P. INSTITUTE",
+      "sector": "EDUCATION",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 39,
+          "airtime": 585
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "V.P. INSTITUTE OF MANAGEMENT STUDIES&RESEARCH",
+      "sector": "EDUCATION",
+      "percentage": 1.69,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 10,
+          "airtime": 150
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 176,
+          "airtime": 2640
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 88,
+          "airtime": 1320
+        }
+      ]
+    },
+    {
+      "brand": "VARMORA GRANITO PVT. LTD.",
+      "sector": "INDUSTRIAL",
+      "percentage": 1.34,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 217,
+          "airtime": 3255
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "VASANTDADA PATIL",
+      "sector": "EDUCATION",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 2,
+          "airtime": 30
+        }
+      ]
+    },
+    {
+      "brand": "VASTURAVIRAJ VASTU-SANSKRITI",
+      "sector": "ENTERTAINMENT",
+      "percentage": 0.07,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 11,
+          "airtime": 165
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "VELORA",
+      "sector": "FMCG",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "VIJAYSHREE ACADEMY",
+      "sector": "EDUCATION",
+      "percentage": 0.45,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 73,
+          "airtime": 1095
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "VINAYAK LODGING",
+      "sector": "HOSPITALITY",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 16,
+          "airtime": 240
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "VISHVESHWARYA TECHNICAL CAMPUS",
+      "sector": "EDUCATION",
+      "percentage": 0.93,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 151,
+          "airtime": 2265
+        }
+      ]
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "sector": "AUTOMOBILE",
+      "percentage": 0.39,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 63,
+          "airtime": 945
+        }
+      ]
+    },
+    {
+      "brand": "VRIDDHI INSTITUTE",
+      "sector": "EDUCATION",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 2,
+          "airtime": 30
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    },
+    {
+      "brand": "VVP INSTITUTE",
+      "sector": "EDUCATION",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 11,
+          "airtime": 165
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 6,
+          "airtime": 90
+        }
+      ]
+    },
+    {
+      "brand": "WARANA",
+      "sector": "FMCG",
+      "percentage": 0.41,
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "MY FM",
+          "adCount": 67,
+          "airtime": 1005
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 0,
+          "airtime": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0,
+          "airtime": 0
+        }
+      ]
+    }
+  ]
+}

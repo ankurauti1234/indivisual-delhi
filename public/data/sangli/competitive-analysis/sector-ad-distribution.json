@@ -1,0 +1,445 @@
+{
+  "sectors": [
+    {
+      "name": "EDUCATION",
+      "color": "#039BE5"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#00897B"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "FMCG",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#D81B60"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#D81B60"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#E91E63"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#039BE5"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#FF7043"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#F4511E"
+    },
+    {
+      "name": "HEALTH&FITNESS",
+      "color": "#00897B"
+    },
+    {
+      "name": "EVENTS&EXHIBITION",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "INDUSTRIAL",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "DOTCOM",
+      "color": "#3949AB"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#FDD835"
+    }
+  ],
+  "data": [
+    {
+      "sector": "EDUCATION",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 1020,
+          "airtime": 25825
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 323,
+          "airtime": 9307
+        },
+        {
+          "station": "MY FM",
+          "adCount": 606,
+          "airtime": 15799
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1169,
+          "airtime": 23024
+        }
+      ]
+    },
+    {
+      "sector": "REAL ESTATE",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 626,
+          "airtime": 15979
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 313,
+          "airtime": 1950
+        }
+      ]
+    },
+    {
+      "sector": "HEALTHCARE",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 837,
+          "airtime": 12946
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 170,
+          "airtime": 3887
+        },
+        {
+          "station": "MY FM",
+          "adCount": 845,
+          "airtime": 15299
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 686,
+          "airtime": 9490
+        }
+      ]
+    },
+    {
+      "sector": "LIFESTYLE",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 529,
+          "airtime": 9776
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 470,
+          "airtime": 9339
+        },
+        {
+          "station": "MY FM",
+          "adCount": 1429,
+          "airtime": 16940
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 509,
+          "airtime": 6243
+        }
+      ]
+    },
+    {
+      "sector": "FMCG",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 625,
+          "airtime": 8160
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 241,
+          "airtime": 3831
+        },
+        {
+          "station": "MY FM",
+          "adCount": 503,
+          "airtime": 5895
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 346,
+          "airtime": 3032
+        }
+      ]
+    },
+    {
+      "sector": "ENTERTAINMENT",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 222,
+          "airtime": 5490
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 32,
+          "airtime": 929
+        },
+        {
+          "station": "MY FM",
+          "adCount": 128,
+          "airtime": 3340
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 989,
+          "airtime": 28340
+        }
+      ]
+    },
+    {
+      "sector": "FINANCE",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 63,
+          "airtime": 2188
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 101,
+          "airtime": 2866
+        },
+        {
+          "station": "MY FM",
+          "adCount": 543,
+          "airtime": 10458
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 568,
+          "airtime": 7959
+        }
+      ]
+    },
+    {
+      "sector": "AUTOMOBILE",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 104,
+          "airtime": 1782
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 215,
+          "airtime": 5507
+        }
+      ]
+    },
+    {
+      "sector": "TRAVEL&TOURISM",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 116,
+          "airtime": 1570
+        },
+        {
+          "station": "MY FM",
+          "adCount": 40,
+          "airtime": 455
+        }
+      ]
+    },
+    {
+      "sector": "RETAIL",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 103,
+          "airtime": 1368
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 17,
+          "airtime": 153
+        }
+      ]
+    },
+    {
+      "sector": "RENEWABLE ENERGY",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 63,
+          "airtime": 860
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 13,
+          "airtime": 65
+        }
+      ]
+    },
+    {
+      "sector": "ANIMAL HUSBANDRY",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 30,
+          "airtime": 558
+        }
+      ]
+    },
+    {
+      "sector": "GOVERNMENT",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 13,
+          "airtime": 386
+        },
+        {
+          "station": "AAPLA FM",
+          "adCount": 14,
+          "airtime": 354
+        },
+        {
+          "station": "MY FM",
+          "adCount": 12,
+          "airtime": 355
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 151,
+          "airtime": 3596
+        }
+      ]
+    },
+    {
+      "sector": "HEALTH&FITNESS",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 69,
+          "airtime": 2218
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 64,
+          "airtime": 1968
+        }
+      ]
+    },
+    {
+      "sector": "EVENTS&EXHIBITION",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 52,
+          "airtime": 2119
+        }
+      ]
+    },
+    {
+      "sector": "HOME FURNISHING",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 41,
+          "airtime": 540
+        }
+      ]
+    },
+    {
+      "sector": "INDUSTRIAL",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 372,
+          "airtime": 4641
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 218,
+          "airtime": 1372
+        }
+      ]
+    },
+    {
+      "sector": "DOTCOM",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 215,
+          "airtime": 2670
+        }
+      ]
+    },
+    {
+      "sector": "CONSUMER DURABLE",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 227,
+          "airtime": 2507
+        }
+      ]
+    },
+    {
+      "sector": "HOSPITALITY",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 27,
+          "airtime": 341
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 69,
+          "airtime": 414
+        }
+      ]
+    },
+    {
+      "sector": "AGRICULTURE",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 60,
+          "airtime": 1318
+        }
+      ]
+    }
+  ]
+}

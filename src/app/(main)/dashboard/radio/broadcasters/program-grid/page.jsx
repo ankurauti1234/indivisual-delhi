@@ -21,6 +21,8 @@ import { availableData as kotaData } from "@/data/kota";
 import { availableData as karnalData } from "@/data/karnal";
 import { availableData as patialaData } from "@/data/patiala";
 import { availableData as udaipurData } from "@/data/udaipur";
+import { availableData as jalgaonData } from "@/data/jalgaon";
+import { availableData as sangliData } from "@/data/sangli";
 
 import {
   Select,
@@ -54,7 +56,9 @@ function ProgramGridContent() {
     kota: kotaData,
     karnal: karnalData,
     patiala: patialaData,
-    udaipur:udaipurData
+    udaipur:udaipurData,
+    jalgaon:jalgaonData,
+    sangli:sangliData
   };
 
   // ✅ Create label/value pairs & sort alphabetically

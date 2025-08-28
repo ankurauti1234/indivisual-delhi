@@ -1,0 +1,197 @@
+{
+  "stations": [
+    {
+      "name": "AAPLA FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "MY FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "ORANGE FM",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#E91E63"
+    }
+  ],
+  "data": [
+    {
+      "date": "2025-07-01",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 199,
+          "airtime": 74
+        },
+        {
+          "station": "MY FM",
+          "adCount": 802,
+          "airtime": 211
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 580,
+          "airtime": 186
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 747,
+          "airtime": 227
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 192,
+          "airtime": 78
+        },
+        {
+          "station": "MY FM",
+          "adCount": 723,
+          "airtime": 180
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 599,
+          "airtime": 198
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 868,
+          "airtime": 263
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 218,
+          "airtime": 80
+        },
+        {
+          "station": "MY FM",
+          "adCount": 662,
+          "airtime": 191
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 665,
+          "airtime": 222
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 854,
+          "airtime": 253
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 206,
+          "airtime": 79
+        },
+        {
+          "station": "MY FM",
+          "adCount": 688,
+          "airtime": 190
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 699,
+          "airtime": 236
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 779,
+          "airtime": 239
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 247,
+          "airtime": 94
+        },
+        {
+          "station": "MY FM",
+          "adCount": 723,
+          "airtime": 187
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 633,
+          "airtime": 215
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 817,
+          "airtime": 217
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 256,
+          "airtime": 95
+        },
+        {
+          "station": "MY FM",
+          "adCount": 696,
+          "airtime": 183
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 565,
+          "airtime": 186
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 627,
+          "airtime": 189
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "stations": [
+        {
+          "station": "AAPLA FM",
+          "adCount": 212,
+          "airtime": 88
+        },
+        {
+          "station": "MY FM",
+          "adCount": 653,
+          "airtime": 167
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 610,
+          "airtime": 201
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 678,
+          "airtime": 181
+        }
+      ]
+    }
+  ]
+}

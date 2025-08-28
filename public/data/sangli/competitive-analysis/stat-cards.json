@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "PNG JEWELLERS",
+        "RADIO CITY",
+        "KIMS-UAIMS HOSPITAL",
+        "PANDURANG LAND DEVELOPERS"
+      ],
+      "values": ["948", "674", "561", "532"]
+    },
+    {
+      "title": "Top Stations by Airtime",
+      "desc": "Radio stations with the most accumulated ad seconds",
+      "keys": [
+        "RADIO CITY",
+        "PNG JEWELLERS",
+        "PANDURANG LAND DEVELOPERS",
+        "V.P. INSTITUTE OF MANAGEMENT STUDIES&RESEARCH"
+      ],
+      "values": ["20558", "15959", "9762", "9656"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["RADIO CITY", "AAPLA FM", "MY FM", "ORANGE FM"],
+      "values": ["5370", "1530", "4947", "4351"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["RADIO CITY", "AAPLA FM", "MY FM", "ORANGE FM"],
+      "values": ["94278", "35543", "78700", "86888"]
+    }
+  ]
+}
