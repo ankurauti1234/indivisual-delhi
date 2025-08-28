@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "RADIO CITY",
+        "MARUTI KHANDESH MOTORS",
+        "PET SAFFA",
+        "PNG JEWELLERS"
+      ],
+      "values": ["883", "537", "376", "368"]
+    },
+    {
+      "title": "Top Stations by Airtime",
+      "desc": "Radio stations with the most accumulated ad seconds",
+      "keys": [
+        "RADIO CITY",
+        "MARUTI KHANDESH MOTORS",
+        "SANDIP UNIVERSITY",
+        "PNG JEWELLERS"
+      ],
+      "values": ["26730", "9960", "8640", "7214"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["RADIO CITY", "RADIO DHAMAL", "MY FM", "TADKA FM"],
+      "values": ["4839", "2111", "8326", "384"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["RADIO CITY", "RADIO DHAMAL", "MY FM", "TADKA FM"],
+      "values": ["82434", "43002", "141991", "8532"]
+    }
+  ]
+}

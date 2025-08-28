@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import {
   Card,
   CardContent,
@@ -16,18 +16,7 @@ export const description =
   "A custom horizontal stacked bar chart showing the percentage distribution of shared ads across stations";
 
 const SharedAdBar = ({ data }) => {
-  const [selectedAds, setSelectedAds] = useState(() => {
-    // Calculate top 5 ads by total adCount
-    const adTotals = {};
-    data.data.forEach((item) => {
-      const totalCount = item.stations.reduce((sum, s) => sum + s.adCount, 0);
-      adTotals[item.adName] = totalCount;
-    });
-    return Object.entries(adTotals)
-      .sort(([, a], [, b]) => b - a)
-      .slice(0, 5)
-      .map(([adName]) => ({ value: adName, label: adName }));
-  });
+  const [selectedAds, setSelectedAds] = useState([]);
   const [activeStation, setActiveStation] = useState(null);
   const [tooltip, setTooltip] = useState(null);
   const chartContainerRef = useRef(null);
@@ -40,6 +29,22 @@ const SharedAdBar = ({ data }) => {
     value: ad,
     label: ad,
   }));
+
+  // ✅ Reset top 5 ads whenever data changes
+  useEffect(() => {
+    if (data?.data?.length) {
+      const adTotals = {};
+      data.data.forEach((item) => {
+        const totalCount = item.stations.reduce((sum, s) => sum + s.adCount, 0);
+        adTotals[item.adName] = totalCount;
+      });
+      const top5 = Object.entries(adTotals)
+        .sort(([, a], [, b]) => b - a)
+        .slice(0, 5)
+        .map(([adName]) => ({ value: adName, label: adName }));
+      setSelectedAds(top5);
+    }
+  }, [data]);
 
   // Handle ad selection
   const handleAdChange = (ads) => {
@@ -54,11 +59,9 @@ const SharedAdBar = ({ data }) => {
       _totalValue: 0,
     };
 
-    // Get data for the ad
     const itemData = data.data.find((item) => item.adName === ad.value);
     if (!itemData) return adData;
 
-    // Aggregate data (only one week, but structure allows)
     const rawValues = {};
     let totalValue = 0;
     allStations.forEach((station) => {
@@ -68,7 +71,6 @@ const SharedAdBar = ({ data }) => {
       totalValue += stationValue;
     });
 
-    // Avoid division by zero
     const total = totalValue || 1;
     allStations.forEach((station) => {
       adData[station] = (rawValues[station] / total) * 100;
@@ -78,7 +80,7 @@ const SharedAdBar = ({ data }) => {
     return adData;
   });
 
-  // Handle mouse events for tooltip
+  // Handle tooltip
   const handleMouseEnter = (
     e,
     adName,
@@ -113,7 +115,7 @@ const SharedAdBar = ({ data }) => {
     setActiveStation(activeStation === station ? null : station);
   };
 
-  // Calculate chart dimensions
+  // Chart layout values
   const barHeight = 40;
   const barGap = 20;
   const chartHeight = selectedAds.length * (barHeight + barGap) - barGap;
@@ -188,7 +190,6 @@ const SharedAdBar = ({ data }) => {
             {chartData.map((adData, index) => {
               let currentWidth = 0;
               const totalValue = adData._totalValue;
-              // Sort stations by percentage in descending order
               const sortedStations = [...allStations].sort((a, b) => {
                 const aPercentage = adData[a] || 0;
                 const bPercentage = adData[b] || 0;
@@ -310,7 +311,7 @@ const SharedAdBar = ({ data }) => {
       <Separator />
       <CardFooter className="p-4">
         <div className="flex flex-wrap gap-2 mt-2">
-          {allStations.map((station, index) => (
+          {allStations.map((station) => (
             <button
               key={station}
               onClick={() => handleStationClick(station)}

@@ -1,0 +1,3547 @@
+{
+  "stations": ["MY FM", "RADIO CITY", "RADIO DHAMAL", "TADKA FM"],
+  "data": [
+    {
+      "adName": "RADIO CITY",
+      "percentage": 5.64,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 883
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MARUTI KHANDESH MOTORS",
+      "percentage": 3.43,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 537
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PET SAFFA",
+      "percentage": 2.4,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 178
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 198
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PNG JEWELLERS",
+      "percentage": 2.35,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 67
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 76
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 225
+        }
+      ]
+    },
+    {
+      "adName": "SMILING KNEES",
+      "percentage": 1.92,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 300
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KHANDESH MOTORS",
+      "percentage": 1.87,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 293
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MOUNT LITERA ZEE SCHOOL",
+      "percentage": 1.87,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 79
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 139
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 75
+        }
+      ]
+    },
+    {
+      "adName": "VIKAS DAIRY",
+      "percentage": 1.85,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 289
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SANDIP UNIVERSITY",
+      "percentage": 1.84,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 288
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HOUSE OF JEWELS BY BAFNA\u2019S",
+      "percentage": 1.8,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 282
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VISHWAPRABHA HOSPITAL",
+      "percentage": 1.79,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 281
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NINE PEARLS",
+      "percentage": 1.77,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 277
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CHITALE",
+      "percentage": 1.74,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 272
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FOCUS HYUNDAI",
+      "percentage": 1.73,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 271
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GHARKUL",
+      "percentage": 1.67,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 157
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 104
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHUBHAM POLYMERS",
+      "percentage": 1.65,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 259
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PHYSICS WALLAH",
+      "percentage": 1.54,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 241
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SUDHAN POLYMERS-KAJARIA GALAXY",
+      "percentage": 1.5,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 31
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 204
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AJIO",
+      "percentage": 1.35,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 211
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VARMORA BATHWARE",
+      "percentage": 1.34,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 210
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RC PATEL INSTITUTE OF TECHNOLOGY (RCPIT)",
+      "percentage": 1.34,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 210
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAS FINANCIAL SERVICES LTD",
+      "percentage": 1.34,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 210
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RELIANCE DIGITAL",
+      "percentage": 1.33,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 209
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RAYZON SOLAR",
+      "percentage": 1.33,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 209
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MARUTI SUZUKI",
+      "percentage": 1.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 202
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 1
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PRAMOD SWITCHES",
+      "percentage": 1.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 203
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SSBT INSTITUTE",
+      "percentage": 1.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 198
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BLOOM",
+      "percentage": 1.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 197
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BULDANA URBAN COOPERATIVE CREDIT SOCIETY",
+      "percentage": 1.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 196
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CANARA BANK",
+      "percentage": 1.24,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 18
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 176
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SBI",
+      "percentage": 1.14,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 89
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 90
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SMT. SHARADCHANDRIKA SURESH PATIL INSTITUTE OF TECHNOLOGY",
+      "percentage": 1.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 177
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RC SWAPPR",
+      "percentage": 1.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 174
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CHANDAK CANCER CARE",
+      "percentage": 1.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 164
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GODAVARI CBSE JUNIOR COLLEGE",
+      "percentage": 1.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 161
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MALABAR GOLD&DAIMOND",
+      "percentage": 1.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 56
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 53
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 51
+        }
+      ]
+    },
+    {
+      "adName": "NAMCO HOSPITAL",
+      "percentage": 0.99,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 84
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 71
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LIC",
+      "percentage": 0.98,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 102
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 52
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR ORTHO",
+      "percentage": 0.96,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 64
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 87
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HYUNDAI-FOCUS SHOWROOM",
+      "percentage": 0.91,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 142
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PURUSHOTTAM NARAYAN GADGIL (PNG) JEWELLERS",
+      "percentage": 0.87,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 136
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BANK OF BARODA",
+      "percentage": 0.86,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 135
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TATA",
+      "percentage": 0.84,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 131
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VANITA MULTISPECIALITY HOSPITAL",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 129
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PANDURANG LAND DEVELOPERS",
+      "percentage": 0.79,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 124
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BARVA SKIN",
+      "percentage": 0.78,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 122
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HYUNDAI",
+      "percentage": 0.77,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 121
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SONPARI BHAGAR",
+      "percentage": 0.75,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 118
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HEAVEN HOLIDAYS",
+      "percentage": 0.7,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 109
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RC PATEL COLLEGE",
+      "percentage": 0.68,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 107
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PRADHAN MANTRI SURYA GHAR MUFT BIJLI YOJANA",
+      "percentage": 0.68,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 107
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MUZAK DISCO",
+      "percentage": 0.67,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 105
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ECE INDIA",
+      "percentage": 0.67,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 15
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 90
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PRAKASH CHILDREN HOSPITAL",
+      "percentage": 0.66,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 103
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KIMS MANAVATA HOSPITAL NASHIK",
+      "percentage": 0.65,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 102
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SONPARI",
+      "percentage": 0.64,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 100
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "9 PULS HOSPITAL",
+      "percentage": 0.57,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 90
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "G.H. RAISONI INSTITUTE OF BUSINESS MANAGEMENT",
+      "percentage": 0.57,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 90
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MY FM",
+      "percentage": 0.56,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 88
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PRAVARA RURAL ENGINEERING",
+      "percentage": 0.56,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 88
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SIDDHI VASTUPURAM",
+      "percentage": 0.56,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 88
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INTERNATIONAL BUSSINESS EXCELLECE AWARD",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 84
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RADIO FESTIVAL",
+      "percentage": 0.53,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 83
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NINE PEARLS HOSPITAL",
+      "percentage": 0.52,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 81
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SSVP'S BAPUSAHEB SHIVAJIRAO DEORE COLLEGE OF ENGINEERING",
+      "percentage": 0.5,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 79
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LAXMI CHEMICAL PVT LTD",
+      "percentage": 0.5,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 78
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APPASAHEB ALIAS SA. RE. PATIL INSTITUTE OF TECHNOLOGY",
+      "percentage": 0.49,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 77
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CHIKHLI URBAN COOPERATIVE BANK",
+      "percentage": 0.49,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 76
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AMRUTVAHINI COLLEGE OF ENGINEERING (AVCOE)",
+      "percentage": 0.48,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 75
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VISHVESHWARYA TECHNICAL CAMPUS",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 74
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RAYATE PATIL PARALYSIS RECOVERY CENTRE",
+      "percentage": 0.45,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 71
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RBI",
+      "percentage": 0.45,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 35
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 12
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 12
+        }
+      ]
+    },
+    {
+      "adName": "JALGAON CANCER CENTRE",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SAPKAL KNOWLEDGE HUB",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. MUKESH MORE'S OMKAR ENT HOSPITAL",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ROOP MANTRA",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 42
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 27
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SACHI SAHELI",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 36
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 32
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SURESH EDUCATIONAL CAMPUS",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 67
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NARAYANI",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 66
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "WARANA",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 66
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KAJARIA",
+      "percentage": 0.4,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 63
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SYNWOOD AGRO LIMITED",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FURNITURE STORE",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ALARD UNIVERSITY PUNE",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ARJUN COLLEGE OF EDUCATION",
+      "percentage": 0.36,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 57
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVERNMENT OF MAHARASHTRA",
+      "percentage": 0.36,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 7
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 39
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 10
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AP CONSULTANT",
+      "percentage": 0.36,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 56
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ADSUL TECHNICAL CAMPUS",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 55
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MALABAR",
+      "percentage": 0.34,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 54
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SMT. RADHADEVI GOENKA COLLEGE",
+      "percentage": 0.34,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 53
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GENERICART FRANCHISE",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 50
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PUMA CROP CARE",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 50
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MATOSHRI COLLEGE OF ENGINEERING",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 50
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NUCLIUS HOSPITAL",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 47
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PARAGON",
+      "percentage": 0.29,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 46
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. VIKHE PATIL COLLEGE",
+      "percentage": 0.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 40
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AMITY UNIVERSITY",
+      "percentage": 0.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 40
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KBP COLLEGE",
+      "percentage": 0.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 40
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PC BHANDARKAR COLLEGE",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 39
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JALGAON CANCER CARE HOSPITAL",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 38
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SIDHHIVINAYAK PLATINUM",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 37
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHREE DHOOTAPAPESHWAR LIMITED",
+      "percentage": 0.24,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 37
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. VITHALRAO VIKHE PATIL COLLEGE OF ENGINEERING",
+      "percentage": 0.22,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 35
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHOBHARAM INFOTECH",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 32
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GARNIER",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 31
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ACC CEMENT",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 31
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KBT COLLEGE OF ENGINEERING",
+      "percentage": 0.19,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 30
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AMBUJA CEMENT",
+      "percentage": 0.19,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 29
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SILVER DROP",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 28
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JIO TV APP",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 28
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "COSMOS BANK",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 27
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PLANTO KRUSHI YANTRA",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 27
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CHIKHLI URBAN CO-OPERATIVE BANK",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 25
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIAN NAVY",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 24
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MYFM",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 24
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PAUL MERCHANTS",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 23
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHARASHTRA GOVERNMENT NIYOJNA VIBHAG",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 6
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 15
+        }
+      ]
+    },
+    {
+      "adName": "SHOBHARAM CONSTRUCTION",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 21
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PARAS PLUMBING",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 20
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HORIZON HOSPITAL",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 20
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TVS BALAJI SHOWROOM",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 20
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ENRISE BY SAYAJI",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 20
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MGMU INSTITUTE",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 19
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SAFFRON FINE DINE",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 19
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PADMASHRI DR. V.B. KOLTE COLLEGE OF ENGINEERING",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 19
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHOBHRAM CONSTRUCTION",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 17
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MYCROFINE",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 17
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RAISONI PUBLIC SCHOOL",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 17
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GURUJI",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 16
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BRAHMA ENGINEERING COLLEGE",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 15
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GK TMT BARS",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 14
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KK WAGH POLYTECHNIC",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 14
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SIDBI",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 13
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MGM CAMPUS",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 10
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR VINITA JAIN",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 10
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NINE PEARLS HOSPITAL NASHIK",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 10
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TOLUNA INDIA",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 9
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CANARA",
+      "percentage": 0.06,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 9
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ELDERFIT",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 8
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HYUNDAI CRETA",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 8
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. YOGESH CHAUDHARI",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 6
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MOHAN INSTITUTE OF PHARMACY",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 5
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RISE INDIAN PUBLIC SCHOOL",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 5
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIAN AIR FORCE",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 4
+        }
+      ]
+    },
+    {
+      "adName": "ALORA",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "(RJ MENTION) PARAGON",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BHARTIYA MANAK BUREAU",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 3
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHARANI",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HARIDWAR PANDURANG",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "(RJ MENTION)MARUTI KHANDESH MOTORS",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHARASHTRA GOVERNMENT",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 2
+        }
+      ]
+    },
+    {
+      "adName": "(RJ MENTION)PLANTO KRUSHI YANTRA",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APEEJAY TECHNICAL CAMPUS",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "A P CONSULTANTS&ENGINEERS LLP",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 1
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "(RJ MENTION)SONPARI BHAGAR",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KP SUPER SPECIALIST HOSPITAL",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 1
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVT OF MAHARASHTRA",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 1
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PAN BAHAR CRYSTAL",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 1
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHINDE JWELLERS",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SK EMPIRE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TRINITY NEURO HOSPITAL",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 0
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 0
+        }
+      ]
+    }
+  ]
+}

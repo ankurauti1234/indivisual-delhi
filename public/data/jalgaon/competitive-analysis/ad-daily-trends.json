@@ -1,0 +1,197 @@
+{
+  "stations": [
+    {
+      "name": "MY FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO DHAMAL",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "TADKA FM",
+      "color": "#E91E63"
+    }
+  ],
+  "data": [
+    {
+      "date": "2025-07-01",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1258,
+          "airtime": 344
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 661,
+          "airtime": 206
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 280,
+          "airtime": 84
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 20,
+          "airtime": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1138,
+          "airtime": 310
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 707,
+          "airtime": 209
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 308,
+          "airtime": 102
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 23,
+          "airtime": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1162,
+          "airtime": 342
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 718,
+          "airtime": 196
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 295,
+          "airtime": 101
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 69,
+          "airtime": 24
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1198,
+          "airtime": 347
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 675,
+          "airtime": 190
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 312,
+          "airtime": 114
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 85,
+          "airtime": 30
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1176,
+          "airtime": 339
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 843,
+          "airtime": 210
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 316,
+          "airtime": 115
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 79,
+          "airtime": 28
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1220,
+          "airtime": 340
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 623,
+          "airtime": 194
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 284,
+          "airtime": 96
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 83,
+          "airtime": 29
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1174,
+          "airtime": 341
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 612,
+          "airtime": 166
+        },
+        {
+          "station": "RADIO DHAMAL",
+          "adCount": 316,
+          "airtime": 101
+        },
+        {
+          "station": "TADKA FM",
+          "adCount": 25,
+          "airtime": 10
+        }
+      ]
+    }
+  ]
+}
