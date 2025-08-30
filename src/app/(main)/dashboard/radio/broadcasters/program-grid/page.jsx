@@ -13,7 +13,7 @@ import { availableData as varanasiData } from "@/data/varanasi";
 import { availableData as gorkhpurData } from "@/data/gorakhpur";
 import { availableData as bikanerData } from "@/data/bikaner";
 import { availableData as bareillyData } from "@/data/bareilly";
-import { availableData as jalandharData } from "@/data/jalandar";
+import { availableData as jalandarData } from "@/data/jalandar";
 import { availableData as jamshedpurData } from "@/data/jamshedpur";
 import { availableData as ranchiData } from "@/data/ranchi";
 import { availableData as hisarData } from "@/data/hisar";
@@ -49,16 +49,16 @@ function ProgramGridContent() {
     gorakhpur: gorkhpurData,
     bikaner: bikanerData,
     bareilly: bareillyData,
-    jalandhar: jalandharData, // ✅ fixed key spelling
+    jalandar: jalandarData, // ✅ fixed key spelling
     jamshedpur: jamshedpurData,
     ranchi: ranchiData,
     hisar: hisarData,
     kota: kotaData,
     karnal: karnalData,
     patiala: patialaData,
-    udaipur:udaipurData,
-    jalgaon:jalgaonData,
-    sangli:sangliData
+    udaipur: udaipurData,
+    jalgaon: jalgaonData,
+    sangli: sangliData,
   };
 
   // ✅ Create label/value pairs & sort alphabetically
