@@ -1,0 +1,432 @@
+{
+  "sectors": [
+    {
+      "name": "EDUCATION",
+      "color": "#FF7043"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#3949AB"
+    },
+    {
+      "name": "FMCG",
+      "color": "#039BE5"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#D81B60"
+    },
+    {
+      "name": "INDUSTRIAL",
+      "color": "#F4511E"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#00897B"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#00897B"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#3949AB"
+    },
+    {
+      "name": "DOTCOM",
+      "color": "#039BE5"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#FDD835"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#D81B60"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#FDD835"
+    }
+  ],
+  "data": [
+    {
+      "sector": "EDUCATION",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 806,
+          "airtime": 19395
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 566,
+          "airtime": 7079
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 155,
+          "airtime": 4017
+        }
+      ]
+    },
+    {
+      "sector": "LIFESTYLE",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 1278,
+          "airtime": 18439
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1038,
+          "airtime": 15109
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 517,
+          "airtime": 7584
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 858,
+          "airtime": 13872
+        }
+      ]
+    },
+    {
+      "sector": "FINANCE",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 865,
+          "airtime": 13960
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 743,
+          "airtime": 12607
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 29,
+          "airtime": 1380
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 191,
+          "airtime": 5480
+        }
+      ]
+    },
+    {
+      "sector": "FMCG",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 749,
+          "airtime": 10042
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 387,
+          "airtime": 4162
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 448,
+          "airtime": 5579
+        }
+      ]
+    },
+    {
+      "sector": "HEALTHCARE",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 521,
+          "airtime": 9381
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 173,
+          "airtime": 940
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 454,
+          "airtime": 5583
+        }
+      ]
+    },
+    {
+      "sector": "REAL ESTATE",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 631,
+          "airtime": 7941
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 232,
+          "airtime": 1395
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 220,
+          "airtime": 2967
+        }
+      ]
+    },
+    {
+      "sector": "INDUSTRIAL",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 477,
+          "airtime": 6939
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 218,
+          "airtime": 1347
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 34,
+          "airtime": 515
+        }
+      ]
+    },
+    {
+      "sector": "CONSUMER DURABLE",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 430,
+          "airtime": 5426
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 37,
+          "airtime": 407
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 139,
+          "airtime": 1090
+        }
+      ]
+    },
+    {
+      "sector": "HOSPITALITY",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 310,
+          "airtime": 3812
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 69,
+          "airtime": 414
+        }
+      ]
+    },
+    {
+      "sector": "AUTOMOBILE",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 226,
+          "airtime": 3454
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 119,
+          "airtime": 3213
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 110,
+          "airtime": 694
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 70,
+          "airtime": 2100
+        }
+      ]
+    },
+    {
+      "sector": "ENTERTAINMENT",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 106,
+          "airtime": 3390
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1117,
+          "airtime": 31611
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 21,
+          "airtime": 970
+        }
+      ]
+    },
+    {
+      "sector": "DOTCOM",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 214,
+          "airtime": 2550
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 112,
+          "airtime": 5651
+        }
+      ]
+    },
+    {
+      "sector": "RENEWABLE ENERGY",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 214,
+          "airtime": 2354
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 20,
+          "airtime": 134
+        }
+      ]
+    },
+    {
+      "sector": "GOVERNMENT",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 39,
+          "airtime": 1190
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 155,
+          "airtime": 6027
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 13,
+          "airtime": 390
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 13,
+          "airtime": 394
+        }
+      ]
+    },
+    {
+      "sector": "HOME FURNISHING",
+      "stations": [
+        {
+          "station": "MYFM",
+          "adCount": 98,
+          "airtime": 1078
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 38,
+          "airtime": 380
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 159,
+          "airtime": 1440
+        }
+      ]
+    },
+    {
+      "sector": "AGRICULTURE",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 82,
+          "airtime": 1691
+        }
+      ]
+    },
+    {
+      "sector": "TRAVEL&TOURISM",
+      "stations": [
+        {
+          "station": "ISHQ FM",
+          "adCount": 9,
+          "airtime": 297
+        },
+        {
+          "station": "BIG FM",
+          "adCount": 47,
+          "airtime": 1540
+        }
+      ]
+    },
+    {
+      "sector": "RETAIL",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 121,
+          "airtime": 1119
+        }
+      ]
+    },
+    {
+      "sector": "ANIMAL HUSBANDRY",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 36,
+          "airtime": 735
+        }
+      ]
+    }
+  ]
+}

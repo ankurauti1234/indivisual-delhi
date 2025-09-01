@@ -1,0 +1,197 @@
+{
+  "stations": [
+    {
+      "name": "BIG FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "ISHQ FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "MYFM",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#E91E63"
+    }
+  ],
+  "data": [
+    {
+      "date": "2025-07-01",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 421,
+          "airtime": 127
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 128,
+          "airtime": 27
+        },
+        {
+          "station": "MYFM",
+          "adCount": 1027,
+          "airtime": 265
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 662,
+          "airtime": 201
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 400,
+          "airtime": 99
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 127,
+          "airtime": 32
+        },
+        {
+          "station": "MYFM",
+          "adCount": 967,
+          "airtime": 245
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 697,
+          "airtime": 211
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 420,
+          "airtime": 128
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 131,
+          "airtime": 33
+        },
+        {
+          "station": "MYFM",
+          "adCount": 1017,
+          "airtime": 264
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 733,
+          "airtime": 224
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 424,
+          "airtime": 130
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 132,
+          "airtime": 33
+        },
+        {
+          "station": "MYFM",
+          "adCount": 1022,
+          "airtime": 282
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 747,
+          "airtime": 208
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 398,
+          "airtime": 110
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 134,
+          "airtime": 32
+        },
+        {
+          "station": "MYFM",
+          "adCount": 1040,
+          "airtime": 264
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 826,
+          "airtime": 219
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 328,
+          "airtime": 96
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 132,
+          "airtime": 32
+        },
+        {
+          "station": "MYFM",
+          "adCount": 912,
+          "airtime": 241
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 635,
+          "airtime": 177
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "stations": [
+        {
+          "station": "BIG FM",
+          "adCount": 433,
+          "airtime": 132
+        },
+        {
+          "station": "ISHQ FM",
+          "adCount": 148,
+          "airtime": 38
+        },
+        {
+          "station": "MYFM",
+          "adCount": 979,
+          "airtime": 257
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 694,
+          "airtime": 198
+        }
+      ]
+    }
+  ]
+}

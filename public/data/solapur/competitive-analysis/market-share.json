@@ -1,0 +1,1851 @@
+{
+  "stations": [
+    {
+      "station": "BIG FM",
+      "sectors": [
+        {
+          "name": "ANIMAL HUSBANDRY",
+          "marketShare": 108,
+          "categories": [
+            {
+              "name": "CATTLE FEED",
+              "marketShare": 72,
+              "brands": [
+                {
+                  "name": "KAPILA PASHU AAHAR",
+                  "marketShare": 36
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AUTOMOBILE",
+          "marketShare": 210,
+          "categories": [
+            {
+              "name": "AUTOMOBILE-LUBRICANTS",
+              "marketShare": 140,
+              "brands": [
+                {
+                  "name": "HP",
+                  "marketShare": 70
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CONSUMER DURABLE",
+          "marketShare": 417,
+          "categories": [
+            {
+              "name": "CONSUMER DURABLE-HOME SECURITY",
+              "marketShare": 278,
+              "brands": [
+                {
+                  "name": "GODREJ",
+                  "marketShare": 139
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOTCOM",
+          "marketShare": 336,
+          "categories": [
+            {
+              "name": "DIGITAL PLATFORM",
+              "marketShare": 224,
+              "brands": [
+                {
+                  "name": "BIGLIVE",
+                  "marketShare": 112
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EDUCATION",
+          "marketShare": 465,
+          "categories": [
+            {
+              "name": "HIGHER EDUCATION",
+              "marketShare": 310,
+              "brands": [
+                {
+                  "name": "AMBALIKA INSTITUTE",
+                  "marketShare": 1
+                },
+                {
+                  "name": "DR. J. J. MAGDUM COLLEGE OF ENGINEERING",
+                  "marketShare": 71
+                },
+                {
+                  "name": "RAJARAMBAPU INSTITUTE OF TECHNOLOGY",
+                  "marketShare": 66
+                },
+                {
+                  "name": "VVP INSTITUTE",
+                  "marketShare": 17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ENTERTAINMENT",
+          "marketShare": 63,
+          "categories": [
+            {
+              "name": "RADIO",
+              "marketShare": 42,
+              "brands": [
+                {
+                  "name": "BIG FM",
+                  "marketShare": 2
+                },
+                {
+                  "name": "RJ RANI",
+                  "marketShare": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "marketShare": 573,
+          "categories": [
+            {
+              "name": "BANKING&FINANCE",
+              "marketShare": 266,
+              "brands": [
+                {
+                  "name": "CANARA BANK",
+                  "marketShare": 101
+                },
+                {
+                  "name": "PUNJAB NATIONAL BANK",
+                  "marketShare": 18
+                },
+                {
+                  "name": "PUNJAB NATIONAL BANK(PNB)",
+                  "marketShare": 10
+                },
+                {
+                  "name": "RBI",
+                  "marketShare": 4
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-INSURANCE",
+              "marketShare": 100,
+              "brands": [
+                {
+                  "name": "LIC",
+                  "marketShare": 50
+                }
+              ]
+            },
+            {
+              "name": "FINANCIAL AWARENESS",
+              "marketShare": 16,
+              "brands": [
+                {
+                  "name": "RBI",
+                  "marketShare": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FMCG",
+          "marketShare": 1344,
+          "categories": [
+            {
+              "name": "FACE CARE",
+              "marketShare": 44,
+              "brands": [
+                {
+                  "name": "ROOP MANTRA",
+                  "marketShare": 22
+                }
+              ]
+            },
+            {
+              "name": "FOOD&BEVERAGES",
+              "marketShare": 852,
+              "brands": [
+                {
+                  "name": "ANNAPURNA MITHAI",
+                  "marketShare": 104
+                },
+                {
+                  "name": "SAFAL STORE",
+                  "marketShare": 1
+                },
+                {
+                  "name": "SAKAS",
+                  "marketShare": 6
+                },
+                {
+                  "name": "SAKAS DINK LADDU",
+                  "marketShare": 11
+                },
+                {
+                  "name": "SAKAS KALAKAND",
+                  "marketShare": 11
+                },
+                {
+                  "name": "SAKAS KANDI PEDHA",
+                  "marketShare": 20
+                },
+                {
+                  "name": "SAKAS MANGO BARFI",
+                  "marketShare": 19
+                },
+                {
+                  "name": "SAKAS MYSORE PAK",
+                  "marketShare": 10
+                },
+                {
+                  "name": "SIDDHI AYURVEDA",
+                  "marketShare": 244
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GOVERNMENT",
+          "marketShare": 39,
+          "categories": [
+            {
+              "name": "PUBLIC SERVICES AD",
+              "marketShare": 26,
+              "brands": [
+                {
+                  "name": "GOVERNMENT OF MAHARASHTRA",
+                  "marketShare": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HEALTHCARE",
+          "marketShare": 1362,
+          "categories": [
+            {
+              "name": "DIGESTIVE-HEALTH",
+              "marketShare": 178,
+              "brands": [
+                {
+                  "name": "PET SAFFA",
+                  "marketShare": 89
+                }
+              ]
+            },
+            {
+              "name": "HEALTH SUPPLEMENT",
+              "marketShare": 2,
+              "brands": [
+                {
+                  "name": "DR ORTHO",
+                  "marketShare": 1
+                }
+              ]
+            },
+            {
+              "name": "HEALTH-AWARENESS",
+              "marketShare": 12,
+              "brands": [
+                {
+                  "name": "RAUT HOSPITA",
+                  "marketShare": 6
+                }
+              ]
+            },
+            {
+              "name": "PHARMACEUTICALS",
+              "marketShare": 536,
+              "brands": [
+                {
+                  "name": "DAVA INDIA",
+                  "marketShare": 212
+                },
+                {
+                  "name": "DR ORTHO",
+                  "marketShare": 37
+                },
+                {
+                  "name": "SACHI SAHELI",
+                  "marketShare": 19
+                }
+              ]
+            },
+            {
+              "name": "SERVICES-MEDICAL",
+              "marketShare": 180,
+              "brands": [
+                {
+                  "name": "ASHWINI HOSPITALS",
+                  "marketShare": 34
+                },
+                {
+                  "name": "GUNJOTIKAR HOSPITAL",
+                  "marketShare": 14
+                },
+                {
+                  "name": "RAUT HOSPITAL",
+                  "marketShare": 42
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HOME FURNISHING",
+          "marketShare": 477,
+          "categories": [
+            {
+              "name": "HOME FURNISHING PRODUCTS",
+              "marketShare": 318,
+              "brands": [
+                {
+                  "name": "BIRLA FURNITURE HOUSE",
+                  "marketShare": 159
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIFESTYLE",
+          "marketShare": 2574,
+          "categories": [
+            {
+              "name": "ACCESSORIES-JEWELLERY",
+              "marketShare": 582,
+              "brands": [
+                {
+                  "name": "CHANDU KAKA SARAF JEWELLERS",
+                  "marketShare": 78
+                },
+                {
+                  "name": "MALABAR GOLD&DAIMOND",
+                  "marketShare": 54
+                },
+                {
+                  "name": "PNG JEWELLERS",
+                  "marketShare": 89
+                },
+                {
+                  "name": "PURSHOTTAM NARAYAN JEWELLARS",
+                  "marketShare": 1
+                },
+                {
+                  "name": "SHINGAVI JWELLERS",
+                  "marketShare": 69
+                }
+              ]
+            },
+            {
+              "name": "ACCESSORY-JEWELLERY",
+              "marketShare": 20,
+              "brands": [
+                {
+                  "name": "SHIVANI JEWELLERS",
+                  "marketShare": 10
+                }
+              ]
+            },
+            {
+              "name": "CLOTHING",
+              "marketShare": 1114,
+              "brands": [
+                {
+                  "name": "BHARADIYA SAREES",
+                  "marketShare": 61
+                },
+                {
+                  "name": "CHANDNI SAREES",
+                  "marketShare": 73
+                },
+                {
+                  "name": "LAHOTI SAREES",
+                  "marketShare": 77
+                },
+                {
+                  "name": "R.S.MOGALE SAREE",
+                  "marketShare": 104
+                },
+                {
+                  "name": "SHREE DOOTH SAREES",
+                  "marketShare": 228
+                },
+                {
+                  "name": "SRI DHOOT SAREES",
+                  "marketShare": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RETAIL",
+          "marketShare": 363,
+          "categories": [
+            {
+              "name": "EXCLUSIVE APPAREL",
+              "marketShare": 138,
+              "brands": [
+                {
+                  "name": "MULTANI",
+                  "marketShare": 69
+                }
+              ]
+            },
+            {
+              "name": "MALL",
+              "marketShare": 82,
+              "brands": [
+                {
+                  "name": "VIRAAT MALL",
+                  "marketShare": 41
+                }
+              ]
+            },
+            {
+              "name": "SUPERMARKET",
+              "marketShare": 22,
+              "brands": [
+                {
+                  "name": "NRI MART",
+                  "marketShare": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TRAVEL&TOURISM",
+          "marketShare": 141,
+          "categories": [
+            {
+              "name": "RELIGIOUS TRAVEL",
+              "marketShare": 94,
+              "brands": [
+                {
+                  "name": "SOMNATH KAKA RAGHUPALE YOUTH FOUNDATION",
+                  "marketShare": 47
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "station": "ISHQ FM",
+      "sectors": [
+        {
+          "name": "AUTOMOBILE",
+          "marketShare": 330,
+          "categories": [
+            {
+              "name": "AUTOMOBILE-TWO WHEELER",
+              "marketShare": 220,
+              "brands": [
+                {
+                  "name": "ADARSH SUZUKI",
+                  "marketShare": 110
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "marketShare": 87,
+          "categories": [
+            {
+              "name": "BANKING&FINANCE",
+              "marketShare": 22,
+              "brands": [
+                {
+                  "name": "RBI",
+                  "marketShare": 11
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-INSURANCE",
+              "marketShare": 36,
+              "brands": [
+                {
+                  "name": "GOVERNMENT OF INDIA",
+                  "marketShare": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GOVERNMENT",
+          "marketShare": 39,
+          "categories": [
+            {
+              "name": "PUBLIC SERVICES AD",
+              "marketShare": 26,
+              "brands": [
+                {
+                  "name": "GOVERNMENT OF MAHARASHTRA",
+                  "marketShare": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "INDUSTRIAL",
+          "marketShare": 102,
+          "categories": [
+            {
+              "name": "BUILDING MATERIALS",
+              "marketShare": 68,
+              "brands": [
+                {
+                  "name": "PRABHAKAR STEELS",
+                  "marketShare": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIFESTYLE",
+          "marketShare": 1551,
+          "categories": [
+            {
+              "name": "ACCESSORIES-JEWELLERY",
+              "marketShare": 232,
+              "brands": [
+                {
+                  "name": "GANESH RAMCHANDRA JEWELLERS",
+                  "marketShare": 35
+                },
+                {
+                  "name": "SHINGAVI JWELLERS",
+                  "marketShare": 75
+                },
+                {
+                  "name": "SHUDHOHAM JEWELLERS",
+                  "marketShare": 6
+                }
+              ]
+            },
+            {
+              "name": "CLOTHING",
+              "marketShare": 752,
+              "brands": [
+                {
+                  "name": "CHANDNI SILK",
+                  "marketShare": 70
+                },
+                {
+                  "name": "CHATLA SAREE CENTRE",
+                  "marketShare": 10
+                },
+                {
+                  "name": "LAHOTI SAREES",
+                  "marketShare": 68
+                },
+                {
+                  "name": "V R PAWAR SAREES",
+                  "marketShare": 228
+                }
+              ]
+            },
+            {
+              "name": "LUGGAGE&TRAVEL BAGS",
+              "marketShare": 50,
+              "brands": [
+                {
+                  "name": "ABHINANDAN BY AARTI BAGS N MORE",
+                  "marketShare": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "REAL ESTATE",
+          "marketShare": 660,
+          "categories": [
+            {
+              "name": "PROPERTY-HOSUING",
+              "marketShare": 140,
+              "brands": [
+                {
+                  "name": "YASH DEVELOPERS",
+                  "marketShare": 70
+                }
+              ]
+            },
+            {
+              "name": "PROPERTY-HOUSING",
+              "marketShare": 300,
+              "brands": [
+                {
+                  "name": "MAULI LANDMARK",
+                  "marketShare": 150
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TRAVEL&TOURISM",
+          "marketShare": 27,
+          "categories": [
+            {
+              "name": "RELIGIOUS TRAVEL",
+              "marketShare": 18,
+              "brands": [
+                {
+                  "name": "SOMNATH KAKA RAGHUPALE YOUTH FOUNDATION",
+                  "marketShare": 9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "station": "MYFM",
+      "sectors": [
+        {
+          "name": "AUTOMOBILE",
+          "marketShare": 678,
+          "categories": [
+            {
+              "name": "AUTOMOBILE-CARS",
+              "marketShare": 174,
+              "brands": [
+                {
+                  "name": "PADMJA MOTORS",
+                  "marketShare": 84
+                },
+                {
+                  "name": "TATA MOTORS",
+                  "marketShare": 3
+                }
+              ]
+            },
+            {
+              "name": "AUTOMOBILE-TWO-WHEELER",
+              "marketShare": 278,
+              "brands": [
+                {
+                  "name": "TVS SHOWROOM",
+                  "marketShare": 139
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CONSUMER DURABLE",
+          "marketShare": 1290,
+          "categories": [
+            {
+              "name": "CONSUMER DURABLE-ELECTRONICS",
+              "marketShare": 844,
+              "brands": [
+                {
+                  "name": "PHONEWALE",
+                  "marketShare": 208
+                },
+                {
+                  "name": "RELIANCE DIGITAL",
+                  "marketShare": 214
+                }
+              ]
+            },
+            {
+              "name": "CONSUMER DURABLE-HOME APPLIANCES",
+              "marketShare": 16,
+              "brands": [
+                {
+                  "name": "MYCROFINE",
+                  "marketShare": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOTCOM",
+          "marketShare": 642,
+          "categories": [
+            {
+              "name": "ONLINE FASHION SALE",
+              "marketShare": 428,
+              "brands": [
+                {
+                  "name": "AJIO",
+                  "marketShare": 214
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EDUCATION",
+          "marketShare": 2418,
+          "categories": [
+            {
+              "name": "EDUCATION",
+              "marketShare": 10,
+              "brands": [
+                {
+                  "name": "DADASAHEB KURE INSTITUTE OF TECHNOLOGY",
+                  "marketShare": 4
+                },
+                {
+                  "name": "PVPIT",
+                  "marketShare": 1
+                }
+              ]
+            },
+            {
+              "name": "HIGHER EDUCATION",
+              "marketShare": 1128,
+              "brands": [
+                {
+                  "name": "ADSUL EDUCATIONAL CAMPUS",
+                  "marketShare": 208
+                },
+                {
+                  "name": "BHARATI VIDYAPEETH",
+                  "marketShare": 60
+                },
+                {
+                  "name": "DR VIKHE PATIL COLLEGE",
+                  "marketShare": 77
+                },
+                {
+                  "name": "L&R UNIVERSITY",
+                  "marketShare": 26
+                },
+                {
+                  "name": "MGM INSTITUTE OF BIOSCIENCE&BIOTECH",
+                  "marketShare": 30
+                },
+                {
+                  "name": "N.K ORCHID COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                  "marketShare": 107
+                },
+                {
+                  "name": "PADMABHOOSHAN VASANTRAODADA PATIL INSTITUTE OF TECHNOLOGY (PVPIT)",
+                  "marketShare": 1
+                },
+                {
+                  "name": "TKIET",
+                  "marketShare": 25
+                },
+                {
+                  "name": "VVP INSTITUTE OF ENGINEERING",
+                  "marketShare": 30
+                }
+              ]
+            },
+            {
+              "name": "UNIVERSITY",
+              "marketShare": 474,
+              "brands": [
+                {
+                  "name": "ALARD UNIVERSITY",
+                  "marketShare": 34
+                },
+                {
+                  "name": "D.Y. PATIL AGRICULTURE AND TECHNICAL UNIVERSITY",
+                  "marketShare": 63
+                },
+                {
+                  "name": "MIT VISHWAPRAYAG UNIVERSITY",
+                  "marketShare": 140
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ENTERTAINMENT",
+          "marketShare": 318,
+          "categories": [
+            {
+              "name": "RADIO",
+              "marketShare": 212,
+              "brands": [
+                {
+                  "name": "CRICKET MAHA CONTEST",
+                  "marketShare": 67
+                },
+                {
+                  "name": "MY FM",
+                  "marketShare": 35
+                },
+                {
+                  "name": "RADIO CITY",
+                  "marketShare": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "marketShare": 2595,
+          "categories": [
+            {
+              "name": "BANKING&FINANCE",
+              "marketShare": 524,
+              "brands": [
+                {
+                  "name": "CANARA BANK",
+                  "marketShare": 18
+                },
+                {
+                  "name": "COSMOS BANK",
+                  "marketShare": 27
+                },
+                {
+                  "name": "JYOTIKRANTI MULTISTATE",
+                  "marketShare": 97
+                },
+                {
+                  "name": "NILKANTH CO-OP BANK LIMITED",
+                  "marketShare": 80
+                },
+                {
+                  "name": "RBI",
+                  "marketShare": 12
+                },
+                {
+                  "name": "SHARE SPOT FINANCIAL SERVICES LLP",
+                  "marketShare": 28
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-INSURANCE",
+              "marketShare": 98,
+              "brands": [
+                {
+                  "name": "LIC",
+                  "marketShare": 49
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-LOAN",
+              "marketShare": 2,
+              "brands": [
+                {
+                  "name": "NDVS BANK",
+                  "marketShare": 1
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-LOANS",
+              "marketShare": 1106,
+              "brands": [
+                {
+                  "name": "LOKMANYA MULTIPROPOSE CO-OP SOCIETY",
+                  "marketShare": 6
+                },
+                {
+                  "name": "MAS FINANCIAL SERVICES LTD",
+                  "marketShare": 215
+                },
+                {
+                  "name": "PIRAMAL FINANCE",
+                  "marketShare": 242
+                },
+                {
+                  "name": "SBI",
+                  "marketShare": 13
+                },
+                {
+                  "name": "SBI KISAN CREDIT CARD (KCC)",
+                  "marketShare": 77
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FMCG",
+          "marketShare": 2247,
+          "categories": [
+            {
+              "name": "BABY CARE",
+              "marketShare": 110,
+              "brands": [
+                {
+                  "name": "LOOM",
+                  "marketShare": 55
+                }
+              ]
+            },
+            {
+              "name": "FACE CARE",
+              "marketShare": 84,
+              "brands": [
+                {
+                  "name": "ROOP MANTRA",
+                  "marketShare": 42
+                }
+              ]
+            },
+            {
+              "name": "FOOD&BEVERAGES",
+              "marketShare": 978,
+              "brands": [
+                {
+                  "name": "ANNAPURNA MITHAI",
+                  "marketShare": 315
+                },
+                {
+                  "name": "CAMEL SAGO",
+                  "marketShare": 105
+                },
+                {
+                  "name": "WARANA",
+                  "marketShare": 69
+                }
+              ]
+            },
+            {
+              "name": "HYGIENE PRODUCTS",
+              "marketShare": 320,
+              "brands": [
+                {
+                  "name": "VELORA",
+                  "marketShare": 160
+                }
+              ]
+            },
+            {
+              "name": "PERSONAL CARE",
+              "marketShare": 6,
+              "brands": [
+                {
+                  "name": "BARVA SKIN THERAPIE",
+                  "marketShare": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GOVERNMENT",
+          "marketShare": 117,
+          "categories": [
+            {
+              "name": "PUBLIC SERVICES AD",
+              "marketShare": 78,
+              "brands": [
+                {
+                  "name": "BHARTIYA MANAK BUREAU",
+                  "marketShare": 2
+                },
+                {
+                  "name": "GOVERNMENT OF MAHARASHTRA",
+                  "marketShare": 11
+                },
+                {
+                  "name": "GOVT OF MAHARASHTRA",
+                  "marketShare": 1
+                },
+                {
+                  "name": "INDIAN NAVY",
+                  "marketShare": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HEALTHCARE",
+          "marketShare": 1563,
+          "categories": [
+            {
+              "name": "DIGESTIVE-HEALTH",
+              "marketShare": 356,
+              "brands": [
+                {
+                  "name": "PET SAFFA",
+                  "marketShare": 178
+                }
+              ]
+            },
+            {
+              "name": "HEALTH-AWARENESS",
+              "marketShare": 18,
+              "brands": [
+                {
+                  "name": "DR BABLADI",
+                  "marketShare": 2
+                },
+                {
+                  "name": "DR JYOTI VIKAR ROKADE",
+                  "marketShare": 1
+                },
+                {
+                  "name": "DR MILIND SHAH",
+                  "marketShare": 2
+                },
+                {
+                  "name": "ORTHO SAMADHAN \u2013 DR. SHREY SINGH",
+                  "marketShare": 4
+                }
+              ]
+            },
+            {
+              "name": "HEALTH-SERVICES",
+              "marketShare": 8,
+              "brands": [
+                {
+                  "name": "DR KIRAN",
+                  "marketShare": 4
+                }
+              ]
+            },
+            {
+              "name": "HEALTHCARE-SERVICES",
+              "marketShare": 40,
+              "brands": [
+                {
+                  "name": "BHARAT SERUMS",
+                  "marketShare": 20
+                }
+              ]
+            },
+            {
+              "name": "PHARMACEUTICALS",
+              "marketShare": 260,
+              "brands": [
+                {
+                  "name": "DR ORTHO",
+                  "marketShare": 60
+                },
+                {
+                  "name": "SACHI SAHELI",
+                  "marketShare": 36
+                },
+                {
+                  "name": "SHREE DHOOTAPAPESHWAR LIMITED",
+                  "marketShare": 34
+                }
+              ]
+            },
+            {
+              "name": "SERVICES-MEDICAL",
+              "marketShare": 360,
+              "brands": [
+                {
+                  "name": "DR. CHINCHOLI'S GASTRO AND LIVER CLINIC",
+                  "marketShare": 16
+                },
+                {
+                  "name": "DR. SANTOSH KHUBA HEMATE CLINIC",
+                  "marketShare": 9
+                },
+                {
+                  "name": "DR. SANTOSH KHUBA HIMAT CLINIC",
+                  "marketShare": 25
+                },
+                {
+                  "name": "GENERICART",
+                  "marketShare": 49
+                },
+                {
+                  "name": "MITHANSHU HOSPITAL",
+                  "marketShare": 30
+                },
+                {
+                  "name": "NITANSHU HOSPITAL",
+                  "marketShare": 5
+                },
+                {
+                  "name": "RAUT HOSPITAL",
+                  "marketShare": 40
+                },
+                {
+                  "name": "SHRADHHA AYURVED CENTRE",
+                  "marketShare": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HOME FURNISHING",
+          "marketShare": 294,
+          "categories": [
+            {
+              "name": "HOME FURNISHING PRODUCTS",
+              "marketShare": 196,
+              "brands": [
+                {
+                  "name": "SPACE DECOR FURNITURE",
+                  "marketShare": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HOSPITALITY",
+          "marketShare": 930,
+          "categories": [
+            {
+              "name": "CAFE",
+              "marketShare": 502,
+              "brands": [
+                {
+                  "name": "CAFE CATINA",
+                  "marketShare": 251
+                }
+              ]
+            },
+            {
+              "name": "HOTEL",
+              "marketShare": 118,
+              "brands": [
+                {
+                  "name": "HOTEL ORIENT LIGHT",
+                  "marketShare": 15
+                },
+                {
+                  "name": "ROOF TOP SKYLON",
+                  "marketShare": 15
+                },
+                {
+                  "name": "SURYA HOTEL",
+                  "marketShare": 29
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "INDUSTRIAL",
+          "marketShare": 1431,
+          "categories": [
+            {
+              "name": "BUILDING MATERIALS",
+              "marketShare": 800,
+              "brands": [
+                {
+                  "name": "ACC CEMENT",
+                  "marketShare": 15
+                },
+                {
+                  "name": "AMBUJA CEMENT",
+                  "marketShare": 18
+                },
+                {
+                  "name": "DURASHINE",
+                  "marketShare": 161
+                },
+                {
+                  "name": "VARMORA GRANITO PVT. LTD.",
+                  "marketShare": 206
+                }
+              ]
+            },
+            {
+              "name": "CONSTRUCTION",
+              "marketShare": 112,
+              "brands": [
+                {
+                  "name": "GUBBI PAINTS",
+                  "marketShare": 56
+                }
+              ]
+            },
+            {
+              "name": "EQUIPMENT",
+              "marketShare": 42,
+              "brands": [
+                {
+                  "name": "BHARAT PAINT COMPANY",
+                  "marketShare": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIFESTYLE",
+          "marketShare": 3834,
+          "categories": [
+            {
+              "name": "ACCESSORIES-JEWELLERY",
+              "marketShare": 860,
+              "brands": [
+                {
+                  "name": "GANESH RAMACHANDRA APTE",
+                  "marketShare": 20
+                },
+                {
+                  "name": "KARAJGIKAR JWELLERS",
+                  "marketShare": 70
+                },
+                {
+                  "name": "MALABAR GOLD&DAIMOND",
+                  "marketShare": 56
+                },
+                {
+                  "name": "PNG JEWELLERS",
+                  "marketShare": 68
+                },
+                {
+                  "name": "SHINGVI JEWELLERS VIP",
+                  "marketShare": 62
+                },
+                {
+                  "name": "SHREE SAMARTH JEWELLERS",
+                  "marketShare": 96
+                },
+                {
+                  "name": "SHUDHHOHUM JWELLERS",
+                  "marketShare": 58
+                }
+              ]
+            },
+            {
+              "name": "CLOTHING",
+              "marketShare": 1286,
+              "brands": [
+                {
+                  "name": "CHANDANI SILK",
+                  "marketShare": 68
+                },
+                {
+                  "name": "CHATLA",
+                  "marketShare": 52
+                },
+                {
+                  "name": "CHATLA SAREE CENTER",
+                  "marketShare": 81
+                },
+                {
+                  "name": "DARBI",
+                  "marketShare": 68
+                },
+                {
+                  "name": "LINEN CLUB",
+                  "marketShare": 96
+                },
+                {
+                  "name": "MOGLE SAREES",
+                  "marketShare": 170
+                },
+                {
+                  "name": "V.R. PAWAR SAREE SALE",
+                  "marketShare": 101
+                },
+                {
+                  "name": "VARMORA",
+                  "marketShare": 7
+                }
+              ]
+            },
+            {
+              "name": "FOOTWEAR",
+              "marketShare": 410,
+              "brands": [
+                {
+                  "name": "PARAGON",
+                  "marketShare": 205
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "REAL ESTATE",
+          "marketShare": 1893,
+          "categories": [
+            {
+              "name": "PROPERTY-COMMERCIAL",
+              "marketShare": 556,
+              "brands": [
+                {
+                  "name": "SOMNATH HEIGHTS",
+                  "marketShare": 278
+                }
+              ]
+            },
+            {
+              "name": "PROPERTY-HOUSING",
+              "marketShare": 706,
+              "brands": [
+                {
+                  "name": "ASHA NAGAR SALE",
+                  "marketShare": 5
+                },
+                {
+                  "name": "KIMAYA GROUPS",
+                  "marketShare": 279
+                },
+                {
+                  "name": "YASH DEVELOPERS",
+                  "marketShare": 69
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RENEWABLE ENERGY",
+          "marketShare": 642,
+          "categories": [
+            {
+              "name": "SOLAR ENERGY",
+              "marketShare": 428,
+              "brands": [
+                {
+                  "name": "ECE SOLAR",
+                  "marketShare": 1
+                },
+                {
+                  "name": "RAYZON SOLAR",
+                  "marketShare": 213
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "station": "RADIO CITY",
+      "sectors": [
+        {
+          "name": "AGRICULTURE",
+          "marketShare": 246,
+          "categories": [
+            {
+              "name": "AGRIBUSINESS",
+              "marketShare": 164,
+              "brands": [
+                {
+                  "name": "GREEN HARVEST",
+                  "marketShare": 2
+                },
+                {
+                  "name": "NATURE CARE FERTILIZERS PVT LTD",
+                  "marketShare": 40
+                },
+                {
+                  "name": "SYNWOOD AGRO LIMITED",
+                  "marketShare": 30
+                },
+                {
+                  "name": "TEXT TUB",
+                  "marketShare": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AUTOMOBILE",
+          "marketShare": 357,
+          "categories": [
+            {
+              "name": "AUTOMOBILE-CARS",
+              "marketShare": 238,
+              "brands": [
+                {
+                  "name": "HYUNDAI",
+                  "marketShare": 119
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CONSUMER DURABLE",
+          "marketShare": 111,
+          "categories": [
+            {
+              "name": "CONSUMER DURABLE-HOME SECURITY",
+              "marketShare": 74,
+              "brands": [
+                {
+                  "name": "GODREJ",
+                  "marketShare": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EDUCATION",
+          "marketShare": 1698,
+          "categories": [
+            {
+              "name": "CERTIFICATION",
+              "marketShare": 20,
+              "brands": [
+                {
+                  "name": "ICAI",
+                  "marketShare": 10
+                }
+              ]
+            },
+            {
+              "name": "HIGHER EDUCATION",
+              "marketShare": 1032,
+              "brands": [
+                {
+                  "name": "ANNASAHEB DANGE COLLEGE",
+                  "marketShare": 56
+                },
+                {
+                  "name": "APPASAHEB ALIAS SA.RE.PATIL INSTITUTE",
+                  "marketShare": 150
+                },
+                {
+                  "name": "DKTE COLLEGE",
+                  "marketShare": 35
+                },
+                {
+                  "name": "GODAVARI COLLEGE",
+                  "marketShare": 116
+                },
+                {
+                  "name": "V.P. INSTITUTE",
+                  "marketShare": 1
+                },
+                {
+                  "name": "VISHVESHWARYA TECHNICAL CAMPUS",
+                  "marketShare": 150
+                },
+                {
+                  "name": "VVP INSTITUTE",
+                  "marketShare": 8
+                }
+              ]
+            },
+            {
+              "name": "UNIVERSITY",
+              "marketShare": 80,
+              "brands": [
+                {
+                  "name": "AMITY UNIVERSITY",
+                  "marketShare": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ENTERTAINMENT",
+          "marketShare": 3351,
+          "categories": [
+            {
+              "name": "ENTERTAINMENT-MUSIC",
+              "marketShare": 216,
+              "brands": [
+                {
+                  "name": "MUZAK DISCO",
+                  "marketShare": 108
+                }
+              ]
+            },
+            {
+              "name": "OTT STREAMING",
+              "marketShare": 396,
+              "brands": [
+                {
+                  "name": "JIO TV APP",
+                  "marketShare": 30
+                },
+                {
+                  "name": "RC SWAPPR",
+                  "marketShare": 168
+                }
+              ]
+            },
+            {
+              "name": "RADIO",
+              "marketShare": 1622,
+              "brands": [
+                {
+                  "name": "RADIO CITY",
+                  "marketShare": 811
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "marketShare": 2229,
+          "categories": [
+            {
+              "name": "BANKING&FINANCE",
+              "marketShare": 424,
+              "brands": [
+                {
+                  "name": "CANARA BANK",
+                  "marketShare": 179
+                },
+                {
+                  "name": "RBI",
+                  "marketShare": 33
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-INSURANCE",
+              "marketShare": 96,
+              "brands": [
+                {
+                  "name": "LIC",
+                  "marketShare": 48
+                }
+              ]
+            },
+            {
+              "name": "FINANCE-LOANS",
+              "marketShare": 592,
+              "brands": [
+                {
+                  "name": "BULDANA URBAN COOPERATIVE CREDIT SOCIETY",
+                  "marketShare": 200
+                },
+                {
+                  "name": "CANARA BANK",
+                  "marketShare": 6
+                },
+                {
+                  "name": "SBI",
+                  "marketShare": 90
+                }
+              ]
+            },
+            {
+              "name": "FINANCIAL AWARENESS",
+              "marketShare": 96,
+              "brands": [
+                {
+                  "name": "SHARE SPOT",
+                  "marketShare": 48
+                }
+              ]
+            },
+            {
+              "name": "FINANCIAL SERVICES",
+              "marketShare": 278,
+              "brands": [
+                {
+                  "name": "JYOTI KRANTI MULTI STATE CO-OP CREDIT SOCIETY LTD",
+                  "marketShare": 139
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FMCG",
+          "marketShare": 1161,
+          "categories": [
+            {
+              "name": "BEAUTY CARE",
+              "marketShare": 232,
+              "brands": [
+                {
+                  "name": "BARVA SKIN",
+                  "marketShare": 116
+                }
+              ]
+            },
+            {
+              "name": "CONFECTIONERY",
+              "marketShare": 168,
+              "brands": [
+                {
+                  "name": "TIWADI'S ANNAPURNA MITHAI",
+                  "marketShare": 84
+                }
+              ]
+            },
+            {
+              "name": "HAIR CARE",
+              "marketShare": 60,
+              "brands": [
+                {
+                  "name": "GARNIER",
+                  "marketShare": 30
+                }
+              ]
+            },
+            {
+              "name": "SPICES",
+              "marketShare": 314,
+              "brands": [
+                {
+                  "name": "GHARKUL",
+                  "marketShare": 157
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GOVERNMENT",
+          "marketShare": 465,
+          "categories": [
+            {
+              "name": "PUBLIC SERVICES AD",
+              "marketShare": 310,
+              "brands": [
+                {
+                  "name": "GOVERNMENT OF MAHARASHTRA",
+                  "marketShare": 135
+                },
+                {
+                  "name": "NTPC",
+                  "marketShare": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HEALTHCARE",
+          "marketShare": 519,
+          "categories": [
+            {
+              "name": "HEALTH-AWARENESS",
+              "marketShare": 2,
+              "brands": [
+                {
+                  "name": "DR CHANDRAKANT KAR",
+                  "marketShare": 1
+                }
+              ]
+            },
+            {
+              "name": "HOSPITAL",
+              "marketShare": 302,
+              "brands": [
+                {
+                  "name": "NINE PEARLS HOSPITAL",
+                  "marketShare": 151
+                }
+              ]
+            },
+            {
+              "name": "SERVICES-MEDICAL",
+              "marketShare": 42,
+              "brands": [
+                {
+                  "name": "HORIZON HOSPITAL",
+                  "marketShare": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HOME FURNISHING",
+          "marketShare": 114,
+          "categories": [
+            {
+              "name": "HOME FURNISHING PRODUCTS",
+              "marketShare": 76,
+              "brands": [
+                {
+                  "name": "BIRLA FURNITURE HOUSE",
+                  "marketShare": 38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HOSPITALITY",
+          "marketShare": 207,
+          "categories": [
+            {
+              "name": "STUDENT ACCOMMODATION",
+              "marketShare": 138,
+              "brands": [
+                {
+                  "name": "NARAYANI",
+                  "marketShare": 69
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "INDUSTRIAL",
+          "marketShare": 654,
+          "categories": [
+            {
+              "name": "BUILDING MATERIALS",
+              "marketShare": 280,
+              "brands": [
+                {
+                  "name": "SUDHAN POLYMERS-KAJARIA GALAXY",
+                  "marketShare": 140
+                }
+              ]
+            },
+            {
+              "name": "CHEMICAL",
+              "marketShare": 156,
+              "brands": [
+                {
+                  "name": "LAXMI CHEMICAL PVT LTD",
+                  "marketShare": 78
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIFESTYLE",
+          "marketShare": 3114,
+          "categories": [
+            {
+              "name": "ACCESSORIES-JEWELLERY",
+              "marketShare": 1014,
+              "brands": [
+                {
+                  "name": "CHANDU KAKA SARAF JEWELLERS",
+                  "marketShare": 79
+                },
+                {
+                  "name": "MALABAR GOLD&DAIMOND",
+                  "marketShare": 54
+                },
+                {
+                  "name": "PNG JEWELLERS",
+                  "marketShare": 92
+                },
+                {
+                  "name": "PURUSHOTTAM NARAYAN GADGIL (PNG)",
+                  "marketShare": 172
+                },
+                {
+                  "name": "SHINGVI JEWELLERS VIP",
+                  "marketShare": 60
+                },
+                {
+                  "name": "TANISHQ JEWELLERY",
+                  "marketShare": 50
+                }
+              ]
+            },
+            {
+              "name": "ACCESSORIES-RETAIL",
+              "marketShare": 32,
+              "brands": [
+                {
+                  "name": "TITAN",
+                  "marketShare": 16
+                }
+              ]
+            },
+            {
+              "name": "CLOTHING",
+              "marketShare": 1030,
+              "brands": [
+                {
+                  "name": "BHARADIYA",
+                  "marketShare": 70
+                },
+                {
+                  "name": "CHANDNI SILK",
+                  "marketShare": 70
+                },
+                {
+                  "name": "CHATLA",
+                  "marketShare": 166
+                },
+                {
+                  "name": "DARBI",
+                  "marketShare": 80
+                },
+                {
+                  "name": "LAHOTI SAREES",
+                  "marketShare": 29
+                },
+                {
+                  "name": "SHREE DHOOTH",
+                  "marketShare": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "REAL ESTATE",
+          "marketShare": 696,
+          "categories": [
+            {
+              "name": "PROPERTY-HOUSING",
+              "marketShare": 464,
+              "brands": [
+                {
+                  "name": "PANDURANG LAND DEVELOPER",
+                  "marketShare": 116
+                },
+                {
+                  "name": "SIDDHI VASTUPURAM",
+                  "marketShare": 116
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RENEWABLE ENERGY",
+          "marketShare": 60,
+          "categories": [
+            {
+              "name": "SOLAR ENERGY",
+              "marketShare": 40,
+              "brands": [
+                {
+                  "name": "ECE SOLAR",
+                  "marketShare": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "valueType": "count"
+}

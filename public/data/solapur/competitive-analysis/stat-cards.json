@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "RADIO CITY",
+        "ANNAPURNA MITHAI",
+        "CANARA BANK",
+        "KIMAYA GROUPS"
+      ],
+      "values": ["815", "419", "304", "279"]
+    },
+    {
+      "title": "Top Stations by Airtime",
+      "desc": "Radio stations with the most accumulated ad seconds",
+      "keys": [
+        "RADIO CITY",
+        "ANNAPURNA MITHAI",
+        "GOVERNMENT OF MAHARASHTRA",
+        "CANARA BANK"
+      ],
+      "values": ["24089", "7059", "6547", "6185"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["RADIO CITY", "MYFM", "ISHQ FM", "BIG FM"],
+      "values": ["4994", "6964", "932", "2824"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["RADIO CITY", "MYFM", "ISHQ FM", "BIG FM"],
+      "values": ["86516", "109351", "13827", "49570"]
+    }
+  ]
+}
