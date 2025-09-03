@@ -1,0 +1,518 @@
+{
+  "sectors": [
+    {
+      "name": "LIFESTYLE",
+      "color": "#0288D1"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "EDUCATION",
+      "color": "#D81B60"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "FMCG",
+      "color": "#F4511E"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#E91E63"
+    },
+    {
+      "name": "INDUSTRIAL",
+      "color": "#E91E63"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#43A047"
+    },
+    {
+      "name": "SERVICES",
+      "color": "#00ACC1"
+    },
+    {
+      "name": "HOUSEHOLD PRODUCTS",
+      "color": "#43A047"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#039BE5"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#43A047"
+    },
+    {
+      "name": "SHOPS",
+      "color": "#00897B"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#039BE5"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#F4511E"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#43A047"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "DOTCOM",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "TELECOMMUNICATION",
+      "color": "#00897B"
+    },
+    {
+      "name": "PUBLIC INTEREST",
+      "color": "#8E24AA"
+    }
+  ],
+  "data": [
+    {
+      "sector": "LIFESTYLE",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 561,
+          "airtime": 12699
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 513,
+          "airtime": 10906
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 52,
+          "airtime": 1221
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 432,
+          "airtime": 6589
+        }
+      ]
+    },
+    {
+      "sector": "HEALTHCARE",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 464,
+          "airtime": 8066
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 926,
+          "airtime": 16983
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 1571,
+          "airtime": 21862
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 957,
+          "airtime": 15035
+        }
+      ]
+    },
+    {
+      "sector": "EDUCATION",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 288,
+          "airtime": 6787
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 571,
+          "airtime": 16057
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 376,
+          "airtime": 10810
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 971,
+          "airtime": 28556
+        }
+      ]
+    },
+    {
+      "sector": "FINANCE",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 300,
+          "airtime": 6363
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 399,
+          "airtime": 6061
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 228,
+          "airtime": 5875
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 66,
+          "airtime": 2192
+        }
+      ]
+    },
+    {
+      "sector": "FMCG",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 240,
+          "airtime": 4872
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 261,
+          "airtime": 3497
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 339,
+          "airtime": 5079
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 50,
+          "airtime": 791
+        }
+      ]
+    },
+    {
+      "sector": "GOVERNMENT",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 98,
+          "airtime": 3033
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 222,
+          "airtime": 6060
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 14,
+          "airtime": 420
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 82,
+          "airtime": 2533
+        }
+      ]
+    },
+    {
+      "sector": "INDUSTRIAL",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 152,
+          "airtime": 1870
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 127,
+          "airtime": 1945
+        }
+      ]
+    },
+    {
+      "sector": "HOSPITALITY",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 76,
+          "airtime": 1798
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 40,
+          "airtime": 900
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 95,
+          "airtime": 2444
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 44,
+          "airtime": 748
+        }
+      ]
+    },
+    {
+      "sector": "AUTOMOBILE",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 56,
+          "airtime": 1152
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 323,
+          "airtime": 7902
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 128,
+          "airtime": 3316
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 197,
+          "airtime": 5634
+        }
+      ]
+    },
+    {
+      "sector": "ANIMAL HUSBANDRY",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 16,
+          "airtime": 640
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 35,
+          "airtime": 705
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 35,
+          "airtime": 700
+        }
+      ]
+    },
+    {
+      "sector": "HOME FURNISHING",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 41,
+          "airtime": 533
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 27,
+          "airtime": 594
+        }
+      ]
+    },
+    {
+      "sector": "SERVICES",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 10,
+          "airtime": 188
+        }
+      ]
+    },
+    {
+      "sector": "HOUSEHOLD PRODUCTS",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 32,
+          "airtime": 185
+        }
+      ]
+    },
+    {
+      "sector": "TRAVEL&TOURISM",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 4,
+          "airtime": 102
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 117,
+          "airtime": 3219
+        }
+      ]
+    },
+    {
+      "sector": "ENTERTAINMENT",
+      "stations": [
+        {
+          "station": "TOMATO FM",
+          "adCount": 2,
+          "airtime": 44
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 653,
+          "airtime": 18411
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 40,
+          "airtime": 1961
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 155,
+          "airtime": 3482
+        }
+      ]
+    },
+    {
+      "sector": "SHOPS",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 60,
+          "airtime": 1200
+        }
+      ]
+    },
+    {
+      "sector": "RETAIL",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 82,
+          "airtime": 1039
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 149,
+          "airtime": 2445
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 81,
+          "airtime": 1064
+        }
+      ]
+    },
+    {
+      "sector": "AGRICULTURE",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 30,
+          "airtime": 670
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 25,
+          "airtime": 500
+        }
+      ]
+    },
+    {
+      "sector": "CONSUMER DURABLE",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 28,
+          "airtime": 468
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 80,
+          "airtime": 1600
+        }
+      ]
+    },
+    {
+      "sector": "REAL ESTATE",
+      "stations": [
+        {
+          "station": "RADIO CITY",
+          "adCount": 19,
+          "airtime": 285
+        },
+        {
+          "station": "BIGFM",
+          "adCount": 72,
+          "airtime": 1740
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 94,
+          "airtime": 1618
+        }
+      ]
+    },
+    {
+      "sector": "DOTCOM",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 98,
+          "airtime": 4171
+        }
+      ]
+    },
+    {
+      "sector": "TELECOMMUNICATION",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 20,
+          "airtime": 440
+        }
+      ]
+    },
+    {
+      "sector": "PUBLIC INTEREST",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 24,
+          "airtime": 408
+        }
+      ]
+    }
+  ]
+}

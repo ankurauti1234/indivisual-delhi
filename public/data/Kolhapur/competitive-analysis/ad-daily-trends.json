@@ -1,0 +1,197 @@
+{
+  "stations": [
+    {
+      "name": "BIGFM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO MIRCHI",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "TOMATO FM",
+      "color": "#E91E63"
+    }
+  ],
+  "data": [
+    {
+      "date": "2025-07-01",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 507,
+          "airtime": 178
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 546,
+          "airtime": 207
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 479,
+          "airtime": 160
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 339,
+          "airtime": 118
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 516,
+          "airtime": 156
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 583,
+          "airtime": 215
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 488,
+          "airtime": 169
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 351,
+          "airtime": 118
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 426,
+          "airtime": 130
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 591,
+          "airtime": 227
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 495,
+          "airtime": 176
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 346,
+          "airtime": 116
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 435,
+          "airtime": 142
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 551,
+          "airtime": 214
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 435,
+          "airtime": 167
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 325,
+          "airtime": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 473,
+          "airtime": 159
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 684,
+          "airtime": 247
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 519,
+          "airtime": 189
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 342,
+          "airtime": 119
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 454,
+          "airtime": 158
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 636,
+          "airtime": 220
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 411,
+          "airtime": 153
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 315,
+          "airtime": 110
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "stations": [
+        {
+          "station": "BIGFM",
+          "adCount": 455,
+          "airtime": 129
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 680,
+          "airtime": 237
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 544,
+          "airtime": 191
+        },
+        {
+          "station": "TOMATO FM",
+          "adCount": 322,
+          "airtime": 108
+        }
+      ]
+    }
+  ]
+}

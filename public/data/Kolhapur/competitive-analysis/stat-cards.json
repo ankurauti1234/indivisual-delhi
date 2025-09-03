@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "KIMS-UAIMS HOSPITAL",
+        "RADIO CITY",
+        "DAVA INDIA",
+        "CANARA BANK"
+      ],
+      "values": ["836", "471", "345", "337"]
+    },
+    {
+      "title": "Top Advertisers by Airtime",
+      "desc": "Advertisers with the most accumulated ad seconds",
+      "keys": [
+        "RADIO CITY",
+        "KIMS-UAIMS HOSPITAL",
+        "GOVERNMENT OF MAHARASHTRA",
+        "PURSHOTTAM NARAYAN GADGIL (PNG) JEWELLERS"
+      ],
+      "values": ["15972", "12740", "8993", "7077"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["RADIO CITY", "RADIO MIRCHI", "BIGFM", "TOMATO FM"],
+      "values": ["4271", "3371", "3266", "2340"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["RADIO CITY", "RADIO MIRCHI", "BIGFM", "TOMATO FM"],
+      "values": ["94252", "72487", "63397", "48332"]
+    }
+  ]
+}
