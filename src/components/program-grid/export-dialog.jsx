@@ -160,22 +160,55 @@ const ExportDialog = ({ selectedDate, epgData, availableData, regions }) => {
           return;
         }
 
-        const exportData = filteredData.map((item) => ({
-          Date: item.date,
-          Channel: item.channel,
-          Region: item.region || "",
-          Type: item.type,
-          Program: item.program,
-          Start: item.start,
-          End: item.end,
-        }));
+        const exportData = filteredData.map((item) => {
+          // Calculate DURATION in seconds
+          const start = new Date(`1970-01-01T${item.start}Z`);
+          const end = new Date(`1970-01-01T${item.end}Z`);
+          const durationSeconds = Math.floor((end - start) / 1000);
+          const duration = durationSeconds >= 0 ? durationSeconds.toString().padStart(2, "0") : "00";
+
+          // Extract Song.mp3 from audio URL
+          const songFile = item.audio ? item.audio.split("/").pop() : "";
+
+          return {
+            START_TIME: item.start || "",
+            END_TIME: item.end || "",
+            DURATION: duration,
+            "Program/Ad/Song": item.program || "",
+            BRAND: item.brand || "",
+            PRODUCT: item.product || "",
+            CATEGORY: item.category || "",
+            SECTOR: item.sector || "",
+            Content_Type: item.type || "",
+            "Song.mp3": songFile,
+            Date: item.date || "",
+            Station_Name: item.channel || "",
+            Market: item.market || ""
+          };
+        });
 
         const channelPart = station === "all" || !station ? "all-channels" : station.toLowerCase().replace(/\s+/g, "-");
         const regionPart = region === "all" || !region ? "all-regions" : region.toLowerCase().replace(/\s+/g, "-");
         const fileName = `epg_${date}_${channelPart}_${regionPart}_${startTime.replace(/:/g, "")}_${endTime.replace(/:/g, "")}.${fileFormat}`;
 
         if (fileFormat === "csv") {
-          const csv = Papa.unparse(exportData);
+          const csv = Papa.unparse(exportData, {
+            columns: [
+              "START_TIME",
+              "END_TIME",
+              "DURATION",
+              "Program/Ad/Song",
+              "BRAND",
+              "PRODUCT",
+              "CATEGORY",
+              "SECTOR",
+              "Content_Type",
+              "Song.mp3",
+              "Date",
+              "Station_Name",
+              "Market"
+            ]
+          });
           const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
           const url = window.URL.createObjectURL(blob);
           const a = document.createElement("a");
@@ -187,7 +220,23 @@ const ExportDialog = ({ selectedDate, epgData, availableData, regions }) => {
           document.body.removeChild(a);
           window.URL.revokeObjectURL(url);
         } else if (fileFormat === "xlsx") {
-          const ws = XLSX.utils.json_to_sheet(exportData);
+          const ws = XLSX.utils.json_to_sheet(exportData, {
+            header: [
+              "START_TIME",
+              "END_TIME",
+              "DURATION",
+              "Program/Ad/Song",
+              "BRAND",
+              "PRODUCT",
+              "CATEGORY",
+              "SECTOR",
+              "Content_Type",
+              "Song.mp3",
+              "Date",
+              "Station_Name",
+              "Market"
+            ]
+          });
           const wb = XLSX.utils.book_new();
           XLSX.utils.book_append_sheet(wb, ws, "EPG Data");
           XLSX.writeFile(wb, fileName);
@@ -225,14 +274,6 @@ const ExportDialog = ({ selectedDate, epgData, availableData, regions }) => {
               {exportType === "report" ? "Download Processed Report" : "Export EPG Data"}
             </DialogTitle>
           </DialogHeader>
-
-          {/* {exportType === "epg" && noDataAlert && (
-            <Alert className="bg-red-50 dark:bg-red-900/20 border-red-200 dark:border-red-800 text-red-800 dark:text-red-200 rounded-lg">
-              <AlertDescription>
-                No data available for the selected date, time range, channel, or region.
-              </AlertDescription>
-            </Alert>
-          )} */}
 
           <div className="space-y-4">
             {/* Export Type Selection */}
