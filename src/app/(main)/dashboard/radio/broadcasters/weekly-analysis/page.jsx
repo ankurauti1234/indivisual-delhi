@@ -172,7 +172,13 @@ export default function WeeklyAnalysisPage() {
       {data["ad-daily-trends.json"] && (
         <AdDailyTrendsLine data={data["ad-daily-trends.json"]} />
       )}
-      {data["shared-ad.json"] && <SharedAdBar data={data["shared-ad.json"]} />}
+      {data["shared-ad.json"] && (
+        <SharedAdBar
+          data={data["shared-ad.json"]}
+          city={selectedCity}
+          week={selectedWeek}
+        />
+      )}
       {data["top-ad-comparison.json"] && (
         <TopAdComparisonTable data={data["top-ad-comparison.json"]} />
       )}

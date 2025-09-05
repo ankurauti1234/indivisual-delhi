@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect, useMemo } from "react";
 import {
   Card,
   CardContent,
@@ -15,51 +15,61 @@ import MultipleSelector from "@/components/ui/multiselect";
 export const description =
   "A custom horizontal stacked bar chart showing the percentage distribution of shared ads across stations";
 
-const SharedAdBar = ({ data }) => {
+const SharedAdBar = ({ data, city, week }) => {
+  const [adOptions, setAdOptions] = useState([]);
   const [selectedAds, setSelectedAds] = useState([]);
   const [activeStation, setActiveStation] = useState(null);
   const [tooltip, setTooltip] = useState(null);
   const chartContainerRef = useRef(null);
 
-  // Derive unique stations and ad options
-  const allStations = data.stations || [];
-  const adOptions = Array.from(
-    new Set(data.data.map((item) => item.adName))
-  ).map((ad) => ({
-    value: ad,
-    label: ad,
-  }));
+  const allStations = data?.stations ?? [];
 
-  // ✅ Reset top 5 ads whenever data changes
+  // Recompute the full list of options whenever data changes
   useEffect(() => {
     if (data?.data?.length) {
-      const adTotals = {};
-      data.data.forEach((item) => {
-        const totalCount = item.stations.reduce((sum, s) => sum + s.adCount, 0);
-        adTotals[item.adName] = totalCount;
-      });
-      const top5 = Object.entries(adTotals)
+      const options = Array.from(
+        new Set(data.data.map((item) => item.adName))
+      ).map((ad) => ({ value: ad, label: ad }));
+      setAdOptions(options);
+    } else {
+      setAdOptions([]);
+    }
+  }, [JSON.stringify(data?.data)]);
+
+  // Reset top 5 whenever city/week/data changes
+  useEffect(() => {
+    if (data?.data?.length) {
+      const totals = {};
+      for (const item of data.data) {
+        totals[item.adName] = item.stations.reduce(
+          (sum, s) => sum + (s.adCount || 0),
+          0
+        );
+      }
+      const top5 = Object.entries(totals)
         .sort(([, a], [, b]) => b - a)
         .slice(0, 5)
         .map(([adName]) => ({ value: adName, label: adName }));
       setSelectedAds(top5);
+      setActiveStation(null);
+    } else {
+      setSelectedAds([]);
     }
-  }, [data]);
+  }, [city, week, JSON.stringify(data?.data)]);
 
-  // Handle ad selection
+  // Force the multiselect to remount when choices change
+  const optionsKey = useMemo(
+    () => adOptions.map((o) => o.value).join("|"),
+    [adOptions]
+  );
+
   const handleAdChange = (ads) => {
     setSelectedAds(ads.length > 0 ? ads : adOptions.slice(0, 5));
   };
 
-  // Prepare chart data
   const chartData = selectedAds.map((ad) => {
-    const adData = {
-      adName: ad.value,
-      _rawValues: {},
-      _totalValue: 0,
-    };
-
-    const itemData = data.data.find((item) => item.adName === ad.value);
+    const adData = { adName: ad.value, _rawValues: {}, _totalValue: 0 };
+    const itemData = data?.data?.find((item) => item.adName === ad.value);
     if (!itemData) return adData;
 
     const rawValues = {};
@@ -80,7 +90,6 @@ const SharedAdBar = ({ data }) => {
     return adData;
   });
 
-  // Handle tooltip
   const handleMouseEnter = (
     e,
     adName,
@@ -106,22 +115,16 @@ const SharedAdBar = ({ data }) => {
     }
   };
 
-  const handleMouseLeave = () => {
-    setTooltip(null);
-  };
+  const handleMouseLeave = () => setTooltip(null);
 
-  // Handle station click to toggle active station
-  const handleStationClick = (station) => {
+  const handleStationClick = (station) =>
     setActiveStation(activeStation === station ? null : station);
-  };
 
-  // Chart layout values
   const barHeight = 40;
   const barGap = 20;
   const chartHeight = selectedAds.length * (barHeight + barGap) - barGap;
   const yAxisWidth = 80;
 
-  // Colors for different stations
   const colors = ["#8884d8", "#82ca9d", "#ffc658", "#ff7300", "#ff4d4f"];
   const stationColors = allStations.reduce((acc, station, index) => {
     acc[station] = colors[index % colors.length];
@@ -139,9 +142,10 @@ const SharedAdBar = ({ data }) => {
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
           <MultipleSelector
+            key={`${city ?? ""}-${week ?? ""}-${optionsKey}`} // 👈 remount trigger
             value={selectedAds}
             onChange={handleAdChange}
-            defaultOptions={adOptions}
+            defaultOptions={adOptions} // full list updates via state
             placeholder="Select ads"
             hideClearAllButton
             hidePlaceholderWhenSelected
@@ -179,6 +183,7 @@ const SharedAdBar = ({ data }) => {
               </div>
             ))}
           </div>
+
           {/* Bars */}
           <div
             className="relative"
@@ -191,10 +196,11 @@ const SharedAdBar = ({ data }) => {
               let currentWidth = 0;
               const totalValue = adData._totalValue;
               const sortedStations = [...allStations].sort((a, b) => {
-                const aPercentage = adData[a] || 0;
-                const bPercentage = adData[b] || 0;
-                return bPercentage - aPercentage;
+                const aPct = adData[a] || 0;
+                const bPct = adData[b] || 0;
+                return bPct - aPct;
               });
+
               return (
                 <div
                   key={String(adData.adName)}
@@ -214,6 +220,7 @@ const SharedAdBar = ({ data }) => {
                     const segmentWidth = `${percentage}%`;
                     const isActive =
                       !activeStation || activeStation === station;
+
                     const segment = (
                       <div
                         key={station}
@@ -258,6 +265,7 @@ const SharedAdBar = ({ data }) => {
                     currentWidth += percentage;
                     return segment;
                   })}
+
                   {/* Total Value Label */}
                   <span
                     className="text-[10px] font-medium"
@@ -279,6 +287,7 @@ const SharedAdBar = ({ data }) => {
               );
             })}
           </div>
+
           {/* Tooltip */}
           {tooltip && (
             <div
