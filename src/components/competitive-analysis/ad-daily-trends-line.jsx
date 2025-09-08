@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import {
   CartesianGrid,
   Line,
@@ -21,18 +21,31 @@ import { Toggle } from "@/components/ui/toggle";
 import MultipleSelector from "@/components/ui/multiselect";
 import { Separator } from "@/components/ui/separator";
 
-const AdDailyTrendsLine = ({ data }) => {
+const AdDailyTrendsLine = ({ data, city, week }) => {
+  const [stationOptions, setStationOptions] = useState([]);
   const [selectedStations, setSelectedStations] = useState([
     { value: "all", label: "All Stations" },
   ]);
   const [showAirtime, setShowAirtime] = useState(false);
 
-  // Unique stations
-  const allStations = data.stations.map((s) => s.name) || [];
-  const stationOptions = [
-    { value: "all", label: "All Stations" },
-    ...allStations.map((station) => ({ value: station, label: station })),
-  ];
+  // ✅ Rebuild station options when city/week/data changes
+  useEffect(() => {
+    if (data?.stations?.length) {
+      const allStations = data.stations.map((s) => s.name);
+      const options = [
+        { value: "all", label: "All Stations" },
+        ...allStations.map((station) => ({
+          value: station,
+          label: station,
+        })),
+      ];
+      setStationOptions(options);
+      setSelectedStations([{ value: "all", label: "All Stations" }]); // reset on change
+    } else {
+      setStationOptions([{ value: "all", label: "All Stations" }]);
+      setSelectedStations([{ value: "all", label: "All Stations" }]);
+    }
+  }, [city, week, JSON.stringify(data?.stations)]);
 
   // Handle station selection
   const handleStationChange = (stations) => {
@@ -42,6 +55,10 @@ const AdDailyTrendsLine = ({ data }) => {
   };
 
   // Stations to show
+  const allStations = stationOptions
+    .filter((s) => s.value !== "all")
+    .map((s) => s.value);
+
   const stations = selectedStations.some((s) => s.value === "all")
     ? allStations
     : selectedStations.map((s) => s.value);
@@ -77,6 +94,12 @@ const AdDailyTrendsLine = ({ data }) => {
     return config;
   }, {});
 
+  // Key to force remount when options change
+  const optionsKey = useMemo(
+    () => stationOptions.map((o) => o.value).join("|"),
+    [stationOptions]
+  );
+
   return (
     <Card className="p-0 gap-0 w-full">
       <CardHeader className="p-4 flex flex-row items-center justify-between">
@@ -88,6 +111,7 @@ const AdDailyTrendsLine = ({ data }) => {
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
           <MultipleSelector
+            key={`${city}-${week}-${optionsKey}`} // 👈 remount trigger
             value={selectedStations}
             onChange={handleStationChange}
             defaultOptions={stationOptions}

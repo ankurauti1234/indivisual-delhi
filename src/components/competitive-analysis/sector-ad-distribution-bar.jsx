@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect, useMemo } from "react";
 import {
   Card,
   CardContent,
@@ -17,7 +17,8 @@ import MultipleSelector from "@/components/ui/multiselect";
 export const description =
   "A custom horizontal stacked bar chart for sector ad distribution by station with station selection";
 
-const SectorAdDistributionBar = ({ data }) => {
+const SectorAdDistributionBar = ({ data, city, week }) => {
+  const [stationOptions, setStationOptions] = useState([]);
   const [selectedStations, setSelectedStations] = useState([
     { value: "all", label: "All Stations" },
   ]);
@@ -26,16 +27,31 @@ const SectorAdDistributionBar = ({ data }) => {
   const [tooltip, setTooltip] = useState(null);
   const chartContainerRef = useRef(null);
 
-  // Derive unique stations from data
-  const allStations = [
-    ...new Set(
-      data.data.flatMap((sector) => sector.stations.map((s) => s.station))
-    ),
-  ].sort();
-  const stationOptions = [
-    { value: "all", label: "All Stations" },
-    ...allStations.map((station) => ({ value: station, label: station })),
-  ];
+  // ✅ Update station options whenever data/city/week changes
+  useEffect(() => {
+    if (data?.data?.length) {
+      const allStations = [
+        ...new Set(
+          data.data.flatMap((sector) => sector.stations.map((s) => s.station))
+        ),
+      ].sort();
+
+      const options = [
+        { value: "all", label: "All Stations" },
+        ...allStations.map((station) => ({
+          value: station,
+          label: station,
+        })),
+      ];
+
+      setStationOptions(options);
+      // Reset to "All Stations" whenever city/week changes
+      setSelectedStations([{ value: "all", label: "All Stations" }]);
+    } else {
+      setStationOptions([{ value: "all", label: "All Stations" }]);
+      setSelectedStations([{ value: "all", label: "All Stations" }]);
+    }
+  }, [city, week, JSON.stringify(data?.data)]);
 
   // Handle station selection
   const handleStationChange = (stations) => {
@@ -45,9 +61,14 @@ const SectorAdDistributionBar = ({ data }) => {
   };
 
   // Prepare chart data
+  const allStations = stationOptions
+    .filter((s) => s.value !== "all")
+    .map((s) => s.value);
+
   const stations = selectedStations.some((s) => s.value === "all")
     ? allStations
     : selectedStations.map((s) => s.value);
+
   const chartData = stations.map((station) => {
     const stationData = {
       station,
@@ -70,7 +91,6 @@ const SectorAdDistributionBar = ({ data }) => {
       totalValue += sectorValue;
     });
 
-    // Avoid division by zero
     const total = totalValue || 1;
     data.sectors.forEach((sector) => {
       stationData[sector.name] = (rawValues[sector.name] / total) * 100;
@@ -80,7 +100,7 @@ const SectorAdDistributionBar = ({ data }) => {
     return stationData;
   });
 
-  // Handle mouse events for tooltip
+  // Handle tooltip
   const handleMouseEnter = (
     e,
     station,
@@ -106,20 +126,24 @@ const SectorAdDistributionBar = ({ data }) => {
     }
   };
 
-  const handleMouseLeave = () => {
-    setTooltip(null);
-  };
+  const handleMouseLeave = () => setTooltip(null);
 
   // Handle sector click to toggle active sector
   const handleSectorClick = (sector) => {
     setActiveSector(activeSector === sector ? null : sector);
   };
 
-  // Calculate chart dimensions
+  // Chart layout
   const barHeight = 60;
   const barGap = 40;
   const chartHeight = stations.length * (barHeight + barGap) - barGap;
   const yAxisWidth = 80;
+
+  // Key to force remount when options change
+  const optionsKey = useMemo(
+    () => stationOptions.map((o) => o.value).join("|"),
+    [stationOptions]
+  );
 
   return (
     <Card className="p-0 gap-0 w-full">
@@ -133,6 +157,7 @@ const SectorAdDistributionBar = ({ data }) => {
         </div>
         <div className="flex flex-row items-center justify-between gap-4">
           <MultipleSelector
+            key={`${city}-${week}-${optionsKey}`} // 👈 force remount
             value={selectedStations}
             onChange={handleStationChange}
             defaultOptions={stationOptions}
@@ -193,7 +218,6 @@ const SectorAdDistributionBar = ({ data }) => {
             {chartData.map((stationData, index) => {
               let currentWidth = 0;
               const totalValue = stationData._totalValue;
-              // Sort sectors by percentage in descending order
               const sortedSectors = [...data.sectors].sort((a, b) => {
                 const aPercentage = stationData[a.name] || 0;
                 const bPercentage = stationData[b.name] || 0;
