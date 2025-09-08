@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "RADIO CITY",
+        "RAJMOTI SAGO",
+        "CHITALE",
+        "JYOTI KRANTI MULTISTATE"
+      ],
+      "values": ["778", "549", "505", "440"]
+    },
+    {
+      "title": "Top Advertisers by Airtime",
+      "desc": "Advertisers with the most accumulated ad seconds",
+      "keys": [
+        "RADIO CITY",
+        "EXCELLENCE AWARDS GLOBAL",
+        "IMS COLLEGE",
+        "JYOTI KRANTI MULTISTATE"
+      ],
+      "values": ["22391", "9472", "8084", "7234"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["DHAMAAL FM", "MYFM", "RADIO CITY", "BIGFM"],
+      "values": ["2909", "3709", "5095", "3292"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["DHAMAAL FM", "MYFM", "RADIO CITY", "BIGFM"],
+      "values": ["58138", "66234", "90874", "60803"]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "SANJIVANI UNIVERSITY",
+        "MAHINDRA",
+        "TEJASWI JEWELLERS",
+        "NAMCO BANK"
+      ],
+      "values": ["753", "641", "554", "421"]
+    },
+    {
+      "title": "Top Advertisers by Airtime",
+      "desc": "Advertisers with the most accumulated ad seconds",
+      "keys": [
+        "MAHINDRA",
+        "TEJASWI JEWELLERS",
+        "RADIO CITY",
+        "SANDIP UNIVERSITY"
+      ],
+      "values": ["12817", "11080", "10739", "10530"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["MY FM", "RED FM", "RADIO MIRCHI", "RADIO CITY"],
+      "values": ["10132", "4256", "3690", "4285"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["MY FM", "RED FM", "RADIO MIRCHI", "RADIO CITY"],
+      "values": ["177027", "81730", "76040", "77728"]
+    }
+  ]
+}

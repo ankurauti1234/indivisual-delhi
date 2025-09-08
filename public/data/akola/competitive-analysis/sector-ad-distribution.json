@@ -1,0 +1,422 @@
+{
+  "sectors": [
+    {
+      "name": "EDUCATION",
+      "color": "#FF7043"
+    },
+    {
+      "name": "HEALTHCARE",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "LIFESTYLE",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "HOME FURNISHING",
+      "color": "#FF7043"
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "color": "#E91E63"
+    },
+    {
+      "name": "AUTOMOBILE",
+      "color": "#039BE5"
+    },
+    {
+      "name": "FINANCE",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "INDUSTRIAL",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "ANIMAL HUSBANDRY",
+      "color": "#43A047"
+    },
+    {
+      "name": "GOVERNMENT",
+      "color": "#FF7043"
+    },
+    {
+      "name": "FMCG",
+      "color": "#FDD835"
+    },
+    {
+      "name": "REAL ESTATE",
+      "color": "#FDD835"
+    },
+    {
+      "name": "AGRICULTURE",
+      "color": "#8E24AA"
+    },
+    {
+      "name": "DOTCOM",
+      "color": "#00897B"
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "color": "#5E35B1"
+    },
+    {
+      "name": "CONSUMER DURABLE",
+      "color": "#FF7043"
+    },
+    {
+      "name": "RETAIL",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "HOSPITALITY",
+      "color": "#7B1FA2"
+    },
+    {
+      "name": "TRAVEL&TOURISM",
+      "color": "#FB8C00"
+    }
+  ],
+  "data": [
+    {
+      "sector": "EDUCATION",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 699,
+          "airtime": 10220
+        },
+        {
+          "station": "MY FM",
+          "adCount": 1082,
+          "airtime": 23659
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 902,
+          "airtime": 16052
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 608,
+          "airtime": 7961
+        }
+      ]
+    },
+    {
+      "sector": "HEALTHCARE",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 368,
+          "airtime": 5487
+        },
+        {
+          "station": "MY FM",
+          "adCount": 661,
+          "airtime": 12125
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 451,
+          "airtime": 7764
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 296,
+          "airtime": 3325
+        }
+      ]
+    },
+    {
+      "sector": "LIFESTYLE",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 195,
+          "airtime": 5049
+        },
+        {
+          "station": "MY FM",
+          "adCount": 965,
+          "airtime": 17245
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 512,
+          "airtime": 11612
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 409,
+          "airtime": 7332
+        }
+      ]
+    },
+    {
+      "sector": "HOME FURNISHING",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 211,
+          "airtime": 4220
+        }
+      ]
+    },
+    {
+      "sector": "ENTERTAINMENT",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 127,
+          "airtime": 3061
+        },
+        {
+          "station": "MY FM",
+          "adCount": 103,
+          "airtime": 1212
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 227,
+          "airtime": 9320
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1274,
+          "airtime": 36752
+        }
+      ]
+    },
+    {
+      "sector": "AUTOMOBILE",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 86,
+          "airtime": 2542
+        },
+        {
+          "station": "MY FM",
+          "adCount": 161,
+          "airtime": 2526
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 90,
+          "airtime": 1530
+        }
+      ]
+    },
+    {
+      "sector": "FINANCE",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 63,
+          "airtime": 2108
+        },
+        {
+          "station": "MY FM",
+          "adCount": 837,
+          "airtime": 15209
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 255,
+          "airtime": 5915
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 507,
+          "airtime": 5832
+        }
+      ]
+    },
+    {
+      "sector": "INDUSTRIAL",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 45,
+          "airtime": 1125
+        },
+        {
+          "station": "MY FM",
+          "adCount": 415,
+          "airtime": 6115
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 218,
+          "airtime": 1428
+        }
+      ]
+    },
+    {
+      "sector": "ANIMAL HUSBANDRY",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 35,
+          "airtime": 700
+        }
+      ]
+    },
+    {
+      "sector": "GOVERNMENT",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 20,
+          "airtime": 598
+        },
+        {
+          "station": "MY FM",
+          "adCount": 52,
+          "airtime": 1033
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 100,
+          "airtime": 1575
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 206,
+          "airtime": 6040
+        }
+      ]
+    },
+    {
+      "sector": "FMCG",
+      "stations": [
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 20,
+          "airtime": 324
+        },
+        {
+          "station": "MY FM",
+          "adCount": 1198,
+          "airtime": 21882
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 467,
+          "airtime": 6120
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 696,
+          "airtime": 10173
+        }
+      ]
+    },
+    {
+      "sector": "REAL ESTATE",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 415,
+          "airtime": 9562
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 120,
+          "airtime": 2400
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 371,
+          "airtime": 3738
+        }
+      ]
+    },
+    {
+      "sector": "AGRICULTURE",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 213,
+          "airtime": 3684
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 60,
+          "airtime": 1340
+        }
+      ]
+    },
+    {
+      "sector": "DOTCOM",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 198,
+          "airtime": 2658
+        }
+      ]
+    },
+    {
+      "sector": "RENEWABLE ENERGY",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 187,
+          "airtime": 2104
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 13,
+          "airtime": 65
+        }
+      ]
+    },
+    {
+      "sector": "CONSUMER DURABLE",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 186,
+          "airtime": 2046
+        }
+      ]
+    },
+    {
+      "sector": "RETAIL",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 32,
+          "airtime": 304
+        }
+      ]
+    },
+    {
+      "sector": "HOSPITALITY",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 163,
+          "airtime": 3260
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 69,
+          "airtime": 414
+        }
+      ]
+    },
+    {
+      "sector": "TRAVEL&TOURISM",
+      "stations": [
+        {
+          "station": "ORANGE FM",
+          "adCount": 138,
+          "airtime": 1840
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "stations": [
+    {
+      "name": "MY FM",
+      "color": "#1E88E5"
+    },
+    {
+      "name": "ORANGE FM",
+      "color": "#43A047"
+    },
+    {
+      "name": "RADIO CITY",
+      "color": "#FB8C00"
+    },
+    {
+      "name": "RADIO MIRCHI",
+      "color": "#E91E63"
+    }
+  ],
+  "data": [
+    {
+      "date": "2025-07-01",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 817,
+          "airtime": 241
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 437,
+          "airtime": 133
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 609,
+          "airtime": 188
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 266,
+          "airtime": 84
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 738,
+          "airtime": 222
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 458,
+          "airtime": 136
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 661,
+          "airtime": 200
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 275,
+          "airtime": 87
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1051,
+          "airtime": 319
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 354,
+          "airtime": 126
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 721,
+          "airtime": 218
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 257,
+          "airtime": 84
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1051,
+          "airtime": 327
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 539,
+          "airtime": 183
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 710,
+          "airtime": 211
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 258,
+          "airtime": 84
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 977,
+          "airtime": 290
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 548,
+          "airtime": 192
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 755,
+          "airtime": 199
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 277,
+          "airtime": 89
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1105,
+          "airtime": 320
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 486,
+          "airtime": 161
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 717,
+          "airtime": 210
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 262,
+          "airtime": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 966,
+          "airtime": 302
+        },
+        {
+          "station": "ORANGE FM",
+          "adCount": 513,
+          "airtime": 163
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 644,
+          "airtime": 203
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 274,
+          "airtime": 83
+        }
+      ]
+    }
+  ]
+}

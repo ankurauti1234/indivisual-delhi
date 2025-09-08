@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "title": "Top Advertisers by Ad Count",
+      "desc": "Advertisers with the highest number of ad plays",
+      "keys": [
+        "RADIO CITY",
+        "SHREE SAMARTHA COACHING CLASSES",
+        "KHANDELWAL JEWELLERS",
+        "CREAM STONE"
+      ],
+      "values": ["975", "790", "728", "553"]
+    },
+    {
+      "title": "Top Advertisers by Airtime",
+      "desc": "Advertisers with the most accumulated ad seconds",
+      "keys": [
+        "RADIO CITY",
+        "KHANDELWAL JEWELLERS",
+        "CREAM STONE",
+        "SHREE SAMARTHA COACHING CLASSES"
+      ],
+      "values": ["28915", "19527", "12302", "10384"]
+    },
+    {
+      "title": "Top Radio by Counts",
+      "desc": "Radio stations ranked by total ad counts",
+      "keys": ["ORANGE FM", "MY FM", "RADIO MIRCHI", "RADIO CITY"],
+      "values": ["3335", "6705", "1869", "4817"]
+    },
+    {
+      "title": "Top Radio by Seconds",
+      "desc": "Radio stations ranked by total ad seconds",
+      "keys": ["ORANGE FM", "MY FM", "RADIO MIRCHI", "RADIO CITY"],
+      "values": ["65858", "121364", "35434", "85930"]
+    }
+  ]
+}

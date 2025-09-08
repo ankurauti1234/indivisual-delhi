@@ -1,0 +1,5395 @@
+{
+  "stations": ["MY FM", "RADIO CITY", "RADIO MIRCHI", "RED FM"],
+  "data": [
+    {
+      "adName": "SANJIVANI UNIVERSITY",
+      "percentage": 3.37,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 326
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 427
+        }
+      ]
+    },
+    {
+      "adName": "MAHINDRA",
+      "percentage": 2.87,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 365
+        },
+        {
+          "station": "RED FM",
+          "adCount": 276
+        }
+      ]
+    },
+    {
+      "adName": "TEJASWI JEWELLERS",
+      "percentage": 2.48,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 274
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 280
+        }
+      ]
+    },
+    {
+      "adName": "NAMCO BANK",
+      "percentage": 1.88,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 108
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 103
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 104
+        },
+        {
+          "station": "RED FM",
+          "adCount": 106
+        }
+      ]
+    },
+    {
+      "adName": "YOKOHAMA TYRES",
+      "percentage": 1.88,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 209
+        },
+        {
+          "station": "RED FM",
+          "adCount": 211
+        }
+      ]
+    },
+    {
+      "adName": "RADIO CITY",
+      "percentage": 1.78,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 385
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 12
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NINE PEARLS HOSPITAL",
+      "percentage": 1.66,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 119
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 253
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SANDIP UNIVERSITY",
+      "percentage": 1.57,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 351
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SONPARI BHAGAR",
+      "percentage": 1.48,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 96
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 119
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 117
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "URBAN SITES",
+      "percentage": 1.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 65
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 91
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 153
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAYUR ALANKAR",
+      "percentage": 1.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 81
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 72
+        },
+        {
+          "station": "RED FM",
+          "adCount": 70
+        }
+      ]
+    },
+    {
+      "adName": "PHONEWALE",
+      "percentage": 1.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 292
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THYME&WHISK",
+      "percentage": 1.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 99
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 98
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 93
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GURUKUL FOUNDATION",
+      "percentage": 1.28,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 275
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "STUDIOREFULE.COM",
+      "percentage": 1.27,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 284
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHARASHTRA NATURAL GAS LIMITED",
+      "percentage": 1.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 281
+        }
+      ]
+    },
+    {
+      "adName": "KIMS MANAVATA HOSPITAL",
+      "percentage": 1.2,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 95
+        },
+        {
+          "station": "RED FM",
+          "adCount": 174
+        }
+      ]
+    },
+    {
+      "adName": "PNG JEWELLERS",
+      "percentage": 1.19,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 65
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 68
+        },
+        {
+          "station": "RED FM",
+          "adCount": 65
+        }
+      ]
+    },
+    {
+      "adName": "VAISHNAVI ELECTRICALS",
+      "percentage": 1.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 245
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BASWANT GARDEN",
+      "percentage": 1.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 56
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 55
+        },
+        {
+          "station": "RED FM",
+          "adCount": 56
+        }
+      ]
+    },
+    {
+      "adName": "GRILL CRAFT",
+      "percentage": 1.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 226
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CANARA BANK",
+      "percentage": 0.94,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 20
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 190
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TANISHQ",
+      "percentage": 0.94,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 210
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KIMS MANAVATA HOSPITAL NASHIK",
+      "percentage": 0.93,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 105
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 102
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RC PATEL COLLEGE",
+      "percentage": 0.92,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 102
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 104
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ADSUL EDUCATIONAL CAMPUS",
+      "percentage": 0.92,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 206
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GENERICART",
+      "percentage": 0.82,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 121
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PET SAFA",
+      "percentage": 0.8,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 178
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BORNEO HOSPITAL",
+      "percentage": 0.79,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 86
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 91
+        }
+      ]
+    },
+    {
+      "adName": "SHIV HOSPITAL",
+      "percentage": 0.79,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 176
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SANKALP LANDMARK",
+      "percentage": 0.78,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 85
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 85
+        }
+      ]
+    },
+    {
+      "adName": "SPARK DIAGNOSTICS",
+      "percentage": 0.77,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 83
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 90
+        }
+      ]
+    },
+    {
+      "adName": "SBI",
+      "percentage": 0.76,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 80
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 90
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SONY GIFTS",
+      "percentage": 0.74,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 79
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 5
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 81
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PARAGON",
+      "percentage": 0.73,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 164
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MALABAR GOLD&DAIMOND",
+      "percentage": 0.73,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 53
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 56
+        },
+        {
+          "station": "RED FM",
+          "adCount": 55
+        }
+      ]
+    },
+    {
+      "adName": "PRAVARA RURAL ENGINEERING COLLEGE",
+      "percentage": 0.72,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 162
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LIC",
+      "percentage": 0.71,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 59
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 50
+        },
+        {
+          "station": "RED FM",
+          "adCount": 50
+        }
+      ]
+    },
+    {
+      "adName": "PIRAMAL FINANCE",
+      "percentage": 0.71,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 158
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CHANDU KAKA SARAF JEWELLERS",
+      "percentage": 0.7,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 79
+        },
+        {
+          "station": "RED FM",
+          "adCount": 78
+        }
+      ]
+    },
+    {
+      "adName": "NAMCO HOSPITAL",
+      "percentage": 0.69,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 65
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 90
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AJIO",
+      "percentage": 0.69,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 154
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RAYZON SOLAR",
+      "percentage": 0.69,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 154
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VARMORA GRANITO PVT. LTD.",
+      "percentage": 0.68,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 153
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHUBHAM WATER PARK",
+      "percentage": 0.68,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 152
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NOVA IVF FERTILITY CENTER",
+      "percentage": 0.68,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 8
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 72
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 71
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAS FINANCIAL SERVICES LTD",
+      "percentage": 0.67,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 150
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ADAWADKAR JEWELLERS",
+      "percentage": 0.67,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 149
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MODERN EYE HOSPITAL",
+      "percentage": 0.66,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 147
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THE FURNITURE STOP",
+      "percentage": 0.65,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 91
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 55
+        }
+      ]
+    },
+    {
+      "adName": "DURASHINE",
+      "percentage": 0.64,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 143
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HOTEL SHAURYA WADA",
+      "percentage": 0.64,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 143
+        }
+      ]
+    },
+    {
+      "adName": "TRUE TEACHERS NASHIK",
+      "percentage": 0.63,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 141
+        }
+      ]
+    },
+    {
+      "adName": "ADITYA ART JEWELLERY",
+      "percentage": 0.63,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 140
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MVPS\u2019S KBT COE",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 67
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 69
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "WOODSTOCK DECOR",
+      "percentage": 0.62,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 138
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HARI OM DHABA",
+      "percentage": 0.61,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 136
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "OMKAR ENT HOSPITAL",
+      "percentage": 0.59,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 133
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CARE32 DENTAL&IMPLANT CENTRE",
+      "percentage": 0.58,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 130
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "UNIVERSAL COMUNNICATION",
+      "percentage": 0.58,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 129
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVERNMENT OF MAHARASHTRA",
+      "percentage": 0.57,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 26
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 49
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 17
+        },
+        {
+          "station": "RED FM",
+          "adCount": 35
+        }
+      ]
+    },
+    {
+      "adName": "RELIANCE DIGITAL",
+      "percentage": 0.55,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 124
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HOTEL BANZAI",
+      "percentage": 0.55,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 122
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SAPKAL KNOWLEDGE HUB",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 66
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 55
+        }
+      ]
+    },
+    {
+      "adName": "MAHINDRA SHOWROOM",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 121
+        }
+      ]
+    },
+    {
+      "adName": "AMITY UNIVERSITY",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 40
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 40
+        },
+        {
+          "station": "RED FM",
+          "adCount": 40
+        }
+      ]
+    },
+    {
+      "adName": "THE WHITE MUG",
+      "percentage": 0.54,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 120
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SIDDHIVINAYAK PURE VEG",
+      "percentage": 0.53,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 119
+        }
+      ]
+    },
+    {
+      "adName": "VOLKSWAGEN",
+      "percentage": 0.53,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 59
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 60
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ANAND AGRO",
+      "percentage": 0.52,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 117
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DAVA INDIA",
+      "percentage": 0.51,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 115
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MYSTICAL WONDERSS",
+      "percentage": 0.5,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 111
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ZEISS VISION CENTRE",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 38
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 68
+        }
+      ]
+    },
+    {
+      "adName": "THYME AND WHISK",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 106
+        }
+      ]
+    },
+    {
+      "adName": "THE UNIQUE ACADEMY",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 105
+        }
+      ]
+    },
+    {
+      "adName": "R.C. PATEL INSTITUTE",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 105
+        }
+      ]
+    },
+    {
+      "adName": "SHAURYA WADA",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 5
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 99
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VIKAS DAIRY",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 104
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CAMEL SAGO",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 104
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JAWAHAR INSTITUTE OF TECHNOLOGY (JIT)",
+      "percentage": 0.47,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 104
+        }
+      ]
+    },
+    {
+      "adName": "MHADA",
+      "percentage": 0.46,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 103
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MANGWALE APP",
+      "percentage": 0.46,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 102
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ASIAN WOK&GRILL",
+      "percentage": 0.46,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 102
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TOMATO MULTICUISING RESTAURANT",
+      "percentage": 0.46,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 102
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AAKASH INSTITUTE",
+      "percentage": 0.45,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 101
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THE TEROTALE",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 99
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ASG EYE HOSPITAL",
+      "percentage": 0.44,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 98
+        }
+      ]
+    },
+    {
+      "adName": "PRADHAN MANTRI SURYA GHAR MUFT BIJLI YOJANA",
+      "percentage": 0.43,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 96
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HOST.CO.IN",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 95
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TWO SISTERS CAFE",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 95
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HYUNDAI",
+      "percentage": 0.42,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 93
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NANDUR MADHYMESHWAR BIRD SANCTUARY",
+      "percentage": 0.4,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 90
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "METRO WHOLESALE",
+      "percentage": 0.39,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 88
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THE CERAMIC STUDIO",
+      "percentage": 0.39,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 87
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR ORTHO",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 55
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 31
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TVS",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 85
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TVS MOTOR",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 84
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HP",
+      "percentage": 0.38,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 84
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APOLLO HOSPITALS",
+      "percentage": 0.37,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 71
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KAUSHALYA HOSPITAL",
+      "percentage": 0.37,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 83
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VELORA",
+      "percentage": 0.37,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 83
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GODREJ",
+      "percentage": 0.36,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 81
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHARASHTRA NATURAL GAS LTD",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 79
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NASHIK MAHA-AROGYA ABHIYAN",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 26
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 33
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 19
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHRI VARDHMAN",
+      "percentage": 0.35,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 78
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MY MNGL APP",
+      "percentage": 0.34,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 75
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GAANA",
+      "percentage": 0.33,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 74
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PROGENESIS FERTILITY CENTER",
+      "percentage": 0.33,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KANGANE HIGHTECH NURSERY",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 70
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SONI GIFTS",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 67
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SAN INFOTECH",
+      "percentage": 0.32,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 71
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ASHTANG AYURVED",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 70
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KBT COLLEGE OF ENGINEERING",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 70
+        }
+      ]
+    },
+    {
+      "adName": "PET SAFFA",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 69
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KAPILA PASHU AAHAR",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 34
+        },
+        {
+          "station": "RED FM",
+          "adCount": 35
+        }
+      ]
+    },
+    {
+      "adName": "AMRUTVAHINI COLLEGE OF ENGINEERING",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 69
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SEVEN SKIN CLINIC",
+      "percentage": 0.31,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 69
+        }
+      ]
+    },
+    {
+      "adName": "NEW BALAJI JWELLERS",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 68
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SKIN HEAL SOLUTIONS",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 68
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RBI",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 33
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 11
+        },
+        {
+          "station": "RED FM",
+          "adCount": 12
+        }
+      ]
+    },
+    {
+      "adName": "MYFM",
+      "percentage": 0.3,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 66
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAGNUM HOSPITAL",
+      "percentage": 0.29,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 65
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "VAISHYA AUTO",
+      "percentage": 0.29,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 65
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MUZAK DISCO",
+      "percentage": 0.29,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 62
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FSSAI",
+      "percentage": 0.28,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 63
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ROOP MANTRA",
+      "percentage": 0.28,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 42
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 20
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "WARANA",
+      "percentage": 0.28,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 62
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FIT FOR FUTURE ACADEMY",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 61
+        }
+      ]
+    },
+    {
+      "adName": "NITIN VISHNU SARAF",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 61
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NASHIK TOURISM",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 60
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ALARD UNIVERSITY",
+      "percentage": 0.27,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 60
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RADIO MIRCHI",
+      "percentage": 0.26,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 58
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RAITE PATIL HOSPITAL",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 57
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "OSS FERTILITY",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 57
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. VISHAL PATIL",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 56
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NASIK PARALYSIS CENTER HOSPITAL",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 56
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KAUSHALYA HOSPITAL&RESEARCH CENTRE",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 55
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SACHI SAHELI",
+      "percentage": 0.25,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 37
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 18
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PATANJALI",
+      "percentage": 0.23,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 51
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIRA IVF FERTILITY CENTER",
+      "percentage": 0.21,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 48
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SAI ANAND HOSPITAL",
+      "percentage": 0.21,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 48
+        }
+      ]
+    },
+    {
+      "adName": "RC SWAPPR",
+      "percentage": 0.21,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 46
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "CATERPILLAR",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 45
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KUBERA",
+      "percentage": 0.2,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 40
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "STRATO ROOF TOP RESTO",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 41
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FAMTECH STAR",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 41
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PRABHU BUSINESS CENTER",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 40
+        }
+      ]
+    },
+    {
+      "adName": "DR. DAYANAND L M",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 40
+        }
+      ]
+    },
+    {
+      "adName": "LASCIOUS LAYERS",
+      "percentage": 0.18,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 40
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FANTECH FEST",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 39
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RED FM",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 38
+        }
+      ]
+    },
+    {
+      "adName": "GOVERNMENT OF INDIA",
+      "percentage": 0.17,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 37
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ALORA",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 35
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHREE DHOOTAPAPESHWAR LIMITED",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 35
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DKTE SOCIETY",
+      "percentage": 0.16,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 35
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GAURAV ACCIDENT HOSPITAL",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 34
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THE HOTEL ORANGE TREE",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 33
+        }
+      ]
+    },
+    {
+      "adName": "DEOGAONKAR MULTI SPECIALITY HOSPITAL",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 33
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAYYUR ALANKAR",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 14
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 15
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BHONSALA MILITARY COLLEGE",
+      "percentage": 0.15,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 33
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TITAN",
+      "percentage": 0.14,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 16
+        },
+        {
+          "station": "RED FM",
+          "adCount": 16
+        }
+      ]
+    },
+    {
+      "adName": "AMBUJA CEMENT",
+      "percentage": 0.14,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 31
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SAMSUNG SMART PLAZA",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 30
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GARNIER",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 30
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APOLLO HOSPITAL",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 30
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHETI SUDHAR SAHITYA KENDRA",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 30
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THE BRAO AND SMILE CO",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 30
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TITANIUM MAHINDRA",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 29
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MGM INSTITUTE OF BIOSCIENCE&BIOTECH",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 29
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "9 PULS HOSPITAL",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 28
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHREE WARDHAN JEWELLERS",
+      "percentage": 0.13,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 28
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ACC",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 26
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BHARAT SERUMS",
+      "percentage": 0.12,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 26
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NASHIK PARALYSIS CENTER",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 25
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "JIO TV APP",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 25
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIAN NAVY",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 24
+        }
+      ]
+    },
+    {
+      "adName": "RADIANT HYUNDAI",
+      "percentage": 0.11,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 24
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NASHIK MUNICIPAL CORPORATION",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 23
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PUNJAB NATIONAL BANK",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 23
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "COSMOS BANK",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 23
+        }
+      ]
+    },
+    {
+      "adName": "DEOGAONKAR HOSPITAL",
+      "percentage": 0.1,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 22
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ENRISE BY SAYAJI HOTEL",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 21
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LOOM",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 21
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ICAI",
+      "percentage": 0.09,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 10
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 10
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SKYLINE DEVELOPERS",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 18
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THIMEN WISK",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 8
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 10
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SIGNBOAT AGRO PVT. LTD",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 18
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APOLLO PHARMACY",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 8
+        },
+        {
+          "station": "RED FM",
+          "adCount": 10
+        }
+      ]
+    },
+    {
+      "adName": "OASIS IVF FERTILITY CENTER",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 17
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ELDERFIT",
+      "percentage": 0.08,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 17
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "KK WAGH POLYTECHNIC",
+      "percentage": 0.07,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 16
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ARIHANT POLYCLINIC",
+      "percentage": 0.07,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 16
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MICROFINE",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RELIANCE DIGITAL STORE",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APOLLO CANER HOSPITAL",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 12
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "UJJWAL HYUNDAI",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SYNWOOD AGRO LIMITED",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 12
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVERMENT OF INDIA",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 12
+        }
+      ]
+    },
+    {
+      "adName": "SHIRODE HYUNDAI",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 11
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NATIONAL AGRO",
+      "percentage": 0.05,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 11
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ROYAL ENFIELD SHOWROOM",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 10
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BAGUL NURSING HOME",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 10
+        }
+      ]
+    },
+    {
+      "adName": "ICDI TRANSFORM INDIA",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 10
+        }
+      ]
+    },
+    {
+      "adName": "AV MARKETING",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 9
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. VINOD MAHALE",
+      "percentage": 0.04,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 8
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MY FM",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 7
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "STRATO",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 7
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "(RJ MENTION) PARAGON",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 7
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SSK",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 6
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "TATA",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 6
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RAYTE PATIL HOSPITAL",
+      "percentage": 0.03,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 6
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. CHANDRAKANT KAR",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 5
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "EAT RIGHT INDIA",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "INDIAN AIR FORCE",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 4
+        }
+      ]
+    },
+    {
+      "adName": "STUDIO REFUEL",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "THE COSMOS BANK",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 4
+        }
+      ]
+    },
+    {
+      "adName": "STAR KIDNEY CENTRE",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "ROOF TOP SKYLON",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SANOTALI VEG HOTEL",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "N.K ORCHID COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 4
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HMD 130",
+      "percentage": 0.02,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 4
+        }
+      ]
+    },
+    {
+      "adName": "SUN PICTURES",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 3
+        }
+      ]
+    },
+    {
+      "adName": "SIMPHOLO TILES AND BATHWARE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PROGRAM: RADIO MIRCHI",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 3
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "BARVA SKIN",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. NITIN DEORE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. KUNAL NIKADE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GOVERMENT OF NASHIK",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "RC SWAPPER",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 3
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "APOLLO EYE HOSPITAL",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 2
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "FOCUS HYUNDAI",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "AMBUJA KAWACH",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SPAN DIAGNOSTICS",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAGDUM ENDO SURGERY INSTITUTE",
+      "percentage": 0.01,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 2
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DKTE SOCIETY'S TEXTILE&ENGINEERING INSTITUTE",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DR. SAMIKSHA",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "DIAMOND PLATE",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "MAHARASHTRA NATURAL GAS LIMITED (MNGL)",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "LIZOL",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "GIRI PCMB CLASSES",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "HONDA BIGWING",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "PUNJAB NATIONAL BANK(PNB)",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "NETRAM EYE HOSPITAL",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHINGARE SKIN&COSMETIC CLINIC",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 1
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    },
+    {
+      "adName": "SHREE SAMARTH JEWELLERS",
+      "percentage": 0.0,
+      "stations": [
+        {
+          "station": "MY FM",
+          "adCount": 1
+        },
+        {
+          "station": "RADIO CITY",
+          "adCount": 0
+        },
+        {
+          "station": "RADIO MIRCHI",
+          "adCount": 0
+        },
+        {
+          "station": "RED FM",
+          "adCount": 0
+        }
+      ]
+    }
+  ]
+}
