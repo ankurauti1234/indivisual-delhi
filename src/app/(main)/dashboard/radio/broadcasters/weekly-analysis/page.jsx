@@ -26,6 +26,7 @@ export default function WeeklyAnalysisPage() {
   const [selectedWeek, setSelectedWeek] = useState("");
   const [data, setData] = useState({});
   const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(false); // 👈 new state
 
   // Fetch cities on load
   useEffect(() => {
@@ -80,6 +81,7 @@ export default function WeeklyAnalysisPage() {
     ];
 
     const fetchAll = async () => {
+      setLoading(true); // 👈 start loading
       try {
         const results = {};
         await Promise.all(
@@ -96,6 +98,8 @@ export default function WeeklyAnalysisPage() {
       } catch (err) {
         console.error("Error loading data:", err);
         setError("Failed to load dashboard data");
+      } finally {
+        setLoading(false); // 👈 stop loading
       }
     };
 
@@ -112,80 +116,97 @@ export default function WeeklyAnalysisPage() {
         </div>
       )}
 
-      {/* Filters Row */}
-      <div className="flex justify-between items-center gap-8">
-        {/* City Selector */}
-        <div className="flex items-center gap-4">
-          <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
-            City:
-          </label>
-          <Select value={selectedCity} onValueChange={setSelectedCity}>
-            <SelectTrigger className="w-[200px] border p-1">
-              <SelectValue placeholder="Select a city" />
-            </SelectTrigger>
-            <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
-              {cities.map((c) => (
-                <SelectItem key={c} value={c}>
-                  {c.charAt(0).toUpperCase() + c.slice(1)}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
+      {/* Loading Spinner */}
+      {loading && (
+        <div className="flex justify-center items-center py-10">
+          <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-zinc-800 dark:border-zinc-100"></div>
+          <span className="ml-3 text-zinc-600 dark:text-zinc-300">
+            Loading dashboard...
+          </span>
         </div>
+      )}
 
-        {/* Week Selector */}
-        <div className="flex items-center gap-4">
-          <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
-            Week:
-          </label>
-          <Select value={selectedWeek} onValueChange={setSelectedWeek}>
-            <SelectTrigger className="w-[200px] border p-1">
-              <SelectValue placeholder="Select a week" />
-            </SelectTrigger>
-            <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
-              {weeks.map((w) => (
-                <SelectItem key={w} value={w}>
-                  {w}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-        </div>
-      </div>
+      {/* Content */}
+      {!loading && (
+        <>
+          {/* Filters Row */}
+          <div className="flex justify-between items-center gap-8">
+            {/* City Selector */}
+            <div className="flex items-center gap-4">
+              <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
+                City:
+              </label>
+              <Select value={selectedCity} onValueChange={setSelectedCity}>
+                <SelectTrigger className="w-[200px] border p-1">
+                  <SelectValue placeholder="Select a city" />
+                </SelectTrigger>
+                <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
+                  {cities.map((c) => (
+                    <SelectItem key={c} value={c}>
+                      {c.charAt(0).toUpperCase() + c.slice(1)}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
 
-      {/* Dashboard Components */}
-      {data["stat-cards.json"] && (
-        <StatCards data={data["stat-cards.json"].cards} />
+            {/* Week Selector */}
+            <div className="flex items-center gap-4">
+              <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
+                Week:
+              </label>
+              <Select value={selectedWeek} onValueChange={setSelectedWeek}>
+                <SelectTrigger className="w-[200px] border p-1">
+                  <SelectValue placeholder="Select a week" />
+                </SelectTrigger>
+                <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
+                  {weeks.map((w) => (
+                    <SelectItem key={w} value={w}>
+                      {w}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+          </div>
+
+          {/* Dashboard Components */}
+          {data["stat-cards.json"] && (
+            <StatCards data={data["stat-cards.json"].cards} />
+          )}
+          {data["ad-frequency-heatmap.json"] && (
+            <AdFrequencyHeatmap data={data["ad-frequency-heatmap.json"]} />
+          )}
+          {data["sector-ad-distribution.json"] && (
+            <SectorAdDistributionBar
+              data={data["sector-ad-distribution.json"]}
+            />
+          )}
+          {data["market-share.json"] && data["market-share-seconds.json"] && (
+            <MarketShareTreemap
+              data={data["market-share.json"]}
+              secondsData={data["market-share-seconds.json"]}
+            />
+          )}
+          {data["ad-daily-trends.json"] && (
+            <AdDailyTrendsLine data={data["ad-daily-trends.json"]} />
+          )}
+          {data["shared-ad.json"] && (
+            <SharedAdBar
+              data={data["shared-ad.json"]}
+              city={selectedCity}
+              week={selectedWeek}
+            />
+          )}
+          {data["top-ad-comparison.json"] && (
+            <TopAdComparisonTable data={data["top-ad-comparison.json"]} />
+          )}
+          {data["untapped-ad-table.json"] && (
+            <UntappedAdTable data={data["untapped-ad-table.json"]} />
+          )}
+          {data["new-ad.json"] && <NewAdTable data={data["new-ad.json"]} />}
+        </>
       )}
-      {data["ad-frequency-heatmap.json"] && (
-        <AdFrequencyHeatmap data={data["ad-frequency-heatmap.json"]} />
-      )}
-      {data["sector-ad-distribution.json"] && (
-        <SectorAdDistributionBar data={data["sector-ad-distribution.json"]} />
-      )}
-      {data["market-share.json"] && data["market-share-seconds.json"] && (
-        <MarketShareTreemap
-          data={data["market-share.json"]}
-          secondsData={data["market-share-seconds.json"]}
-        />
-      )}
-      {data["ad-daily-trends.json"] && (
-        <AdDailyTrendsLine data={data["ad-daily-trends.json"]} />
-      )}
-      {data["shared-ad.json"] && (
-        <SharedAdBar
-          data={data["shared-ad.json"]}
-          city={selectedCity}
-          week={selectedWeek}
-        />
-      )}
-      {data["top-ad-comparison.json"] && (
-        <TopAdComparisonTable data={data["top-ad-comparison.json"]} />
-      )}
-      {data["untapped-ad-table.json"] && (
-        <UntappedAdTable data={data["untapped-ad-table.json"]} />
-      )}
-      {data["new-ad.json"] && <NewAdTable data={data["new-ad.json"]} />}
     </div>
   );
 }
