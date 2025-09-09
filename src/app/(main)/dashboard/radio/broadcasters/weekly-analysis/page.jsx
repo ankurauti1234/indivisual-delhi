@@ -26,7 +26,7 @@ export default function WeeklyAnalysisPage() {
   const [selectedWeek, setSelectedWeek] = useState("");
   const [data, setData] = useState({});
   const [error, setError] = useState(null);
-  const [loading, setLoading] = useState(false); // 👈 new state
+  const [loading, setLoading] = useState(false);
 
   // Fetch cities on load
   useEffect(() => {
@@ -81,7 +81,7 @@ export default function WeeklyAnalysisPage() {
     ];
 
     const fetchAll = async () => {
-      setLoading(true); // 👈 start loading
+      setLoading(true);
       try {
         const results = {};
         await Promise.all(
@@ -99,7 +99,7 @@ export default function WeeklyAnalysisPage() {
         console.error("Error loading data:", err);
         setError("Failed to load dashboard data");
       } finally {
-        setLoading(false); // 👈 stop loading
+        setLoading(false);
       }
     };
 
@@ -107,7 +107,7 @@ export default function WeeklyAnalysisPage() {
   }, [selectedCity, selectedWeek]);
 
   return (
-    <div className="space-y-8 p-4">
+    <div className="relative space-y-8 p-4">
       {/* Error Message */}
       {error && (
         <div className="text-red-500">
@@ -116,61 +116,67 @@ export default function WeeklyAnalysisPage() {
         </div>
       )}
 
-      {/* Loading Spinner */}
+      {/* Loading Overlay */}
       {loading && (
-        <div className="flex justify-center items-center py-10">
-          <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-zinc-800 dark:border-zinc-100"></div>
-          <span className="ml-3 text-zinc-600 dark:text-zinc-300">
-            Loading dashboard...
-          </span>
+        <div className="fixed inset-0 z-50 flex items-center justify-center backdrop-blur-md bg-black/40">
+          <div className="flex flex-col items-center">
+            <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-blue-500 shadow-lg shadow-blue-400/50"></div>
+            <span className="mt-6 text-lg font-semibold text-white drop-shadow-lg">
+              Loading dashboard...
+            </span>
+          </div>
         </div>
       )}
 
-      {/* Content */}
-      {!loading && (
-        <>
-          {/* Filters Row */}
-          <div className="flex justify-between items-center gap-8">
-            {/* City Selector */}
-            <div className="flex items-center gap-4">
-              <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
-                City:
-              </label>
-              <Select value={selectedCity} onValueChange={setSelectedCity}>
-                <SelectTrigger className="w-[200px] border p-1">
-                  <SelectValue placeholder="Select a city" />
-                </SelectTrigger>
-                <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
-                  {cities.map((c) => (
-                    <SelectItem key={c} value={c}>
-                      {c.charAt(0).toUpperCase() + c.slice(1)}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
-
-            {/* Week Selector */}
-            <div className="flex items-center gap-4">
-              <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
-                Week:
-              </label>
-              <Select value={selectedWeek} onValueChange={setSelectedWeek}>
-                <SelectTrigger className="w-[200px] border p-1">
-                  <SelectValue placeholder="Select a week" />
-                </SelectTrigger>
-                <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
-                  {weeks.map((w) => (
-                    <SelectItem key={w} value={w}>
-                      {w}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
+      {/* Main Content */}
+      <div
+        className={`${
+          loading ? "blur-sm scale-[0.98]" : "blur-0"
+        } transition-all duration-300 space-y-10`}
+      >
+        {/* Filters Row */}
+        <div className="flex justify-between items-center gap-8">
+          {/* City Selector */}
+          <div className="flex items-center gap-4">
+            <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
+              City:
+            </label>
+            <Select value={selectedCity} onValueChange={setSelectedCity}>
+              <SelectTrigger className="w-[200px] border p-1">
+                <SelectValue placeholder="Select a city" />
+              </SelectTrigger>
+              <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
+                {cities.map((c) => (
+                  <SelectItem key={c} value={c}>
+                    {c.charAt(0).toUpperCase() + c.slice(1)}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
           </div>
 
-          {/* Dashboard Components */}
+          {/* Week Selector */}
+          <div className="flex items-center gap-4">
+            <label className="text-lg font-medium text-zinc-800 dark:text-zinc-100">
+              Week:
+            </label>
+            <Select value={selectedWeek} onValueChange={setSelectedWeek}>
+              <SelectTrigger className="w-[200px] border p-1">
+                <SelectValue placeholder="Select a week" />
+              </SelectTrigger>
+              <SelectContent className="max-h-60 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded-md scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500">
+                {weeks.map((w) => (
+                  <SelectItem key={w} value={w}>
+                    {w}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+        </div>
+
+        {/* Dashboard Components */}
+        <div className="space-y-10">
           {data["stat-cards.json"] && (
             <StatCards data={data["stat-cards.json"].cards} />
           )}
@@ -205,8 +211,8 @@ export default function WeeklyAnalysisPage() {
             <UntappedAdTable data={data["untapped-ad-table.json"]} />
           )}
           {data["new-ad.json"] && <NewAdTable data={data["new-ad.json"]} />}
-        </>
-      )}
+        </div>
+      </div>
     </div>
   );
 }
